@@ -1,8 +1,9 @@
 ---
 title: 인증 홈
 description: 알아보기 [!DNL Experience Cloud] Adobe 인증. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
+role: User,Developer,Data Architect
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 3%

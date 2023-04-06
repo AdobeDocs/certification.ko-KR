@@ -2,9 +2,10 @@
 title: 인증 갱신
 description: Adobe 갱신 방법 알아보기 [!DNL Journey Optimizer] 인증서가 만료되기 전에 인증.
 solution: Journey Optimizer
+product: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%

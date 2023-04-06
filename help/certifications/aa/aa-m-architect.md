@@ -2,10 +2,11 @@
 title: 설계자 기본 인증
 description: 인증을 받는 방법을 알아봅니다. [!DNL Adobe Analytics] 건축가 기본
 solution: Analytics
-role: Data Architect
+product: Analytics
+role: Data Architect,Developer
 badge: label="시험 AD0-E207" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '963'
 ht-degree: 20%

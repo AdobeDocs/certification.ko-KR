@@ -1,11 +1,12 @@
 ---
 title: 전문 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 프로요
+description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 프로페셔널
 solution: Experience Manager Assets
+product: Experience Manager
 role: Developer
 badge: label="시험 AD0-E129" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '910'
 ht-degree: 4%

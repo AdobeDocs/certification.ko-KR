@@ -2,11 +2,11 @@
 title: 전문가 인증
 description: 인증을 받는 방법 알아보기 [!DNL Experience Platform] 전문가 [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
-role: Developer
+role: Developer,Data Architect
 recommendations: disable, exclude
 badge: label="시험 AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1953'
 ht-degree: 4%

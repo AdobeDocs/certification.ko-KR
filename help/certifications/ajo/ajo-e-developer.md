@@ -1,19 +1,20 @@
 ---
 title: 전문가 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 전문가.
+description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 개발자 전문가.
 solution: Journey Optimizer
+product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E603" type="positive"
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '926'
 ht-degree: 12%
 
 ---
 
 # Adobe 인증 여정 [!DNL Journey Optimizer] 개발자 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 전문가.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 개발자 전문가.
 
 ## 최소 경험
 

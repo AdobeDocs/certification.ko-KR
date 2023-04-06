@@ -1,12 +1,13 @@
 ---
 title: 전문가 인증
 description: 에서 인증된 전문가 Adobe을 만드는 방법을 알아봅니다. [!DNL Customer Journey Analytics]
-role: Developer
+role: User
 solution: Customer Journey Analytics
+product: Customer Journey Analytics
 badge: label="시험 AD0-EXXX" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 7%

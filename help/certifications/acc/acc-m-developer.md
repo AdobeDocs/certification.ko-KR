@@ -2,10 +2,11 @@
 title: 설계자 기본 인증
 description: 에서 인증된 Adobe 설계자가 되는 방법을 기본으로 학습합니다. [!DNL Campaign Classic].
 solution: Campaign Classic
-role: Architect
+product: Campaign
+role: Data Architect
 badge: label="시험 AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 9%
