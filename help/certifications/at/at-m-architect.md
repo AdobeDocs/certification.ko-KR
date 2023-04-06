@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="시험 AD0-E407" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1228'
 ht-degree: 18%
 
 ---
@@ -31,10 +31,10 @@ ht-degree: 18%
 
 기술:
 
-* 여러 Adobe Experience Cloud 프로그램(예: Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target API)
+* 여러 Adobe Experience Cloud 프로그램(Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target API)
 * JavaScript(Ajax, JQuery 등)
-* Target의 응답 디버깅을 위한 브라우저 기반 디버깅 도구(예: Chrome 개발자 도구, VEC helper), JSON입니다
-* 기본 앱에 대한 디버깅 도구(예: Charles Proxy, Fiddler)
+* 브라우저 기반 디버깅 도구(Chrome 개발자 도구, VEC helper), Target의 응답 디버깅을 위한 JSON
+* 기본 앱용 디버깅 도구(Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, XML 구성
 * 기본 모바일 개발 IDE, iOS 개발의 기본 사항, Android 개발의 기본 사항
 * Postman과 같은 API 도구

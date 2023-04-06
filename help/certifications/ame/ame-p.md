@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 badge: label="시험 AD0-E555" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 섹션 4: 보고서 분석 및 작성(9%)
 
-* 표준 Adobe 설명 [!DNL Marketo Engage] 보고서 및 이를 사용해야 하는 시기(이메일 링크 성능, 이메일 성능, 랜딩 페이지 성능, 사람 성능, 프로그램 성능, 웹 페이지 활동 등)
+* 표준 Adobe 설명 [!DNL Marketo Engage] 보고서 및 언제 사용해야 하는지(이메일 링크 성능, 이메일 성능, 랜딩 페이지 성능, 사람 성능, 프로그램 성능, 웹 페이지 활동 등)
 * 대시보드 정보 및 지표(이메일 프로그램 대시보드, 참여 프로그램 대시보드) 이해
 * 이메일 통찰력 지표 이해
 

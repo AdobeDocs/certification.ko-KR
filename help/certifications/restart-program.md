@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '5353'
+source-wordcount: '5355'
 ht-degree: 8%
 
 ---
@@ -256,7 +256,7 @@ Adobe 재시작 프로그램은 만료된 개인 사용자를 허용하는 이�
 * 독립형 제품 또는 클라우드 솔루션의 일부로 AAM 구현을 안내하고 지원하는 방법을 결정합니다
 * 아웃바운드 대상 옵션을 분석하고 AAM 구현 방법을 추천합니다
 * 비즈니스 사용 사례에 대한 데이터 온보딩 전략 결정
-* 방문자 프로필 뷰어, 태그, RBAC 등과 같은 기능을 식별합니다. 비즈니스 목표에 맞추기
+* 비즈니스 목표에 맞게 방문자 프로필 뷰어, 태그, RBAC 등의 기능을 식별합니다
 * 세그먼트와 트레이트를 만드는 데 필요한 픽셀을 디자인하고 테스트하는 방법을 결정합니다
 
 제2절: 솔루션 디자인 및 Recommendations(17%)

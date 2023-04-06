@@ -3,9 +3,9 @@ title: Adobe에서 인증 받기
 description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 받기 전후에 필요한 모든 리소스를 찾을 수 있습니다.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -182,7 +182,7 @@ _모든 판매는 마감입니다._ 반품 및 환불은 수락되지 않습니�
 | 빠른 링크 | 설명 |
 | ------- | ------- | 
 | Adobe 자격 증명 관리 시스템 | [Adobe 자격 증명 관리에 대한 초기 로그인](https://www.certmetrics.com/adobe){target="_blank"} |
-| 프로필 | [계정 이름, 주소, 회사 등의 위치가 있는 인구 통계 정보 페이지 이름은 Adobe 관리자만 업데이트할 수 있습니다](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| 프로필 | [계정 이름, 주소, 회사 등의 위치가 있는 인구 통계 정보 페이지입니다. 이름은 Adobe 관리자만 업데이트할 수 있습니다](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | 식별 | [Adobe/로그인 ID 위치. 일반적으로 ADB로 시작](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | 기록 | [점수 보고서 및 시험 내역 보기](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | 인증 | [현재 및 만료된 모든 인증 보기](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
