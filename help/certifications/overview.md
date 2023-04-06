@@ -2,9 +2,9 @@
 title: 인증 홈
 description: 알아보기 [!DNL Experience Cloud] Adobe 인증. 인증을 받으면 어떤 효과가 있는지 확인해 보십시오.
 mini-toc-levels: 1
-source-git-commit: c125ff68ecd1b982c5dd6aa6a374070c37d9973c
+source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,6 @@ Adobe 가져오기 [!DNL Experience Cloud] 인증은 다음과 같은 몇 가지
 
 Adobe의 인증 프로그램은 개발자, 비즈니스 전문가 및 설계자를 비롯한 다양한 분야의 전문가를 위해 고안되었습니다. 선택할 수 있는 다양한 인증 경로를 통해 Adobe 내에서 사용자의 숙련도와 전문 지식을 활용할 수 있습니다 [!DNL Experience Cloud] 고객과 고용주에게 똑같이 잘 알릴 수 있습니다.
 
-그럼 왜 기다려요? 전문적인 잠재력을 풀어주는 첫 번째 단계를 수행하여 [현재 인증 경로 탐색](https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}!
+그럼 왜 기다려요? 전문 역량을 확보하고 인증 경로를 탐색하는 첫 단계를 수행하십시오!
 
+[!BADGE 시작하기]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}
