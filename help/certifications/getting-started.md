@@ -3,9 +3,9 @@ title: Adobe 인증 시작
 description: 시작하기 [!DNL Experience Cloud] 인증. 프로그램 및 이 웹 사이트에 대해 알아봅니다.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
+source-git-commit: 0d051bce7ef44105da136303b72fcf5cc22e7e17
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -86,9 +86,12 @@ Adobe 인증 시험은 세 가지 다른 Job 역할에 맞게 사용자 지정�
 
 >[!ENDTABS]
 
+[!BADGE 인증 받기]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+
 **질문**
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? 전자 메일 보내기 `certif@adobe.com`.
+추가 질문? [연락처](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+
 
