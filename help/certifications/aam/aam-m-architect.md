@@ -2,10 +2,10 @@
 title: 설계자 기본 인증
 description: Adobe 인증을 받는 방법을 알아봅니다 [!DNL Audience Manager] 건축가 기본
 solution: Audience Manager
-role: Developer
+role: Data Architect
 badge: label="시험 AD0-E454" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
 source-wordcount: '856'
 ht-degree: 13%

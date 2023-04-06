@@ -2,10 +2,10 @@
 title: 설계자 기본 인증
 description: Experience Manager Sites에서 기본으로 공인 건축가가 되는 방법을 알아보십시오.
 solution: Experience Manager Sites
-role: Developer
+role: Data Architect
 badge: label="시험 AD0-E117" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
 source-wordcount: '1596'
 ht-degree: 22%

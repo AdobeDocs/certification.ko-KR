@@ -2,10 +2,10 @@
 title: 설계자 기본 인증
 description: 인증을 받는 방법 알아보기 [!DNL Adobe Target] 건축가 기본
 solution: Target
-role: Developer
+role: Data Architect
 badge: label="시험 AD0-E407" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
 source-wordcount: '1230'
 ht-degree: 18%
