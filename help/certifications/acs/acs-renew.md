@@ -4,9 +4,9 @@ description: Adobe 갱신 방법 알아보기 [!DNL Campaign Standard] 인증서
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1493'
 ht-degree: 11%
 
 ---
@@ -233,6 +233,6 @@ ht-degree: 11%
 
 ## 질문
 
-Adobe 인증에 대해 질문이 있습니까? 전자 메일 보내기 `certif@adobe.com`.
+Adobe 인증에 대해 질문이 있습니까? [연락처](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

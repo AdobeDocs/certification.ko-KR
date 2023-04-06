@@ -4,9 +4,9 @@ description: Adobe 갱신 방법 알아보기 [!DNL Journey Optimizer] 인증서
 solution: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? 전자 메일 보내기 `certif@adobe.com`.
+추가 질문? [연락처](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

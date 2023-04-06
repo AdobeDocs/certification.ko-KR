@@ -5,9 +5,9 @@ solution: Campaign Standard
 role: Developer
 badge: label="시험 AD0-E307" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '987'
+source-wordcount: '989'
 ht-degree: 5%
 
 ---
@@ -182,4 +182,4 @@ Adobe은 두 개의 공급업체를 사용하여 PSI와 Examity라는 가공 시
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? 전자 메일 보내기 `certif@adobe.com`.
+추가 질문? [연락처](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

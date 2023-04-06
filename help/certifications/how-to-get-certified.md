@@ -3,9 +3,9 @@ title: Adobe에서 인증 받기
 description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 받기 전후에 필요한 모든 리소스를 찾을 수 있습니다.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1466'
 ht-degree: 1%
 
 ---
@@ -213,4 +213,4 @@ _모든 판매는 마감입니다._ 반품 및 환불은 수락되지 않습니�
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? 전자 메일 보내기 `certif@adobe.com`.
+추가 질문? [연락처](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
