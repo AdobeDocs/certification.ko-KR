@@ -5,9 +5,9 @@ solution: Analytics
 role: User
 badge: label="시험 AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -67,14 +67,13 @@ ht-degree: 11%
 
 **시험 세부 정보:**
 
->* **수준:** 전문가(1-3년 경험)
->* **점수 전달:** 31/50
->* **시간:** 120분
->* **배달:** 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
->* **사용 가능한 언어:** 영어
->* **비용:** 225달러(글로벌) / 150달러(인도)
->* **시험 ID:** AD0-E208
-
+* **수준:** 전문가(1-3년 경험)
+* **점수 전달:** 31/50
+* **시간:** 120분
+* **배달:** 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
+* **사용 가능한 언어:** 영어
+* **비용:** 225달러(글로벌) / 150달러(인도)
+* **시험 ID:** AD0-E208
 
 **준비 자체 평가**
 
@@ -202,4 +201,4 @@ Adobe은 두 개의 공급업체를 사용하여 PSI 및 [!DNL Examity].
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? [연락처](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+추가 질문? [문의](mailto:certif@adobe.com){target="_blank"}.

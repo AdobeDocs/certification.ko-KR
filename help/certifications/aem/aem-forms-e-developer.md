@@ -5,9 +5,9 @@ solution: Experience Manager Forms
 role: Developer
 badge: label="시험 AD0-E125" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1041'
+source-wordcount: '1039'
 ht-degree: 5%
 
 ---
@@ -193,4 +193,4 @@ Adobe은 두 개의 공급업체를 사용하여 PSI와 Examity라는 가공 시
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? [연락처](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+추가 질문? [문의](mailto:certif@adobe.com){target="_blank"}.
