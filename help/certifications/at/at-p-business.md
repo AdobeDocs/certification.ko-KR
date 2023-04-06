@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="시험 AD0-E408" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '966'
 ht-degree: 8%
 
 ---
@@ -44,15 +44,13 @@ ht-degree: 8%
 
 **시험 세부 정보:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E408
-```
+* 수준: Professional(0-12개월 경험)
+* 점수 전달: 31/50
+* 시간: 100분
+* 배달: 온라인 처리(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(글로벌) / 95달러(인도)
+* 시험 ID: AD0-E408
 
 **시험 목표 및 범위**
 

@@ -4,9 +4,9 @@ description: Adobe 갱신 방법 알아보기 [!DNL Campaign Standard] 인증서
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1491'
 ht-degree: 11%
 
 ---
@@ -47,15 +47,13 @@ ht-degree: 11%
 
 **시험 세부 정보:**
 
-```
-Passing Score: 23/30
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
-Exam ID: AD5-E822
-```
+* 점수 전달: 23/30
+* 시간: 110분
+* 비용: 자유/비처리
+* 배달: 온디맨드
+* 사용 가능한 언어: 영어
+* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Campaign Standard] 비즈니스 전문가 인증
+* 시험 ID: AD5-E822
 
 **범위 및 목표**
 
@@ -133,15 +131,13 @@ Exam ID: AD5-E822
 
 **시험 세부 정보:**
 
-```
-Passing Score: 23/30
-Time: 60 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
-Exam ID: AD5-E821
-```
+* 점수 전달: 23/30
+* 시간: 60분
+* 비용: 자유/비처리
+* 배달: 온디맨드
+* 사용 가능한 언어: 영어
+* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Campaign Standard] 개발자 전문가 인증
+* 시험 ID: AD5-E821
 
 **범위 및 목표**
 

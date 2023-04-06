@@ -5,9 +5,9 @@ solution: Experience Manager Assets
 role: Developer
 badge: label="시험 AD0-E129" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '910'
 ht-degree: 4%
 
 ---
@@ -60,15 +60,13 @@ Adobe Managed Services 및 Adobe에서 편리하게 작업할 수 있습니다 [
 
 **시험 세부 정보:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 30/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E129
-```
+* 수준: Professional(0-12개월 경험)
+* 점수 전달: 30/50
+* 시간: 100분
+* 배달: 온라인 처리(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(글로벌) / 95달러(인도)
+* 시험 ID: AD0-E129
 
 **준비 자체 평가**
 

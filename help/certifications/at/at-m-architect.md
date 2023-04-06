@@ -5,10 +5,10 @@ solution: Target
 role: Developer
 badge: label="시험 AD0-E407" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1201'
-ht-degree: 19%
+source-wordcount: '1229'
+ht-degree: 18%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 19%
 * Adobe Experience Cloud
 * 태그 관리자 없이 클라이언트측 구현
 * Tag Management 시스템, 특히 Launch(IF)
-* 서버 측 환경(API 사용)
+* 서버측 환경(API 사용)
 * 이메일
 * 웹 및 모바일 환경
 * AMS 호스팅 환경
@@ -71,15 +71,13 @@ ht-degree: 19%
 
 **시험 세부 정보:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 34/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E407
-```
+* 수준: 기본(3-5년 경험)
+* 점수 전달: 34/50
+* 시간: 100분
+* 배달: 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
+* 사용 가능한 언어: 영어
+* 비용: 225달러(글로벌) / 150달러(인도)
+* 시험 ID: AD0-E407
 
 **시험 목표 및 범위**
 

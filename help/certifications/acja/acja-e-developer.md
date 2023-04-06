@@ -6,9 +6,9 @@ solution: Customer Journey Analytics
 badge: label="시험 AD0-EXXX" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '510'
 ht-degree: 7%
 
 ---
@@ -35,16 +35,12 @@ ht-degree: 7%
 
 **시험 세부 정보:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 
-Time: 
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: 
-```
-
+* 수준: 전문가(1-3년 경험)
+* 점수 전달:
+* 시간:
+* 배달: 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
+* 사용 가능한 언어: 영어
+* 비용: 225달러(글로벌) / 150달러(인도)
 
 **준비 자체 평가**
 

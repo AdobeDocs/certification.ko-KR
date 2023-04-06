@@ -5,9 +5,9 @@ solution: Experience Platform
 role: Developer
 badge: label="시험 AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1905'
+source-wordcount: '1959'
 ht-degree: 4%
 
 ---
@@ -60,15 +60,13 @@ AD0-E600 시험은 기본 기능과 Adobe의 자주 수행하는 작업을 다�
 
 **시험 세부 정보:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 35/50
-Time: 105 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E600
-```
+* 수준: 전문가(1-3년 경험)
+* 점수 전달: 35/50
+* 시간: 105분
+* 배달: 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
+* 언어: 영어
+* 비용: 225달러(글로벌) / 150달러(인도)
+* 시험 ID: AD0-E600
 
 **시험 목표 및 범위**
 
@@ -179,15 +177,13 @@ AD7-E601 시험은 고객 프로필, 세그멘테이션, 소스 간 대상 및 �
 
 **시험 세부 정보:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 25/34
-Time: 51 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD7-E601
-```
+* 수준: 전문가(1-3년 경험)
+* 점수 전달: 25/34
+* 시간: 51분
+* 배달: 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
+* 언어: 영어
+* 비용: 225달러(글로벌) / 150달러(인도)
+* 시험 ID: AD7-E601
 
 **준비 자체 평가**
 

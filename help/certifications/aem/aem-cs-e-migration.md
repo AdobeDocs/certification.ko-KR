@@ -5,10 +5,10 @@ solution: Experience Manager as a Cloud Service
 role: Developer
 badge: label="시험 AD0-E136" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '875'
-ht-degree: 10%
+source-wordcount: '903'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 10%
 * AEM 서비스(자가 관리, AMS 또는 타사 클라우드)에서 AEM as a Cloud Service으로 이동할 때 아키텍처와 기능에 대한 전반적인 변경 사항을 이해하는 데 도움이 됩니다.
 * Adobe을 사용한 웹 애플리케이션 개발 경험 1-3년 [!DNL Experience Manager]
 * AEM Forms, Assets 및 Sites 사용 경험 제공
-* AEM 프로젝트의 모든 단계에서 마이그레이션 프로세스를 안내하고 참여할 수 있는 기능
+* AEM 프로젝트의 모든 단계에 대해 조언하고 참여하는 마이그레이션 프로세스를 통해 고객을 안내하는 기능
 
 또한 다음 기술 및 환경에 익숙해야 합니다.
 
@@ -64,15 +64,13 @@ ht-degree: 10%
 
 **시험 세부 사항**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E136
-```
+* 수준: 전문가(1-3년 경험)
+* 점수 전달: 31/50
+* 시간: 100분
+* 배달: 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
+* 사용 가능한 언어: 영어
+* 비용: 125달러(글로벌) / 95달러(인도)
+* 시험 ID: AD0-E136
 
 **시험 목표 및 범위**
 

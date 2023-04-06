@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1038'
 ht-degree: 2%
 
 ---
@@ -46,15 +46,13 @@ ht-degree: 2%
 
 **시험 세부 정보:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
-```
+* 수준: 전문가(1-3년 경험)
+* 점수 전달: 23/30
+* 시간: 68분
+* 배달: 온디맨드/처리되지 않음
+* 사용 가능한 언어: 영어
+* 비용: 무료
+* 시험 ID: AD5-E826 - Adobe Audience Manager 비즈니스 전문가 갱신
 
 **시험 목표 및 범위**
 
@@ -124,15 +122,13 @@ Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
 
 **시험 세부 정보:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
-```
+* 수준: 기본(3-5년 경험)
+* 점수 전달: 22/29
+* 시간: 58분
+* 배달: 온디맨드/처리되지 않음
+* 사용 가능한 언어: 영어
+* 비용: 무료
+* 시험 ID: AD5-E825 - Adobe Audience Manager Architect 기본 갱신
 
 **범위 및 목표:**
 
