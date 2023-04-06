@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="시험 AD0-E117" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1593'
+source-wordcount: '1594'
 ht-degree: 22%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 22%
 * 인프라 / 구축 다이어그램 작성 및 제공
 * AEM 애플리케이션에서 사용할 정보 모델 결정
 * 인증 및 인증 보안 모델 및 개념 정의
-* 고객의 요구 사항(예: 이진 스토리지, 배포 시나리오 등)을 기반으로 지속성 모델을 결정합니다.
+* 고객의 요구 사항(이진 스토리지, 배포 시나리오 등)을 기반으로 지속성 모델을 결정합니다
 * 비즈니스 프로세스에 대한 워크플로우 모델 설계
 * 플랫폼 성능 및 관통/보안 테스트 전략 수립
 * 여러 채널에서 컨텐츠 재사용

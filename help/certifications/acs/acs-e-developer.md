@@ -5,9 +5,9 @@ solution: Campaign Standard
 role: Developer
 badge: label="시험 AD0-E306" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1300'
+source-wordcount: '1301'
 ht-degree: 11%
 
 ---

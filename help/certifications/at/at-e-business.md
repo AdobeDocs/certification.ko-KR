@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="시험 AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 * 최적화에 적용되는 통계 개념 및 데이터 분석에 대한 지식
 * 3단계 워크플로우(모든 보고 소스를 포함하는 경험, 타깃팅, 목표 및 설정)에 대한 심층적인 지식입니다
 * Activity 보고 결과를 실행 가능한 통찰력 및 제안으로 변환하는 기능
-* 기술 변경이 Target에 미치는 영향(예: ITP, GDPR/CCPA, SPA)에 대한 이해
+* 기술 변경이 Target(ITP, GDPR/CCPA, SPA)에 미치는 영향에 대한 이해
 * 권장 사항 활동을 솔루션으로 사용하는 방법에 대한 이해
 
 또한 다음 기술 및 환경에 익숙해야 합니다.

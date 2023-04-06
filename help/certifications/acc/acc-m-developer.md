@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Architect
 badge: label="시험 AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1119'
 ht-degree: 9%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 9%
 * 제품 기능 설명 및 시연 기능
 * 제품 기능을 활용 사례에 매핑 가능
 * 사전 영업 팀을 지원하는 경험
-* 데스크탑 코치 제공 기능(예: 제품 우수 사례, 보고 지표 등)
+* 데스크탑 코치 제공 기능(제품 우수 사례, 보고 지표 등)
 * 배포 모델 간의 차이점을 설명하는 경험
 
 >[!NOTE]

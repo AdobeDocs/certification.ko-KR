@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="시험 AD0-E209" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1082'
 ht-degree: 9%
 
 ---
@@ -41,7 +41,7 @@ Analytics 개발자는 거의 페이지에 태그를 구현하지 않습니다. 
 환경:
 
 * 프런트엔드 웹 개발 환경
-* 모바일 애플리케이션에 대한 지식(제한 사항 및 차이점, 예: 웹과 다른 이유)
+* 모바일 애플리케이션에 대한 지식(예: 제한 사항 및 차이점)을 참조하십시오
 * 디지털 마케팅 분야
 * PC, Mac, Android/iOS 운영 체제를 비롯한 백엔드 개발 환경에 대한 최소한의 지식(개발용이 아닌 기본 작업)
 

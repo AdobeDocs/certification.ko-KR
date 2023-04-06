@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="시험 AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 다음 도구 및 기술에 대해 잘 알고 있습니다.
 
-* 광고 테스트/디버깅 소프트웨어(예: VAST INSPECTOR, Chrome 개발자 도구)
-* Analytics 도구(예: Adobe Analytics, Google Analytics)
-* 타사 태그 지정 소프트웨어(예: Sizmek, Google 태그 관리자)
-* 타사 미디어 품질 도구(예: IAS, GAZAR)
+* 광고 테스트/디버깅 소프트웨어(VAST INSPECTOR, Chrome 개발자 도구)
+* Analytics 도구(Adobe Analytics, Google Analytics)
+* 타사 태그 지정 소프트웨어(Sizmek, Google 태그 관리자)
+* 타사 미디어 품질 도구(IAS, GAZAR)
 * 주요 브라우저
 * 광고 교환, SSP 및 DMP
 
