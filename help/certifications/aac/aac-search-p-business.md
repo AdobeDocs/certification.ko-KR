@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="시험 AD0-E501" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '987'
 ht-degree: 3%
 
 ---
@@ -64,15 +64,13 @@ ht-degree: 3%
 
 **시험 세부 정보:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 35/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E501
-```
+* 수준: Professional(0-12개월 경험)
+* 점수 전달: 35/50
+* 시간: 100분
+* 배달: 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
+* 사용 가능한 언어: 영어
+* 비용: 125달러(글로벌) / 95달러(인도)
+* 시험 ID: AD0-E501
 
 **준비 자체 평가**
 
@@ -105,7 +103,7 @@ Exam ID: AD0-E501
 * 비즈니스 시나리오가 있다면 캠페인 전환 추적에 대한 접근 방식을 결정하고 적용합니다
 * 시나리오가 제공되면 캠페인 전환 지표 문제를 해결합니다
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 

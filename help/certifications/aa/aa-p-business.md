@@ -5,10 +5,10 @@ solution: Analytics
 role: Developer
 badge: label="시험 AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 14%
+source-wordcount: '874'
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 14%
 * 마케팅 배경 또는 마케팅 역할에서 왔지만 다양한 작업 역할에서 제공될 수 있습니다.
 * Digital Analytics 지표 및 차원에 대한 기본 정보입니다.
 * Analytics를 사용하여 보고서를 작성하고 비즈니스 질문에 답변하고 결과를 전달할 수 있습니다.
-* 기본 디지털 분석 개념에 대한 이해(예: 세그먼테이션, 보고서 작성, 표준 지표 정의.
+* 세그먼테이션, 보고서 작성, 표준 지표 정의와 같은 기본 디지털 분석 개념을 이해합니다.
 
 >[!NOTE]
 >
@@ -48,15 +48,13 @@ ht-degree: 14%
 
 **시험 세부 정보:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E212
-```
+* 수준: Professional(0-12개월 경험)
+* 점수 전달: 31/50
+* 시간: 100분
+* 배달: 온라인 처리(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(글로벌) / 95달러(인도)
+* 시험 ID: AD0-E212
 
 **준비 자체 평가**
 
