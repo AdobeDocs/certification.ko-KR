@@ -1,16 +1,16 @@
 ---
-user-guide-title: Adobe 시 인증
-breadcrumb-title: Adobe 시 인증
-user-guide-description: 알아보기 [!DNL Experience Cloud] Adobe 인증. 인증을 받으면 어떤 효과가 있는지 확인해 보십시오.
+user-guide-title: Adobe에서의 인증
+breadcrumb-title: Adobe에서의 인증
+user-guide-description: 알아보기 [!DNL Experience Cloud] Adobe 인증. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
 source-git-commit: b54476f453ffdc46ccf009aab1891cce768d383f
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 43%
+ht-degree: 52%
 
 ---
 
 
-# Adobe 시 인증 {#certification}
+# Adobe에서의 인증 {#certification}
 
 + [인증 홈](overview.md)
 + [시작](getting-started.md)
