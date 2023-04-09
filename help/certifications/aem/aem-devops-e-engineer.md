@@ -108,7 +108,7 @@ Adobe Managed Services 및 Adobe Experience Manager as a Cloud Service에서 편
 * Admin Console에서 지원 요청을 제출할 올바른 방법을 결정합니다
 * Federated SSO를 구성하고 Adobe Experience Manager 사용자 및 그룹을 동기화하는 올바른 방법을 결정합니다
 
->[!TAB 준비]
+>[!TAB 준비&#x200B;]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
