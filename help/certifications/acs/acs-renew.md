@@ -6,7 +6,8 @@ product: Campaign
 role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
 source-wordcount: '1491'
 ht-degree: 11%
@@ -113,7 +114,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 3번 시도했지만 75%를 받지 못하면 기다려야 한다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
