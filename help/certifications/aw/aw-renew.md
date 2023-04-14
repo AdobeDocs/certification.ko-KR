@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -83,19 +83,21 @@ ht-degree: 0%
 
 **섹션 1: 핵심 시스템 관리 및 설정**
 
-추가
+* [Workfront 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion의 기능, Adobe Workfront Fusion의 조직, Adobe Workfront Fusion의 모듈, Adobe Workfront Fusion의 시나리오
 
 **제2절: 시나리오 설계 및 아키텍처**
 
-추가
+* [Workfront Fusion 시나리오 최적화](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"} - 자습서
+* [Workfront 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion의 모듈
 
 **섹션 3: 테스트 및 오류 처리**
 
-추가
+* [Workfront 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion의 시나리오 설정 패널, Adobe Workfront Fusion의 오류, Adobe Workfront Fusion의 함수
 
 **섹션 4: API 작업**
 
-추가
+* [Workfront 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP 모듈, Adobe Workfront Fusion의 연결, Adobe Workfront Fusion의 모듈
+* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
 ## 인증 갱신
 
