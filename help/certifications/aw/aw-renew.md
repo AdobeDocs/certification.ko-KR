@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ ht-degree: 0%
 
 ## 인증 갱신
 
-시험을 갱신하려면_ 아래에 있는 Workfront Fusion Developer 갱신 - AD5-830 링크를 클릭합니다. 이 옵션을 클릭하면 Adobe 자격 증명 관리 시스템으로 리디렉션됩니다 **[!UICONTROL 인증 갱신]** 화면 오른쪽의 탭에서 을 검색합니다. [!DNL Adobe Campaign] 갱신 시험 링크를 확인합니다.
+위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 시험을 갱신하려면 아래 Workfront Fusion Developer 갱신 - AD5-830 링크를 클릭합니다.
 
 * [Workfront Fusion Developer 갱신 - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 

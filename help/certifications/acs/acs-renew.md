@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1460'
 ht-degree: 11%
 
 ---
@@ -108,7 +108,7 @@ ht-degree: 11%
 
 ## 인증 갱신
 
-시험을 갱신하려면 _[!DNL Campaign Standard]비즈니스 담당자 갱신 - 아래 AD5-822 링크_. 이 옵션을 클릭하면 Adobe 자격 증명 관리 시스템으로 리디렉션됩니다 **[!UICONTROL 인증 갱신]** 화면 오른쪽의 탭에서 을 검색합니다. [!DNL Adobe Campaign] 갱신 시험 링크를 확인합니다.
+위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 시험을 갱신하려면 [!DNL Campaign Standard] 비즈니스 담당자 갱신 - 아래 AD5-822 링크.
 
 * [[!DNL Campaign Standard] 비즈니스 담당자 갱신 - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ ht-degree: 11%
 
 ## 인증 갱신
 
-시험을 갱신하려면 &quot;[!DNL Campaign Standard] 개발자 갱신 - AD5-821&quot; 링크 이렇게 하면 Adobe 자격 증명 관리 시스템으로 리디렉션됩니다. 여기서 화면 오른쪽의 &quot;인증 갱신&quot; 탭을 클릭한 다음 Adobe Campaign을 검색하여 갱신 시험에 대한 링크를 확인합니다.
+위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 시험을 갱신하려면 &quot;[!DNL Campaign Standard] 개발자 갱신 - AD5-821&quot; 링크
 
 * [[!DNL Campaign Standard] 개발자 갱신 - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
