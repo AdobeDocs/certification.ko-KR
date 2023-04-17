@@ -6,9 +6,8 @@ solution: Customer Journey Analytics
 product: Customer Journey Analytics
 badge: label="시험 AD0-E604" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 57cdc5c07bef404b368f51fb6ffd03735ed5008c
+source-git-commit: 85174b3682805f711d3929ef6d8dfd0558598427
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 0%
@@ -94,7 +93,7 @@ Adobe Customer Journey Analytics에서 12-24개월 경험을 보유하고 다음
 * CJA 필터의 구성원을 RTCDP 대상으로 보내기
 * 데이터 세트 간에 필터 디자인 및 만들기
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
