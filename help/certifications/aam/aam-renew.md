@@ -6,9 +6,10 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1116'
 ht-degree: 2%
 
 ---
@@ -103,9 +104,14 @@ ht-degree: 2%
 
 **인증을 다시 시작합니다**
 
-이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
+위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 인증을 갱신하려면 아래의 Adobe Audience Manager 비즈니스 전문가 - AD5-E826 링크를 클릭하십시오.
 
-[!BADGE Adobe Audience Manager 비즈니스 전문가 갱신 시험 AD5-E826 시작]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE Adobe Audience Manager 비즈니스 전문가의 갱신 시험 AD5-E826 시작]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!NOTE]
+>
+>이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
+
 
 >[!TAB 마스터]
 
@@ -177,11 +183,16 @@ ht-degree: 2%
 * [AAM: 고급 기능](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ 교육 및 리소스 시작](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### 인증을 다시 시작합니다
+### 인증 갱신
 
-이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
+위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 인증을 갱신하려면 아래의 Adobe Audience Manager Architect 기본 갱신 - AD5-E825 링크를 클릭합니다.
 
-[!BADGE Adobe Audience Manager Architect 마스터 갱신 시험 AD5-E825를 시작합니다]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Adobe Audience Manager Architect 기본 갱신 시험 AD5-E825를 사용해 보십시오.]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
+
 
 >[!ENDTABS]
 

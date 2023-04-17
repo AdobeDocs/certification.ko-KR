@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 11%
@@ -222,7 +222,7 @@ ht-degree: 11%
 
 ## 인증 갱신
 
-위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 시험을 갱신하려면 &quot;[!DNL Campaign Standard] 개발자 갱신 - AD5-821&quot; 링크
+위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 인증을 갱신하려면 [!DNL Campaign Standard] 개발자 갱신 - 아래의 AD5-821 링크.
 
 * [[!DNL Campaign Standard] 개발자 갱신 - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 

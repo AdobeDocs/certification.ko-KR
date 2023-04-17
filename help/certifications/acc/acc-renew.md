@@ -6,9 +6,10 @@ product: Campaign
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: af895356-3e6b-424f-a637-a695b916aa47
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '912'
 ht-degree: 9%
 
 ---
@@ -136,15 +137,13 @@ ht-degree: 9%
 
 ### 인증 갱신
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  후 **성공적인 로그인** 변환 후 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
-
-**이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
-
-이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
+위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 인증을 갱신하려면 아래의 Campaign Classic 갱신 - AD5-823 링크를 클릭합니다.
 
 [Adobe 가져오기 [!DNL Campaign Classic] 비즈니스 담당자, 개발자 및 아키텍트 시험 갱신 - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+
+>[!NOTE]
+>
+>이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
 
 >[!ENDTABS]
 

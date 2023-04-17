@@ -6,9 +6,10 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1056'
 ht-degree: 4%
 
 ---
@@ -119,42 +120,47 @@ ht-degree: 4%
 
 **섹션 1: 관리 및 유지 관리**
 
-* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko){target="_blank"} (필드 관리, CRM 동기화, 감사 추적, 사용자 관리, 작업 공간 및 파티션, 스마트 목록, 사용자 지정 필드)
+* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (필드 관리, CRM 동기화, 감사 추적, 사용자 관리, 작업 공간 및 파티션, 스마트 목록, 사용자 지정 필드)
 * [Adobe Marketo 국가](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Salesforce, CRM 통합과 동기화)
 
 **제2절: 마케팅 활동/캠페인 관리**
 
 * [Adobe Marketo 국가](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (무작위 샘플, 데이터 값이 있는 스마트 캠페인 실행, 대기 단계, member.webinar url, 캠페인 관리자, 필터 논리, 이메일에 토큰 사용, 양식 채우기를 통한 리드 만들기, 자산 및 작업 공간, Forms 관리)
-* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko){target="_blank"} (스마트 목록, 스마트 캠페인, 수요 생성 Forms, 수요 생성 이벤트, 이메일 마케팅, 프로그램 생성, 이벤트, 감사 추적, 프로그램, 관리 태그, 드립 양성, 랜딩 페이지, 토큰, 관리 추가 통합, 웹 후크, 프로그램 구성원 사용자 지정 필드, 작업 공간 및 개인 파티션)
+* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (스마트 목록, 스마트 캠페인, 수요 생성 Forms, 수요 생성 이벤트, 이메일 마케팅, 프로그램 생성, 이벤트, 감사 추적, 프로그램, 관리 태그, 드립 양성, 랜딩 페이지, 토큰, 관리 추가 통합, 웹 후크, 프로그램 구성원 사용자 지정 필드, 작업 공간 및 개인 파티션)
 
 **섹션 3: 리드 관리**
 
 * [Adobe Marketo 국가](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (리드 라이프사이클 프로그램 만들기 비디오, 이메일 가입 해지)
-* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko){target="_blank"} (Smart Campaigns, Marketo Sales Insight, 흥미로운 순간, 스마트 목록의 사람 관리, 시스템 관리 필드)
+* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Smart Campaigns, Marketo Sales Insight, 흥미로운 순간, 스마트 목록의 사람 관리, 시스템 관리 필드)
 
 **섹션 4: 데이터 관리**
 
 * [Adobe Marketo 국가](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (리드의 디렉터리 유지 이메일 바운싱 문서, 게재 능력을 지원하기 위한 Marketo 데이터베이스를 관리하는 방법 블로그, Marketo 활동 데이터 보존 정책 - 후드 문서)
-* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko){target="_blank"} (이메일 마케팅 하드 및 소프트 바운스, 보고서 유형, 개인화, 동적 콘텐츠)
+* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (이메일 마케팅 하드 및 소프트 바운스, 보고서 유형, 개인화, 동적 콘텐츠)
 
 **섹션 5: 보고**
 
 * [Adobe Marketo 국가](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (획득 우수 사례 설정 문서)
-* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko){target="_blank"} (보고, 성과 통찰력, 프로그램 성과 보고서, 보고서 편집, 프로그램 멤버십)
+* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (보고, 성과 통찰력, 프로그램 성과 보고서, 보고서 편집, 프로그램 멤버십)
 
 **제6조: 우수 사례**
 
 * [리드 점수 책정 최종 가이드](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko){target="_blank"} (프로그램 작업, 이메일 마케팅, A/B 테스트)
+* [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (프로그램 작업, 이메일 마케팅, A/B 테스트)
 * [Adobe Marketo 국가](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (QA 프로세스에 신경 쓰다)
 
-### 인증을 다시 시작합니다
+### 인증 갱신
 
-이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
+위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 인증을 갱신하려면 아래의 Marketo Engage 비즈니스 전문가 갱신 링크를 클릭하십시오.
 
-[!BADGE Adobe 수행 [!DNL Marketo Engage] 비즈니스 전문가가 재시작하는 시험 AD5-E824]{type=Inbovity url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Adobe 수행 [!DNL Marketo Engage] 비즈니스 전문가의 갱신 시험 AD5-E824]{type=Inbovity url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
 
 >[!ENDTABS]
+
 
 ### 질문
 
