@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="시험 AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 85174b3682805f711d3929ef6d8dfd0558598427
+source-git-commit: bf6dae64ce1334611f7a40d14733dba7504fae20
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 0%
+source-wordcount: '728'
+ht-degree: 16%
 
 ---
 
@@ -99,7 +99,28 @@ Adobe Customer Journey Analytics에서 12-24개월 경험을 보유하고 다음
 
 다음은 준비하는 데 도움이 되는 몇 가지 추천 리소스입니다.
 
-_준비 중!_
+**섹션 1: 연결**
+
+* [연결 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=ko){target="_blank"}
+* [연결 만들기](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en){target="_blank"}
+
+**제2절: 데이터 보기**
+
+* [데이터 보기 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ko-KR){target="_blank"}
+* [구성 요소 설정](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=ko-KR){target="_blank"}
+
+**섹션 3: 데이터 유효성 검사 및 문제 해결**
+
+* [데이터 보기 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ko-KR){target="_blank"}
+* [데이터 보기 만들기 또는 편집](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ko-KR){target="_blank"}
+* [구성 요소 설정](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=ko-KR){target="_blank"}
+* [표준 구성 요소 참조](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=ko){target="_blank"}
+
+**섹션 4: 보고 및 활성화**
+
+* [시각화 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
+* [Analysis Workspace 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
+* [데이터 보기 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ko-KR){target="_blank"}
 
 >[!TAB 인증 받기]
 
