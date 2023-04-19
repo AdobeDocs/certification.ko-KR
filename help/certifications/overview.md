@@ -4,7 +4,7 @@ description: 알아보기 [!DNL Experience Cloud] Adobe 인증. 인증을 받으
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8050b065ca256f4bd664700756ba70d5b0a9c5ea
+source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 3%
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Adobe에서 인증 및 인증 받기 시 얻을 수 있는 기능에 대해 알아봅니다.
 
-![배너](/help/certifications/assets/home_banner_small.png)
+![배너](/help/certifications/assets/home_banner_smallwide.png)
 
 Adobe [!DNL Experience Cloud] 는 웹, 모바일, 이메일 및 소셜 미디어를 포함한 여러 채널에서 개인화된 고객 경험을 제공할 수 있도록 해주는 디지털 마케팅 솔루션 세트입니다. [!DNL Experience Cloud] 에는 Adobe과 같은 다양한 제품이 포함되어 있습니다 [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], [!DNL Adobe Commerce], [!DNL Adobe Journey Optimizer], [!DNL Adobe Customer Analytics], 등.
 
