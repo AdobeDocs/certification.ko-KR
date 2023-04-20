@@ -6,9 +6,10 @@ product: Analytics
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: c230a7b1-db10-497c-975a-920eb09acb29
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '547'
 ht-degree: 6%
 
 ---
@@ -55,7 +56,7 @@ ht-degree: 6%
 
 **고객 참조가 검토되면 Adobe 자격 증명 팀에 의해 통지됩니다.**
 
-코스 평가는 무료입니다. 예약할 필요가 없으며 그것들은 가공되지 않습니다. Adobe Experience Manager Expert와 기본 수준 인증을 여러 개 보유한 경우 아래 요구 사항만 완료하면 AEM 인증이 모두 갱신됩니다.
+코스 평가는 무료입니다. 예약할 필요가 없으며 그것들은 가공되지 않습니다. Adobe Analytics Expert와 기본 수준 인증을 여러 개 보유한 경우 아래 요구 사항만 완료하면 이 수준에서 모든 Adobe Analytics 인증이 갱신됩니다.
 
 [Adobe Analytics용 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
@@ -72,7 +73,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->세 개의 활동을 성공적으로 완료하거나 고객 참조 양식을 완료할 때까지 반복할 수 있습니다.
+>세 개의 활동을 성공적으로 완료하거나 두 개의 활동 및 고객 참조 양식을 완료할 때까지 반복할 수 있습니다.
 
 >[!ENDTABS]
 
