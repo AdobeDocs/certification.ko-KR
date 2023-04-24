@@ -4,9 +4,10 @@ description: Adobe 인증 프로그램에 대한 질문에 대한 답변을 얻�
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '2665'
 ht-degree: 0%
 
 ---
@@ -244,6 +245,169 @@ Adobe은 연속적인 학습 및 참여 활동을 제공하여 후보자들이 �
 +++과정을 검토해야 합니까, 아니면 간단히 평가를 시작할 수 있습니까?
 
 평가 내용은 Experience League의 교육 과정을 기준으로 하며, 이를 검토하여 합격자를 준비할 것입니다. 그러나 갱신의 주요 요구 사항은 단지 평가를 통과시키는 것입니다.
+
++++
+
+>[!TAB 프로그램 다시 시작]
+
+**프로그램 개요**
+
++++Adobe 인증 재시작 프로그램이란 무엇입니까?
+
+Adobe 인증 재시작 프로그램은 개인 사용자가 무료로 온라인 짧은 시험이나 평가를 통과하여 만료된 Adobe 인증을 다시 획득할 수 있도록 하는 일회성 이니셔티브입니다.
+
++++
+
++++다시 시작 프로그램이 얼마나 오래 실행됩니까?
+
+이 프로그램은 4월 24일부터 2023년 10월 20일까지 6개월 동안 실행될 예정입니다.
+
++++
+
++++Adobe은 향후 이러한 유형의 프로그램을 다시 제공할 예정입니까?
+
+현재는 이 기능을 다시 제공할 계획이 없습니다. 일회용입니다.
+
++++
+
++++재시작 프로그램에 포함된 인증 수준은 무엇입니까?
+
+재시작 프로그램에는 전문가 및 기본 레벨 인증만 포함됩니다. 전문 수준 인증에는 2023년 6월부터 사용할 수 있는 갱신 경로가 있습니다.
+
++++
+
+**프로그램 자격**
+
++++Adobe 인증 재시작 프로그램의 자격이 있는 사람은 누구입니까?
+
+2020년부터 2023년 4월 23일까지 인증이 만료된 개인은 프로그램(아래 자격 증명 시험 목록 참조)에 포함된 경우 재시작 프로그램에 참가할 수 있습니다.
+
++++
+
++++ 다시 시작 프로그램에 몇 년 동안 모든 인증 시험이 포함되지 않은 이유는 무엇입니까?\
+2019 이전에 발표된 시험은 다시 시작 프로그램에서 제외됩니다.
+
++++
+
++++프로그램 재시작 가능 기간의 단축 일자인 2023년 4월 23일이 되는 이유는 무엇입니까?
+
+2023년 1월 23일에 시작된 무료 인증 갱신 기간(2023년 1월 23일 시작)에 참여할 수 없었던 개인은 인증을 갱신할 수 있기 때문입니다.
+
++++
+
++++어떤 인증이 Adobe 인증 재시작 프로그램의 일부입니까?
+
+퇴직한 사용자를 제외한 모든 활성 Adobe 인증이 이 프로그램의 일부입니다.
+
++++
+
++++지원별 자격 시험 목록을 표시할 수 있습니까?
+
+**Adobe Experience Manager**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] 비즈니스 전문가 |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] 비즈니스 전문가 |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] 개발자 전문가 |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] 개발자 전문가 |
+| AD0-E106 | [!DNL Adobe Experience Manager] 개발/운영 엔지니어 전문가 |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] 아키텍트 기본 |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] 아키텍트 기본 |
+
+**[!DNL Adobe Analytics]**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] 개발자 전문가 |
+| AD0-E202 | [!DNL Adobe Analytics] 비즈니스 전문가 |
+| AD0-E200 | [!DNL Adobe Analytics] 아키텍트 기본 |
+| AD0-E207 | [!DNL Adobe Analytics] 아키텍트 기본 |
+
+**Adobe Audience Manager**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] 아키텍트 기본 |
+| AD0-E452 | [!DNL Adobe Audience Manager] 아키텍트 기본 |
+| AD0-E453 | [!DNL Adobe Audience Manager] 비즈니스 전문가 |
+
+**Adobe Campaign Classic**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Sites 비즈니스 전문가 |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites 비즈니스 전문가 |
+| AD0-E318 | Adobe [!DNL Campaign Classic] 아키텍트 기본 |
+| AD0-E303 | Adobe [!DNL Campaign Classic] 아키텍트 기본 |
+| AD0-E312 | Adobe [!DNL Campaign Classic] 개발자 전문가 |
+| AD0-E308 | Adobe [!DNL Campaign Classic] 개발자 전문가 |
+
+**Adobe Campaign Standard**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] 비즈니스 전문가 |
+| AD0-E302 | Adobe [!DNL Campaign Standard] 비즈니스 전문가 |
+| AD0-E306 | Adobe [!DNL Campaign Standard] 개발자 전문가 |
+| AD0-E301 | Adobe [!DNL Campaign Standard] 개발자 전문가 |
+
+**Adobe[!DNL Marketo Engage]**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] 비즈니스 담당자(이전 MCE) |
+
+**Adobe Target**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] 비즈니스 전문가 |
+| AD0-E402 | [!DNL Adobe Target] 아키텍트 기본 |
+
++++
+
++++이 프로그램을 사용할 수 있는 동안 2023년 4월 24일부터 10월 20일까지 내 인증이 만료됩니다. 인증이 만료되면 다시 시작 프로그램을 계속 진행할 수 있습니까?
+
+아니요. 출시일 현재 유효한 인증을 보유한 모든 후보에게는 2023년 1월에 발표한 연속 학습 갱신 경로를 추구할 수 있는 옵션이 있습니다.
+
+다시 시작 프로그램은 2023년 4월 24일 이전에 만료된 인증만을 대상으로 하여, 연속적인 학습 프로그램에 참여할 수 없는 후보자에게 인증을 제공합니다.
+
++++
+
+**[!DNL Marketo Engage]MCSA(솔루션 설계자) 및 Adobe Commerce**
+
++++만기가 되었습니다 [!DNL Marketo] MCSA(Certified Solution Architect). 이 프로그램을 통해 다시 설치할 수 있습니까?
+
+만료된 후보 [!DNL Marketo] Certified Solution Architect 인증은 새로운 솔루션에 대한 부분 요구 사항을 위해 Marketo Business Practice 재시작 경로를 추구할 수 있습니다 [!DNL Marketo Engage] 설계자 인증.
+
+최종 요구 사항은 새 [!DNL Marketo Engage] 건축사 시험. 만료된 모든 MCSA 인증서 보유자에 대해 2023년 12월 31일까지 50% 할인 프로모션을 실시하고 있습니다. 자세한 내용은 인증 지원 센터에 문의하십시오.
+
++++
+
++++Adobe 이유 [!DNL Commerce] Adobe 인증 재시작 프로그램의 일부가 아닌 인증
+
+현재 제공된 Adobe에 대해 만료된 인증서 보유자가 없습니다 [!DNL Commerce] 2023년 4월 23일 기준 인증. 따라서 모든 활성 Adobe [!DNL Commerce] 공인 지원자는 지속적인 학습을 통해 갱신할 수 있습니다 [인증 갱신 경로](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+
++++
+
+**Adobe 자격 증명 관리자 프로필**
+
++++왜 _기여도_ Adobe 자격 증명 관리자에서 내 프로필의 기록 섹션에서 확인할 수 있습니까?
+
+Adobe 인증 재시작 프로그램의 자격을 표시하기 위한 것입니다. 이 참여가 할당된 지원자는 각 애플리케이션에서 만료된 인증을 다시 시작하기 위한 요구 사항을 완료할 수 있습니다.
+
++++
+
++++요구 사항을 완료했지만 프로필 기록에 결과가 표시되지 않으면 언제 인증서를 받게 됩니까?
+
+자격요건을 충족한 후 72시간 이내에 인증을 받을 것이다. 이 프로그램은 자격 있는 후보자에 대해서만 인증을 받게 된다는 점에 유의해야 합니다.
+
++++
+
++++다시 시작 요구 사항을 완료한 후에도 인증이 만료됨으로 표시되면 어떻게 해야 합니까?
+
+안타깝게도, 일단 인증이 만료되면, 그것을 연장할 수 없습니다. 이런 경우, 기존 인증서를 갱신하지 않고 새 인증이 발급됩니다.
 
 +++
 
