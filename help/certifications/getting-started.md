@@ -1,13 +1,13 @@
 ---
 title: Adobe 인증 시작
-description: 시작하기 [!DNL Experience Cloud] 인증. 프로그램 및 이 웹 사이트에 대해 알아봅니다.
+description: 시작하기 [!DNL Experience Cloud] 인증. 프로그램과 이 웹 사이트에 대해 알아봅니다.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
 workflow-type: tm+mt
 source-wordcount: '943'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -39,7 +39,7 @@ Adobe [!DNL Experience Cloud] 에서는 세 가지 수준의 인증을 제공합
 이러한 레벨은 Professional 인증이 엔트리 레벨 인증이며 Expert는 중간 레벨이고 기본은 최고 수준의 인증인 숙련도와 지식 수준을 반영합니다.
 
 | ![전문 배지](/help/certifications/assets/professional-badge-Xsmall.png) | **전문 인증** 후보자가 Adobe의 디지털 마케팅 솔루션에 대한 기본 이해를 가지고 있는지 확인합니다. 인증 시험은 Adobe의 기본 개념 및 기능에 대해 다룹니다 [!DNL Experience Cloud]. |
-| --------- | ------- |
+| ------- | ------- |
 
 {style="table-layout:auto"}
 
