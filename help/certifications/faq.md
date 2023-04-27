@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: Adobe 인증 프로그램에 대한 질문에 대한 답변을 얻습니다. 인증의 이점, 등록 방법 및 연락 가능한 사람에 대해 알아봅니다.
+description: Adobe 인증 프로그램의 질문에 대한 답변을 확인할 수 있습니다. 인증의 이점, 등록 방법 및 문의처에 대해 알아봅니다.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
 source-wordcount: '2665'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
