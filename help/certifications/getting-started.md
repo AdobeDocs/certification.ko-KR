@@ -4,9 +4,9 @@ description: 시작하기 [!DNL Experience Cloud] 인증. 프로그램과 이 �
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '947'
 ht-degree: 1%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] 에서는 세 가지 수준의 인증을 제공합
 
 이러한 레벨은 Professional 인증이 엔트리 레벨 인증이며 Expert는 중간 레벨이고 기본은 최고 수준의 인증인 숙련도와 지식 수준을 반영합니다.
 
+| 배지 | 설명 |
+| ------- | ------- |
 | ![전문 배지](/help/certifications/assets/professional-badge-Xsmall.png) | **전문 인증** 후보자가 Adobe의 디지털 마케팅 솔루션에 대한 기본 이해를 가지고 있는지 확인합니다. 인증 시험은 Adobe의 기본 개념 및 기능에 대해 다룹니다 [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![전문가 배지](/help/certifications/assets/expert-badge-Xsmall.png) | **전문 인증** Adobe의 디지털 마케팅 솔루션을 보다 잘 알고 있는 전문가를 위한 것입니다. 인증 시험은 Adobe의 보다 복잡한 개념과 기능을 다룹니다 [!DNL Experience Cloud]구현 및 문제 해결을 포함합니다. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![기본 배지](/help/certifications/assets/master-badge-Xsmall.png) | **기본 인증** Adobe의 디지털 마케팅 솔루션에 대해 깊이 있게 이해하고 여러 Adobe 분야에서 전문 지식을 갖춘 전문가를 위한 것입니다 [!DNL Experience Cloud]. 인증 시험에서는 복잡한 통합, 사용자 지정 및 문제 해결 등 고급 항목 및 시나리오를 다룹니다. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Adobe [!DNL Experience Cloud] 에서는 세 가지 수준의 인증을 제공합
 
 Adobe 인증 시험은 세 가지 다른 Job 역할에 맞게 사용자 지정됩니다. 아래 정보를 읽어 자신의 경력 경력에 적합한 인증을 찾아보십시오.
 
+| 로고 | 설명 |
+| ------- | ------- |
 | ![비즈니스 실천자 배지](/help/certifications/assets/business_practitioner_blk_small.png) | **비즈니스 전문가** Adobe을 사용하여 마케팅 캠페인을 디자인, 실행 및 관리할 책임이 있습니다 [!DNL Experience Cloud] 솔루션. 이들은 마케팅 및 광고에서의 경험뿐만 아니라 Adobe의 디지털 마케팅 솔루션에 대한 기본 이해를 가져야 합니다. 비즈니스 실무 인증은 Adobe의 디지털 마케팅 솔루션을 효과적으로 사용하여 비즈니스 목표를 달성하는 능력을 검증합니다. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![개발자 배지](/help/certifications/assets/developer_blk_small.png) | **개발자** 는 Adobe 구현 및 통합을 담당합니다 [!DNL Experience Cloud] 솔루션 을 조직의 기술 스택에 포함할 수 있습니다. 이들은 HTML, CSS, JavaScript 및 RESTful API와 같은 웹 기술에 대한 소프트웨어 개발 및 숙련도를 보유하고 있어야 합니다. 개발자 인증은 비즈니스 요구 사항을 충족하기 위해 Adobe의 디지털 마케팅 솔루션을 효과적으로 구현하고 사용자 지정하는 능력을 확인합니다. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![아키텍트 배지](/help/certifications/assets/architect_blk_small.png) | **아키텍트** Adobe을 사용하여 엔터프라이즈급 솔루션을 설계 및 구현하는 담당자임 [!DNL Experience Cloud] 솔루션. 소프트웨어 아키텍처, 통합 및 사용자 지정에 대한 Adobe의 디지털 마케팅 솔루션 및 경험에 대한 광범위한 지식이 있어야 합니다. 아키텍트 인증은 Adobe의 디지털 마케팅 솔루션을 사용하여 복잡한 솔루션을 설계 및 구현하는 능력을 검증합니다. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
