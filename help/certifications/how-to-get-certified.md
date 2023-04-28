@@ -3,7 +3,8 @@ title: Adobe에서 인증 받기
 description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 받기 전후에 필요한 모든 리소스를 찾을 수 있습니다.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ Adobe 자격 증명 팀은 프로그램의 이니셔티브 및 목표를 지원�
 | 공급업체 이름 | 설명 | 지원 페이지/이메일 |
 | ------- | ------- | ------- |
 | Credly | 배지 관리 시스템 | [지원](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| 예 | 테스트 배달 공급업체(온라인 처리만 해당) | support@examity.com 또는 855-Examity(855-392-6489) |
-| PSI | 위치 또는 일본어로 처리된 시험에 대한 테스트 배달 공급업체 | adobe.psisupport@psionline.com |
-| Xballuption - Adobe 인증 바우처 센터 | 바우처 센터에서 개별 또는 대량 바우처를 구매할 수 있습니다. | support@xvoucher.com 또는 [온라인 도움말](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| 예 | 테스트 배달 공급업체(온라인 처리만 해당) | [이메일](mailto:support@examity.com){target="_blank"} 또는 855-예제(855-392-6489) |
+| PSI | 위치 또는 일본어로 처리된 시험에 대한 테스트 배달 공급업체 | [이메일](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xballuption - Adobe 인증 바우처 센터 | 바우처 센터에서 개별 또는 대량 바우처를 구매할 수 있습니다. | [이메일](mailto:support@xvoucher.com){target="_blank"} 또는 [온라인 도움말](https://help.xvoucher.com/hc/en-us) |
 
 기타 공급업체 리소스:
 
