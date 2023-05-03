@@ -13,7 +13,7 @@ ht-degree: 44%
 # Adobe에서의 인증 {#program}
 
 + [인증 홈](overview.md)
-+ [시작](getting-started.md)
++ [시작하기](getting-started.md)
 + [인증 받는 방법](how-to-get-certified.md)
 + [인증 갱신](renew.md)
 + [프로그램 다시 시작](restart-program.md)
