@@ -6,18 +6,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e10f50a8e8a62d88d6c3ed5175a6d155760dc37c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '3197'
+source-wordcount: '3215'
 ht-degree: 0%
 
 ---
 
 # Adobe 갱신 [!DNL Workfront] 인증
 
-공인 시험에 합격하면 2년간 인증을 받을 수 있습니다
+Adobe 인증은 2년간 유효합니다. 이 2년 표시와 가까워지면, 인증을 갱신하여 활성화시켜야 합니다.
 
-새로운 비용 없이 인증을 갱신해 드립니다. 온디맨드 Experience League 교육 과정과 자습서를 사용하고, 3가지 활동을 완료하여 무료로 인증을 갱신하십시오. 인증이 만료되기 전에 갱신해야 합니다. 그렇지 않으면 전체 시험을 봐야 다시 인증을 받을 수 있습니다.
+먼저 아래 탭에서 적절한 수준을 선택합니다(Professional, Expert 또는 기본). 그런 다음 인증을 갱신하기 위해 필요한 작업을 신중하게 검토합니다.
+
+인증이 만료되기 전에 모든 요구 사항을 완료하기 위한 충분한 시간을 제공해야 합니다.
+
+인증이 만료되면 무료로 제공되는 인증 시험을 다시 봐야 한다는 점에 유의해야 합니다.
 
 >[!IMPORTANT]
 >
