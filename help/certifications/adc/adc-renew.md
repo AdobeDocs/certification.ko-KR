@@ -6,18 +6,23 @@ product: Document Cloud
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # Adobe 갱신 [!DNL Document Cloud] 인증
 
-공인 시험에 합격하면 2년간 인증을 받을 수 있습니다
+Adobe 인증은 2년간 유효합니다. 이 2년 표시와 가까워지면, 인증을 갱신하여 활성화시켜야 합니다.
 
-새로운 비용 없이 인증을 갱신해 드립니다. 온디맨드 Experience League 교육 과정과 자습서를 사용하고, 3가지 활동을 완료하여 무료로 인증을 갱신하십시오. 인증이 만료되기 전에 갱신해야 합니다. 그렇지 않으면 전체 시험을 봐야 다시 인증을 받을 수 있습니다.
+먼저 아래 탭에서 적절한 수준을 선택합니다(Professional, Expert 또는 기본). 그런 다음 인증을 갱신하기 위해 필요한 작업을 신중하게 검토합니다.
+
+인증이 만료되기 전에 모든 요구 사항을 완료하기 위한 충분한 시간을 제공해야 합니다.
+
+인증이 만료되면 무료로 제공되는 인증 시험을 다시 봐야 한다는 점에 유의해야 합니다.
 
 >[!IMPORTANT]
 >
