@@ -2,7 +2,7 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시오. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+source-git-commit: 20ea813247ee551b425c98d93d0de8bd62ec10e6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 47%
@@ -109,7 +109,7 @@ ht-degree: 47%
    + Adobe [!DNL Document Cloud] {#adc}
       + [Document Cloud 개요](/help/certifications/adc/adc-overview.md)
       + 전문 {#adc-professional}
-         + [비즈니스 전문가](/help/certifications/adc/adc-professional.md)
+         + [비즈니스 전문가](/help/certifications/adc/adc-p-business.md)
       + [갱신](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP 개요](/help/certifications/rtcdp/rtcdp-overview.md)
