@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 6%
+source-wordcount: '569'
+ht-degree: 5%
 
 ---
 
@@ -64,7 +64,7 @@ Adobe 인증은 2년간 유효합니다. 이 2년 표시와 가까워지면, 인
 
 [Adobe Analytics용 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
-### 교육 과정 및 교육 과정 평가:
+### 전문가 및 마스터에 대한 교육 과정 및 교육 과정 평가:
 
 | 교육 과정 | 교육 과정 평가 |
 | ------- | ------- |
