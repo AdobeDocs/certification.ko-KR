@@ -1,12 +1,13 @@
 ---
 title: 개발자 전문 인증
 description: 에서 인증된 Adobe Developer Professional이 되는 방법을 알아봅니다. [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: Developer
 badge: label="시험 AD0-E331" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1311'
 ht-degree: 10%
@@ -121,7 +122,7 @@ ht-degree: 10%
 * 워크플로우에서 고급 프로세스를 만드는 프로세스를 정의합니다
 * 워크플로우 실행 방법 설명
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
@@ -178,7 +179,7 @@ ht-degree: 10%
 * [승인 프로세스 설정 및 관리](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html?lang=en){target="_blank"}
 * [감사 추적](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ko){target="_blank"}
 * [템플릿 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html?lang=en){target="_blank"}
-* [워크플로우 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
+* [워크플로 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
 * [워크플로우 실행](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html?lang=en){target="_blank"}
 
 >[!TAB 인증 받기]

@@ -1,12 +1,13 @@
 ---
 title: 비즈니스 전문가 인증
 description: 공인 Adobe 비즈니스 전문가가 되는 방법 [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: User
 badge: label="시험 AD0-E327" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1114'
 ht-degree: 11%
@@ -105,7 +106,7 @@ ht-degree: 11%
 * 비즈니스 요구 사항이 있다면 권한 부여 및 액세스 권한 부여
 * 컨트롤 패널을 통해 SFTP를 활성화하는 단계를 적용합니다
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
@@ -124,7 +125,7 @@ ht-degree: 11%
 
 * [A/B 테스트 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html?lang=en){target="_blank"}
 * [메시지 추적 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
-* [워크플로우 시작](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=en){target="_blank"}
+* [워크플로 시작](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=en){target="_blank"}
 * [워크플로우에서 활동 타겟팅](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
 * [쿼리](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html?lang=en){target="_blank"}
 

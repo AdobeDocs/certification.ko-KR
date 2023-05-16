@@ -1,12 +1,13 @@
 ---
 title: 비즈니스 전문 인증
 description: 에서 공인 Adobe 비즈니스 전문가가 되는 방법을 알아봅니다. [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: User
 badge: label="시험 AD0-E329" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1333'
 ht-degree: 9%
@@ -115,7 +116,7 @@ ht-degree: 9%
 * Adobe Campaign 내의 설명 분석 기능 확인
 * 시나리오가 발생하면 권한 부여를 적용하여 Campaign 개체에 대한 액세스를 제한/허용합니다
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
@@ -141,13 +142,13 @@ ht-degree: 9%
 * [워크플로우에서 활동 타겟팅](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
 * [워크플로우의 흐름 제어 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=en){target="_blank"}
 * [워크플로우의 작업 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
-* [워크플로우 속성](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html?lang=ko){target="_blank"}
-* [워크플로우 시작](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html?lang=en){target="_blank"}
+* [워크플로 속성](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html?lang=ko){target="_blank"}
+* [워크플로 시작](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html?lang=en){target="_blank"}
 
 **섹션 3: 데이터 작업**
 
 * [Adobe Campaign 작업 영역](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=ko){target="_blank"}
-* [워크플로우 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
+* [워크플로 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
 * [워크플로우에서 활동 타겟팅](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
 * [프로필 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en){target="_blank"}
 * [마케팅 캠페인 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ko){target="_blank"}

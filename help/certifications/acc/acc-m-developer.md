@@ -1,18 +1,18 @@
 ---
 title: 설계자 기본 인증
 description: 에서 인증된 Adobe 설계자가 되는 방법을 기본으로 학습합니다. [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: Data Architect
 badge: label="시험 AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 9%
 
 ---
-
 
 # Adobe 인증 여정 [!DNL Campaign Classic] 아키텍트 기본
 
@@ -105,7 +105,7 @@ ht-degree: 9%
 * 복잡한 캠페인 템플릿 및 워크플로우를 디자인하는 올바른 방법 결정
 * 추가 모듈을 사용하여 솔루션을 설계하는 올바른 방법 결정
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
