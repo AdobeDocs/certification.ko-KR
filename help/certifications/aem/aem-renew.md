@@ -1,12 +1,12 @@
 ---
 title: 인증 갱신
 description: 갱신 방법 알아보기 [!DNL Experience Manager Sites] 인증서가 만료되기 전에 인증.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '630'
 ht-degree: 2%

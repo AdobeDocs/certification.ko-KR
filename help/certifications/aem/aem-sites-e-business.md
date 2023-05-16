@@ -1,12 +1,13 @@
 ---
 title: 비즈니스 전문가 인증
 description: 에서 비즈니스 전문가 인증을 받는 방법을 알아봅니다. [!DNL Experience Manager Sites].
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
 badge: label="시험 AD0-E121" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 0b533269-0826-4921-a539-d281c74da63d
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1334'
 ht-degree: 8%
@@ -104,7 +105,7 @@ ht-degree: 8%
 * 컨텐츠 구성 요소를 구성하고 사용하여 AEM의 우수 사례를 표시하는 방법을 결정합니다
 * 기능의 올바른 구현을 확인하고 발생하는 오류를 찾아 설명합니다
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 

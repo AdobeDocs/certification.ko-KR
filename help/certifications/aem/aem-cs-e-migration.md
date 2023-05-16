@@ -1,12 +1,13 @@
 ---
 title: 전문가 인증
 description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 전문가.
-solution: Experience Manager as a Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
 badge: label="시험 AD0-E136" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 64b53064-8280-405b-a5f7-b50264394b82
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 9%
@@ -113,7 +114,7 @@ ht-degree: 9%
 * 로컬 SDK 설정
 * AEM as a Cloud Service에서 사용할 수 있는 실행 모드에 따라 구성을 업데이트합니다.
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
@@ -122,7 +123,7 @@ ht-degree: 9%
 **섹션 1: 평가**
 
 
-* [[!DNL Experience Manager] as a Cloud Service 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ko-KR){target="_blank"}
+* [[!DNL Experience Manager] as a Cloud Service 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ko){target="_blank"}
 * [Adobe으로 마이그레이션 안내서 [!DNL Experience Manager] 파트너를 위한 as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"}
 * [ AEM as a Cloud Service의 주요 변경 사항](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=en){target="_blank"}
 
@@ -181,4 +182,3 @@ Adobe은 두 개의 공급업체를 사용하여 PSI와 Examity라는 가공 시
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 추가 질문? [문의](mailto:certif@adobe.com){target="_blank"}.
-

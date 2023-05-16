@@ -1,12 +1,13 @@
 ---
 title: AEM Forms 백엔드 개발자 전문 인증
 description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager Forms] 백엔드 개발자 전문가.
-solution: Experience Manager Forms
+solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
 badge: label="시험 AD0-E125" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1039'
 ht-degree: 5%
@@ -117,7 +118,7 @@ ht-degree: 5%
 
 * 대화형 커뮤니케이션을 위한 프로세스 디자인, 데모 및 구현
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 

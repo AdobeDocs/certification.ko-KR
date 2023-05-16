@@ -1,12 +1,13 @@
 ---
 title: 개발자 전문 인증
 description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법을 알아봅니다. [!DNL Experience Manager Sites].
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
 badge: label="시험 AD0-E123" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '812'
 ht-degree: 16%
@@ -82,7 +83,7 @@ ht-degree: 16%
 * 토폴로지 간 AEM 구성 방법 식별
 * AEM as a Cloud Service으로 계획 및 마이그레이션에 필요한 단계 결정
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
@@ -97,13 +98,13 @@ ht-degree: 16%
 **섹션 1: 구성**
 
 * [AEM 6.4 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ko-KR){target="_blank"}
+* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ko){target="_blank"}
 * [Dispatcher 개요](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
 
 **제2절: AEM 개발**
 
 * [AEM 6.4 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [AEM 6.5 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ko-KR){target="_blank"}
+* [AEM 6.5 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ko){target="_blank"}
 * [AEM 6.5 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 * [핵심 구성 요소 소개](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
 * [구성 요소 기본 사항](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en){target="_blank"}
@@ -116,11 +117,11 @@ ht-degree: 16%
 
 **섹션 4: 환경 유지 관리**
 
-* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ko-KR){target="_blank"}
+* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ko){target="_blank"}
 * [AEM 6.4 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
 * [작업 대시보드](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
 * [Adobe 릴리스 노트 [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ko-KR){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ko){target="_blank"}
 * [핵심 구성 요소 소개](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
 * [[!DNL AEM as Cloud Service] 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
 * [Adobe [!DNL Experience Manager] 릴리스 업데이트 및 로드맵](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ko-KR){target="_blank"}

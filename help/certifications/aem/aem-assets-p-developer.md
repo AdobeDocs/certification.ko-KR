@@ -1,12 +1,13 @@
 ---
 title: 전문 인증
 description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 프로페셔널
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
 badge: label="시험 AD0-E129" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '910'
 ht-degree: 4%
@@ -110,7 +111,7 @@ Adobe Managed Services 및 Adobe에서 편리하게 작업할 수 있습니다 [
 * Dynamic Media 사용의 일반적인 사용 사례 및 이점 설명
 * Creative Cloud을 사용하여 AEM을 활용하는 옵션 설명
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비]
 
 시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
 
@@ -131,7 +132,7 @@ Adobe Managed Services 및 Adobe에서 편리하게 작업할 수 있습니다 [
 
 * [AEM Assets 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
 * [검색 패싯](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
-* [에셋 보고서](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=en){target="_blank"}
+* [자산 보고서](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=en){target="_blank"}
 
 **섹션 3: 자산 메타데이터**
 
@@ -141,7 +142,7 @@ Adobe Managed Services 및 Adobe에서 편리하게 작업할 수 있습니다 [
 
 **섹션 4: 자산 유형**
 
-* [비디오 에셋 관리](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
+* [비디오 자산 관리](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
 * [콘텐츠 조각 모델](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
 * [변형 - 조각 콘텐츠 작성](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
 
