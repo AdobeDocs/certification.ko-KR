@@ -1,34 +1,35 @@
 ---
 title: 비즈니스 전문가 인증
-description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법을 알아봅니다. [!DNL Marketo Engage].
+description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법에 대해 알아보십시오. [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="시험 AD0-E559" type="positive"
+badge: label="시험 AD0-E559" type="양성"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1637'
 ht-degree: 0%
 
 ---
 
-# Adobe 인증 여정 [!DNL Marketo Engage] 비즈니스 전문가
+# Adobe을 위한 인증 여정 [!DNL Marketo Engage] 비즈니스 전문가
 
-공인 Adobe 비즈니스 전문가가 되는 방법을 알아봅니다.
+인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아보십시오.
 
 ## 최소 경험
 
 다음을 수행해야 합니다.
 
-* 경험 18개월 [!DNL Marketo] 마케팅 캠페인을 만들고 고객 행동 데이터를 활용하는 데 필요한 기능 및 기능
+* 과 약 18개월의 경험 [!DNL Marketo] 마케팅 캠페인을 만들고 고객 행동 데이터를 활용하는 데 필요한 기능
 
-다음과 같은 경험이 있는 마케터여야 합니다.
+다음에 대한 경험이 있는 마케터여야 합니다.
 
-* 캠페인 만들기, 시작 및 분석
-* HTML, 통합, 데이터베이스 및 CRM을 비롯한 기본 이메일 동작 및 기술 작업
+* 캠페인 구축, 실행 및 분석
+* HTML, 통합, 데이터베이스 및 CRM을 포함한 기본 이메일 동작 및 기술 작업
 
-또한 다음 도구와 기술을 숙지해야 합니다.
+또한 다음 도구 및 기술에 익숙해야 합니다.
 
 * Adobe [!DNL Marketo Engage]
 * Excel 및 CSV 파일 형식
@@ -40,121 +41,121 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->합격하신 후 2년간 유효한 인증입니다 최신 제품 기능을 다루므로 가능한 한 최신 버전을 사용하는 것이 좋습니다.
+>귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
 
 >[!BEGINTABS]
 
 >[!TAB 준비]
 
-**대상:**
+**의도한 대상:**
 
 * 마케팅 운영 관리자/전문가/전문가/분석가
 * 디지털 마케팅 관리자/전문가/전문가/분석가
 * 캠페인 관리자/전문가/전문가/분석가
 * [!DNL Marketo Engage] 컨설턴트
-* 디지털/마케팅 자동화 관리자/전문가/전문가/분석가
+* Digital/marketing automation manager/specialist/expert/analyst
 * 마케팅 시스템 관리자
 * 수요 생성 관리자
 * 이메일 마케팅 관리자
-* 매출 운영 관리자
+* 수익 운영 관리자
 * 성장 운영 관리자
-* 마르테크 아키텍트
+* 마테크 아키텍트
 * 마케팅 기술 관리자
 * 통합 캠페인 관리자
 * 비즈니스 시스템 분석가
 
 **시험 세부 정보:**
 
-* 수준: 전문가(1-3년 경험)
-* 점수 전달: 32/50
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 32/50
 * 시간: 110분
-* 배달: 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리
+* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
 * 사용 가능한 언어: 영어 및 일본어
-* 비용: 225달러(글로벌) / 150달러(인도)
+* 비용: $225(글로벌) / $150(인도)
 * 시험 ID: AD0-E559
 
 **준비 자체 평가**
 
-을(를) 완료합니다 [온라인 준비 질문](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} 현재 경험이 권장되는 최소 후보 자격과 일치하는지 확인하기 위해 다음을 수행하십시오.
+다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
 
 **시험 목표 및 범위**
 
-섹션 1: 관리 및 유지 관리 (12%)
+섹션 1: 관리 및 유지 관리(12%)
 
-* Marketo과 CRM 간 매핑 프로세스 결정
-* 감사 추적을 사용하여 자산이 어떻게 발생했는지 확인
+* Marketo과 CRM 간의 매핑 프로세스 결정
+* 감사 추적을 사용하여 자산에 발생한 결과 식별
 * 사용자와 역할 간의 차이점 인식
-* 시나리오가 주어지면 작업 공간 및 파티션 사용에 가장 적합한 것을 파악합니다
-* 기본 Marketo 동기화를 통해 CRM 플랫폼 식별
-* 시나리오에서 정보가 참조되는 위치를 찾습니다
+* 시나리오가 주어지면 작업 공간 및 파티션 사용에 가장 적합한 항목 식별
+* 기본 Marketo 동기화를 사용하여 CRM 플랫폼 식별
+* 시나리오에서 정보를 참조하는 위치를 찾습니다
 
-제2절: 마케팅 활동/Campaign Management(46%)
+섹션 2: 마케팅 활동/Campaign Management(46%)
 
-* 스마트 캠페인, 논리, 제한 및 흐름 단계에 대한 이해를 보여줍니다
+* 스마트 캠페인, 논리, 제한 및 흐름 단계에 대한 이해 설명
 * 시나리오가 주어지면 다음 단계를 정의합니다
-* 문제의 근본 원인 확인
+* 문제의 근본 원인 파악
 * 프로그램, 채널, 태그 및 기간 비용 간의 관계 해석
-* 참여 프로그램에 올바른 구성 표시/적용
-* 다양한 토큰 유형에 대한 사용 예를 제공합니다
-* Marketo에서 Webhooks의 유틸리티 및 사용 방법을 요약합니다
+* 참여 프로그램에 올바른 구성 시연/적용
+* 다양한 유형의 토큰에 대한 사용 예 제공
+* Marketo에서 Webhooks의 유틸리티와 사용 방법을 요약합니다.
 * PMCF의 적절한 사용 확인 및 적용
-* 글로벌 자산의 이점 및 사용 방법 설명
-* 양식의 기능 데모
+* Global Assets의 이점 및 사용 방법 설명
+* 양식의 기능 시연
 * A/B 테스트 전략 수행 및 분석
-* 프로그램 또는 자산이 &#39;Used By&#39;로 참조되는 위치를 식별합니다
+* &#39;Used By&#39;를 통해 프로그램 또는 에셋을 참조한 위치 식별
 * 통신 제한 문제 해결
 * 이벤트 프로그램에서 웨비나 공급자 정보 사용
 
 섹션 3: 리드 관리(12%)
 
-* 라이프사이클 모델을 정의할 때 주요 결정 지점을 간략하게 설명합니다
-* 리드 점수에 대한 우수 사례 적용
-* 흥미로운 순간을 적절하게 구현
+* 라이프사이클 모델 정의의 주요 의사 결정 지점 개요
+* 리드 스코어에 대한 모범 사례 적용
+* 적절한 흥미로운 순간 구현
 * 리드 활동 로그 해석
-* 시나리오가 주어지면 생성 소스를 식별합니다
+* 시나리오가 주어지면 작성 소스를 식별합니다
 
-섹션 4: 데이터 관리 (10%)
+섹션 4: 데이터 관리(10%)
 
 * 데이터 관리 프로그램을 설정하는 방법 시연
 * 인스턴스의 데이터 품질 분석
-* 스마트 목록과 관련된 Marketo의 데이터 유지 정책의 몇 가지 주요 사항을 식별합니다
+* 스마트 목록과 관련된 Marketo의 데이터 보존 정책의 몇 가지 주요 사항을 식별합니다
 * 세그먼테이션의 작동 방식 요약
 
 섹션 5: 보고(4%)
 
-* 캠페인의 결과가 주어지면 최상의 보고를 제공하기 위해 프로그램을 설정하는 방법을 결정하십시오
-* 시나리오가 주어지면 적절한 획득 프로그램을 조사하고 할당할 수 있습니다
+* 캠페인의 결과가 주어지면 최상의 보고를 제공하는 프로그램을 설정하는 방법을 결정합니다
+* 시나리오가 주어지면 적절한 획득 프로그램을 조사하고 할당할 수 있습니다.
 
-제6조: 우수 사례 (16%)
+섹션 6: 우수 사례(16%)
 
-* 마케팅 및 영업 공동 작업에서 리드 점수의 관련성 시연
-* 폴더 구조 및 이름 지정 규칙의 이점을 설명합니다
-* A/B 테스트에 대한 우수 사례 적용
-* Marketo 프로그램에서 품질 검사를 수행하는 프로세스를 설명합니다.
-* 이메일에 대한 품질 검사를 수행하는 프로세스를 설명합니다.
+* 마케팅 및 영업 공동 작업에서 잠재 고객 점수의 관련성 시연
+* 폴더 구조 및 이름 지정 규칙의 이점 설명
+* A/B 테스트에 대한 모범 사례 적용
+* Marketo 프로그램에서 품질 검사를 수행하는 프로세스 설명
+* 이메일에 대한 품질 검사를 수행하는 프로세스 설명
 
->[!TAB 준비&#x200B;]
+>[!TAB 준비 완료]
 
-시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
 
-다음은 준비하는 데 도움이 되는 몇 가지 추천 리소스입니다.
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
 
 **섹션 1: 관리 및 유지 관리**
 
 * [이해 [!DNL Salesforce] 동기화](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
 * [[!DNL Marketo]: 비즈니스 전문가를 위한 관리](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
-* [모든 목록 내보내기 [!DNL Marketo] API 필드 이름](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html?lang=en){target="_blank"}
-* [사용자 지정 필드 유형 용어집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html?lang=en){target="_blank"}
-* [언어, 로케일 및 표준 시간대 선택](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html?lang=en){target="_blank"}
+* [전체 목록 내보내기 [!DNL Marketo] API 필드 이름](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html?lang=en){target="_blank"}
+* [사용자 정의 필드 유형 용어집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html?lang=en){target="_blank"}
+* [언어, 로케일 및 시간대 선택](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html?lang=en){target="_blank"}
 * [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [감사 추적 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=en){target="_blank"}
 
 
-**제2절: 마케팅 활동/캠페인 관리**
+**섹션 2: 마케팅 활동/캠페인 관리**
 
-* [스마트 목록에 필터 찾기 및 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html?lang=en){target="_blank"}
+* [스마트 목록 필터 찾기 및 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html?lang=en){target="_blank"}
 * [스마트 캠페인 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en){target="_blank"}
-* [흐름 단계에서 선택 추가 사용](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.html?lang=en){target="_blank"}
+* [흐름 단계에서 선택 항목 추가 사용](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.html?lang=en){target="_blank"}
 * [프로그램 멤버십 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
 * [프로그램 채널 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html?lang=en){target="_blank"}
 * [토큰 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html?lang=en){target="_blank"}
@@ -163,7 +164,7 @@ ht-degree: 0%
 * [참여 대시보드](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.html?lang=en){target="_blank"}
 * [A/B 테스트 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.html?lang=en){target="_blank"}
 * [이벤트 프로그램 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en){target="_blank"}
-* [웹 후크 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html?lang=en){target="_blank"}
+* [Webhook 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html?lang=en){target="_blank"}
 
 
 **섹션 3: 리드 관리**
@@ -172,17 +173,17 @@ ht-degree: 0%
 * [점수 변경](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html?lang=en){target="_blank"}
 * [경고 보내기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.html?lang=en){target="_blank"}
 * [개인의 활동 로그에서 활동 유형 필터링](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.html?lang=en){target="_blank"}
-* [흥미로운 순간](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.html?lang=en){target="_blank"}
-* [흥미로운 순간에 대한 토큰 트리거](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html?lang=en){target="_blank"}
-* [매출 모델 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html?lang=en){target="_blank"}
+* [즐거운 순간](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.html?lang=en){target="_blank"}
+* [즐거운 순간을 위한 트리거 토큰](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html?lang=en){target="_blank"}
+* [수익 모델 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html?lang=en){target="_blank"}
 
 
 **섹션 4: 데이터 관리**
 
 * [데이터 값 변경](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html?lang=en){target="_blank"}
-* [양식의 라디오 또는 선택한 필드에서 값 정의](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html?lang=en){target="_blank"}
-* [Marketo 활동 데이터 유지 정책](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
-* [세그멘테이션 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+* [라디오 또는 양식의 선택된 필드에서 값 정의](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html?lang=en){target="_blank"}
+* [Marketo 활동 데이터 보존 정책](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
+* [세분화 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [스마트 목록에서 세그먼트 필터 사용](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html?lang=en){target="_blank"}
 
 
@@ -194,42 +195,42 @@ ht-degree: 0%
 * [프로그램 분석기 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.html?lang=en){target="_blank"}
 * [기본 보고서 구독](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=en){target="_blank"}
 
-**제6조: 우수 사례**
+**섹션 6: 우수 사례**
 
-* [우수 사례: 프로그램 구성 방법](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=en){target="_blank"}
+* [모범 사례: 프로그램 구성 방법](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=en){target="_blank"}
 * [샘플 이메일 보내기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
-* [다이내믹 콘텐츠를 사용한 이메일 미리 보기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html?lang=en){target="_blank"}
+* [다이내믹 콘텐츠를 사용하여 이메일 미리 보기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html?lang=en){target="_blank"}
 * [점수 변경](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html?lang=en){target="_blank"}
-* [리드 점수 책정 최종 가이드](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
+* [잠재 고객 점수에 대한 확실한 가이드](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
 * [폴더 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html?lang=en){target="_blank"}
 
 >[!TAB 인증 받기]
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용**  후 **성공적인 로그인** 변환 후 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
+>다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
 
-**연습 테스트를 하세요**
+**연습 테스트 수행**
 
-시작하기 전에 무료 연습 시험을 보는 것이 좋습니다. Adobe의 전문가 수준 시험에 대해 사용 가능한 모든 실무 테스트에 대한 무제한 액세스가 제공됩니다.
+시작하기 전에 무료 연습 테스트를 받는 것이 좋습니다. Adobe의 전문가 수준의 시험에 사용할 수 있는 모든 연습 시험에 제한 없이 액세스할 수 있습니다.
 
-우리의 연습 시험은 모두 실제 시험과 같은 청사진으로 개발되었다. 실습 테스트는 라이브 시험에서 다루는 주제를 이해하는 데 도움이 될 것입니다.
+우리의 연습 시험은 모두 라이브 시험과 동일한 청사진에서 개발됩니다. 연습 테스트는 라이브 테스트에서 다룬 주제를 이해하는 데 도움이 됩니다.
 
-연습 시험에 합격한다고 해서 공인 시험에 합격할 수 있는 것은 아니라는 것을 명심하세요.
+모의고사를 통과한다고 자격증 시험에 합격하는 것은 아님을 명심하시기 바랍니다.
 
-로 이동합니다. [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 지금 연습시험을 보기 위해.
+로 이동 [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 이제 연습 시험을 치르겠습니다.
 
-**인증 시험 보기**
+**인증 시험 응시**
 
-Adobe은 두 개의 공급업체를 사용하여 PSI와 Examity라는 가공 시험을 관리합니다.
+Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험을 관리합니다.
 
-* **PSI** 테스트 센터 및 일본어 시험 옵션 제공(사용 가능한 경우)
-* **[!DNL Examity]** 원격 온라인 옵션 제공
+* **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
+* **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
 
-시험을 예약, 다시 예약 또는 취소하려면 원하는 공급업체를 클릭하고 화면에 제공된 지침을 따르기만 하면 됩니다. 간단해!
+시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단해!
 
 ### 시험 번호: AD0-E559
 
@@ -241,9 +242,9 @@ Adobe은 두 개의 공급업체를 사용하여 PSI와 Examity라는 가공 시
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-J newtab=true"}
 
-인증 시험 비용은 바우처 또는 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
+자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-시험을 예약할 때 바우처 코드를 적용할 수 있습니다. 할인 혜택이 있으면 계산대에 적용됩니다
+시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
 
 >[!ENDTABS]
 
@@ -251,4 +252,4 @@ Adobe은 두 개의 공급업체를 사용하여 PSI와 Examity라는 가공 시
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? [문의](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.

@@ -1,5 +1,5 @@
 ---
-title: 기술 인증
+title: 기본 기술 인증
 description: 기본 사용자를 위한 인증 옵션 개요
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
@@ -8,7 +8,7 @@ ht-degree: 44%
 
 ---
 
-# 기술 인증
+# 기본 기술 인증
 
 
 **Analytics**

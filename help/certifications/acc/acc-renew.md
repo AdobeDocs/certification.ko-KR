@@ -1,6 +1,6 @@
 ---
 title: 인증 갱신
-description: 갱신 방법 알아보기 [!DNL Campaign Classic] 인증서가 만료되기 전에 인증.
+description: 갱신 방법 알아보기 [!DNL Campaign Classic] 만료되기 전의 인증.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User,Developer,Data Architect
@@ -16,47 +16,47 @@ ht-degree: 8%
 
 # Adobe 갱신 [!DNL Campaign Classic] 인증
 
-Adobe 인증은 2년간 유효합니다. 이 2년 표시와 가까워지면, 인증을 갱신하여 활성화시켜야 합니다.
+Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
 
-먼저 아래 탭에서 적절한 수준을 선택합니다(Professional, Expert 또는 기본). 그런 다음 인증을 갱신하기 위해 필요한 작업을 신중하게 검토합니다.
+먼저 아래 탭에서 적절한 수준(Professional, Expert 또는 기본)을 선택합니다. 그런 다음 인증을 갱신하기 위해 수행해야 할 작업을 신중하게 검토하십시오.
 
-인증이 만료되기 전에 모든 요구 사항을 완료하기 위한 충분한 시간을 제공해야 합니다.
+인증이 만료되기 전에 모든 요구 사항을 완료할 충분한 시간을 제공해야 합니다.
 
-인증이 만료되면 무료로 제공되는 인증 시험을 다시 봐야 한다는 점에 유의해야 합니다.
+인증이 만료되면 무료로 제공되지 않는 인증 시험을 다시 치러야 한다는 점을 참고하십시오.
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용** 후 **성공적인 로그인** 변환 후 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
+>다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
->[!TAB 전문]
+>[!TAB 전문가]
 
 >[!NOTE]
 >
->프로페셔널리지가 곧 올 겁니다
+>곧 전문 갱신.
 
 >[!TAB 전문가 및 기본]
 
-에서 현재 인증(만료되지 않음)을 받아야 합니다.
+다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
 
 * **Adobe [!DNL Campaign Classic] 개발자 전문가**
 * **Adobe [!DNL Campaign Classic] 비즈니스 전문가**
-* **Adobe [!DNL Campaign Classic] 아키텍트 마스터**
+* **Adobe [!DNL Campaign Classic] 건축가 마스터**
 
-## 인증을 갱신하는 방법:
+## 인증 갱신 방법:
 
-* **1단계**: 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}, 그런 다음 이 페이지로 돌아갑니다.
+* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험에 합격하다
+* **3단계**: 시험 응시 및 통과
 
 ### 준비
 
-**시험 세부 사항**
+**시험 세부 정보**
 
-* 점수 전달: 42/55
+* 합격 점수: 42/55
 * 시간: 110분
-* 비용: 자유/비처리
+* 비용: 무료/비관리됨
 * 배달: 온디맨드
 * 사용 가능한 언어: 영어
 * 전제 조건: 현재(만료되지 않음) Adobe [!DNL Campaign Classic] 전문가 및/또는 마스터 인증
@@ -66,59 +66,59 @@ Adobe 인증은 2년간 유효합니다. 이 2년 표시와 가까워지면, 인
 
 섹션 1: 설치 및 시스템 구성(23%)
 
-* 시나리오가 있으면 사용할 옵션(즉, 스테이지에서 프로덕션으로 이동하는 옵션)을 결정합니다
-* 패키지 를 사용하여 인스턴스 간에 마이그레이션
-* 배포 마법사 설정이 게재 능력에 미치는 영향 설명
-* Adobe에 사용할 수 있는 호스팅 모델의 기본 인프라에 대해 설명합니다 [!DNL Campaign Classic] v8
+* 시나리오가 주어지면 어떤 옵션을 사용해야 하는지 결정합니다(즉, 사물을 단계에서 프로덕션으로 이동)
+* 패키지를 사용하여 인스턴스 간에 마이그레이션하는 기능
+* 배포 마법사 설정이 전달성에 미치는 영향 설명
+* Adobe에 사용할 수 있는 호스팅 모델의 기본 인프라 개요 [!DNL Campaign Classic] v8
 * 일반적으로 사용되는 OOTB 함수 설명
 * 다른 Adobe Experience Cloud 제품과의 통합 설명
-* 표준 외부 계정을 사용하여 통합 설명
+* 표준 외부 계정을 사용한 통합 설명
 
-제2절: 사용자 지정(18%)
+섹션 2: 사용자 정의(18%)
 
-* Adobe Campaign에서 SQL 함수 사용에 대한 모범 사례 설명
-* Adobe Campaign에서 JavaScript를 사용한 개발에 대한 우수 사례 설명
+* Adobe Campaign에서 SQL 함수를 사용하는 모범 사례 설명
+* Adobe Campaign에서 JavaScript를 사용하여 개발하는 모범 사례 설명
 * 요구 사항 세트가 주어지면 데이터 모델에 대한 모범 사례를 적용합니다
-* 액세스 관리를 위한 요구 사항 및 프로세스 설명
+* 액세스 관리에 대한 요구 사항 및 프로세스 설명
 * 폴더 구조 관리 설명
 
 섹션 3: 데이터 아키텍처(22%)
 
-* v8의 데이터 스토리지 차이점 확인
-* 로컬 데이터를 Snowflake에 동기화하는 기본 제공 워크플로우를 식별합니다
-* 스테이징 테이블을 사용할 시점과 Snowflake에 직접 쓰는 시점 설명
-* 일괄 처리 및 사용 시기/방법에서 새로운 API 명령 식별
-* 시나리오가 주어지면 사용자 지정 스키마를 만드는 방법을 설명합니다(다른 스키마를 템플릿, sys 필터, 데이터 잠금, 링크)로 사용하는 방법)
+* v8의 데이터 스토리지 차이점 식별
+* 로컬 데이터를 Snowflake에 동기화하는 내장 워크플로우를 식별합니다
+* 스테이징 테이블과 Snowflake에 직접 쓰기 사용 시기 설명
+* 일괄 처리에서 새로운 API 명령 식별 및 사용 시기/방법
+* 시나리오가 주어지면 사용자 지정 스키마를 만드는 방법(다른 스키마를 템플릿, 시스템 필터, 데이터 잠금, 링크로 사용하는 방법)을 설명합니다.
 * Adobe Experience Platform 및 Journey Optimizer과 같은 다양한 솔루션과 Campaign 간의 통합 설명
 
-섹션 4: Campaign, 워크플로우, 게재 및 보고(37%)
+섹션 4: 캠페인, 워크플로우, 게재 및 보고(37%)
 
-* 캠페인 빌드에 모범 사례 적용
-* 시나리오가 주어지면 워크플로우 오류를 분석합니다
-* 시나리오가 제공되면 대상 매핑에 대한 게재 오류를 분석합니다
-* 성능에 부정적인 영향을 주는 워크플로우 사례 설명
-* 사용 사례가 있다면 타깃팅 워크플로우 디자인을 추천합니다
+* 모범 사례를 적용하여 캠페인 구축
+* 시나리오가 주어지면 워크플로우 오류 분석
+* 시나리오가 주어지면 대상 매핑에 대한 게재 오류를 분석합니다
+* 성능에 부정적인 영향을 미치는 워크플로우 사례 설명
+* 사용 사례가 주어지면 타겟팅 워크플로우 설계를 권장합니다
 * 게재 및 승인 설정 적용
-* 시나리오가 발생하면 생성할 적절한 보고서를 결정합니다
-* 시나리오가 있다면 외부 데이터 소스와 통합할 최상의 방법을 선택하십시오
+* 시나리오가 주어지면 생성할 적절한 보고서를 결정합니다
+* 시나리오가 주어지면 외부 데이터 소스와 통합하는 가장 좋은 방법을 선택합니다
 * 워크플로우 내에서 데이터 통합 기법 적용
 * 워크플로우 활동 팔레트의 기능 설명
 * Campaign 컨트롤 패널을 사용하여 인스턴스 문제 해결 또는 구성
 
-### 준비
+### 준비 완료
 
-시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
 
-다음은 준비하는 데 도움이 되는 몇 가지 추천 리소스입니다.
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
 
 **섹션 1: 설치 및 시스템 구성**
 
 * [패키지 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
-* [데이터 패키지 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
+* [데이터 패키지를 사용한 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
 * [인스턴스 배포](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
 * [Adobe과 통합 [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=en){target="_blank"}
 
-**제2절: 사용자 지정**
+**섹션 2: 사용자 지정**
 
 * [JavaScript 스크립트 및 템플릿](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=en){target="_blank"}
 * [데이터 모델 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=ko){target="_blank"}
@@ -127,9 +127,9 @@ Adobe 인증은 2년간 유효합니다. 이 2년 표시와 가까워지면, 인
 
 **섹션 3: 데이터 아키텍처**
 
-* [전환 [!DNL Campaign Classic] v7에서 Campaign v8로](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
+* [전환 위치 [!DNL Campaign Classic] v7에서 Campaign v8로](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
 * [소스 및 대상 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=ko){target="_blank"}
-* [특정 FFDA 캠페인 API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
+* [특정 FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
 * [Adobe ID 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
 
 **섹션 4: 캠페인, 워크플로우, 게재 및 보고**
@@ -141,13 +141,13 @@ Adobe 인증은 2년간 유효합니다. 이 2년 표시와 가까워지면, 인
 
 ### 인증 갱신
 
-위의 1단계를 따랐으며, 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 먼저 그런 다음 인증을 갱신하려면 아래의 Campaign Classic 갱신 - AD5-823 링크를 클릭합니다.
+위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 Campaign Classic 갱신 - AD5-823 링크를 클릭하십시오.
 
-[Adobe 가져오기 [!DNL Campaign Classic] 비즈니스 담당자, 개발자 및 아키텍트 시험 갱신 - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+[Adobe 받기 [!DNL Campaign Classic] 비즈니스 실무자, 개발자 및 건축가를 위한 갱신 지금 - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 무료이고, 오픈북이고, 가공되지 않은 것이다. 시험을 세 번까지 볼 수 있습니다 세 번째 시도 후에 실패한 경우 기다려야 합니다 **30일** 다시 시도하십시오. 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 >[!ENDTABS]
 
@@ -155,4 +155,4 @@ Adobe 인증은 2년간 유효합니다. 이 2년 표시와 가까워지면, 인
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? [문의](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.

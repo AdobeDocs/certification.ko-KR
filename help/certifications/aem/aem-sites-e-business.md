@@ -1,10 +1,10 @@
 ---
 title: 비즈니스 전문가 인증
-description: 에서 비즈니스 전문가 인증을 받는 방법을 알아봅니다. [!DNL Experience Manager Sites].
+description: 에서 비즈니스 실무자 자격을 취득하는 방법에 대해 알아봅니다. [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
-badge: label="시험 AD0-E121" type="positive"
+badge: label="시험 AD0-E121" type="양성"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,18 +14,18 @@ ht-degree: 8%
 
 ---
 
-# Adobe 인증 여정 [!DNL Experience Manager Sites] 비즈니스 전문가
+# Adobe을 위한 인증 여정 [!DNL Experience Manager Sites] 비즈니스 전문가
 
-공인 Adobe 비즈니스 전문가가 되는 방법을 알아봅니다.
+인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아보십시오.
 
 ## 최소 경험
 
 다음을 수행해야 합니다.
 
-* 개발자와 협력하여 비즈니스 솔루션을 찾는 데 필요한 AEM 기능 및 경험
-* AEM 제품을 사용하여 컨텐츠를 관리하여 디지털 경험을 생성하는 기능
-* 어떤 모듈이 있는지 파악
-* 다음과 같은 모듈에 대한 심층적인 통찰력 [!DNL Sites], [!DNL Assets], 및 [!DNL Forms]
+* 비즈니스 솔루션을 찾기 위해 개발자를 참여시키는 데 필요한 AEM 기능과 성능에 대한 경험
+* AEM 제품을 사용하여 디지털 경험을 제공하는 콘텐츠 관리 기능
+* 존재하는 모듈에 대한 이해
+* 다음과 같은 모듈에 대한 자세한 통찰력 [!DNL Sites], [!DNL Assets], 및 [!DNL Forms]
 
 또한 다음 기술 및 환경에 익숙해야 합니다.
 
@@ -33,7 +33,7 @@ ht-degree: 8%
 * 디지털 자산 관리 도구
 * 프로젝트
 * Forms
-* 경험 조각 및 컨텐츠 조각
+* 경험 조각 및 콘텐츠 조각
 * 스크린
 * 워크플로
 * 시작
@@ -46,70 +46,70 @@ ht-degree: 8%
 * SPA 편집기
 * 태깅
 * 브라우저 사용
-* 웹 이해
+* 웹에 대한 일반적인 이해
 * 반응형 웹 디자인 개념
 
 >[!NOTE]
 >
->합격하신 후 2년간 유효한 인증입니다 최신 제품 기능을 다루므로 가능한 한 최신 버전을 사용하는 것이 좋습니다.
+>귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
 
 >[!BEGINTABS]
 
 >[!TAB 준비]
 
-**대상:**
+**의도한 대상:**
 
 * 솔루션 컨설턴트
-* 소비자 경험 전문가
-* 설계 및 구현되는 솔루션의 제품 소유자
+* 고객 경험 전문가
+* 설계 및 구축 중인 솔루션의 제품 소유자
 * 비즈니스 분석가
 * 솔루션 설계자
-* AEM 솔루션에 대한 분석가 작업 역할을 수행하는 파트너 조직 및 프리랜서의 개인
-* 비즈니스 요구 사항에 대한 솔루션을 정의하기 위해 개발자를 참여시키는 데 필요한 기능과 기능을 알고 있는 마케팅 전문가
+* AEM 솔루션에 대한 분석가 역할을 수행하는 파트너 조직의 개인 및 프리랜서
+* 비즈니스 요구 사항에 맞는 솔루션을 정의하도록 개발자를 참여시키는 데 필요한 기능과 성능을 알고 있는 마케팅 전문가
 * 제품을 사용하는 고객(예: 고급 사용자)
 
 **시험 세부 정보:**
 
-수준: 전문가(1-3년 경험) 점수 전달: 32/50 시간: 100분 배달: 온라인 처리(카메라 액세스 필요) 또는 테스트 센터 처리 사용 가능한 언어: 영어 및 일본어 비용: $225 (전역) / $150 (인도) 시험 ID: AD0-E121
+수준: 전문가(1-3년 경력) 합격 점수: 32/50 시간: 100분 게재: 온라인 계산자(카메라 액세스 필요) 또는 테스트 센터 계산자 사용 가능한 언어: 영어 및 일본어 비용: $225(글로벌) / $150(인도) 시험 ID: AD0-E121
 
 **준비 자체 평가**
 
-을(를) 완료합니다 [온라인 준비 질문](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} 현재 경험이 권장되는 최소 후보 자격과 일치하는지 확인하기 위해 다음을 수행하십시오.
+다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
 
 **시험 목표 및 범위**
 
-섹션 1: 교육 (22%)
+섹션 1: 교육(22%)
 
-* 관련 AEM 기능 및 기능 나열
-* 비즈니스 요구 사항을 충족하기 위해 AEM 기능을 활용하는 방법을 추천합니다
-* 컨텐츠 편집자를 위한 교육을 수행하는 데 필요한 절차 개념 적용
+* 관련 AEM 기능 나열
+* 비즈니스 요구 사항을 충족하기 위해 AEM 기능을 활용하는 방법 추천
+* 콘텐츠 편집자를 위한 교육을 수행하는 데 필요한 절차 개념 적용
 
-제2절: 아키텍처(24%)
+섹션 2: 아키텍처(24%)
 
-* On-prem 또는 Cloud(Cloud) 환경을 사용하여 비즈니스 요구 사항을 충족하는 AEM Standard 기능을 활용할 것을 권장합니다
-* AEM과 타사 서비스를 통합하는 방법 설명
-* 역할 및 권한을 정의하는 방법 결정
-* 캐싱 방법 설명
+* 온프레미스 또는 Adobe 호스팅(클라우드) 환경을 사용하여 비즈니스 요구 사항을 충족하는 AEM Standard 기능을 활용하는 정보 아키텍처 권장
+* AEM이 타사 서비스와 통합되는 방법 설명
+* 역할 및 권한 정의 방법 결정
+* 캐싱 접근 방식 설명
 
 섹션 3: 비즈니스 분석(38%)
 
 * AEM의 표준 모듈을 고객의 다양한 비즈니스 문제에 매핑
 * AEM 모듈에 대한 컨텐츠 관리 개념 적용
-* 일반적인 프로젝트 이해 관계자 식별
-* 관련된 모든 당사자의 공동 작업을 지원하는 데 필요한 절차 개념 적용
+* 일반적인 프로젝트 이해 당사자 파악
+* 관련된 모든 당사자의 협업을 지원하는 데 필요한 절차 개념 적용
 * 예산 및/또는 범위 내에서 핵심 비즈니스 목표를 충족하는 방법 결정
-* 비즈니스 목표에 대한 개발자의 질문에 대한 답변을 결정하는 방법을 결정합니다
+* 비즈니스 목표와 관련하여 개발자의 질문에 어떻게 답변해야 하는지 결정합니다
 
 섹션 4: 설정 및 구현(16%)
 
-* 컨텐츠 구성 요소를 구성하고 사용하여 AEM의 우수 사례를 표시하는 방법을 결정합니다
-* 기능의 올바른 구현을 확인하고 발생하는 오류를 찾아 설명합니다
+* AEM의 모범 사례를 보여 주기 위해 콘텐츠 구성 요소를 구성하고 사용하는 방법을 결정합니다
+* 기능의 올바른 구현을 확인하고 발생한 오류를 찾아 설명합니다
 
->[!TAB 준비]
+>[!TAB 준비 완료]
 
-시험을 보기 전에 훈련을 마칠 필요는 없으며, 교육만으로 시험에 합격하는 데 필요한 지식과 기술을 제공하지는 못할 것이다. 시험에 합격하는 데 필요한 리포지토리를 제공하려면 교육과 성공적인 현장 경험이 결합되어 있어야 합니다.
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
 
-다음은 준비하는 데 도움이 되는 몇 가지 추천 리소스입니다.
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
 
 **섹션 1: 교육**
 
@@ -120,9 +120,9 @@ ht-degree: 8%
 * [작성자를 위한 첫 번째 단계](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"}
 * [콘텐츠 편집 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html?lang=en){target="_blank"}
 * [페이지 생성 및 구성](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=en){target="_blank"}
-* [작성 및 게시 개념](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"}
+* [작성 및 게시의 개념](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"}
 
-**제2절: 아키텍처**
+**섹션 2: 아키텍처**
 
 * [Adobe 소개 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
 * [AEM 6.5 기능에 대해 알아보기](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
@@ -135,8 +135,8 @@ ht-degree: 8%
 * [사용자, 역할 및 권한](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html){target="_blank"}
 * [사용자, 그룹 및 사용자 역할 관리](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"}
 * [보안 콘텐츠 캐싱](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=en){target="_blank"}
-* [1장 - 디스패처 개념, 패턴 및 안티패턴](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
-* [제2장 기반시설](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"}
+* [1장 - Dispatcher 개념, 패턴 및 반대 패턴](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
+* [2장 - 인프라](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"}
 * [3장 - 고급 캐싱 항목](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"}
 
 **섹션 3: 비즈니스 분석**
@@ -147,9 +147,9 @@ ht-degree: 8%
 * [컨텐츠 아키텍처](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html?lang=en){target="_blank"}
 * [프로젝트 관리 - 우수 사례 검사 목록](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
 * [프로젝트 범위 지정 시 고려 사항](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html?lang=en){target="_blank"}
-* [전달 및 계획 방식](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
+* [게재 및 계획 접근 방식](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
 * [사용자 경험 프로토타이핑](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html?lang=en){target="_blank"}
-* [법적 계약 관리](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=en){target="_blank"}
+* [법률 계약 관리](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=en){target="_blank"}
 * [역할 및 프로젝트 단계](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html?lang=en){target="_blank"}
 * [Adobe Experience Manager 및 Creative Cloud 통합 우수 사례](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ko){target="_blank"}
 * [프로젝트 관리 - 우수 사례 검사 목록](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
@@ -171,36 +171,36 @@ ht-degree: 8%
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용**  후 **성공적인 로그인** 변환 후 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
+>다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
 
 **이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
 
-**연습 테스트를 하세요**
+**연습 테스트 수행**
 
-시작하기 전에 무료 연습 시험을 보는 것이 좋습니다. Adobe의 전문가 수준 시험에 대해 사용 가능한 모든 실무 테스트에 대한 무제한 액세스가 제공됩니다.
+시작하기 전에 무료 연습 테스트를 받는 것이 좋습니다. Adobe의 전문가 수준의 시험에 사용할 수 있는 모든 연습 시험에 제한 없이 액세스할 수 있습니다.
 
-우리의 연습 시험은 모두 실제 시험과 같은 청사진으로 개발되었다. 실습 테스트는 라이브 시험에서 다루는 주제를 이해하는 데 도움이 될 것입니다.
+우리의 연습 시험은 모두 라이브 시험과 동일한 청사진에서 개발됩니다. 연습 테스트는 라이브 테스트에서 다룬 주제를 이해하는 데 도움이 됩니다.
 
-연습 시험에 합격한다고 해서 공인 시험에 합격할 수 있는 것은 아니라는 것을 명심하세요.
+모의고사를 통과한다고 자격증 시험에 합격하는 것은 아님을 명심하시기 바랍니다.
 
-로 이동합니다. [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 지금 연습시험을 보기 위해.
+로 이동 [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 이제 연습 시험을 치르겠습니다.
 
-**인증 시험 보기**
+**인증 시험 응시**
 
-Adobe은 두 개의 공급업체를 사용하여 PSI와 Examity라는 가공 시험을 관리합니다.
+Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험을 관리합니다.
 
-* **PSI** 테스트 센터 및 일본어 시험 옵션 제공(사용 가능한 경우)
-* **[!DNL Examity]** 원격 온라인 옵션 제공
+* **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
+* **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
 
-시험을 예약, 다시 예약 또는 취소하려면 원하는 공급업체를 클릭하고 화면에 제공된 지침을 따르기만 하면 됩니다. 간단해!
+시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단해!
 
 ### 시험 번호: AD0-E121
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E121 newtab=true"}[!BADGE 예]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121 newtab=true"}
 
-인증 시험 비용은 바우처 또는 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
+자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-시험을 예약할 때 바우처 코드를 적용할 수 있습니다. 할인 혜택이 있으면 계산대에 적용됩니다
+시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
 
 >[!ENDTABS]
 
@@ -208,4 +208,4 @@ Adobe은 두 개의 공급업체를 사용하여 PSI와 Examity라는 가공 시
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-추가 질문? [문의](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
