@@ -8,9 +8,9 @@ badge: label="시험 AD0-D106" type="양성"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
+source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '895'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,6 @@ ht-degree: 0%
 시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
 
 다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
-
-**섹션 1: 교육**
 
 **섹션 1: 사용 사례 검색**
 
