@@ -8,9 +8,9 @@ badge: label="시험 AD0-D106" type="양성"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
+source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 0%
 * [디지털 서명이란?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [Adobe Sign의 총 경제적 영향](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
 * [개발자를 위해 설계된 PDF API를 사용하여 문서 경험 다시 상상하기](https://developer.adobe.com/document-services){target="_blank"}
+* [문서 가시성 제한](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
 **섹션 4: 솔루션 추천**
 
