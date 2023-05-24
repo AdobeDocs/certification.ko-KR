@@ -8,14 +8,14 @@ badge: label="시험 AD0-D106" type="양성"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '894'
 ht-degree: 0%
 
 ---
 
-# Adobe Doc Cloud 비즈니스 실무자 Professional에 대한 인증 여정
+# Adobe Document Cloud 비즈니스 실무자 전문가용 인증 여정
 
 인증된 Adobe 비즈니스 실무자가 되는 방법에 대해 알아보십시오.
 
@@ -40,7 +40,6 @@ ht-degree: 0%
 * 솔루션 컨설턴트
 * 비즈니스 분석가
 * 판매
-* Developer
 
 **시험 세부 정보:**
 
@@ -59,7 +58,7 @@ ht-degree: 0%
 * Document Cloud 영업 기회 검증을 위한 질문
 * 높은 수준의 비즈니스 사용 사례 정의
 
-제2절: 업무프로세스 평가(34)
+제2절: 업무프로세스 평가(34%)
 
 * 프로세스 개선 및 솔루션 적합도의 핵심 영역 파악
 * Document Cloud 기능에 따라 비즈니스 목표 조정
