@@ -8,9 +8,9 @@ badge: label="시험 AD0-D106" type="양성"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
+source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -127,15 +127,13 @@ ht-degree: 0%
 
 **이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
 
-**연습 테스트 수행**
+**연습 테스트를 받으세요. 곧 출시될 예정입니다.**
 
 시작하기 전에 무료 연습 테스트를 받는 것이 좋습니다. Adobe의 전문가 수준의 시험에 사용할 수 있는 모든 연습 시험에 제한 없이 액세스할 수 있습니다.
 
 우리의 연습 시험은 모두 라이브 시험과 동일한 청사진에서 개발됩니다. 연습 테스트는 라이브 테스트에서 다룬 주제를 이해하는 데 도움이 됩니다.
 
 모의고사를 통과한다고 자격증 시험에 합격하는 것은 아님을 명심하시기 바랍니다.
-
-로 이동 [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 이제 연습 시험을 치르겠습니다.
 
 **인증 시험 응시**
 
