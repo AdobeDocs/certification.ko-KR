@@ -7,7 +7,7 @@ role: Data Architect,Developer
 badge: label="시험 AD0-E207" type="양성"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 19%
@@ -67,7 +67,7 @@ ht-degree: 19%
 * 비즈니스 요구 사항을 구축하기 위한 클라이언트 요구 사항 조사
 * 시나리오가 주어지면 측정 프레임워크 만들기
 
-섹션 2: 솔루션 설계(26%)
+섹션 2: 솔루션 설계(54%)
 
 * 비즈니스 요구 사항을 변수 및 지표로 변환
 * 보고서 세트 설정 관리 기능 시연
