@@ -2,7 +2,7 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시오. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: be0a8c6898d021744eb4a9e69225b4f83a42d3b2
+source-git-commit: 007fd9851149994e3ef7a46291731a5aa91adc81
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 46%
@@ -80,6 +80,11 @@ ht-degree: 46%
       + 마스터 {#ac-master}
          + [아키텍트](/help/certifications/ac/ac-m-architect.md)
       + [갱신](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Document Cloud] {#adc}
+      + [Document Cloud 개요](/help/certifications/adc/adc-overview.md)
+      + 전문가 {#adc-professional}
+         + [비즈니스 전문가](/help/certifications/adc/adc-p-business.md)
+      + [갱신](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
       + [Experience Manager 개요](/help/certifications/aem/aem-overview.md)
       + 전문가 {#aem-professional}
@@ -106,11 +111,6 @@ ht-degree: 46%
       + 마스터 {#ame-master}
          + [아키텍트](/help/certifications/ame/ame-m-architect.md)
       + [갱신](/help/certifications/ame/ame-renew.md)
-   + Adobe [!DNL Document Cloud] {#adc}
-      + [Document Cloud 개요](/help/certifications/adc/adc-overview.md)
-      + 전문가 {#adc-professional}
-         + [비즈니스 전문가](/help/certifications/adc/adc-p-business.md)
-      + [갱신](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP 개요](/help/certifications/rtcdp/rtcdp-overview.md)
       + 전문가 {#rtcdp-professional}
