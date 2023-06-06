@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="시험 AD0-E117" type="양성"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1570'
-ht-degree: 18%
+source-wordcount: '1568'
+ht-degree: 17%
 
 ---
 
@@ -131,7 +131,7 @@ ht-degree: 18%
 * [Adobe [!DNL Experience Manager] 6.5 Communities 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM Sites 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [AEM 6.5 Managing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [AEM as a cloud service 소개](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
+* [AEM as a cloud service 소개](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
 * [Cloud Manager 소개](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [AEM Foundation 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [HTTP/2 소개](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
@@ -146,7 +146,7 @@ ht-degree: 18%
 * [컨퍼런스 토크: Sling 컨텍스트 인식 구성](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [AEM Sites 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [AEM 6.4에서 템플릿을 기반으로 페이지 속성을 표시하거나 숨기는 방법](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [AEM Granite 사용자 지정 렌더링 조건](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
+* [AEM Granite 사용자 지정 렌더링 조건](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [React 애플리케이션에서 XSS 방지](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [AEM 6.5 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [AEM 6.4 모바일 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
@@ -174,7 +174,7 @@ ht-degree: 18%
 * [Adobe Admin Console의 ID 유형](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Dispatcher 개요](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [AEM Sites 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Cloud Manager 소개](https://docs.adobe.com/content/help/ko-KR/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
+* [Cloud Manager 소개](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Adobe Target 안내서](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [AEM 6.5 Authoring 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Assets 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
