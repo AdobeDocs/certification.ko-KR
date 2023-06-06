@@ -4,9 +4,9 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Adobe은 두 공급업체를 사용하여 감독자 시험을 관리합니다. [
 
 **다음 단계에 따라 인증 시험에 등록하십시오.**
 
-* **1단계:** 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
+* **1단계:** 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 * **2단계:** 이 사이트로 돌아가 기술 인증을 클릭하십시오.
 * **3단계:** Adobe 솔루션, 인증 수준 및 역할 선택
 * **4단계:** 아래에 제공된 단계를 따릅니다. **인증 받기** 섹션.
@@ -50,7 +50,7 @@ Adobe은 두 공급업체를 사용하여 감독자 시험을 관리합니다. [
 
 Adobe 지원이나 시험 공급업체는 스케줄 조정 및 취소 요청을 처리할 수 없습니다. 48시간 이내 취소 시에는 시험 수수료 외에 일정 조정 수수료가 부과됩니다.
 
-일단 시험을 마치면 잠정적인 합격증을 받거나 불합격한다. 최종 점수는 채우는 데 최대 72시간이 소요될 수 있습니다. 결과 및 점수 보고서는 의 기록 탭 아래에서 찾을 수 있습니다. [Adobe 자격 증명 관리자](http://www.certmetrics.com/adobe){target="_blank"}.
+일단 시험을 마치면 잠정적인 합격증을 받거나 불합격한다. 최종 점수는 채우는 데 최대 72시간이 소요될 수 있습니다. 결과 및 점수 보고서는 의 기록 탭 아래에서 찾을 수 있습니다. [Adobe 자격 증명 관리자](https://www.certmetrics.com/adobe){target="_blank"}.
 
 첫 번째 시도에서 Adobe 인증 시험에 합격하지 못한 경우, 재시험 전까지 최소 24시간을 기다려야 합니다. 두 번째 또는 그 이후의 시도에서 시험에 합격하지 못하면 재시험 전까지 14일의 대기기간이 필요합니다. 각 시도는 별도의 시험 비용이 발생합니다.
 
@@ -212,6 +212,6 @@ _모든 판매는 최종 판매입니다._ 반품과 환불은 안됩니다 Adob
 
 **질문**
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.

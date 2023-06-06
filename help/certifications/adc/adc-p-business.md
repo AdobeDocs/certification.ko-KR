@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-D106" type="양성"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '963'
 ht-degree: 1%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 1%
 * [Adobe PDF 포함 API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [비즈니스를 위한 PDF 및 전자 서명 도구입니다. Acrobat이 맡았어요.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Adobe Acrobat 사용 안내서](https://helpx.adobe.com/acrobat/user-guide.html){target="_blank"}
-* [통합 개요 - 새로운 기능](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [통합 개요 - 새로운 기능](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [안전하고 유연한 온라인 서명](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **섹션 3: Document Cloud(DC) 기능 정의**
@@ -122,7 +122,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
+>다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
 
@@ -163,7 +163,7 @@ Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확�
 
 **질문**
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
 

@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Adobe 인증 프로그램에 대한 자세한 내용은 아래 FAQ를 참조하�
 
 인증에는 전문성 Adobe에 따른 헌신과 법적 방어 능력 및 검증이 필요합니다. 에서 배지를 다운로드하여 소셜 프로필에 인증을 제공할 수도 있습니다. [!DNL Credly].
 
-에서 배지를 관리하는 방법에 대해 자세히 알아보려면 [!DNL Credly], 이동 [여기](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+에서 배지를 관리하는 방법에 대해 자세히 알아보려면 [!DNL Credly], 이동 [여기](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ Adobe 인증 프로그램에 대한 자세한 내용은 아래 FAQ를 참조하�
 때때로 여러 버전의 시험이 있습니다. 최신 버전을 선택하는 것이 가장 좋습니다.
 
 * 시험이 중단되면 인증 여정 페이지에 노트가 표시됩니다. 즉, 새로운 버전의 시험을 사용할 수 있으므로 이 시험 버전은 곧 제거됩니다. 후보자가 최신 버전을 수강하도록 권장하지만, 더 준비하는 경우 정년버전을 수강할 수 있습니다. 어느 쪽이든 당신의 자격증은 2년 동안 지속될 것입니다.
-* 현재 인증이 곧 만료되는 경우 갱신해야 합니다. 갱신 옵션은 질문이 적고 무료입니다. 이러한 옵션은 최신 애플리케이션 기능을 다룹니다. 인증이 만료되면 최신 버전의 인증 시험에 응시해야 하며, 해당 시험 비용은 사용자가 부담해야 합니다. [갱신 옵션에 대해 자세히 알아보기](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* 현재 인증이 곧 만료되는 경우 갱신해야 합니다. 갱신 옵션은 질문이 적고 무료입니다. 이러한 옵션은 최신 애플리케이션 기능을 다룹니다. 인증이 만료되면 최신 버전의 인증 시험에 응시해야 하며, 해당 시험 비용은 사용자가 부담해야 합니다. [갱신 옵션에 대해 자세히 알아보기](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ Adobe 인증은 2년 후에 만료됩니다. 해당 Adobe 인증 시험의 최�
 
 인증이 만료되며 다음에 만료됨으로 표시됩니다. [!DNL Credly] 모든 소셜 프로필에 대해 설명합니다. 또한, 자격증이 만료되면, 더 짧은 갱신 시험에 응시하거나 지속적인 학습을 통해 갱신할 수 없습니다.
 
-에서 배지를 관리하는 방법에 대해 자세히 알아보려면 [!DNL Credly], 이동 [여기](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+에서 배지를 관리하는 방법에 대해 자세히 알아보려면 [!DNL Credly], 이동 [여기](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Adobe 인증은 2년 후에 만료됩니다. 해당 Adobe 인증 시험의 최�
 
 무료로 인증을 갱신할 수 있습니다. 이를 통해 비용 효율적으로 인증을 유지하고 솔루션 기술을 최신 상태로 유지할 수 있습니다.
 
-인증 갱신 방법에 대해 자세히 알아보려면 [여기](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+인증 갱신 방법에 대해 자세히 알아보려면 [여기](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -387,7 +387,7 @@ Restart 프로그램은 2023년 4월 24일 이전에 만료된 인증만 대상�
 
 +++Adobe 이유 [!DNL Commerce] Adobe 인증 재시작 프로그램의 일부가 아닌 인증
 
-현재 제공되는 Adobe에 대해 만료된 인증서 소유자가 없습니다 [!DNL Commerce] 2023년 4월 23일 기준 인증. 따라서 모든 활성 Adobe [!DNL Commerce] 자격증 취득자는 지속적인 학습을 통해 갱신할 수 있는 선택권이 있다 [인증 갱신 경로](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+현재 제공되는 Adobe에 대해 만료된 인증서 소유자가 없습니다 [!DNL Commerce] 2023년 4월 23일 기준 인증. 따라서 모든 활성 Adobe [!DNL Commerce] 자격증 취득자는 지속적인 학습을 통해 갱신할 수 있는 선택권이 있다 [인증 갱신 경로](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

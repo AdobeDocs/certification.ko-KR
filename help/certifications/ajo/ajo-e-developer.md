@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E603" type="양성"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 11%
+source-wordcount: '976'
+ht-degree: 9%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 11%
 
 **섹션 1: 관리 및 구성**
 
-* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 액세스 제어
    * 메시지 구성
@@ -119,12 +119,12 @@ ht-degree: 11%
    * 가드레일
    * 여정
 
-* [샌드박스 개요](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ko-KR){target="_blank"}
+* [샌드박스 개요](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ko){target="_blank"}
 
 
 **섹션 2: AEP Foundation**
 
-* [Adobe  [!DNL Experience Platform]  설명서](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ko-KR){target="_blank"}
+* [Adobe  [!DNL Experience Platform]  설명서](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * XDM 안내서
    * 실시간 고객 프로필 안내서
@@ -138,11 +138,11 @@ ht-degree: 11%
 * [Adobe 소개 [!DNL Experience Platform] 강의](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Adobe 시작 [!DNL Experience Platform] 데이터 엔지니어 교육 과정](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [데이터 엔지니어를 위한 데이터 수집 교육 과정](https://experienceleague.adobe.com/?lang=ko-KR?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [Digital Experience 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en){target="_blank"}
+* [Digital Experience 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ko-KR){target="_blank"}
 
 **섹션 3: Offer decisioning**
 
-* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 의사 결정 관리
 
@@ -152,7 +152,7 @@ ht-degree: 11%
 
 **섹션 4: 컨텐츠 작성**
 
-* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 콘텐츠 디자인
    * 여정
@@ -162,7 +162,7 @@ ht-degree: 11%
 
 **섹션 5: Journey Orchestration**
 
-* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 여정
    * 추적 및 모니터링
@@ -173,7 +173,7 @@ ht-degree: 11%
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
+>다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
@@ -215,6 +215,6 @@ Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확�
 
 **질문**
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.

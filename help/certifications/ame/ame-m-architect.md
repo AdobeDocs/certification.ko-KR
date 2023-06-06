@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E556" type="양성"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1137'
+source-wordcount: '1125'
 ht-degree: 1%
 
 ---
@@ -134,7 +134,7 @@ Adobe 자격 증명 프로그램 은 Certified 기본 타이틀 달성에 관심
 **섹션 1: 프로젝트 리더십**
 
 * [챔피언 블로그 - Marketo 국가](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko){target="_blank"}
+* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
 * [설명서 - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
 **섹션 2: Adobe [!DNL Marketo Engage] 아키텍처 설계**
@@ -144,21 +144,21 @@ Adobe 자격 증명 프로그램 은 Certified 기본 타이틀 달성에 관심
 
 **섹션 3: 보고 및 속성**
 
-* [보고서 유형 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en){target="_blank"}
-* [속성 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html?lang=en){target="_blank"}
+* [보고서 유형 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [속성 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
 * [챔피언 블로그 - Marketo 국가](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 
 **섹션 4: 고급 작업**
 
-* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko){target="_blank"}
+* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
 * [소프트 바운스 억제](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=en){target="_blank"}
+* [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
 >[!TAB 인증 받기]
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](http://www.certmetrics.com/adobe){target="_blank"}.
+>다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
@@ -188,6 +188,6 @@ Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확�
 
 **질문**
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
