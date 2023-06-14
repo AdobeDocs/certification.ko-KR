@@ -7,10 +7,10 @@ role: Developer
 badge: label="시험 AD0-E123" type="양성"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 7a1c1e69c6451e485fecca587a70f15aa9991f95
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 11%
+source-wordcount: '850'
+ht-degree: 12%
 
 ---
 
@@ -117,9 +117,9 @@ ht-degree: 11%
 
 **섹션 4: 환경 유지 관리**
 
-* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [AEM 6.4 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-* [작업 대시보드](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html#automated-maintenance-tasks){target="_blank"}
+* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ko){target="_blank"}
+* [AEM 6.4 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [작업 대시보드](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
 * [Adobe 릴리스 정보 [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [핵심 구성 요소 소개](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ko)
@@ -142,7 +142,7 @@ Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험�
 * **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
 * **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
 
-시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단합니다!
+시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단해!
 
 Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
 

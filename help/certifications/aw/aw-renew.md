@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
 workflow-type: tm+mt
-source-wordcount: '3068'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -220,6 +220,111 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 Workfront Project Manager Professional 갱신 - AD5-833 링크를 클릭하십시오.
 
 * [Workfront 프로젝트 관리자 전문가 갱신 - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+
+>[!NOTE]
+>
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+
++++
+
++++Workfront Core Developer Professional
+
+## 인증 갱신 지침:
+
+* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계**: 시험 목표 및 리소스 검토
+* **3단계**: 시험 응시 및 통과
+
+### 준비
+
+**시험 세부 정보:**
+
+* 합격 점수: 25/35
+* 시간: 70분
+* 비용: 무료/비관리됨
+* 배달: 온디맨드
+* 사용 가능한 언어: 영어
+* 전제 조건: 현재(만료되지 않음) Adobe Workfront Core Developer Professional 인증
+* 시험 ID: AD5-E835
+
+**범위 및 목표**
+
+섹션 1: 전략 및 접수 (20%)
+
+* Portfolio 및 프로그램 사용
+* 요청 대기열 사용
+* 사용자 지정 Forms 사용
+
+섹션 2: 예산 및 계획(11%)
+
+* 리소스 계획 도구 사용
+
+섹션 3: 사용자 경험(26%)
+
+* 올바른 사용자 경험을 구축하기 위한 사용자 관리 모범 사례 설명
+* 시나리오가 주어지면 시스템에서 공유 및 액세스 권한에 대한 올바른 설정을 적용합니다
+* 블루프린트의 정의 및 사용 시점 인식
+* 타임시트를 만들고 사용하는 방법 시연
+* 커넥터, 플러그인 및 추가 기능의 목적 및 가치 설명
+
+섹션 4: 지표 및 보고(14%)
+
+* 보고서 작성, 전송 및 사용자 지정에 대한 기본 개념 설명
+* 대시보드 빌드 및 사용자 지정 방법 설명
+
+섹션 5: 실행(29%)
+
+* 승인 및 증명 워크플로를 설정하는 방법 시연
+* 프로젝트에 대한 문제 생성 목적 인식
+* 그룹 수준 프로젝트 상태를 사용자 지정하는 방법 시연
+* Workfront에서 애자일을 활성화하는 데 필요한 속성 식별
+* Workfront에서 시간을 입력하는 방법 식별
+
+## 준비 완료
+
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+
+**섹션 1: 전략 및 접수**
+
+* [Portfolio 최적화 프로그램 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [요청 대기열 생성 및 관리](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
+* [요청 대기열에 대한 액세스 권한 제공](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [사용자 정의 양식 개요](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+
+**섹션 2: 예산 및 계획**
+
+* [업무 균형자 찾기](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
+* [업무 균형자 를 사용하여 일괄 작업 할당](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [업무 균형자에서 사용자 할당 관리](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+
+**섹션 3: 사용자 경험**
+
+* [사용자 비활성화 또는 삭제 시기 및 방법](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
+* [프로젝트 템플릿 공유](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
+* [블루프린트 설치 후 수행할 작업](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
+* [일회용 타임시트 만들기](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+
+**섹션 4: 지표 및 보고**
+
+* [Adobe Workfront 통합](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [Creative Cloud에 Adobe Workfront 플러그인 사용](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [보고서 보내기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**섹션 5: 실행**
+
+* [Adobe Workfront에서 문제를 프로젝트로 전환](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
+* [보드 만들기 또는 편집](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
+* [보드에서 구성원 추가 또는 제거](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [타임시트 레이아웃 이해](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+
+## 인증 갱신
+
+위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 Workfront Core Developer Professional 갱신 - AD5-835 링크를 클릭하십시오.
+
+* [Workfront 코어 개발자 전문가 갱신 - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
