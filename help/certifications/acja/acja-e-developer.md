@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="시험 AD0-E604" type="양성"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '772'
-ht-degree: 10%
+source-wordcount: '863'
+ht-degree: 9%
 
 ---
 
@@ -128,8 +128,17 @@ Adobe Customer Journey Analytics에서 12~24개월 경험을 쌓아야 하며 �
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
+
+**연습 테스트 수행**
+
+시작하기 전에 무료 연습 테스트를 받는 것이 좋습니다. Adobe의 전문가 수준의 시험에 사용할 수 있는 모든 연습 시험에 제한 없이 액세스할 수 있습니다.
+
+우리의 연습 시험은 모두 라이브 시험과 동일한 청사진에서 개발됩니다. 연습 테스트는 라이브 테스트에서 다룬 주제를 이해하는 데 도움이 됩니다.
+
+모의고사를 통과한다고 자격증 시험에 합격하는 것은 아님을 명심하시기 바랍니다.
+
+로 이동 [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 이제 연습 시험을 치르겠습니다.
 
 **인증 시험 응시**
 
@@ -138,7 +147,7 @@ Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험�
 * **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
 * **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
 
-시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단합니다!
+시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단해!
 
 Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
 
