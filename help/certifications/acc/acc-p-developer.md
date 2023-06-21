@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E331" type="양성"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: d48e094e6aafac4e74b38bbe7440e6d2955231be
 workflow-type: tm+mt
-source-wordcount: '1321'
+source-wordcount: '1317'
 ht-degree: 9%
 
 ---
@@ -140,14 +140,14 @@ ht-degree: 9%
 * [스키마 확장 또는 생성](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html#extending-or-creating-schemas){target="_blank"}
 * [스키마 구조](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
 * [목록 [!DNL Campaign Classic] 옵션](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=ko){target="_blank"}
-* [외부 계정 구성](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html%3Flang%3Dja){target="_blank"}
+* [외부 계정 구성](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html){target="_blank"}
 * [유형화 규칙](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html#typology-rules){target="_blank"}
 
 **섹션 2: 사용자 지정**
 
 * [스키마 편집](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html){target="_blank"}
 * [스키마 확장](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html){target="_blank"}
-* [인스턴스 사용자 정의](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html%3Flang%3Den){target="_blank"}
+* [인스턴스 사용자 정의](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html){target="_blank"}
 * [활용 사례: 기준 시드 주소 선택](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html){target="_blank"}
 * [Campaign의 옵트인 및 옵트아웃 기본 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
 
