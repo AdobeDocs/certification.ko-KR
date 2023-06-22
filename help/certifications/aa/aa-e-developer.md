@@ -7,10 +7,10 @@ role: Developer
 badge: label="시험 AD0-E209" type="양성"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1148'
-ht-degree: 8%
+source-wordcount: '1063'
+ht-degree: 9%
 
 ---
 
@@ -162,21 +162,18 @@ ht-degree: 8%
 >[!IMPORTANT]
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
 
+## 연습 테스트 수행
 
-**이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
+{{practice-test}}
 
-**연습 테스트 수행**
+## 시험 정보
 
-시작하기 전에 무료 연습 테스트를 받는 것이 좋습니다. Adobe의 전문가 수준의 시험에 사용할 수 있는 모든 연습 시험에 제한 없이 액세스할 수 있습니다.
+{{about-certification-exam}}
 
-우리의 연습 시험은 모두 라이브 시험과 동일한 청사진에서 개발됩니다. 연습 테스트는 라이브 테스트에서 다룬 주제를 이해하는 데 도움이 됩니다.
-
-모의고사를 통과한다고 자격증 시험에 합격하는 것은 아님을 명심하시기 바랍니다.
-
-로 이동 [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 이제 연습 시험을 치르겠습니다.
-
-**인증 시험 응시**
+## 시험 응시
 
 Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험을 관리합니다.
 
@@ -189,17 +186,31 @@ Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확�
 
 예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
 
-### 시험 번호: AD0-E209
+## 시험 응시(AD0-E209)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209 newtab=true"}[!BADGE 예]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
+### 사용 가능한 옵션
 
-자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 
-시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
+
+**[!DNL Examity]** ( *온라인* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 >[!ENDTABS]
 
-**질문**
+## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

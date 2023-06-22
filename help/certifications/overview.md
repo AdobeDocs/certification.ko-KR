@@ -4,10 +4,10 @@ description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: c488851695d2eb1c2c8369126760aaa74c44ef58
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 8%
+source-wordcount: '460'
+ht-degree: 13%
 
 ---
 
@@ -36,6 +36,28 @@ Adobe 가져오기 [!DNL Experience Cloud] 인증은 다음과 같은 여러 가
 
 당사의 인증 프로그램은 개발자, 비즈니스 실무자, 설계자 등 다양한 분야의 전문가를 위해 설계되었습니다. 선택할 수 있는 다양한 인증 경로를 통해 Adobe 내에서 귀하의 숙련도와 전문 지식을 선보일 수 있습니다 [!DNL Experience Cloud] 그리고 고객과 고용주 모두에게 깊은 인상을 줍니다.
 
+## 모든 인증 보기
+
+사용 가능한 각 제품 인증에 대한 자세한 내용은 왼쪽 목차와 아래 목록에 모두 나열되어 있습니다.
+
+* [Adobe Analytics](/help/certifications/aa/aa-overview.md)
+* [Adobe Advertising Cloud](/help/certifications/aac/aac-overview.md)
+* [Adobe Audience Manager](/help/certifications/aam/aam-overview.md)
+* [Adobe Commerce](/help/certifications/ac/ac-overview.md)
+* [Adobe Campaign Classic](/help/certifications/acc/acc-overview.md)
+* [Adobe Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+* [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
+* [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
+* [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
+<!-- * [Adobe Experience Platform](/help/certifications/aep/aep-overview.md) -->
+* [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+* [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
+* [Adobe Target](/help/certifications/at/at-overview.md)
+* [Adobe Workfront](/help/certifications/aw/aw-overview.md)
+
+
+## 시작하기
+
 그럼 왜 기다리죠? 여러분의 전문적인 잠재력을 발휘하기 위한 첫 번째 단계를 취하고 지금 당사의 인증 경로를 살펴보십시오!
 
-[!BADGE 시작하기]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">시작하기</span></a>

@@ -4,9 +4,9 @@ description: ' [!DNL Experience Cloud]  인증을 시작합니다. 프로그램�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 611305977b6fb73516c236983fdf5878fcc920d6
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '941'
 ht-degree: 2%
 
 ---
@@ -72,9 +72,14 @@ Adobe 인증 시험은 세 가지 다른 직무 역할에 맞게 사용자 정�
 
 >[!ENDTABS]
 
-[!BADGE 인증 받기]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**질문**
+<span class="spectrum-Button-label has-no-wrap">
+   인증 받기
+</span>
+</a>
+
+## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

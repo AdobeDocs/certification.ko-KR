@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="시험 AD0-E454" type="양성"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 11%
+source-wordcount: '733'
+ht-degree: 12%
 
 ---
 
@@ -142,28 +142,36 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 >다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
 
-**인증 시험 응시**
+## 시험 정보
 
-Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험을 관리합니다.
+{{about-certification-exam}}
 
-* **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
-* **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
+## 시험 응시(AD0-E454)
 
-시험을 예약하거나 다시 예약하거나 취소하려면 공급업체를 선택하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단해!
+### 사용 가능한 옵션
 
-### 시험 번호: AD0-E454
+**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE 예]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
-시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
+**[!DNL Examity]** ( *온라인* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 >[!ENDTABS]
 
-**질문**
+## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

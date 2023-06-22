@@ -7,10 +7,10 @@ role: Developer
 badge: label="시험 AD0-E213" type="양성"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 50ab6e6f0fc5626e1da8843fd3a1abf09f966803
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
-source-wordcount: '1257'
-ht-degree: 11%
+source-wordcount: '1138'
+ht-degree: 12%
 
 ---
 
@@ -82,7 +82,7 @@ ht-degree: 11%
 * 배포할 단계 식별 [!DNL Adobe Analytics] 코드
 * Analytics 추적을 위한 최소 배포 코드의 함수 식별
 * 내에서 다양한 구성 요소를 구성하는 단계를 식별합니다 [!DNL Adobe Analytics] UI
-* 다음의 기능 식별 [!DNL Adobe Analytics] 보고서 세트 및 변수 설정
+* 의 기능 식별 [!DNL Adobe Analytics] 보고서 세트 및 변수 설정
 * 데이터 레이어 및 데이터 레이어 값의 특성 식별
 * 링크 추적 및 전자 상거래 추적과 같은 추적 기능에 대한 앱 측정 기능을 식별합니다
 
@@ -167,34 +167,38 @@ ht-degree: 11%
 >[!IMPORTANT]
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
 
+## 시험 정보
 
-**이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
+{{about-certification-exam}}
 
-**인증 시험 응시**
+## 시험 응시(AD0-E213)
 
-Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험을 관리합니다.
+### 사용 가능한 옵션
 
-* **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
-* **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
+**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 
-시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단해!
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
-예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
+**[!DNL Examity]** ( *온라인* )
 
-### 시험 번호: AD0-E213
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213 newtab=true"}[!BADGE 예]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213 newtab=true"}
-
-자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 >[!ENDTABS]
 
-**질문**
+## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

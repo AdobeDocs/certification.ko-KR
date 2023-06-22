@@ -7,10 +7,10 @@ role: Developer
 badge: label="시험 AD0-E136" type="양성"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '945'
-ht-degree: 9%
+source-wordcount: '819'
+ht-degree: 10%
 
 ---
 
@@ -125,7 +125,7 @@ ht-degree: 9%
 
 * [[!DNL Experience Manager] as a Cloud Service 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Adobe으로 마이그레이션 안내서 [!DNL Experience Manager] as a Cloud Service(파트너)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
-* [ AEM as a Cloud Service의 주요 변경 사항](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
+* [AEM as a Cloud Service의 주요 변경 사항](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
 
 **섹션 2: 디자인**
 
@@ -154,34 +154,31 @@ ht-degree: 9%
 >[!IMPORTANT]
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
 
 
-**이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
 
-**인증 시험 응시**
+## 시험 정보
 
-Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험을 관리합니다.
+{{about-certification-exam}}
 
-* **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
-* **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
+## 시험 응시(AD0-E136)
 
-시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단합니다!
+### 사용 가능한 옵션
 
-Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
+**[!DNL Examity]** ( *온라인* )
 
-예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-### 시험 번호: AD0-E136
-
-[!BADGE 예]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136 newtab=true"}
-
-자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 >[!ENDTABS]
 
-**질문**
+## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

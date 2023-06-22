@@ -6,18 +6,20 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
 workflow-type: tm+mt
-source-wordcount: '5189'
+source-wordcount: '5163'
 ht-degree: 8%
 
 ---
 
 # 만료됨에서 인증됨으로 이동하여 인증 여정 다시 시작
 
-이 제한된 시간 프로그램, 제공됨 **2023년 4월 24일부터 2023년 10월 20일까지**&#x200B;을 사용하면 기술을 업데이트하여 빠르게 변화하는 디지털 환경에서 주도권을 유지할 수 있습니다.
-
-오는 2020년부터 2023년 4월 23일까지 인증이 만료된 개인이 대상이다 **무료** 프로그램.
+>[!AVAILABILITY]
+>
+> 에서 제공되는 이 제한된 시간 프로그램 **2023년 4월 24일부터 2023년 10월 20일까지**.  이 프로그램은 기술을 업데이트하고 빠르게 변화하는 디지털 환경에서 주도권을 유지할 수 있는 기회를 제공합니다.
+>
+> ** 자격 : 2020년부터 2023년 4월 23일까지 인증이 만료된 개인이 이 자격에 해당됩니다 **무료** 프로그램.
 
 ## 소개
 
@@ -107,7 +109,7 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 | [Adobe Analytics 데이터 내보내기 및 대중화 - 단원 5 및 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [사용자 정의 세분화 및 날짜를 통해 데이터 필터링 - 단원 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [안내식 Analytics 구현 - 단원 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [ 내부 사이트 검색 구현 및 측정 - 3과 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
+| [내부 사이트 검색 구현 및 측정 - 3과 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
@@ -210,12 +212,9 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+다음은 제안된 리소스입니다.
 
-[!BADGE 샘플 질문]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**리소스:**
-
+* [샘플 시험](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] 제품 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe 지원 - [!DNL Experience Cloud] 대상](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud] 학습 및 지원](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
@@ -223,9 +222,14 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 **인증 다시 시작**
 
-이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe Audience Manager 비즈니스 실무자 전문가 재시작 시험 ADS-E826은 무료이며, 오픈 북이며, 운송장. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
-[!BADGE Adobe Audience Manager 비즈니스 실무자 전문가 재시작 시험 채택 ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E826 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 +++
 
@@ -319,9 +323,14 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 ### 인증 다시 시작
 
-이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe Audience Manager Architect 마스터 재시작 시험 ADS-E825는 무료이며, 책을 열어 볼 수 있으며, 운임이 없습니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
-[!BADGE Adobe Audience Manager Architect 마스터 재시작 시험 응시 ADS-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 +++
 
@@ -429,9 +438,14 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 ### 인증 다시 시작
 
-이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe [!DNL Campaign Standard] 개발자 전문가 재시작 시험 ADS-821은 무료이며, 열린 책이며, 감독자가 아닙니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
-[!BADGE Adobe [!DNL Campaign Standard] 개발자 전문가 재시작 시험 ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 +++
 
@@ -502,9 +516,14 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 ### 인증 다시 시작
 
-이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe [!DNL Campaign Standard] 비즈니스 실무자 전문가 재시작 시험 ADS-822는 무료이며, 열린 책이며, 계산되지 않습니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
-[!BADGE Adobe [!DNL Campaign Standard] 비즈니스 실무자 전문가 시험 다시 시작 ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 +++
 
@@ -607,9 +626,14 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 ### 인증 다시 시작
 
-이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe Campaign Classic 재시작 시험 ADS-823은 무료이며, 열린 책이며, 감독되지 않습니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
-[!BADGE Adobe Campaign Classic 재시작 시험 응시 ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 +++
 
@@ -728,13 +752,18 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 ### 인증 다시 시작
 
-이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe Marketo Engage 비즈니스 실무자 전문가 재시작 시험 ADS-E824는 무료이며, 책을 열어서 계산되지 않습니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
-[!BADGE Adobe Marketo Engage 비즈니스 실무자 전문가 재시작 시험 채택 ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시
+</span>
+</a>
 
 >[!ENDTABS]
 
-### 질문
+## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
