@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E407" type="양성"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1149'
 ht-degree: 19%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 19%
 # 인증 여정 [!DNL Adobe Target] 설계자 기본
 
 공인 Adobe 설계자가 되는 방법에 대해 기본으로 알아봅니다.
+
+>[!NOTE]
+>
+>이 시험의 Adobe Target Architect 기본 (AD0-E407)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 8월 18일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](at-m-architect0623.md).
 
 ## 최소 경험
 
@@ -52,10 +56,6 @@ ht-degree: 19%
 * 웹 및 모바일 환경
 * AMS 호스팅 환경
 * Adobe I/O Runtime
-
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
 
 >[!BEGINTABS]
 
