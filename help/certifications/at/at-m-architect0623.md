@@ -6,7 +6,7 @@ product: Target
 role: Data Architect
 badge: label="시험 AD0-E409" type="양성"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 10%
@@ -19,7 +19,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->최신 Adobe Target Architect 기본 시험입니다. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](at-m-architect.md) 2023년 8월 25일까지 완료해야 합니다.
+>최신 Adobe Target Architect 기본 시험입니다. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](at-m-architect.md) 2023년 9월 8일까지 완료해야 합니다.
 
 ## 최소 경험
 

@@ -3,7 +3,7 @@ title: Target 인증 개요
 description: Adobe Target의 인증 옵션 개요
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 11%
@@ -20,7 +20,7 @@ Adobe Target Architect 기본 인증이 업데이트되었습니다.
 
 * [Adobe Target Architect 기본 (AD0-E409)](/help/certifications/at/at-m-architect.md)
 
-이미 본 시험을 위한 일정을 잡았거나 공부를 시작한 경우에는 반드시 일정을 잡고 시험을 완료하시기 바랍니다 **2023년 8월 25일 이전**.
+이미 본 시험을 위한 일정을 잡았거나 공부를 시작한 경우에는 반드시 일정을 잡고 시험을 완료하시기 바랍니다 **2023년 9월 8일 이전**.
 
 그러나 인증을 막 시작하는 경우에는 다음을 수행하는 것이 좋습니다. **새로 만들기** 시험의 버전.
 
