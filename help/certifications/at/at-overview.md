@@ -3,7 +3,7 @@ title: Target 인증 개요
 description: Adobe Target의 인증 옵션 개요
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 11%
@@ -36,7 +36,7 @@ Adobe Target Architect 기본 인증이 업데이트되었습니다.
 
 **마스터**
 
-* [설계자 - 2023년 8월 25일 만료](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [설계자 - 2023년 9월 8일 만료](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [새로 설계](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
 다음 방문: [인증 갱신](/help/certifications/renew.md) 이 제품에 대한 갱신 옵션을 사용할 수 있는지 확인하는 페이지입니다.
