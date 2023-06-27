@@ -4,13 +4,14 @@ description: Adobe에서 인증된 Adobe Developer 전문가가 되는 방법에
 solution: Commerce
 product: Magento
 role: Developer
+level: Experienced
 badge: label="시험 AD0-E710" type="양성"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
-source-wordcount: '1365'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

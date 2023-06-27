@@ -2,12 +2,13 @@
 title: 전문 자격증
 description: 자격증을 취득하는 방법 알아보기 [!DNL Experience Platform] 의 전문가 [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
+product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 badge: label="시험 AD0-E602" type="양성"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 4%

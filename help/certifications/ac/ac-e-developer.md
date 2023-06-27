@@ -3,13 +3,14 @@ title: 개발자 전문가 인증
 description: Adobe에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다 [!DNL Commerce].
 solution: Commerce
 role: Developer
+level: Experienced
 badge: label="시험 AD0-E716" type="양성"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
-source-wordcount: '1854'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

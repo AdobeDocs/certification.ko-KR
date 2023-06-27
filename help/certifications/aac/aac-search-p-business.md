@@ -3,14 +3,15 @@ title: 비즈니스 전문가 인증
 description: Adobe 인증을 받는 방법 알아보기 [!DNL Advertising Search] 비즈니스 전문가.
 solution: Advertising
 product: Advertising Cloud
+level: Experienced
 role: User
 badge: label="시험 AD0-E501" type="양성"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
-source-wordcount: '905'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

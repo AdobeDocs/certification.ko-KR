@@ -4,12 +4,13 @@ description: Adobe 분야의 Adobe 비즈니스 전문가 자격증을 취득하
 solution: Commerce
 product: Magento
 role: User
+level: Experienced
 badge: label="시험 AD0-E708" type="양성"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
-source-wordcount: '1443'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

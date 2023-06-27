@@ -4,13 +4,14 @@ description: 다음으로 인증 받는 방법 알아보기 [!DNL Adobe Analytic
 solution: Analytics
 product: Analytics
 role: Developer
+level: Experienced
 badge: label="시험 AD0-E209" type="양성"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
-source-wordcount: '1063'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
