@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E719" type="양성"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 1%
 
 ---
@@ -94,10 +94,12 @@ Adobe에 대해 0~12개월 실습 경험이 있어야 합니다. [!DNL Commerce]
 
 섹션 4: JavaScript(16%)
 
-* 콘텐츠 관리의 기본 사용 시연
-* 특정 범위(웹 사이트, 스토어, 스토어-뷰)에 테마를 적용/예약하는 단계 설명
-* 관리자 구성을 사용하여 카테고리, 제품 및 CMS 페이지에 디자인 변경 사항을 적용하는 단계를 설명합니다
-* 트랜잭션 이메일을 사용자 지정하는 단계 설명
+* JavaScript 구성 요소를 초기화하고 호출하는 기능을 보여 줍니다.
+* RequireJS 사용 시연
+* mixin 사용 설명
+* JS에서 번역을 추가하는 방법 설명
+* 녹아웃 JS 사용 설명
+* jQuery 위젯의 사용 설명
 
 섹션 5: 관리자 구성 및 페이지 빌더(12%)
 
