@@ -6,9 +6,9 @@ product: Target
 role: Data Architect
 badge: label="시험 AD0-E409" type="양성"
 mini-toc-levels: 1
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
 workflow-type: tm+mt
-source-wordcount: '1182'
+source-wordcount: '1112'
 ht-degree: 10%
 
 ---
@@ -128,12 +128,6 @@ ht-degree: 10%
 
 다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
 
-**샘플 질문**
-
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
-
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
-
 **섹션 1**
 
 * [Target 활동 유형](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html){target="_blank"}
@@ -208,7 +202,7 @@ Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확�
 
 ### 시험 번호: AD0-E409
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E409 newtab=true"}[!BADGE 예]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
+[!BADGE 예]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
 
 자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
