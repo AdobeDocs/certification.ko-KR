@@ -7,10 +7,10 @@ role: Developer
 badge: label="시험 AD0-E123" type="양성"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: d0f36986ffb20d9a338ba80932643d9b79ab9a9e
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 14%
+source-wordcount: '708'
+ht-degree: 16%
 
 ---
 
@@ -49,10 +49,6 @@ ht-degree: 14%
 * 사용 가능한 언어: 영어
 * 비용: 125달러(전세계) / 95달러(인도)
 * 시험 ID: AD0-E123
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
 
 **시험 목표 및 범위**
 
@@ -124,7 +120,7 @@ ht-degree: 14%
 * [[!DNL Experience Manager as a Cloud Service] 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [핵심 구성 요소 소개](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ko)
 * [[!DNL AEM as Cloud Service] 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 릴리스 업데이트 및 로드맵](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] 릴리스 업데이트 및 로드맵](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ko){target="_blank"}
 
 >[!TAB 인증 받기]
 
