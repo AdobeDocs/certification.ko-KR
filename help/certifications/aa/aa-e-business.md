@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E208" type="양성"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 14%
@@ -38,7 +38,7 @@ ht-degree: 14%
 
 * FTP 클라이언트
 * 현재 [!DNL Adobe Analytics] 작업 영역 기능 및 작업 영역 외부의 기타 보고 옵션(예: 프로젝트 및 일정 보고서)
-* 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe 디버거, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
+* 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe Debugger, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
 * Admin Console(Analytics Reports Suite Admin Console 및 Experience Cloud Admin Console)
 * Adobe Launch 기본 사항/기본 사항
 * 앱, SPA, 기본 웹 사이트 이해
@@ -181,7 +181,7 @@ ht-degree: 14%
 
 ### 사용 가능한 옵션
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

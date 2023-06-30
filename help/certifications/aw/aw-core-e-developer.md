@@ -6,7 +6,7 @@ role: Developer
 badge: label="시험 AD0-E904" type="양성"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1531'
 ht-degree: 0%
@@ -207,7 +207,7 @@ ht-degree: 0%
 
 ### 사용 가능한 옵션
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

@@ -8,7 +8,7 @@ level: Experienced
 badge: label="시험 AD0-E209" type="양성"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 9%
@@ -191,7 +191,7 @@ Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확�
 
 ### 사용 가능한 옵션
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

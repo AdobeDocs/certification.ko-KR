@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="시험 AD0-E600 및 AD7-E601" type="긍정적"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1732'
 ht-degree: 6%
@@ -291,7 +291,7 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 
 ### 사용 가능한 옵션
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 
