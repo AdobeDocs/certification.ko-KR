@@ -6,10 +6,10 @@ role: Developer
 badge: label="시험 AD0-E905" type="양성"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1034'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -177,6 +177,8 @@ ht-degree: 1%
 ## 시험 응시(AD0-E905)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

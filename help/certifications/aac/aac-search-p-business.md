@@ -8,10 +8,10 @@ role: User
 badge: label="시험 AD0-E501" type="양성"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '905'
+ht-degree: 5%
 
 ---
 
@@ -163,6 +163,8 @@ ht-degree: 0%
 ## 시험 응시(AD0-E501)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

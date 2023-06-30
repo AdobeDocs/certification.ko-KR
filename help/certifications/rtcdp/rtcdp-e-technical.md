@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="시험 AD0-E600 및 AD7-E601" type="긍정적"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1732'
+ht-degree: 6%
 
 ---
 
@@ -217,11 +217,11 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 * [프로필 대시보드](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [실시간 고객 프로필 데이터에 대한 기본 보호](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=ko)
 * [실시간 고객 프로필 활성화](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
-* [[!DNL Real-Time Customer Data Platform] 개요](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=ko){target="_blank"}
+* [[!DNL Real-Time Customer Data Platform] 개요](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=ko-KR){target="_blank"}
 * [AEP 애플리케이션 서비스: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDP 시작하기](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [[!DNL Real-Time Customer Data Platform] 홈 페이지 및 대시보드](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
-* [UI의 대상에 대한 데이터 흐름 모니터링](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
+* [UI의 대상에 대한 데이터 흐름 모니터링](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=ko-KR){target="_blank"}
 * [Adobe에서 세그먼트 만들기 및 활성화 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [개인정보 보호 개요](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Real-time CDP의 데이터 거버넌스](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
@@ -290,6 +290,8 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 ## 시험 응시(AD0-E601)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

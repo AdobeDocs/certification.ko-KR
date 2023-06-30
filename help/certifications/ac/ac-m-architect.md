@@ -8,10 +8,10 @@ level: Experienced
 badge: label="시험 AD0-E718" type="양성"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '881'
+ht-degree: 1%
 
 ---
 
@@ -176,6 +176,8 @@ ht-degree: 0%
 ## 시험 응시(AD0-E718)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

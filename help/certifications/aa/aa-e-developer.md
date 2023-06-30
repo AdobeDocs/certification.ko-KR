@@ -8,10 +8,10 @@ level: Experienced
 badge: label="시험 AD0-E209" type="양성"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1063'
+ht-degree: 9%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 도구:
 
 * Adobe Experience Platform Launch(Adobe 시작)
-* 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe 디버거, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
+* 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe Debugger, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
 * [!DNL Adobe Analytics] Admin Console 보고서 세트 설정
 * 기본 작업 영역 지식
 * 웹 개발 도구, 코드 편집기 및 모바일 디버깅 도구
@@ -190,6 +190,8 @@ Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확�
 ## 시험 응시(AD0-E209)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

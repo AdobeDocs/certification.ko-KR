@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E406" type="양성"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 1%
@@ -169,7 +169,7 @@ ht-degree: 1%
 * [개인화 통찰력 보고서 사용](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
 * [Analytics와 Target 통합](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
 * [Adobe Analytics을 데이터 소스로 사용 [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
-* [자동 Target 활동을 위해 Analysis Workspace에서 A4T 보고서 설정](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ko-KR){target="_blank"}
+* [자동 Target 활동을 위해 Analysis Workspace에서 A4T 보고서 설정](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ko){target="_blank"}
 
 **섹션 4: 문제 해결**
 
@@ -198,6 +198,8 @@ ht-degree: 1%
 ## 시험 응시(AD0-E406)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

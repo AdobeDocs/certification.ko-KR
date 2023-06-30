@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E121" type="양성"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1122'
 ht-degree: 12%
@@ -124,7 +124,7 @@ ht-degree: 12%
 
 **섹션 2: 아키텍처**
 
-* [Adobe 소개 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
+* [Adobe 소개 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=ko-KR){target="_blank"}
 * [AEM 6.5 기능에 대해 알아보기](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] 설명서](https://experienceleague.adobe.com/docs/experience-manager.html){target="_blank"}
 * [타사 서비스와 통합](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
@@ -186,6 +186,8 @@ ht-degree: 12%
 ## 시험 응시(AD0-E121)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

@@ -7,7 +7,7 @@ role: Developer
 badge: label="시험 AD0-E719" type="양성"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 1%
@@ -189,6 +189,8 @@ Adobe에 대해 0~12개월 실습 경험이 있어야 합니다. [!DNL Commerce]
 ## 시험 응시(AD0-E719)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

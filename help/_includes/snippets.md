@@ -1,7 +1,7 @@
 ---
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,9 @@ Adobe은 두 공급업체를 사용하여 PSI 및 [!DNL Examity].
 예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
 
 자격증 시험에 대한 비용을 바우처나 신용카드로 지불하세요. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}. 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
+
+## PSI 참고 {#PSI-note}
+
+>[!IMPORTANT]
+>
+>2023년 8월 1일부터 시험 일정이 더 이상 PSI에서 제공되지 않습니다. 이미 PSI 시험 일정을 잡았다면 2023년 8월 1일 이전에 응시해야 합니다. 2023년 8월 1일 이후에 PSI로 시험을 예약한 경우 해당 날짜 이전에 시험을 치르도록 다시 예약하십시오. 2023년 8월 1일 이전에 시험에 응시할 수 없거나 시험 준비가 되지 않았다면 이메일을 보내주십시오 <certif@adobe.edu> 따라서 귀하가 Examity로 시험을 이전하는 것을 지원할 수 있습니다. 여기에는 일본어 시험이 포함됩니다.

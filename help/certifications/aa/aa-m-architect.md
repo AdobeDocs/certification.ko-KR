@@ -8,10 +8,10 @@ role: Data Architect,Developer
 badge: label="시험 AD0-E207" type="양성"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '900'
+ht-degree: 17%
 
 ---
 
@@ -161,6 +161,8 @@ Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확�
 ## 시험 응시(AD0-E207)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

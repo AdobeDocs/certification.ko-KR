@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E603" type="양성"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 12%
@@ -138,7 +138,7 @@ ht-degree: 12%
 * [Adobe 소개 [!DNL Experience Platform] 강의](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Adobe 시작 [!DNL Experience Platform] 데이터 엔지니어 교육 과정](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [데이터 엔지니어를 위한 데이터 수집 교육 과정](https://experienceleague.adobe.com/?lang=ko-KR?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [Digital Experience 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ko-KR){target="_blank"}
+* [Digital Experience 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
 **섹션 3: Offer decisioning**
 
@@ -188,6 +188,8 @@ ht-degree: 12%
 ## 시험 응시(AD0-E603)
 
 ### 사용 가능한 옵션
+
+{#PSI-note}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 
