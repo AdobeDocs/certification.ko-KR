@@ -4,7 +4,7 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 1%
@@ -20,6 +20,8 @@ Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 받기 전, �
 >[!TAB 등록]
 
 Adobe은 두 공급업체를 사용하여 감독자 시험을 관리합니다. [!DNL PSI] 및 [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]:** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
 * **[!DNL Examity]:** 원격 온라인 옵션을 제공합니다.
@@ -85,6 +87,8 @@ Adobe 지원이나 시험 공급업체는 스케줄 조정 및 취소 요청을 
 >[!TAB 인증 공급업체]
 
 Adobe 자격 증명 팀은 공급업체와 협력하여 프로그램의 이니셔티브와 목표를 지원합니다.  다음은 공급업체와 해당 연락처 정보입니다.
+
+{{PSI-note}}
 
 | 공급업체 이름 | 설명 | 지원 페이지/이메일 |
 | ------- | ------- | ------- |

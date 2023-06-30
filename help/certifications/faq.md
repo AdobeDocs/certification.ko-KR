@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Adobe 인증을 받은 개인이 새로운 애플리케이션 기능과 기능�
 +++
 
 +++영어 말고 다른 언어로 시험을 볼 수 있습니까?
+
+{{PSI-note}}
 
 PSI(공급업체중 하나)를 통해 일본어로 시험을 볼 수 있습니다. 일본어로 시험이 가능한 경우 해당 시험의 시험 세부 정보에 명시됩니다. 시험 세부 사항은 인증 여정 페이지의 &quot;준비&quot; 탭에 있습니다.
 
