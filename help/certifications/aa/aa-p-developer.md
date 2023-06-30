@@ -8,7 +8,7 @@ level: Experienced
 badge: label="시험 AD0-E213" type="양성"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 12%
@@ -83,7 +83,7 @@ ht-degree: 12%
 * 배포할 단계 식별 [!DNL Adobe Analytics] 코드
 * Analytics 추적을 위한 최소 배포 코드의 함수 식별
 * 내에서 다양한 구성 요소를 구성하는 단계를 식별합니다 [!DNL Adobe Analytics] UI
-* 의 기능 식별 [!DNL Adobe Analytics] 보고서 세트 및 변수 설정
+* 다음의 기능 식별 [!DNL Adobe Analytics] 보고서 세트 및 변수 설정
 * 데이터 레이어 및 데이터 레이어 값의 특성 식별
 * 링크 추적 및 전자 상거래 추적과 같은 추적 기능에 대한 앱 측정 기능을 식별합니다
 
@@ -179,7 +179,7 @@ ht-degree: 12%
 
 ### 사용 가능한 옵션
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

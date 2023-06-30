@@ -8,7 +8,7 @@ level: Experienced
 badge: label="시험 AD0-E454" type="양성"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 12%
@@ -152,7 +152,7 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 
 ### 사용 가능한 옵션
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

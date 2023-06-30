@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E603" type="양성"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 12%
@@ -189,7 +189,7 @@ ht-degree: 12%
 
 ### 사용 가능한 옵션
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 

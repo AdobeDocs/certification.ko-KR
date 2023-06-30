@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="시험 AD0-E556" type="양성"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1006'
 ht-degree: 1%
@@ -172,7 +172,7 @@ Adobe 자격 증명 프로그램 은 Certified 기본 타이틀 달성에 관심
 
 ### 사용 가능한 옵션
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 
