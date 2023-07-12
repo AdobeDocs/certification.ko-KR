@@ -4,11 +4,11 @@ description: 에서 인증된 Adobe 전문가가 되는 방법에 대해 알아�
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
-badge: label="시험 AD0-E608" type="양성"
+badge: label="시험 AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '626'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 13%
 
 ## 최소 경험
 
-이상적인 MQC는 최소 6개월 이상의 Customer Journey Analytics 경험을 보유한 분석가로서, Adobe Experience Platform과 CJA가 어떻게 연동되는지에 대한 기본 지식을 갖추고 있습니다. 후보는 적절한 보고 및 시각화 옵션을 사용하여 주어진 비즈니스 요구에 대한 기본 및 고급 분석을 수행할 수 있습니다.
+최소 자격을 갖춘 이상적인 후보자는 Customer Journey Analytics에 6개월 이상 종사한 경험이 있고 CJA가 Adobe Experience Platform과 어떻게 연동되는지에 대한 기본 지식을 갖춘 분석가입니다. 후보는 적절한 보고 및 시각화 옵션을 사용하여 주어진 비즈니스 요구에 대한 기본 및 고급 분석을 수행할 수 있습니다.
 
 >[!NOTE]
 >

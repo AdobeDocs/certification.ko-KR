@@ -4,12 +4,12 @@ description: 인증된 Adobe Doc Cloud Professional이 되는 방법에 대해 �
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="시험 AD0-D106" type="양성"
+badge: label="시험 AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -127,13 +127,9 @@ ht-degree: 1%
 >또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
 
 
-**연습 테스트를 받으세요. 곧 출시될 예정입니다.**
+## 연습 테스트 수행
 
-시작하기 전에 무료 연습 테스트를 받는 것이 좋습니다. Adobe의 전문가 수준의 시험에 사용할 수 있는 모든 연습 시험에 제한 없이 액세스할 수 있습니다.
-
-우리의 연습 시험은 모두 라이브 시험과 동일한 청사진에서 개발됩니다. 연습 테스트는 라이브 테스트에서 다룬 주제를 이해하는 데 도움이 됩니다.
-
-모의고사를 통과한다고 자격증 시험에 합격하는 것은 아님을 명심하시기 바랍니다.
+{{practice-test}}
 
 ## 시험 정보
 
