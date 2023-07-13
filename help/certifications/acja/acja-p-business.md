@@ -6,7 +6,7 @@ product: Customer Journey Analytics
 role: User
 badge: label="시험 AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: 5d7c136e3d38f3fed5443dcb476c8a2af9fad24d
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 13%
@@ -125,13 +125,13 @@ ht-degree: 13%
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-D608)
+## 시험 응시(AD0-E608)
 
 ### 사용 가능한 옵션
 
 **[!DNL Examity]** ( *온라인* )
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    시험 응시
@@ -145,4 +145,3 @@ ht-degree: 13%
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
-
