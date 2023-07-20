@@ -1,16 +1,16 @@
 ---
 title: 전문가 인증
 description: 자격증을 취득하는 방법 알아보기 [!DNL Experience Platform] 의 전문가 [!DNL Real-Time Customer Data Platform]
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
-badge: label="시험 AD0-E600 및 AD7-E601" type="긍정적"
+badge: label="시험 AD0-E600 및 AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1729'
 ht-degree: 6%
 
 ---
@@ -130,7 +130,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 
 **섹션 4: 활성화**
 
-* [대상 개요](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
+* [대상 개요](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ko){target="_blank"}
 
 >[!TAB 인증 받기]
 
@@ -254,7 +254,7 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 
 **섹션 3: 대상**
 
-* [대상 개요](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
+* [대상 개요](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ko){target="_blank"}
 * [대상 유형 및 범주](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
 * [대상 작업 영역](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [새 대상 연결 만들기](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
