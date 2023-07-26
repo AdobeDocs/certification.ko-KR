@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -27,7 +27,7 @@ Adobe 재시작 프로그램을 사용하면 만료될 수 있는 개인 사용�
 
 인증 만료자 중 이 프로그램에 적합한 개인은 Adobe 인증 프로그램에서 &quot;Adobe 인증을 다시 무료로 받으십시오&quot;라는 제목의 이메일을 받았어야 합니다.
 
-자격 여부를 잘 모르는 경우 다음을 확인하십시오 [여기](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+자격 여부를 잘 모르는 경우 다음을 확인하십시오 [여기](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 자격을 얻으려면 인증이 충족되어야 합니다. **모두** 다음 기준:
 
@@ -198,7 +198,7 @@ Adobe 재시작 프로그램을 사용하면 만료될 수 있는 개인 사용�
 
   두 번째, **고객 참조 양식 제출** Adobe Experience Cloud 구현 프로젝트에 대한 Adobe 인증 개인 리더, 관리 및/또는 참여로서의 지속적인 작업 확인. 이 양식은 지난 12개월 동안 입증된 프로젝트 참여에 100시간 이상 참여했음을 확인합니다.
 
-  [Adobe Target에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Adobe Target에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   고객 참조가 검토되면 Adobe 자격 증명 팀으로부터 알림을 받게 됩니다. 참조가 수락되지 않으면 인증이 만료되기 전에 성공하기 전까지 다시 제출할 수 있습니다.
 
@@ -272,7 +272,7 @@ Adobe 재시작 프로그램을 사용하면 만료될 수 있는 개인 사용�
 
 시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
 
-다음은 제안된 리소스입니다.
+다음은 추천 리소스입니다.
 
 * [샘플 시험](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] 제품 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
