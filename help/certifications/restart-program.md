@@ -6,36 +6,109 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
+source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
 workflow-type: tm+mt
-source-wordcount: '5163'
+source-wordcount: '5199'
 ht-degree: 8%
 
 ---
 
 # 만료됨에서 인증됨으로 이동하여 인증 여정 다시 시작
 
->[!AVAILABILITY]
+Adobe 재시작 프로그램을 사용하면 만료될 수 있는 개인 사용자가 허용됩니다. [!DNL Experience Cloud] 비관리형, 온디맨드 평가 또는 시험을 통해 무료로 재인증을 받을 수 있는 인증.
+
+인증은 경쟁력을 유지하려는 사람들에게 유용한 리소스이며, 이 프로그램은 업데이트할 수 있는 기회를 제공합니다 [!DNL Experience Cloud] 빠르게 변화하는 디지털 환경 속에서 기술을 습득하고 탁월한 성능을 발휘하십시오.
+
+>[!IMPORTANT]
 >
-> 에서 제공되는 이 제한된 시간 프로그램 **2023년 4월 24일부터 2023년 10월 20일까지**.  이 프로그램은 기술을 업데이트하고 빠르게 변화하는 디지털 환경에서 주도권을 유지할 수 있는 기회를 제공합니다.
->
-> ** 자격 : 2020년부터 2023년 4월 23일까지 인증이 만료된 개인이 이 자격에 해당됩니다 **무료** 프로그램.
+>**이 한정 프로그램은 2023년 4월 24일부터 2023년 10월 20일까지만 제공됩니다.**
 
-## 소개
+## 자격 요건
 
-Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있는 이니셔티브입니다 [!DNL Experience Cloud] 재인증을 위한 무료 인증. 만료된 이후 Adobe Experience Cloud 인증을 이전에 보유한 경우 무료 및 비관리형 테스트 형식을 통해 인증을 다시 시작할 수 있습니다. 이 프로그램은 Adobe Experience Cloud에 대한 지식과 기술을 향상시키고 경쟁력을 유지하려는 사람들에게 유용한 리소스입니다.
+인증 만료자 중 이 프로그램에 적합한 개인은 Adobe 인증 프로그램에서 &quot;Adobe 인증을 다시 무료로 받으십시오&quot;라는 제목의 이메일을 받았어야 합니다.
 
-### 만료된 인증을 다시 시작하는 절차{#exams}
+자격 여부를 잘 모르는 경우 다음을 확인하십시오 [여기](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
 
->[!NOTE]
->
->Adobe 자격 증명 프로그램에서 &quot;Adobe 인증을 다시 무료로 받기&quot;라는 제목의 이메일을 받은 경우 2단계로 건너뛸 수 있습니다.
+자격을 얻으려면 인증이 충족되어야 합니다. **모두** 다음 기준:
 
-* 1단계: 다음을 확인하여 만료된 인증이 다시 시작 프로그램에 적합한지 확인 [여기](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}. 적합한 경우 2단계로 진행합니다.
-* 2단계: 응용 프로그램에 대한 다시 시작 요구 사항을 검토합니다.
-* 3단계: 단계에 따라 강의 평가/시험을 완료합니다. **2023년 10월 20일 이전에** 제공된 옵션의 기한.
+* 2020년 1월 1일부터 2023년 4월 23일 사이에 만료되었을 것입니다.
+* 전문가 수준 또는 기본 수준이어야 합니다.
+* 현재 시험이 있어야 합니다. (인증에 더 이상 활성 테스트가 없는 경우, 다시 시작 프로그램에 적합하지 않습니다.)
+* 아래의 자격 인증 목록에 나타나야 합니다.
 
-### 애플리케이션별 Adobe 인증 재시작 경로
++++적격 인증 보기
+
+**Adobe Experience Manager**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] 비즈니스 전문가 |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] 비즈니스 전문가 |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] 개발자 전문가 |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] 개발자 전문가 |
+| AD0-E106 | [!DNL Adobe Experience Manager] 개발/운영 엔지니어 전문가 |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] 설계자 기본 |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] 설계자 기본 |
+
+**[!DNL Adobe Analytics]**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] 개발자 전문가 |
+| AD0-E202 | [!DNL Adobe Analytics] 비즈니스 전문가 |
+| AD0-E200 | [!DNL Adobe Analytics] 설계자 기본 |
+| AD0-E207 | [!DNL Adobe Analytics] 설계자 기본 |
+
+**Adobe Audience Manager**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] 설계자 기본 |
+| AD0-E452 | [!DNL Adobe Audience Manager] 설계자 기본 |
+| AD0-E453 | [!DNL Adobe Audience Manager] 비즈니스 전문가 |
+
+**Adobe Campaign Classic**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Sites 비즈니스 실무자 전문가 |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites 비즈니스 실무자 전문가 |
+| AD0-E318 | Adobe [!DNL Campaign Classic] 설계자 기본 |
+| AD0-E303 | Adobe [!DNL Campaign Classic] 설계자 기본 |
+| AD0-E312 | Adobe [!DNL Campaign Classic] 개발자 전문가 |
+| AD0-E308 | Adobe [!DNL Campaign Classic] 개발자 전문가 |
+
+**Adobe Campaign Standard**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] 비즈니스 전문가 |
+| AD0-E302 | Adobe [!DNL Campaign Standard] 비즈니스 전문가 |
+| AD0-E306 | Adobe [!DNL Campaign Standard] 개발자 전문가 |
+| AD0-E301 | Adobe [!DNL Campaign Standard] 개발자 전문가 |
+
+**Adobe[!DNL Marketo Engage]**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] 비즈니스 전문가(이전 MCE) |
+
+**Adobe Target**
+
+| 시험 ID | 시험 이름 |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] 비즈니스 전문가 |
+| AD0-E402 | [!DNL Adobe Target] 설계자 기본 |
+
++++
+
+## 만료된 인증을 다시 시작하는 절차{#exams}
+
+* **1단계:** 재시작 프로그램에 대한 인증 자격이 있는지 확인하려면 위의 자격 섹션을 참조하십시오. 그런 경우 2단계로 진행합니다.
+* **2단계:** 아래 탭에서 애플리케이션을 찾아 인증에 대한 프로그램 다시 시작 요구 사항을 검토하십시오.
+* **3단계:** 제공된 옵션에서 필수 과정 평가 또는 시험을 완료하려면 지침을 따르십시오. **2023년 10월 20일 기한 이전**.
+
+## 애플리케이션별 Adobe 인증 재시작 프로그램 경로
 
 >[!BEGINTABS]
 
@@ -43,65 +116,48 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 ### Adobe 다시 시작 지침 [!DNL Experience Manager] 인증
 
-선택 **세 가지 활동** 을 클릭하여 각 과 관련된 강의 평가를 완료하고 통과하십시오.
-
 * **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
 * **2단계**: Experience League에서 교육 과정 학습
-* **3단계**: 각 과정 평가를 80% 이상 완료하고 통과합니다.
+* **3단계**: 아래 옵션 중에서 선택합니다.
 
-또는 두 개의 과정을 학습하고, 두 개의 과정 평가를 통과하고, 지난 12개월 동안 총 100시간의 프로젝트 참여를 확인하는 고객 참조 양식을 제출하십시오.
+**옵션 1:** 선택 **세 가지 활동** 80% 이상의 점수로 각 과정과 연관된 과정 평가를 완료하고 통과합니다. 강의 평가는 무료이며, 온디맨드 방식이며, 비과정입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-특정 Adobe [!DNL Experience Cloud] 인증, Adobe 자격 증명 프로그램이 허용 **고객 참조** Adobe 인증을 받은 개인이 Adobe을 주도하고, 관리하고, 참여하는 등 지속적인 작업을 검증합니다. [!DNL Experience Cloud] 구현 프로젝트입니다.
-
-이러한 경우 지난 12개월 동안 입증된 프로젝트 참여에 100시간 이상 참여했음을 확인하는 고객 참조를 제공할 수 있습니다.
-
-**고객 참조가 검토되면 Adobe 자격 증명 팀에서 알림을 받게 됩니다.**
-
-
-과정 평가는 무료입니다. 그것들을 예약할 필요가 없고 그들은 감독관이 아니다. 여러 Adobe Experience Manager Expert 및 기본 수준 인증을 보유한 경우 아래 요구 사항만 완료하면 전문가 및 마스터 AEM 인증이 갱신됩니다.
+**옵션 2:** 선택 **두 가지 활동** 80% 이상의 점수로 각 과정과 연관된 과정 평가를 완료하고 통과합니다. 강의 평가는 무료이며, 온디맨드 방식이며, 비과정입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다. 그런 다음, **고객 참조 양식 제출** 지난 12개월 동안 총 100시간 이상의 프로젝트 참여 유효성 검사
 
 [Adobe Experience Manager에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
-### 과정 및 과정 평가:
+고객 참조가 검토되면 Adobe 자격 증명 팀으로부터 알림을 받게 됩니다.
+
+### 전문가 및 기본 교육 과정 평가:
 
 | 교육 과정 | 강의 평가 |
 | ------- | ------- |
 | [Adobe Experience Manager as a Cloud Service로 이동](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
 | [Adobe Experience Manager as a Cloud Service으로의 이동 계획](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
-| [Adobe Experience Manager as a Cloud Service 소개](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
+| [Adobe Experience Manager as a Cloud Service 소개](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=ko-KR){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
 | [GraphQL API를 사용한 헤드리스 콘텐츠 관리](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
 | [Adobe Experience Manager 및 Adobe Target을 사용하여 경험 개인화](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
 | [Experience Manager Forms Cloud Service과 Salesforce 통합](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
 | [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
 | [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
 
->[!NOTE]
->
->세 개의 활동을 성공적으로 완료하거나 두 개의 활동 및 고객 참조 양식을 완료할 때까지 이 작업을 반복할 수 있습니다.
-
 >[!TAB Analytics]
 
 ### Adobe Analytics 인증 다시 시작 지침
 
-선택 **세 가지 활동** 을 클릭하여 각 과 관련된 강의 평가를 완료하고 통과하십시오.
-
 * **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
 * **2단계**: Experience League에서 교육 과정 학습
-* **3단계**: 각 과정 평가를 80% 이상 완료하고 통과합니다.
+* **3단계**: 아래 옵션 중에서 선택합니다.
 
-또는 두 개의 과정을 학습하고, 두 개의 과정 평가를 통과하고, 지난 12개월 동안 총 100시간의 프로젝트 참여를 확인하는 고객 참조 양식을 제출하십시오.
+**옵션 1:** 선택 **세 가지 활동** 80% 이상의 점수로 각 과정과 연관된 과정 평가를 완료하고 통과합니다. 강의 평가는 무료이며, 온디맨드 방식이며, 비과정입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-특정 Adobe [!DNL Experience Cloud] 인증, Adobe 자격 증명 프로그램이 허용 **고객 참조** Adobe 인증을 받은 개인이 Adobe을 주도하고, 관리하고, 참여하는 등 지속적인 작업을 검증합니다. [!DNL Experience Cloud] 구현 프로젝트입니다.
+**옵션 2:** 선택 **두 가지 활동** 80% 이상의 점수로 각 과정과 연관된 과정 평가를 완료하고 통과합니다. 강의 평가는 무료이며, 온디맨드 방식이며, 비과정입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다. 그런 다음, **고객 참조 양식 제출** 지난 12개월 동안 총 100시간 이상의 프로젝트 참여 유효성 검사
 
-이러한 경우 지난 12개월 동안 입증된 프로젝트 참여에 100시간 이상 참여했음을 확인하는 고객 참조를 제공할 수 있습니다.
+[Adobe Experience Manager에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
-**고객 참조가 검토되면 Adobe 자격 증명 팀에서 알림을 받게 됩니다.**
+고객 참조가 검토되면 Adobe 자격 증명 팀으로부터 알림을 받게 됩니다.
 
-과정 평가는 무료입니다. 그것들을 예약할 필요가 없고 그들은 감독관이 아니다. 여러 Adobe Analytic Expert 및 기본 수준 인증을 보유한 경우 아래 요구 사항만 완료하면 전문가 및 마스터 Analytic 인증이 갱신됩니다.
-
-[Adobe Analytics에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA200){target="_blank"}
-
-### 과정 및 과정 평가:
+### 전문가 및 기본 교육 과정 평가:
 
 | 교육 과정 | 강의 평가 |
 | ------- | ------- |
@@ -112,33 +168,23 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 | [내부 사이트 검색 구현 및 측정 - 3과 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
->[!NOTE]
->
->세 개의 활동을 성공적으로 완료하거나 두 개의 활동 및 고객 참조 양식을 완료할 때까지 이 작업을 반복할 수 있습니다.
-
 >[!TAB Target]
 
 ### Adobe Target 인증 다시 시작 지침
 
-선택 **세 가지 활동** 을 클릭하여 각 과 관련된 강의 평가를 완료하고 통과하십시오.
-
 * **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
 * **2단계**: Experience League에서 교육 과정 학습
-* **3단계**: 각 과정 평가를 80% 이상 완료하고 통과합니다.
+* **3단계**: 아래 옵션 중에서 선택합니다.
 
-또는 두 개의 과정을 학습하고, 두 개의 과정 평가를 통과하고, 지난 12개월 동안 총 100시간의 프로젝트 참여를 확인하는 고객 참조 양식을 제출하십시오.
+**옵션 1:** 선택 **세 가지 활동** 80% 이상의 점수로 각 과정과 연관된 과정 평가를 완료하고 통과합니다. 강의 평가는 무료이며, 온디맨드 방식이며, 비과정입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-특정 Adobe [!DNL Experience Cloud] 인증, Adobe 자격 증명 프로그램이 허용 **고객 참조** Adobe 인증을 받은 개인이 Adobe을 주도하고, 관리하고, 참여하는 등 지속적인 작업을 검증합니다. [!DNL Experience Cloud] 구현 프로젝트입니다.
+**옵션 2:** 선택 **두 가지 활동** 80% 이상의 점수로 각 과정과 연관된 과정 평가를 완료하고 통과합니다. 강의 평가는 무료이며, 온디맨드 방식이며, 비과정입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다. 그런 다음, **고객 참조 양식 제출** 지난 12개월 동안 총 100시간 이상의 프로젝트 참여 유효성 검사
 
-이러한 경우 지난 12개월 동안 입증된 프로젝트 참여에 100시간 이상 참여했음을 확인하는 고객 참조를 제공할 수 있습니다.
+[Adobe Experience Manager에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
 
-**고객 참조가 검토되면 Adobe 자격 증명 팀으로부터 알림을 받게 됩니다.**
+고객 참조가 검토되면 Adobe 자격 증명 팀으로부터 알림을 받게 됩니다.
 
-과정 평가는 무료입니다. 그것들을 예약할 필요가 없고 그들은 감독관이 아니다. 여러 Adobe Target Expert 및 기본 수준 인증을 보유한 경우 아래 요구 사항만 완료하면 전문가 및 마스터 Target 인증이 갱신됩니다.
-
-[Adobe Target에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA400){target="_blank"}
-
-### 과정 및 과정 평가:
+### 전문가 및 기본 교육 과정 평가:
 
 | 교육 과정 | 강의 평가 |
 | ------- | ------- |
@@ -147,10 +193,6 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 | [모바일 앱 구현 및 개인화 과정](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA403){target="_blank"} |
 | [개발자를 위한 모바일 및 IoT Launch 교육 과정](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
 | [개발자를 위한 웹 사이트 출시 교육 과정](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA405){target="_blank"} |
-
->[!NOTE]
->
->세 개의 활동을 성공적으로 완료하거나 두 개의 활동 및 고객 참조 양식을 완료할 때까지 이 작업을 반복할 수 있습니다.
 
 >[!TAB Audience Manager]
 
@@ -222,7 +264,7 @@ Adobe 재시작 프로그램은 만료된 개인 사용자가 사용할 수 있�
 
 **인증 다시 시작**
 
-Adobe Audience Manager 비즈니스 실무자 전문가 재시작 시험 ADS-E826은 무료이며, 오픈 북이며, 운송장. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe Audience Manager 비즈니스 실무자 전문가 재시작 시험 ADS-E826은 무료이며, 오픈 북이며, 리셀러가 아닙니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -233,7 +275,7 @@ Adobe Audience Manager 비즈니스 실무자 전문가 재시작 시험 ADS-E82
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **아키텍트** 마스터 재시작 시험
++++ADS-E825 Adobe Audience Manager **아키텍트** 기본 재시작 시험
 
 **인증 다시 시작 지침:**
 
@@ -323,7 +365,7 @@ Adobe Audience Manager 비즈니스 실무자 전문가 재시작 시험 ADS-E82
 
 ### 인증 다시 시작
 
-Adobe Audience Manager Architect 마스터 재시작 시험 ADS-E825는 무료이며, 책을 열어 볼 수 있으며, 운임이 없습니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe Audience Manager Architect 기본 Restart exam ADS-E825는 무료이며, 오픈 북이며, 리셀러가 아닙니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -467,7 +509,7 @@ Adobe [!DNL Campaign Standard] 개발자 전문가 재시작 시험 ADS-821은 �
 * 게재: 온디맨드/비포장됨
 * 사용 가능한 언어: 영어
 * 비용: 무료
-* 시험 ID: ADS-E822 - Campaign Standard 비즈니스 실무자 전문가 재시작
+* 시험 ID: ADS-E822 - Campaign Standard 비즈니스 전문가 다시 시작
 
 **범위 및 목표:**
 
@@ -527,7 +569,7 @@ Adobe [!DNL Campaign Standard] 비즈니스 실무자 전문가 재시작 시험
 
 +++
 
-+++ADS-E823 Adobe **Campaign Classic** 전문가 및/또는 마스터 재시작 시험
++++ADS-E823 Adobe **Campaign Classic** 전문가 및/또는 기본 재시작 시험
 
 **인증 다시 시작 지침:**
 
@@ -545,7 +587,7 @@ Adobe [!DNL Campaign Standard] 비즈니스 실무자 전문가 재시작 시험
 * 게재: 온디맨드/비포장됨
 * 사용 가능한 언어: 영어
 * 비용: 무료
-* 시험 ID: ADS-E823 - Adobe [!DNL Campaign Classic] 전문가 및/또는 마스터 재시작
+* 시험 ID: ADS-E823 - Adobe [!DNL Campaign Classic] 전문가 및/또는 기본 재시작
 
 **범위 및 목표**
 
@@ -626,7 +668,7 @@ Adobe [!DNL Campaign Standard] 비즈니스 실무자 전문가 재시작 시험
 
 ### 인증 다시 시작
 
-Adobe Campaign Classic 재시작 시험 ADS-823은 무료이며, 열린 책이며, 감독되지 않습니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+Adobe Campaign Classic 재시작 시험 ADS-823은 무료이며, 책을 열어서 관리할 수 없습니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -742,7 +784,7 @@ Adobe Campaign Classic 재시작 시험 ADS-823은 무료이며, 열린 책이�
 **섹션 5: 보고**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (획득 모범 사례 문서 설정)
-* [Experience League - Marketo Engage 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (보고, 성과 통찰력, 프로그램 성과 보고서, 보고서 편집, 프로그램 멤버십)
+* [Experience League - Marketo Engage 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (보고, 성과 인사이트, 프로그램 성과 보고서, 보고서 편집, 프로그램 멤버십)
 
 **섹션 6: 우수 사례**
 
