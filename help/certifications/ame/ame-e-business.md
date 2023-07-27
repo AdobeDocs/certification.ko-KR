@@ -4,12 +4,12 @@ description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법에 �
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="시험 AD0-E559" type="양성"
+badge: label="시험 AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
@@ -228,19 +228,17 @@ ht-degree: 0%
 
 **PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
 
-*영어*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   영어 시험 응시
 </span>
 </a>
 
-*일본어*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   일본어 시험 응시
 </span>
 </a>
 
