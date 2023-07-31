@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '917'
 ht-degree: 1%
 
 ---
@@ -32,35 +32,37 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 전문가]
 
-다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
+## 다음 중 하나 이상이 있어야 합니다. **활성** 갱신할 인증:
 
-* Adobe [!DNL Commerce] 비즈니스 전문가
-* Adobe [!DNL Commerce] Developer Professional
-* Adobe [!DNL Commerce] 프론트엔드 개발자 전문가
+* [!DNL Adobe Commerce] 비즈니스 전문가
+* [!DNL Adobe Commerce] Developer Professional
+* [!DNL Adobe Commerce] 프론트엔드 개발자 전문가
 
-## Adobe 갱신 지침 [!DNL Commerce] 인증
+## 갱신 지침 [!DNL Adobe Commerce] 인증
 
-선택 **세 가지 활동** 을 클릭하여 각 과 관련된 강의 평가를 완료하고 통과하십시오.
+* **1단계:** 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계:** Experience League의 교육 과정 학습
+* **3단계:** 아래 옵션 중에서 선택하여 갱신을 완료합니다.
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
-* **2단계**: Experience League에서 교육 과정 학습
-* **3단계**: 각 과정 평가를 80% 이상 완료하고 통과합니다.
+  **옵션 A:**
+선택 **세 가지 과정** 80% 이상의 점수를 받아 각 과정 평가를 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-또는 두 개의 과정을 학습하고, 두 개의 과정 평가를 통과하고, 지난 12개월 동안 총 100시간의 프로젝트 참여를 확인하는 고객 참조 양식을 제출하십시오.
+  **옵션 B:**
+먼저 을(를) 선택합니다 **두 가지 과정** 80% 이상의 점수를 받아 각 과정 평가를 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-특정 Adobe Experience Cloud 인증의 경우 Adobe 자격 증명 프로그램이 수락합니다 **고객 참조** Adobe 인증을 받은 개인이 Adobe Experience Cloud 구현 프로젝트를 이끌고, 관리하고, 참여하는 등 지속적인 작업을 검증합니다.
+  두 번째, **고객 참조 양식 제출** Adobe Experience Cloud 구현 프로젝트에 대한 Adobe 인증 개인 리더, 관리 및/또는 참여로서의 지속적인 작업 확인. 이 양식은 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인합니다.
 
-이러한 경우 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인하는 고객 참조를 제공할 수 있습니다.
+  [에 대한 고객 참조 양식 [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
 
-**고객 참조가 검토되면 Adobe 자격 증명 팀에서 알림을 받게 됩니다.**
+  고객 참조가 검토되면 Adobe 자격 증명 팀으로부터 알림을 받게 됩니다. 참조가 수락되지 않으면 인증이 만료되기 전에 성공하기 전까지 다시 제출할 수 있습니다.
 
-과정 평가는 무료입니다. 그것들을 예약할 필요가 없고 그들은 감독관이 아니다. Adobe Commerce Professional 수준 인증을 여러 개 보유한 경우 아래 요구 사항만 완료하면 이 수준의 모든 Adobe Commerce 인증이 갱신됩니다.
-
-[Adobe을 위한 고객 참조 양식 [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
+>[!NOTE]
+>
+>여러 개를 보유하는 경우 [!DNL Adobe Commerce] 전문가 및 기본 인증은 1개 인증만 받으면 갱신 요건을 완료하고 나머지는 자동 갱신한다.
 
 ### 전문가를 위한 교육 과정 및 교육 과정 평가:
 
-| 교육 과정 | 강의 평가 |
+| 전문가 교육 과정 | 강의 평가 |
 | ------- | ------- |
 | [Adobe [!DNL Commerce] 전자 상거래 트렌드](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
 | [Adobe [!DNL Commerce] 개인화](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
@@ -68,52 +70,48 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 | [[!DNL Commerce]: Experience Platform 및 그 이상에 대한 데이터 통합](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
 | [[!DNL Commerce]: Adobe의 구성 가능한 상거래 [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
 
->[!NOTE]
->
->세 개의 활동을 성공적으로 완료하거나 두 개의 활동을 완료하고 고객 참조 양식을 추가할 때까지 이 작업을 반복할 수 있습니다.
-
 >[!TAB 전문가 및 기본]
 
-다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
+## 다음 중 하나 이상이 있어야 합니다. **활성** 갱신할 인증:
 
-* Adobe [!DNL Commerce] 비즈니스 전문가
-* Adobe [!DNL Commerce] 개발자 전문가
-* Adobe [!DNL Commerce] 설계자 기본
-* Adobe [!DNL Commerce] 프론트엔드 개발자 전문가
+* [!DNL Adobe Commerce] 비즈니스 전문가
+* [!DNL Adobe Commerce] 개발자 전문가
+* [!DNL Adobe Commerce] 설계자 기본
+* [!DNL Adobe Commerce] 프론트엔드 개발자 전문가
 
-## Adobe 갱신 지침 [!DNL Commerce] 인증
+## 갱신 지침 [!DNL Adobe Commerce] 인증
 
 선택 **세 가지 활동** 을 클릭하여 각 과 관련된 강의 평가를 완료하고 통과하십시오.
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
-* **2단계**: Experience League에서 교육 과정 학습
-* **3단계**: 각 과정 평가를 80% 이상 완료하고 통과합니다.
+* **1단계:** 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계:** Experience League의 교육 과정 학습
+* **3단계:** 아래 옵션 중에서 선택하여 갱신을 완료합니다.
 
-또는 두 개의 과정을 학습하고, 두 개의 과정 평가를 통과하고, 지난 12개월 동안 총 100시간의 프로젝트 참여를 확인하는 고객 참조 양식을 제출하십시오.
+  **옵션 A:**
+선택 **세 가지 과정** 80% 이상의 점수를 받아 각 과정 평가를 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-특정 Adobe Experience Cloud 인증의 경우 Adobe 자격 증명 프로그램이 수락합니다 **고객 참조** Adobe 인증을 받은 개인이 Adobe Experience Cloud 구현 프로젝트를 이끌고, 관리하고, 참여하는 등 지속적인 작업을 검증합니다.
+  **옵션 B:**
+먼저 을(를) 선택합니다 **두 가지 과정** 80% 이상의 점수를 받아 각 과정 평가를 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-이러한 경우 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인하는 고객 참조를 제공할 수 있습니다.
+  두 번째, **고객 참조 양식 제출** Adobe Experience Cloud 구현 프로젝트에 대한 Adobe 인증 개인 리더, 관리 및/또는 참여로서의 지속적인 작업 확인. 이 양식은 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인합니다.
 
-**고객 참조가 검토되면 Adobe 자격 증명 팀에서 알림을 받게 됩니다.**
+  [에 대한 고객 참조 양식 [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
-과정 평가는 무료입니다. 그것들을 예약할 필요가 없고 그들은 감독관이 아니다. 여러 Adobe Commerce Expert 및 기본 수준 인증을 보유한 경우 아래 요구 사항만 완료하면 되고 이 수준의 Adobe Commerce 인증은 갱신됩니다.
+  고객 참조가 검토되면 Adobe 자격 증명 팀으로부터 알림을 받게 됩니다. 참조가 수락되지 않으면 인증이 만료되기 전에 성공하기 전까지 다시 제출할 수 있습니다.
 
-[Adobe을 위한 고객 참조 양식 [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
+>[!NOTE]
+>
+>여러 개를 보유하는 경우 [!DNL Adobe Commerce] 전문가 및 기본 인증은 1개 인증만 받으면 갱신 요건을 완료하고 나머지는 자동 갱신한다.
 
-### 전문가 및 마스터를 위한 과정 및 과정 평가:
+### 전문가 및 기본 교육 과정 평가:
 
-| 교육 과정 | 강의 평가 |
+| 전문가 및 기본 교육 과정 | 강의 평가 |
 | ------- | ------- |
 | [Adobe [!DNL Commerce] 전자 상거래 트렌드](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
 | [Adobe [!DNL Commerce] 개인화](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
 | [Adobe [!DNL Commerce] AI 자동화](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
 | [[!DNL Commerce]: Experience Platform 및 그 이상에 대한 데이터 통합](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
 | [[!DNL Commerce]: Adobe의 구성 가능한 상거래 [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
-
->[!NOTE]
->
->세 개의 활동을 성공적으로 완료하거나 두 개의 활동을 완료하고 고객 참조 양식을 추가할 때까지 이 작업을 반복할 수 있습니다.
 
 >[!ENDTABS]
 
