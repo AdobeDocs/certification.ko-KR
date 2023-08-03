@@ -4,17 +4,28 @@ description: Experience Manager Sites에서 기본으로 건축사가 되는 방
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="시험 AD0-E117" type="양성"
+badge: label="시험 AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
-ht-degree: 20%
+source-wordcount: '1514'
+ht-degree: 19%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Experience Manager Sites] 설계자 기본
+
+>[!NOTE]
+>
+>이 시험(AD0-E117)은 유지 관리 중이므로 일시적으로 사용할 수 없습니다. 불편을 끼쳐드려 진심으로 죄송합니다. 다시 이용 가능한 경우 알림을 받으려면 아래 버튼을 사용하여 등록하십시오.
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   내게 알림
+</span>
+</a>
 
 공인 건축사가 되는 방법에 대해 기본으로 알아보십시오.
 
@@ -216,23 +227,14 @@ ht-degree: 20%
 
 ### 사용 가능한 옵션
 
-{{PSI-note}}
+>[!NOTE]
+>
+>이 시험(AD0-E117)은 유지 관리 중이므로 일시적으로 사용할 수 없습니다. 불편을 끼쳐드려 진심으로 죄송합니다. 다시 이용 가능한 경우 알림을 받으려면 아래 버튼을 사용하여 등록하십시오.
 
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   내게 알림
 </span>
 </a>
 
