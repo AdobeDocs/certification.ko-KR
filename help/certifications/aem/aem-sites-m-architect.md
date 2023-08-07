@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="시험 AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 20%
+source-wordcount: '1722'
+ht-degree: 17%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 20%
 >[!NOTE]
 >
 >이 시험(AD0-E117)은 유지 관리 중이므로 일시적으로 사용할 수 없습니다. 불편을 끼쳐드려 진심으로 죄송합니다. [알림을 받으려면 등록](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 다시 사용할 수 있는 경우.
+>
+>**질문?** 다음 참조: [FAQ](#AEM-FAQ) 이 페이지의 맨 아래에 있습니다.
 
 공인 건축사가 되는 방법에 대해 기본으로 알아보십시오.
 
@@ -211,7 +213,6 @@ ht-degree: 20%
 >
 >또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
 
-
 ## 시험 정보
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ ht-degree: 20%
 >[!NOTE]
 >
 >이 시험(AD0-E117)은 유지 관리 중이므로 일시적으로 사용할 수 없습니다. 불편을 끼쳐드려 진심으로 죄송합니다. [알림을 받으려면 등록](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 다시 사용할 수 있는 경우.
+>
+>**질문?** 다음 참조: [FAQ](#AEM-FAQ) 이 페이지의 맨 아래에 있습니다.
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ ht-degree: 20%
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+
+## Adobe Experience Manager Sites Architect 기본 시험에 대한 FAQ(AD0-E117) {#AEM-FAQ}
+
+인증 시험 AD0-E117이 유지 관리 중이어서 일시적으로 사용할 수 없습니다. 불편을 끼쳐드려 진심으로 죄송합니다. [알림을 받으려면 등록](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 다시 사용할 수 있는 경우.
+
+**이미 시험 일정을 잡았다면 어떻게 되나요?**
+
+예정된 AD0-E117 시험이 모두 취소되었습니다. 영향을 받는 응시자는 새 버전을 사용할 수 있게 되면 시험을 다시 예약해야 합니다.
+
+**나는 이미 시험 비용을 지불했어요. 환불받을 수 있나요?**
+
+* 수험표를 통해 신용카드로 수험비를 결제하셨다면 전액 환불됩니다.  
+* 바우처로 지불한 경우 코드가 재설정되고 새 시험 약속에 적용할 수 있습니다.  
+* 바우처를 사용하기 전에 만료되는 경우, 예약할 준비가 되면 새 바우처를 발급해 드립니다.
+
+**10월 이전에 인증을 갱신해야 하는데, 이 경우 갱신 내용에 영향을 미칩니까?**
+
+아니요. 지속적인 학습을 통해 새롭게 할 수 있을 것입니다. 아래에 제공된 지침 및 프로세스를 따라야 합니다. [인증 갱신](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
