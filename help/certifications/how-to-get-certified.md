@@ -4,9 +4,9 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1414'
 ht-degree: 1%
 
 ---
@@ -19,25 +19,16 @@ Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 받기 전, �
 
 >[!TAB 등록]
 
-Adobe은 두 공급업체를 사용하여 감독자 시험을 관리합니다. [!DNL PSI] 및 [!DNL Examity].
-
-{{PSI-note}}
-
-* **[!DNL PSI]:** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
-* **[!DNL Examity]:** 원격 온라인 옵션을 제공합니다.
+Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니다.
 
 **다음 단계에 따라 인증 시험에 등록하십시오.**
 
 * **1단계:** 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 * **2단계:** 이 사이트로 돌아가 기술 인증을 클릭하십시오.
-* **3단계:** Adobe 솔루션, 인증 수준 및 역할 선택
+* **3단계:** Adobe 애플리케이션, 인증 수준 및 역할 선택
 * **4단계:** 아래에 제공된 단계를 따릅니다. **인증 받기** 섹션.
 
 **리소스**
-
-**PSI**
-
-* [테스트 센터에서 시험에 등록하는 방법](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
 예:
 
@@ -50,7 +41,7 @@ Adobe은 두 공급업체를 사용하여 감독자 시험을 관리합니다. [
 
 예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
 
-Adobe 지원이나 시험 공급업체는 스케줄 조정 및 취소 요청을 처리할 수 없습니다. 48시간 이내 취소 시에는 시험 수수료 외에 일정 조정 수수료가 부과됩니다.
+Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수 없습니다. 48시간 이내 취소 시에는 시험 수수료 외에 일정 조정 수수료가 부과됩니다.
 
 일단 시험을 마치면 잠정적인 합격증을 받거나 불합격한다. 최종 점수는 채우는 데 최대 72시간이 소요될 수 있습니다. 결과 및 점수 보고서는 의 기록 탭 아래에서 찾을 수 있습니다. [Adobe 자격 증명 관리자](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -88,13 +79,10 @@ Adobe 지원이나 시험 공급업체는 스케줄 조정 및 취소 요청을 
 
 Adobe 자격 증명 팀은 공급업체와 협력하여 프로그램의 이니셔티브와 목표를 지원합니다.  다음은 공급업체와 해당 연락처 정보입니다.
 
-{{PSI-note}}
-
 | 공급업체 이름 | 설명 | 지원 페이지/이메일 |
 | ------- | ------- | ------- |
 | 신빙성 있게 | 배지 관리 시스템 | [지원](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | 예 | 납품 공급자 테스트(온라인 Proctoring만 해당) | [이메일](mailto:support@examity.com){target="_blank"} 또는 855-예(855-392-6489) |
-| PSI | 지역 또는 일본어로 시험 테스트를 위한 테스트 제공 공급업체 | [이메일](mailto:adobe.psisupport@psionline.com){target="_blank"} |
 | Xvoucher - Adobe 인증 바우처 센터 | 개별 또는 일괄 바우처를 구매하는 바우처 센터 | [이메일](mailto:support@xvoucher.com){target="_blank"} 또는 [온라인 도움말](https://help.xvoucher.com/hc/en-us) |
 
 기타 공급업체 리소스:

@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 21a1ff4a0b8fe66004e5dae8e7a75f4196e74375
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1300'
+source-wordcount: '1298'
 ht-degree: 8%
 
 ---
@@ -32,7 +32,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 전문가]
 
-+++Adobe Analytics Developer Professional
++++[!DNL Adobe Analytics] Developer Professional
 
 ## 인증 갱신 지침:
 
@@ -147,7 +147,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 +++
 
-+++비즈니스 전문가
++++[!DNL Adobe Analytics] 비즈니스 전문가
 
 >[!NOTE]
 >

@@ -4,12 +4,12 @@ description: 에서 Adobe 비즈니스 실무자 인증을 받는 방법에 대�
 solution: Analytics
 product: Analytics
 role: User
-badge: label="시험 AD0-E208" type="양성"
+badge: label="시험 AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1001'
 ht-degree: 14%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 14%
 
 * FTP 클라이언트
 * 현재 [!DNL Adobe Analytics] 작업 영역 기능 및 작업 영역 외부의 기타 보고 옵션(예: 프로젝트 및 일정 보고서)
-* 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe 디버거, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
+* 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe Debugger, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
 * Admin Console(Analytics Reports Suite Admin Console 및 Experience Cloud Admin Console)
 * Adobe Launch 기본 사항/기본 사항
 * 앱, SPA, 기본 웹 사이트 이해
@@ -167,37 +167,22 @@ ht-degree: 14%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E208)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E208 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

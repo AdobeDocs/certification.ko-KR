@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '2655'
+source-wordcount: '2643'
 ht-degree: 1%
 
 ---
@@ -49,15 +49,13 @@ Adobe 인증 프로그램에 대한 자세한 내용은 아래 FAQ를 참조하�
 
 +++감독관 시험 중에 기술적인 문제가 있으면 어떻게 합니까?
 
-PSI [!DNL Examity] 채팅, 이메일 및 전화로 지원을 받을 수 있습니다. Adobe 지원 팀에서는 시험 도중 발생하는 기술적인 문제를 해결할 수 없습니다.
+[!DNL Examity] 은(는) 채팅, 이메일 및 전화로 지원을 제공합니다. Adobe 지원 팀에서는 시험 도중 발생하는 기술적인 문제를 해결할 수 없습니다.
 
-[!DNL Examity] 지원 - `adobepartnersupport@examity.com`
-
-PSI 지원 - `psisupport@psionline.com`
+[!DNL Examity] 지원: `adobepartnersupport@examity.com`
 
 가장 빠른 도움말 리소스는 채팅을 통해서입니다. 모든 시험 응시자들은 시험을 보기 전에 자신의 컴퓨터가 적절한 시스템 요구 사항을 갖추었는지 확인해야 한다.
 
-자세한 내용은 PSI 및 [!DNL Examity] 시험 및 기술 설정 관리에 대한 페이지입니다.
+자세한 내용은 [!DNL Examity] 테스트 및 기술 설정 관리 페이지입니다.
 
 +++
 
@@ -117,9 +115,7 @@ Adobe 인증을 받은 개인이 새로운 애플리케이션 기능과 기능�
 
 +++영어 말고 다른 언어로 시험을 볼 수 있습니까?
 
-{{PSI-note}}
-
-PSI(공급업체중 하나)를 통해 일본어로 시험을 볼 수 있습니다. 일본어로 시험이 가능한 경우 해당 시험의 시험 세부 정보에 명시됩니다. 시험 세부 사항은 인증 여정 페이지의 &quot;준비&quot; 탭에 있습니다.
+일부 시험은 일본어로 제공됩니다. 일본어로 시험이 가능한 경우 해당 시험의 시험 세부 정보에 명시된다. 시험 세부 사항은 인증 여정 페이지의 &quot;준비&quot; 탭에 있습니다.
 
 +++
 
@@ -178,7 +174,7 @@ Adobe 인증은 2년 후에 만료됩니다. 해당 Adobe 인증 시험의 최�
 
 +++갱신하려면 어떤 시험을 봐야 하나요?
 
-어떤 시험에 응시해야 하는지 알아보려면 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe/){target="_blank"} Adobe ID을 사용하여 인증 을 클릭하고 인증 이름을 선택합니다. 갱신 시험 목록은 다음과 같습니다. **현재 상태를 유지하기 위한 요구 사항**.
+어떤 시험에 응시해야 하는지 알아보려면 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe/){target="_blank"} Adobe ID을 사용하여 인증 을 클릭하고 인증 이름을 선택합니다. 갱신 시험 목록은 다음과 같습니다. **최신 상태를 유지하기 위한 요구 사항**.
 
 +++
 
@@ -204,7 +200,7 @@ Adobe은 지속적인 학습 및 참여 활동을 제공하여 지원자가 활�
 
 +++내 인증은 이미 만료되었습니다. 갱신을 위해 지속적인 학습 및 참여 활동을 추진할 수 있습니까?
 
-아니요. 이 갱신 옵션은 Adobe의 현재 인증된 Analytics, Experience Manager, Commerce 및 Target 후보에만 해당됩니다.
+아니요. 이 갱신 옵션은 Adobe의 현재 인증된 Analytics, Experience Manager, 상거래 및 Target 후보에 대해서만 제공됩니다.
 
 +++
 
