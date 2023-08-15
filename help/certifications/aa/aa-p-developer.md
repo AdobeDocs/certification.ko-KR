@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 9%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 9%
 다음을 수행해야 합니다.
 
 * 에서 6~12개월 경험 [!DNL Adobe Analytics] 구현(웹 및 모바일 앱)
-* 비즈니스 요구 사항이 기술 솔루션(SDR)으로 번역되는 방식을 이해하고 분석가가 제공한 요구 사항을 기반으로 IT와 비즈니스 간의 브리징에서 Analytics 구현 팀을 지원하는 플레이어 역할을 한 경험
+* Analytics 구현 팀을 지원하는 경험은 IT와 비즈니스 간의 브리징에서 비즈니스 요구 사항이 기술 솔루션(SDR)으로 번역되는 방식과 분석가가 제공한 요구 사항을 기반으로 합니다
 * 필요한 변수 유형, 데이터 수집 위치 및 방법, 데이터 모델(데이터 레이어) 디자인, 태그 관리 솔루션 구성 및 유지 관리 이해
 
 경험 을 활용하여 다음과 같은 작업을 수행할 수 있습니다.
