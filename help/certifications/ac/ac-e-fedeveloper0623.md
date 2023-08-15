@@ -4,30 +4,30 @@ description: Adobe에서 인증된 Adobe Developer 전문가가 되는 방법에
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="시험 AD0-E720" type="양성"
+badge: label="시험 AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1220'
-ht-degree: 0%
+source-wordcount: '1046'
+ht-degree: 1%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Commerce] 프론트엔드 개발자 전문가
+# 인증 여정 [!DNL Adobe Commerce] 프론트엔드 개발자 전문가
 
-인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Commerce] 개발자 전문가.
 
 >[!NOTE]
 >
->최신 Adobe Commerce 프론트엔드 개발자 전문가 시험입니다. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ac-e-fedeveloper.md) 2023년 8월 18일까지 완료해야 합니다.
+>최신 버전입니다. [!DNL Adobe Commerce] 프론트엔드 개발자 전문가 시험. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ac-e-fedeveloper.md) 2023년 8월 18일까지 완료해야 합니다.
 
 ## 최소 경험
 
-Adobe Commerce 프론트엔드 개발자는 전문가 수준의 역할로 간주되며 Adobe Commerce 프론트엔드 개발에 대해 최소 1~3년 정도의 실무 경험을 가지고 있습니다. 이들은 작업 요구 사항에 의해 표현된 요구 사항을 기술 솔루션으로 번역할 수 있어야 합니다.
+다음 [!DNL Adobe Commerce] 프론트엔드 개발자는 전문가 수준의 역할로 간주되며 Adobe Commerce 프론트엔드 개발에 대한 최소 1~3년 실무경험을 가지고 있습니다. 이들은 작업 요구 사항에 의해 표현된 요구 사항을 기술 솔루션으로 번역할 수 있어야 합니다.
 
 지원자는 다음 기술을 쉽게 사용할 수 있어야 합니다.
 
-* Adobe Commerce - 버전 2.4.6
+* [!DNL Adobe Commerce] - 버전 2.4.6
 * 프론트엔드 구조 및 레이아웃에 대한 기본 이해
 * HTML, CSS(및 전처리기), LESS, JavaScript 및 UI 구성 요소, jQuery, Underscore, Require.JS, Knockout, PHP 템플릿, DB 지식 및 콘텐츠 관리에 대한 경험과 이해
 * 플랫폼, CMS 블록, 위젯, CMS 페이지, 카테고리 페이지, 제품 페이지, 장바구니 및 체크아웃, 계정 대시보드 영역에 익숙함
@@ -184,26 +184,18 @@ Adobe Commerce 프론트엔드 개발자는 전문가 수준의 역할로 간주
 
 **연습 시험 준비 중**
 
-**인증 시험 응시**
+## 인증 시험 정보
 
-Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험을 관리합니다.
+{{about-certification-exam}}
 
-* **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
-* **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
+## AD0-E720 시험 예약 또는 시험 응시
 
-시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단해!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
-
-예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
-
-### 시험 번호: AD0-E720
-
-[!BADGE 예]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720 newtab=true"}
-
-자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
+<span class="spectrum-Button-label has-no-wrap">
+   예제 포털로 이동
+</span>
+</a>
 
 >[!ENDTABS]
 

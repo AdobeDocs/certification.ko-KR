@@ -4,28 +4,28 @@ description: Adobe에서 기본으로 Adobe 설계자가 되는 방법에 대해
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
-badge: label="시험 AD0-E556" type="양성"
+badge: label="시험 AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '983'
 ht-degree: 1%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Marketo Engage] 설계자 기본
 
-공인 Adobe 설계자가 되는 방법에 대해 기본으로 알아봅니다.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Marketo Engage] 기본 설계.
 
-Adobe 자격 증명 프로그램 은 Certified 기본 타이틀 달성에 관심이 있는 후보자를 위해 새로운 Adobe Marketo Engage Architect 인증을 시작했습니다. 이는 이전의 Marketo MCSA(Certified Solution Architect) 인증 인터뷰 프로세스를 대체합니다. [자세히 보기](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marketo Engage] 공인 기본 타이틀 획득에 관심이 있는 후보에 대해 설계사 자격증을 취득합니다. 이는 이전의 Marketo MCSA(Certified Solution Architect) 인증 인터뷰 프로세스를 대체합니다. [자세히 보기](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
 ## 최소 경험
 
 다음을 수행해야 합니다.
 
-* 의 현재 인증 [!DNL Marketo Engage] 비즈니스 실무자 인증 전문가
-* 최소 5년의 경력이 있는 것이 좋으며, [!DNL Marketo Engage]
+* Adobe의 현재 인증 [!DNL Marketo Engage] 비즈니스 실무자 인증 전문가
+* 최소 5년 경력의 경우 Adobe 인스턴스가 여러 개인 것이 좋습니다. [!DNL Marketo Engage]
 * 비즈니스 영향에 대한 이해 및 다양한 수준의 관련자(기술 및 비기술)에게 솔루션을 효과적으로 설명/전달
 * 솔루션을 개념화하고 로 변환하는 기능 [!DNL Marketo Engage] 아키텍처, 통합의 영향을 받는 비즈니스 프로세스 이해
 * 인스턴스 아키텍처 원리에 대한 숙지
@@ -108,7 +108,7 @@ Adobe 자격 증명 프로그램 은 Certified 기본 타이틀 달성에 관심
 * 주어진 보고서 유형에서 사용할 지표 식별
 * 멀티채널 속성을 추적하여 ROI를 평가하는 방법 식별
 * 다양한 속성 모델의 장단점을 식별하고 설명합니다
-* 비즈니스 요구 사항이 주어지면, 보고 채널 설정의 효과를 설명하십시오
+* 비즈니스 요구 사항이 주어지면, 보고에 설정된 채널의 효과를 설명하십시오
 
 섹션 4: 고급 운영(16%)
 
@@ -160,35 +160,20 @@ Adobe 자격 증명 프로그램 은 Certified 기본 타이틀 달성에 관심
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E556)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E556 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

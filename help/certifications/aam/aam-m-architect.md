@@ -5,19 +5,19 @@ solution: Audience Manager
 product: Audience Manager
 role: Data Architect
 level: Experienced
-badge: label="시험 AD0-E454" type="양성"
+badge: label="시험 AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 12%
+source-wordcount: '708'
+ht-degree: 13%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Audience Manager] 설계자 기본
+# 인증 여정 [!DNL Adobe Audience Manager] 설계자 기본
 
-자격증을 취득하는 방법 알아보기 [!DNL Audience Manager] 기본 설계.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Audience Manager] 기본 설계.
 
 ## 최소 경험
 
@@ -144,31 +144,16 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 
 
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E454)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E454 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

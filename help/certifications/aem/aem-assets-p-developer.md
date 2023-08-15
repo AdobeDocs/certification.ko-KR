@@ -4,23 +4,23 @@ description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Mana
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
-badge: label="시험 AD0-E129" type="양성"
+badge: label="시험 AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '823'
 ht-degree: 4%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Experience Manager] Assets Developer Professional
 
-자격증을 취득하는 방법 알아보기 [!DNL Experience Manager] 프로페셔널
+인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] Assets Developer Professional.
 
 ## 최소 경험
 
-Adobe 관리 서비스 및 Adobe에서 편안하게 작업할 수 있습니다 [!DNL Experience Manager as a Cloud Service]및 을 설정하고 Adobe을 설정할 수 있습니다 [!DNL Experience Manager] 환경 및 인프라.
+Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. [!DNL Experience Manager as a Cloud Service]및 을 설정하고 Adobe을 설정할 수 있습니다 [!DNL Experience Manager] 환경 및 인프라.
 
 다음을 수행해야 합니다.
 
@@ -158,23 +158,19 @@ Adobe 관리 서비스 및 Adobe에서 편안하게 작업할 수 있습니다 [
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E129)
-
-### 사용 가능한 옵션
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E129 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

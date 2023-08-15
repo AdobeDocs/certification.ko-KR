@@ -4,19 +4,19 @@ description: Adobe 인증을 받는 방법 알아보기 [!DNL Audience Manager] 
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="시험 AD0-E457" type="양성"
+badge: label="시험 AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '965'
-ht-degree: 9%
+source-wordcount: '940'
+ht-degree: 10%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Audience Manager] 비즈니스 전문가
+# 인증 여정 [!DNL Adobe Audience Manager] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Audience Manager] 비즈니스 전문가.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Audience Manager] 비즈니스 전문가.
 
 ## 최소 경험
 
@@ -120,7 +120,7 @@ ht-degree: 9%
 
 * [세그먼트 수준에서 Audience Marketplace의 제2자 및 타사 데이터 사용 보고](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
 * [필터 및 권장 사항을 사용하여 Audience Marketplace에서 타사 데이터를 선택합니다.](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
-* [세그먼테이션 이해](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
+* [세분화 이해](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
 * [세그먼트: 목적, 구성 및 규칙](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
 * [세분화 및 필터링](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
 * [대상 홈페이지](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html){target="_blank"}
@@ -166,31 +166,16 @@ ht-degree: 9%
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E457)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E457 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

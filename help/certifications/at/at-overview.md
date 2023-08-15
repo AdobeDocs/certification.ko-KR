@@ -3,18 +3,18 @@ title: Target 인증 개요
 description: Adobe Target의 인증 옵션 개요
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 11%
+source-wordcount: '110'
+ht-degree: 13%
 
 ---
 
-# Target 인증 개요
+# [!DNL Adobe Target] 인증 개요
 
 ## 새로운 기능
 
-Adobe Target Architect 기본 인증이 업데이트되었습니다.
+다음 [!DNL Adobe Target] 설계자 기본 인증이 업데이트되었습니다.
 
 현재 버전:
 

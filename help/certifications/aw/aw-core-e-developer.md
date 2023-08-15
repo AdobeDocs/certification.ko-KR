@@ -3,23 +3,23 @@ title: Core Developer Expert 인증
 description: Adobe에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다 [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="시험 AD0-E904" type="양성"
+badge: label="시험 AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1509'
 ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Workfront] 코어 개발자 전문가
 
-인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Workfront] 코어 개발자 전문가.
 
 ## 최소 경험
 
-을(를) 사용하여 18~24개월 이상의 경험을 쌓아야 합니다. [!DNL Workfront], 그리고 다음과 같은 작업을 수행할 수 있습니다.
+18~24개월 이상 Adobe 경험이 있어야 합니다. [!DNL Workfront], 그리고 다음과 같은 작업을 수행할 수 있습니다.
 
 * 탐색 [!DNL Workfront] 시스템, 기능이 있는 위치 이해
 * 시스템의 모든 측면 구성
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 섹션 4: 문서 관리 및 증명(13%)
 
-* 시나리오에 따라 문서 관리와 증명을 활용하는 방법을 시연합니다.
+* 시나리오에 따라 문서 관리와 증명 간 활용 시점 시연
 * 시나리오가 주어지면 증명 뷰어, 설정 및 마크업 기능 사용에 대한 모범 사례를 식별합니다
 * 시나리오에 따라 파일에서 권한을 편집하고 설정하는 방법을 보여 줍니다.
 * 시나리오에 따라 보안 제한을 사용하여 외부 문서 저장소를 설정하는 방법을 보여 줍니다.
@@ -193,37 +193,22 @@ ht-degree: 0%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E904)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E904 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

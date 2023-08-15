@@ -4,19 +4,19 @@ description: Adobe에서 인증된 Adobe Developer 전문가가 되는 방법에
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="시험 AD0-E716" type="양성"
+badge: label="시험 AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1850'
+ht-degree: 2%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Commerce] 개발자 전문가
+# 인증 여정 [!DNL Adobe Commerce] 개발자 전문가
 
-인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Commerce] 개발자 전문가.
 
 ## 최소 경험
 
@@ -276,26 +276,22 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E716)
-
-### 사용 가능한 옵션
-
-**[!DNL Examity]** ( *온라인* )
+### AD0-E716 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

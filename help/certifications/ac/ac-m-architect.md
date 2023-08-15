@@ -5,51 +5,51 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="시험 AD0-E718" type="양성"
+badge: label="시험 AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 1%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Commerce] 설계자 기본
+# 인증 여정 [!DNL Adobe Commerce] 설계자 기본
 
-공인 Adobe 설계자가 되는 방법에 대해 기본으로 알아봅니다.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Commerce] 기본 설계.
 
 ## 최소 경험
 
-최소 3~5년 동안 리드한 경험이 있어야 합니다. [!DNL Commerce] 개발 프로젝트를 수행하고, Adobe을 활용하여 비즈니스 문제에 대한 솔루션을 설계, 통합, 구현 및 설명할 수 있습니다. [!DNL Commerce] 관련 서비스와 함께 제공됩니다.
+최소 3~5년 동안 리드한 경험이 있어야 합니다. [!DNL Commerce] 개발 프로젝트를 수행하고, 을 활용하여 비즈니스 문제에 대한 솔루션을 설계, 통합, 구현 및 설명할 수 있습니다. [!DNL Adobe Commerce] 관련 서비스와 함께 제공됩니다.
 
 또한 다음 활동 및 기술에 대해 잘 알고 있어야 합니다.
 
 * 핵심 기능 확장
-* 구성 Adobe [!DNL Commerce] 완전히
+* 구성 [!DNL Adobe Commerce] 완전히
 * 코드로 이동하지 않고도 확장 작동 방식에 대한 전체 블루프린트, 회사 요구 사항 및 작동 방식에 대한 블루프린트를 만들 수 있습니다
 * 비즈니스 요구 사항/기능 이해
 * 솔루션 및 확장의 성능 영향
 * 서비스 계약 논리
 * GraphQL
 * 작성기를 종속성 도구로 이해
-* Adobe의 작업 인스턴스 설정 및 구성 [!DNL Commerce] 처음부터
+* Adobe의 작업 인스턴스 설정 및 구성 [!DNL Adobe Commerce] 처음부터
 * 관리 대시보드 맞춤화, 그리드 및 양식 만들기
 * 캐시 및 인덱스 관리, 사용자 정의 인덱스 생성
 * 새 캐시 유형 만들기
 * 환경의 다양한 문제 해결 및 디버그
 * 데이터베이스 스키마 확장 및 관리
 * 보안 기능, 안전한 설치 및 개발 확장 제공
-* 다음과 같은 서버 기반 서비스를 수행합니다. [!DNL Commerce] 연결(Redis, Vanish 구성 관리)
+* 다음과 같은 서버 기반 서비스를 수행합니다. [!DNL Adobe Commerce] 연결(Redis, Vanish 구성 관리)
 * 최고의 코딩 표준 사례, 코딩 표준, PSR, SOLID 원리에 대해 인식
-* 설정 및 사용 [!DNL Commerce] 서비스 커넥터(및 관련 서비스)
+* 설정 및 사용 [!DNL Adobe Commerce] 서비스 커넥터(및 관련 서비스)
 * 스테이징 콘텐츠 관리
-* Adobe 이해 [!DNL Commerce] 기본값, 사용 가능한 경우 및 사용할 수 없는 경우
-* 모든 관련 항목 광범위 파악 [!DNL Commerce] 도메인
+* 이해 [!DNL Adobe Commerce] 기본값, 사용 가능한 경우 및 사용할 수 없는 경우
+* 모든 관련 항목 광범위 파악 [!DNL Adobe Commerce] 도메인
 * 프로젝트 아키텍처 설계
-* Adobe 성능 최적화 [!DNL Commerce] 기본값
+* 성능 최적화 [!DNL Adobe Commerce] 기본값
 * B2B 만들기 및 수정
-* Adobe의 AMQP 프로토콜 및 어댑터 [!DNL Commerce] (S3)
+* 의 AMQP 프로토콜 및 어댑터 [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ ht-degree: 1%
 
 **의도한 대상:**
 
-* 리드 소프트웨어/[!DNL Commerce] 아키텍트
+* 리드 소프트웨어/[!DNL Adobe Commerce] 아키텍트
 * 기술 설계자
 * 솔루션 설계자
 * 기술 리더
@@ -169,31 +169,16 @@ ht-degree: 1%
 
 
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E718)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E718 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

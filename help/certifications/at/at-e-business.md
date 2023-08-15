@@ -4,19 +4,19 @@ description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법에 �
 solution: Target
 product: Target
 role: User
-badge: label="시험 AD0-E406" type="양성"
+badge: label="시험 AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '1207'
 ht-degree: 1%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 비즈니스 전문가
 
-인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아보십시오.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 비즈니스 전문가.
 
 ## 최소 경험
 
@@ -42,23 +42,23 @@ ht-degree: 1%
 기술:
 
 * Marketing cloud debugger / Adobe Experience Cloud debugger라고도 함
-* Target 특히 A4T 통합을 위한 보고 소스로서의 Adobe Analytics
+* Target용 보고 소스로서의 Adobe Analytics 특히 A4T 통합
 * 브라우저의 콘솔/브라우저 개발자 도구(예: 콘솔, 네트워크 탭)
 * 브라우저의 네트워크 도구
 * 기타 Adobe 도구에 대한 기본 이해
 * 개발자 콘솔 (모든 웹 브라우저)
 * [!DNL Adobe Target] 표본 계산기
 * Adobe Audience Manager 기본 사항
-* Adobe Experience Cloud (Target 대상 소스로)
+* Adobe Experience Cloud(Target의 대상 소스로)
 * Adobe Experience Manager
-* Target 관련 용어로 통계에 사용되는 용어에 대한 기본 지식
+* Target과 관련하여 통계에 사용되는 용어에 대한 기본 지식
 * 쿠키 동작에 대한 기본 지식
 * 솔루션 디자인 참조 읽기 방법
 
 환경:
 
 * 데스크탑 및 모바일 장치를 포함한 데스크탑 / 웹 사이트
-* 모바일 앱(기본 이해) / 모바일 장치용 Target 사용
+* 모바일 앱 (기본 이해) / 모바일 장치용 Target 사용
 * 스테이징-개발
 * 프로덕션
 * 모바일 장치, 태블릿 장치 및 데스크탑 장치 전반의 프로덕션 환경
@@ -103,7 +103,7 @@ ht-degree: 1%
 * 주어진 시나리오를 기반으로 테스트 가설을 분석하고 유효한 가설의 측면을 식별합니다
 * KPI 기반 기본 및 보조 성공 지표 결정
 * 대상 요구 사항 평가
-* 적절한 분석 보고 소스(예: Target 또는 Adobe Analytics)를 결정합니다.
+* 적절한 분석 보고 소스(예: Target 또는 Adobe Analytics)를 결정합니다
 
 섹션 2: 구성, 실행 및 관리(42%)
 
@@ -117,10 +117,10 @@ ht-degree: 1%
 * MVT 활동을 만드는 절차 적용
 * 솔루션에 AP를 사용하는 방법 이해
 * 절차를 적용하여 추천 활동 만들기
-* Target에서 대상자를 만드는 절차 적용
+* Target에서 대상을 만드는 절차 적용
 * 목표 및 설정 설정에 절차 적용
 * 활동 QA를 수행하는 절차 적용
-* Target 내 활동 및 대상자 관리에 절차 적용
+* Target 내의 활동 및 대상을 관리하는 절차 적용
 
 섹션 3: 분석 및 보고(17%)
 
@@ -162,14 +162,14 @@ ht-degree: 1%
 * [방법 이해 [!DNL Adobe Target]의 at.js 2.0 작품](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
 * [구현 [!DNL Adobe Target]단일 페이지 애플리케이션(SPA)의 s at.js 2.0](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
 * [Target 구현 디자인](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
-* [Target 구현 디자인을 위한 다음 단계](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
+* [Target 구현을 디자인하는 다음 단계](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
 
 **섹션 3: 분석 및 보고**
 
 * [개인화 통찰력 보고서 사용](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
 * [Analytics와 Target 통합](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
 * [Adobe Analytics을 데이터 소스로 사용 [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
-* [자동 Target 활동을 위해 Analysis Workspace에서 A4T 보고서 설정](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ko){target="_blank"}
+* [자동 타겟 활동을 위해 Analysis Workspace에서 A4T 보고서 설정](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ko-KR){target="_blank"}
 
 **섹션 4: 문제 해결**
 
@@ -185,37 +185,22 @@ ht-degree: 1%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E406)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E406 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

@@ -7,24 +7,24 @@ role: User
 badge: label="시험 AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Adobe Document Cloud 비즈니스 실무자 전문가용 인증 여정
+# 인증 여정 [!DNL Adobe Document Cloud] 비즈니스 전문가
 
-인증된 Adobe 비즈니스 실무자가 되는 방법에 대해 알아보십시오.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Document Cloud] 비즈니스 전문가.
 
 ## 최소 경험
 
 다음을 수행해야 합니다.
 
-* Adobe Document Cloud에서 최소 0~12개월 동안의 경험
+* 다음 기간 내에 최소 0~12개월의 경험 보유 [!DNL Adobe Document Cloud]
 * 비즈니스 요구 사항 파악 및 전달
-* Adobe Document Cloud 솔루션에 대한 제품 지원 조언을 수행할 수 있습니다.
+* 에 대한 제품 지원 조언을 수행할 수 있습니다. [!DNL Adobe Document Cloud] 솔루션.
 
 >[!NOTE]
 >
@@ -124,27 +124,23 @@ ht-degree: 1%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-D106)
-
-### 사용 가능한 옵션
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-D106 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

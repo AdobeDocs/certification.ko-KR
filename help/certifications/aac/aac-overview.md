@@ -4,14 +4,14 @@ description: Adobe Advertising의 인증 옵션 개요
 solution: Advertising
 product: Advertising Cloud
 exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
-source-git-commit: a366e8b2ba3fa0fa0a22b05ff26821a7f1fc66a4
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 8%
 
 ---
 
-# Advertising 인증 개요
+# Adobe Advertising 인증 개요
 
 Adobe은 광고 비즈니스 전문가를 위한 여러 인증을 제공합니다.  이 페이지에는 인증 여정을 시작하거나 기존 인증을 갱신하는 데 필요한 모든 정보가 포함되어 있습니다.
 

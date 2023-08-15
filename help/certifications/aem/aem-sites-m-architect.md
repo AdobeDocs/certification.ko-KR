@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 17%
 
 ---
@@ -22,14 +22,14 @@ ht-degree: 17%
 >
 >**질문?** 다음 참조: [FAQ](#AEM-FAQ) 이 페이지의 맨 아래에 있습니다.
 
-공인 건축사가 되는 방법에 대해 기본으로 알아보십시오.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager Sites] 기본 설계.
 
 ## 최소 경험
 
 다음을 수행해야 합니다.
 
 * AEM Sites을 건축한 지 3년 이상
-* Adobe Managed Services 및 Adobe에서 작동하는 기능 [!DNL Experience Manager as a Cloud Service]
+* Managed Services 및 Adobe Adobe에서 작업 [!DNL Experience Manager as a Cloud Service]
 * Adobe 설정 기능 [!DNL Experience Manager] 환경 및 인프라
 
 또한 다음 작업을 수행할 수 있어야 합니다.
@@ -211,15 +211,13 @@ ht-degree: 17%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E117)
-
-### 사용 가능한 옵션
+## AD0-E117 시험 예약 또는 시험 응시
 
 >[!NOTE]
 >

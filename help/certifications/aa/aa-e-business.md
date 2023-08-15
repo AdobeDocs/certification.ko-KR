@@ -7,16 +7,16 @@ role: User
 badge: label="시험 AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1000'
 ht-degree: 14%
 
 ---
 
 # 인증 여정 [!DNL Adobe Analytics] 비즈니스 전문가
 
-인증된 Analytics 비즈니스 실무자 전문가가 되는 방법에 대해 알아봅니다.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Analytics] 비즈니스 전문가.
 
 ## 최소 경험
 

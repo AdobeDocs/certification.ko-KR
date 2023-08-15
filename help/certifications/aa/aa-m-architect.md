@@ -5,13 +5,13 @@ solution: Analytics
 product: Analytics
 level: Experienced
 role: Data Architect,Developer
-badge: label="시험 AD0-E207" type="양성"
+badge: label="시험 AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '900'
-ht-degree: 17%
+source-wordcount: '755'
+ht-degree: 20%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 17%
 * [[!DNL Analytics] 구성 요소 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
 * [[!DNL Analytics] Tools 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Experience Cloud 솔루션용 iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=ko-KR){target="_blank"}
-* [[!DNL Analytics] 가져오기 안내서](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=ko-KR){target="_blank"}
+* [[!DNL Analytics] 가져오기 안내서](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
 * [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 * [[!DNL Analytics] 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 * [관리자 역할](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
@@ -127,7 +127,7 @@ ht-degree: 17%
 * [[!DNL Analytics] 내보내기 안내서](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=ko-KR){target="_blank"}
 * [Adobe [!DNL Target] 비즈니스 실무자 안내서](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Adobe [!DNL Experience Cloud] ID 서비스](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [[!DNL Analytics] 가져오기 안내서](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=ko-KR){target="_blank"}
+* [[!DNL Analytics] 가져오기 안내서](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
 * [[!DNL Analytics] Tools 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [데이터 삽입 프로세스](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [태그를 사용하여 웹 사이트에서 Experience Cloud 구현 자습서](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
@@ -138,47 +138,19 @@ ht-degree: 17%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시
-
-Adobe은 두 공급업체를 사용하여 PSI 및 Examity 등 감독자 시험을 관리합니다.
-
-* **PSI** 은 테스트 센터 및 일본어 시험 옵션(가능한 경우)을 제공합니다.
-* **[!DNL Examity]** 원격 온라인 옵션을 제공합니다.
-
-시험을 예약하거나 다시 예약하거나 취소하려면 선택한 공급업체를 클릭하고 화면에 표시되는 지침을 따르십시오. 그렇게 간단해!
-
-Adobe 자격 증명 관리 시스템의 프로필 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
-
-예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
-
-## 시험 응시(AD0-E207)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E207 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

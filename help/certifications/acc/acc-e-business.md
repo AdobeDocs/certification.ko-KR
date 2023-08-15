@@ -4,25 +4,25 @@ description: 다음을 통해 인증된 Adobe 비즈니스 전문가가 되는 �
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="시험 AD0-E327" type="양성"
+badge: label="시험 AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 15%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Campaign Classic] 비즈니스 전문가
 
-인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아보십시오.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Campaign Classic] 비즈니스 전문가.
 
 ## 최소 경험
 
 다음을 수행해야 합니다.
 
-* 최소 2년 간의 광범위한 [!DNL Campaign Classic] 소프트웨어 경험
+* 최소 2년간의 광범위한 Adobe [!DNL Campaign Classic] 소프트웨어 경험
 * 디지털 옴니채널을 사용한 마케팅 캠페인 및 전술 개발 다년간 경험
 * 비즈니스 요구 사항을 실행 가능한 캠페인 결과물로 해석/번역한 경험
 * ROI, 클릭스루 비율 및 전환율과 같은 마케팅 지표에 대한 경험
@@ -164,26 +164,22 @@ ht-degree: 15%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E327)
-
-### 사용 가능한 옵션
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E327 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

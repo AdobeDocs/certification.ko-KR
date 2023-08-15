@@ -4,19 +4,19 @@ description: Adobe에서 인증된 비즈니스 실무 전문가가 되는 방�
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="시험 AD0-E126" type="양성"
+badge: label="시험 AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 13%
+source-wordcount: '865'
+ht-degree: 14%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Experience Manager] 비즈니스 전문가
 
-인증된 Adobe 비즈니스 실무자가 되는 방법에 대해 알아보십시오.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 비즈니스 전문가.
 
 ## 최소 경험
 
@@ -26,7 +26,7 @@ ht-degree: 13%
 * 개발자를 참여시켜 비즈니스 솔루션을 찾는 데 필요한 AEM 기능 및 성능에 대한 최소 0~12개월 동안의 경험
 * Continuous Integration/Continuous Deployment 작업 구성, 구현 및 관리에 대한 최소 0~12개월 동안의 경험
 
-Adobe Managed Services 및 Adobe에서 편안하게 작업할 수 있는 경우 [!DNL Experience Manager] as a Cloud Service 및 Adobe 설정 가능 [!DNL Experience Manager] 환경 및 인프라.
+Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있는 경우 [!DNL Experience Manager] as a Cloud Service 및 Adobe 설정 가능 [!DNL Experience Manager] 환경 및 인프라.
 
 또한 다음을 수행해야 합니다.
 
@@ -134,7 +134,7 @@ Adobe Managed Services 및 Adobe에서 편안하게 작업할 수 있는 경우 
 * [AEM 6.4 Authoring 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/home.html){target="_blank"}
 * [AEM 6.4 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 * [AEM 6.5 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM 개발 - 지침 및 우수 사례](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html){target="_blank"}
+* [AEM 개발 - 지침 및 우수 사례](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=ko-KR){target="_blank"}
 * [Adobe과 통합 [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html){target="_blank"}
 * [AEM [!DNL Sites] 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 
@@ -144,23 +144,19 @@ Adobe Managed Services 및 Adobe에서 편안하게 작업할 수 있는 경우 
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E126)
-
-### 사용 가능한 옵션
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E126 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

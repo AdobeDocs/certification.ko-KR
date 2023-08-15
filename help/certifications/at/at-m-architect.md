@@ -4,23 +4,23 @@ description: 자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] �
 solution: Target
 product: Target
 role: Data Architect
-badge: label="시험 AD0-E407" type="양성"
+badge: label="시험 AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1122'
 ht-degree: 19%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 설계자 기본
 
-공인 Adobe 설계자가 되는 방법에 대해 기본으로 알아봅니다.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 기본 설계.
 
 >[!NOTE]
 >
->이 시험의 Adobe Target Architect 기본 (AD0-E407)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 9월 8일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](at-m-architect0623.md).
+>이번 시험, [!DNL Adobe Target] 설계자 기본(AD0-E407)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 9월 8일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](at-m-architect0623.md).
 
 ## 최소 경험
 
@@ -28,7 +28,7 @@ ht-degree: 19%
 
 * 구현을 포함하여 최소 3년간의 디지털 마케팅 최적화 경험 [!DNL Adobe Target] 활동
 * 구현, 배포 및 문제 해결에 2년 이상의 경험(또는 5회의 참여) [!DNL Adobe Target]
-* Adobe Experience Cloud과 Target 통합 경험
+* Target과 Adobe Experience Cloud 통합 경험
 * JavaScript, HTML, CSS 및 프론트엔드 웹 개발에 대한 기본 이해
 * 에 대한 친숙함/인식 [!DNL Adobe Target] API/SDK, 서버측 통합, 보고 및 관리
 * 구현에 대한 지식 [!DNL Adobe Target] SPA(단일 페이지 애플리케이션) 프레임워크, 모바일 및 이메일, 권장 사항 사용
@@ -39,7 +39,7 @@ ht-degree: 19%
 
 * 여러 Adobe Experience Cloud 프로그램(Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target API)
 * JavaScript(Ajax, JQuery 등)
-* 브라우저 기반 디버깅 도구(Chrome 개발자 도구, VEC helper), Target의 디버깅 응답에 대한 JSON
+* Target의 디버깅 응답에 대한 브라우저 기반 디버깅 도구(Chrome 개발자 도구, VEC Helper) JSON
 * 네이티브 앱용 디버깅 도구(Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, XML 구성
 * 기본 모바일 개발 IDE, iOS 개발 기본 사항, Android 개발 기본 사항
@@ -110,7 +110,7 @@ ht-degree: 19%
 섹션 5: 활용 [!DNL Adobe Target] 권장 사항(9%)
 
 * 권장 사항, 카탈로그 및 환경에 대한 이해 설명
-* Target 권장 사항을 구성하는 프로세스 적용
+* 프로세스를 적용하여 Target 권장 사항 구성
 
 섹션 6: 설계, 설계 및 구현 [!DNL Adobe Target] (15%)
 
@@ -202,34 +202,19 @@ ht-degree: 19%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E407)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E407 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

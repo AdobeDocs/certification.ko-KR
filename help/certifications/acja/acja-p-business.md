@@ -6,20 +6,20 @@ product: Customer Journey Analytics
 role: User
 badge: label="시험 AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5d7c136e3d38f3fed5443dcb476c8a2af9fad24d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '619'
 ht-degree: 13%
 
 ---
 
-# Adobe Customer Journey Analytics 비즈니스 실무자 전문가용 인증 여정
+# Adobe을 위한 인증 여정 [!DNL Customer Journey Analytics] 비즈니스 전문가
 
-인증된 Adobe 비즈니스 실무자가 되는 방법에 대해 알아보십시오.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Customer Journey Analytics] 비즈니스 전문가.
 
 ## 최소 경험
 
-최소 자격을 갖춘 이상적인 후보자는 Customer Journey Analytics에 6개월 이상 종사한 경험이 있고 CJA가 Adobe Experience Platform과 어떻게 연동되는지에 대한 기본 지식을 갖춘 분석가입니다. 후보는 적절한 보고 및 시각화 옵션을 사용하여 주어진 비즈니스 요구에 대한 기본 및 고급 분석을 수행할 수 있습니다.
+이상적인 최소 자격을 갖춘 후보자는 Adobe 경력이 6개월 이상인 분석가이다 [!DNL Customer Journey Analytics] 그리고 이 기능이 어떻게 작동하는지에 대한 기본적인 이해 [!DNL Adobe Experience Platform]. 후보는 적절한 보고 및 시각화 옵션을 사용하여 주어진 비즈니스 요구에 대한 기본 및 고급 분석을 수행할 수 있습니다.
 
 >[!NOTE]
 >
@@ -112,29 +112,25 @@ ht-degree: 13%
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E608)
-
-### 사용 가능한 옵션
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E608 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

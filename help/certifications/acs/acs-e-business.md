@@ -4,19 +4,19 @@ description: Adobe 분야의 공인 Adobe 비즈니스 전문가가 되는 방�
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
-badge: label="시험 AD0-E307" type="양성"
+badge: label="시험 AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '813'
-ht-degree: 8%
+source-wordcount: '790'
+ht-degree: 9%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Campaign Standard] 비즈니스 전문가
 
-인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아보십시오.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Campaign Standard] 비즈니스 전문가.
 
 ## 최소 경험
 
@@ -24,7 +24,7 @@ ht-degree: 8%
 
 또한 다음을 수행해야 합니다.
 
-* 작업 중인 현장 경험 [!DNL Campaign Standard] 규칙적인 빈도로
+* Adobe을 사용한 현장 경험 [!DNL Campaign Standard] 규칙적인 빈도로
 * 데이터 파일을 처리하는 기능
 * 관계형 데이터베이스, 트리거, API 및 기술 워크플로우의 개념에 대한 이해
 * 마케팅 워크플로우를 구축하고 기본 데이터로 작업하여 마케팅 워크플로우를 시작하는 방법에 대한 이해
@@ -149,37 +149,22 @@ ht-degree: 8%
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E307)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E307 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

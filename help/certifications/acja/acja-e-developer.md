@@ -4,23 +4,23 @@ description: 에서 인증된 전문가 Adobe이 되는 방법 알아보기 [!DN
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="시험 AD0-E604" type="양성"
+badge: label="시험 AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 12%
+source-wordcount: '628'
+ht-degree: 13%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Customer Journey Analytics] 전문가
 
-인증된 Adobe Analytics 고객 여정 개발자가 되는 방법을 알아봅니다.
+인증된 Adobe이 되는 방법 알아보기 [!DNL Customer Journey Analytics] 개발자 전문가.
 
 ## 최소 경험
 
-Adobe Customer Journey Analytics에서 12~24개월 경험을 쌓아야 하며 다음 작업을 수행할 수 있습니다.
+Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics]을 클릭하고 다음 작업을 수행할 수 있습니다.
 
 * XDM 스키마(클래스) 읽기 및 이해
 * 플랫폼 인터페이스에 대한 친숙도 입증
@@ -31,7 +31,7 @@ Adobe Customer Journey Analytics에서 12~24개월 경험을 쌓아야 하며 �
 * 기본 ID(개인 ID)로 연결 구성
 * 여러 데이터 세트로 연결 구성
 * 데이터 보기 구성(지표/차원 구성)
-* CJA 구성
+* Adobe 구성 [!DNL Customer Journey Analytics]
 * 차원 및 지표 내 데이터 변환
 * Workspace 분석 기본 사항(시각화, 속성 설정, 필터, 계산된 지표)
 * CJA(DULE)의 데이터 거버넌스 이해
@@ -128,37 +128,22 @@ Adobe Customer Journey Analytics에서 12~24개월 경험을 쌓아야 하며 �
 >
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 잡아야 합니다.*
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
 
 ## 연습 테스트 수행
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E604)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E604 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 

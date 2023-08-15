@@ -5,23 +5,23 @@ solution: Commerce
 product: Magento
 role: Developer
 level: Experienced
-badge: label="시험 AD0-E710" type="양성"
+badge: label="시험 AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Commerce] 프론트엔드 개발자 전문가
+# 인증 여정 [!DNL Adobe Commerce] 프론트엔드 개발자 전문가
 
-인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.
+자격증을 취득하는 방법 알아보기 [!DNL Adobe Commerce] 개발자 전문가.
 
 >[!NOTE]
 >
->이 시험 Adobe Commerce 프론트엔드 개발자 전문가(AD0-E710)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 8월 18일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](ac-e-fedeveloper0623.md).
+>이번 시험 [!DNL Adobe Commerce] 프론트엔드 개발자 전문가(AD0-E710)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 8월 18일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](ac-e-fedeveloper0623.md).
 
 ## 최소 경험
 
@@ -216,31 +216,16 @@ Adobe에 대해 최소 1~3년 실무 경험이 있어야 합니다 [!DNL Commerc
 
 {{practice-test}}
 
-## 시험 정보
+## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## 시험 응시(AD0-E710)
-
-### 사용 가능한 옵션
-
-{{PSI-note}}
-
-**PSI** (*테스트 센터/일본어 시험 옵션(가능한 경우)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 응시
-</span>
-</a>
-
-**[!DNL Examity]** ( *온라인* )
+## AD0-E710 시험 예약 또는 시험 응시
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   시험 응시
+   예제 포털로 이동
 </span>
 </a>
 
