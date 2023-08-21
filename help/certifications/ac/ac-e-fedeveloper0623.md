@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="시험 AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 1%
 # 인증 여정 [!DNL Adobe Commerce] 프론트엔드 개발자 전문가
 
 자격증을 취득하는 방법 알아보기 [!DNL Adobe Commerce] 개발자 전문가.
-
->[!NOTE]
->
->최신 버전입니다. [!DNL Adobe Commerce] 프론트엔드 개발자 전문가 시험. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ac-e-fedeveloper.md) 2023년 8월 18일까지 완료해야 합니다.
 
 ## 최소 경험
 

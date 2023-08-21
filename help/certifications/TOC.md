@@ -2,10 +2,10 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시오. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 45%
+source-wordcount: '255'
+ht-degree: 47%
 
 ---
 
@@ -74,13 +74,11 @@ ht-degree: 45%
       + 전문가 {#ac-professional}
          + [비즈니스 전문가](/help/certifications/ac/ac-p-business.md)
          + [Developer](/help/certifications/ac/ac-p-developer.md)
-         + [프론트엔드 개발자](/help/certifications/ac/ac-p-fedeveloper.md)
-         + [프론트엔드 개발자(신규)](/help/certifications/ac/ac-p-fedeveloper0623.md)
+         + [프론트엔드 개발자](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + 전문가 {#ac-expert}
          + [비즈니스 전문가](/help/certifications/ac/ac-e-business.md)
          + [Developer](/help/certifications/ac/ac-e-developer.md)
-         + [프론트엔드 개발자](/help/certifications/ac/ac-e-fedeveloper.md)
-         + [프론트엔드 개발자(신규)](/help/certifications/ac/ac-e-fedeveloper0623.md)
+         + [프론트엔드 개발자](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + 마스터 {#ac-master}
          + [아키텍트](/help/certifications/ac/ac-m-architect.md)
       + [갱신](/help/certifications/ac/ac-renew.md)
