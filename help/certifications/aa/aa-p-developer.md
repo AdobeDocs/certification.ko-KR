@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
 workflow-type: tm+mt
-source-wordcount: '1120'
+source-wordcount: '1116'
 ht-degree: 9%
 
 ---
@@ -169,10 +169,6 @@ ht-degree: 9%
 >다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-## 연습 테스트 수행
-
-{{practice-test}}
 
 ## 인증 시험 정보
 
