@@ -8,14 +8,14 @@ level: Experienced
 badge: label="시험 AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
+source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '797'
 ht-degree: 1%
 
 ---
 
-# 인증 여정 [!DNL Adobe Commerce] 설계자 기본
+# Adobe을 위한 인증 여정 [!DNL Commerce] 설계자 기본
 
 자격증을 취득하는 방법 알아보기 [!DNL Adobe Commerce] 기본 설계.
 
