@@ -5,12 +5,12 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="시험 AD0-E718" type="positive"
+badge: label="시험 AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -76,12 +76,12 @@ ht-degree: 1%
 **시험 세부 정보:**
 
 * 레벨: 기본(3~5년 경력)
-* 합격 점수: 29/50
+* 합격 점수: 30/50
 * 시간: 120분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
 * 사용 가능한 언어: 영어
 * 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E718
+* 시험 ID: AD0-E722
 
 **준비 자체 평가**
 
@@ -123,12 +123,6 @@ ht-degree: 1%
 시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
 
 다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
-
-**샘플 질문**
-
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
-
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **섹션 1: 디자인**
 
@@ -173,9 +167,9 @@ ht-degree: 1%
 
 {{about-certification-exam}}
 
-## AD0-E718 시험 예약 또는 시험 응시
+## AD0-E722 시험 예약 또는 시험 응시
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E722" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    예제 포털로 이동
