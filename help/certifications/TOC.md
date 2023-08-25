@@ -2,10 +2,10 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시오. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 47%
+source-wordcount: '260'
+ht-degree: 46%
 
 ---
 
@@ -112,6 +112,7 @@ ht-degree: 47%
          + [비즈니스 전문가](/help/certifications/ame/ame-e-business.md)
       + 마스터 {#ame-master}
          + [아키텍트](/help/certifications/ame/ame-m-architect.md)
+         + [설계자 - 신규](/help/certifications/ame/ame-m-architect-23-08.md)
       + [갱신](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP 개요](/help/certifications/rtcdp/rtcdp-overview.md)
@@ -143,6 +144,7 @@ ht-degree: 47%
          + [개발자(핵심)](/help/certifications/aw/aw-core-p-developer.md)
       + 전문가 {#aw-expert}
          + [개발자(핵심)](/help/certifications/aw/aw-core-e-developer.md)
+         + [개발자(핵심) - 신규](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM 강화 커넥터](/help/certifications/aw/aw-aem-e-connector.md)
       + [갱신](/help/certifications/aw/aw-renew.md)
 + [최종 사용자용 자격 증명](https://learning.adobe.com/certification/credentials)
