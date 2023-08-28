@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
+source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '766'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 1%
 
 * 레벨: 기본(3~5년 경력)
 * 합격 점수: 30/50
-* 시간: 120분
+* 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
 * 사용 가능한 언어: 영어
 * 비용: $225(글로벌) / $150(인도)
@@ -111,12 +111,6 @@ ht-degree: 1%
 * Adobe의 모든 측면 구성 [!DNL Commerce] 클라우드
 * 배포 프로세스 감독 및 개선
 * 인프라 및 구성 문제 해결
-
-섹션 4: 규정 준수/보안 기본 사항(13%)
-
-* 개인 정보 보호 법률 및 지불 보안에 대한 규정 준수의 기본 사항 이해
-* Adobe의 일반적인 보안 측면 식별 [!DNL Commerce] 프로젝트
-* 접근성 규정 준수에 대한 Best Practice 및 법적 요구 사항 파악
 
 >[!TAB 준비 완료]
 
