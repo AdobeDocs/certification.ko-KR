@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '1060'
-ht-degree: 3%
+source-wordcount: '1804'
+ht-degree: 2%
 
 ---
 
@@ -145,7 +145,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 **섹션 5: 보고**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (획득 모범 사례 문서 설정)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (보고, 성과 통찰력, 프로그램 성과 보고서, 보고서 편집, 프로그램 멤버십)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (보고, 성과 인사이트, 프로그램 성과 보고서, 보고서 편집, 프로그램 멤버십)
 
 **섹션 6: 우수 사례**
 
@@ -158,6 +158,119 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 Marketo Engage 비즈니스 전문가 갱신 링크를 클릭하십시오.
 
 [!BADGE Adobe [!DNL Marketo Engage] 비즈니스 실무자 전문가 갱신 시험 AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+
+>[!TAB 마스터]
+
+다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
+
+* Adobe Marketo Engage Architect 기본
+
+## 인증 갱신 지침:
+
+* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계**: 시험 목표 및 리소스 검토
+* **3단계**: 시험 응시 및 통과
+
+### 준비
+
+**시험 세부 정보:**
+
+* 레벨: 전문가(3~5년 경력)
+* 합격 점수: 27/36
+* 시간: 72분
+* 게재: 온디맨드/비포장됨
+* 사용 가능한 언어: 영어
+* 비용: 무료
+* 시험 ID: AD5-E834 - Adobe [!DNL Marketo Engage] 설계자 기본
+
+**범위 및 목표:**
+
+섹션 1: 프로젝트 리더십 16%
+
+* 1.1 사례 연구를 통해 적합한 관련자 파악
+* 1.2 요구 사항 세트를 평가하고 프로젝트 경계, 예산, 리소스 및 범위를 권장합니다.
+* 1.3 수정된 프로세스를 통해 영향, 변경 관리 및 지원 요구 사항 파악
+* 1.4 비즈니스 요구 사항 세트를 고려하여 우선 순위 및 일정을 평가, 감사 및 추천합니다.
+
+섹션 2: Marketo 아키텍처 설계 48%
+
+* 2.1 요구 사항/요구 사항 수집 및 리드 관리 및 라이프사이클 설계 권장
+* 2.2 기존 구현 검토 및 결과 제공
+* 2.3 비즈니스 요구 사항이 있는 경우 채점을 설정하는 가장 효율적인 방법 식별
+* 2.4 기존 워크플로우를 검토하고 작업을 권장하여 캠페인 실행을 효율적으로 확장
+* 2.5 여러 국가에서 마케팅 운영 및 리드 관리를 용이하게 하는 가장 효과적인 접근 방식에 대해 설명합니다.
+* 2.6 시나리오에 따라 새로운 기술을 인스턴스에 통합하기 위한 영향과 요구 사항을 평가합니다
+* 2.7 다양한 유형의 통합(Adobe Experience Cloud 또는 외부 제품) 및 사용 시기 식별
+* 2.8 시나리오/사례 연구를 고려할 때 제안된 변경 사항 또는 요구 사항의 영향을 받을 리드 라이프사이클의 여러 단계를 식별합니다.
+* 2.9 특정 비즈니스 요구 사항을 지원하도록 적절한 캠페인 논리 권장
+
+섹션 3: 보고 및 속성 20%
+
+* 3.1 라이프사이클 모델러의 우회로 개념을 검토, 설명/명시할 모델
+* 3.2 멀티채널 캠페인(온라인 광고/유기적 소셜/컨텐츠)이 있는 경우, 보고에 대한 접근 방식을 추천합니다
+* 3.3 Marketo 보고가 라이프사이클 변경을 추적하는지 확인
+* 3.4 주어진 보고서 유형에서 사용할 지표 식별
+* 3.5 멀티채널 속성을 추적하여 ROI를 평가하는 방법 식별
+* 3.6 다양한 속성 모델의 장단점을 식별하고 설명합니다
+* 3.7 비즈니스 요구 사항이 있는 경우 채널 설정이 보고에 미치는 영향을 설명합니다
+
+섹션 4: 고급 관리 16%
+
+* 4.1 시나리오가 주어지면 플랫폼 거버넌스를 개선하기 위한 적절한 단계를 식별합니다
+* 4.2 통합 사양이 주어지면 효율적인 데이터 스키마를 권장합니다
+* 4.3 구현 평가 및 이메일 성능 향상을 위한 작업 권장
+* 4.4 구현을 평가하고 관리 관리를 개선하기 위한 조치를 권장합니다
+* 4.5 구현에 대한 정보를 수집하고 보안 사례를 권장합니다
+* 4.6 주어진 시나리오에 대한 작업 공간 및 파티션의 적용 가능성 설명
+
+### 준비 완료
+
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+
+**섹션 1: 프로젝트 리더십**
+
+* [챔피언 블로그 - Marketo 국가](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [설명서 - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
+* [수익 모델 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
+
+**섹션 2: Adobe [!DNL Marketo Engage] 아키텍처 설계**
+
+* [사용자 지정 동기화 규칙 만들기 지침](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [잠재 고객 점수에 대한 확실한 가이드](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [이메일 스크립팅](https://developers.marketo.com/email-scripting/){target="_blank"}
+* [초기 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
+
+**섹션 3: 보고 및 속성**
+
+* [보고서 유형 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [속성 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
+* [챔피언 블로그 - Marketo 국가](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [예측 콘텐츠 요약](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
+
+**섹션 4: 고급 작업**
+
+* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [소프트 바운스 억제](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [Marketo 사용자 지정 개체 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
+
+### 인증 갱신
+
+먼저, 에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}. 그런 다음 Adobe을 갱신하려면 [!DNL Marketo Engage] 기본 인증을 설계하려면 아래 링크를 클릭하십시오.
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 응시 AD5-E834
+</span>
+</a>
 
 >[!NOTE]
 >

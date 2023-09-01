@@ -6,36 +6,35 @@ product: Marketo
 role: Data Architect
 badge: label="시험 AD0-E560" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
-source-git-commit: 5fb76199d2e15ef486f9b91e55e908d5d5e9704c
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '992'
 ht-degree: 1%
 
 ---
 
 
-<!--This is NOT updated with the AD0-E560 information-->
-
 # Adobe을 위한 인증 여정 [!DNL Marketo Engage] 설계자 기본
 
 인증된 Adobe이 되는 방법 알아보기 [!DNL Marketo Engage] 기본 설계.
 
-Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marketo Engage] 공인 기본 타이틀 획득에 관심이 있는 후보에 대해 설계사 자격증을 취득합니다. 이는 이전의 Marketo MCSA(Certified Solution Architect) 인증 인터뷰 프로세스를 대체합니다. [자세히 보기](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+>[!NOTE]
+>
+>최신 버전입니다. [!DNL Adobe Marketo Engage] 건축가 기본 시험. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ame-m-architect.md), 2023년 10월 31일까지 시험을 완료해야 합니다.
 
 ## 최소 경험
 
 다음을 수행해야 합니다.
 
-* Adobe의 현재 인증 [!DNL Marketo Engage] 비즈니스 실무자 인증 전문가
-* 최소 5년 경력의 경우 Adobe 인스턴스가 여러 개인 것이 좋습니다. [!DNL Marketo Engage]
+* Marketo Engage 비즈니스 실무자 인증 전문가로서의 현재 인증
+* 최소 5년 경력의 경우 Marketo Engage 인스턴스가 여러 개인 것이 좋습니다.
 * 비즈니스 영향에 대한 이해 및 다양한 수준의 관련자(기술 및 비기술)에게 솔루션을 효과적으로 설명/전달
-* 솔루션을 개념화하고 로 변환하는 기능 [!DNL Marketo Engage] 아키텍처, 통합의 영향을 받는 비즈니스 프로세스 이해
+* 솔루션을 개념화하고 Marketo Engage 아키텍처로 변환하여 통합의 영향을 받는 비즈니스 프로세스를 이해하는 기능
 * 인스턴스 아키텍처 원리에 대한 숙지
 
 또한 다음 도구 및 기술에 익숙해야 합니다.
 
-* Adobe [!DNL Marketo Engage] 기능 및 앱
+* Adobe Marketo Engage 기능 및 앱
 * 데이터베이스 시스템
 * API 연결
 * CRM 플랫폼
@@ -68,15 +67,15 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 
 **시험 세부 정보:**
 
-* 전제 조건: Adobe Certified Expert - [!DNL Marketo Engage] 비즈니스 전문가
+* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Marketo Engage] 비즈니스 전문가 인증
 * 레벨: 기본(3~5년 경력)
 * 실무자 자격증
 * 합격 점수: 30/50
-* 시간: 150분
+* 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
 * 사용 가능한 언어: 영어
 * 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E556
+* 시험 ID: AD0-E560
 
 **준비 자체 평가**
 
@@ -84,14 +83,14 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 
 **시험 목표 및 범위**
 
-섹션 1: 프로젝트 리더십(16%)
+**섹션 1: 프로젝트 리더십(16%)**
 
 * 사례 연구를 통해 적합한 이해 당사자를 파악합니다.
 * 요구 사항 세트를 평가하고 프로젝트 경계, 예산, 리소스 및 범위를 추천합니다.
 * 수정된 프로세스가 주어지면 지원 및 효율적인 지원 롤아웃 계획이 필요한 사용자를 결정합니다.
 * 감사 평가 및 우선 순위 및 타임라인 추천
 
-섹션 2: [!DNL Marketo Engage] 아키텍처 설계(48%)
+**섹션 2: Marketo Engage 아키텍처 설계(48%)**
 
 * 요구 사항/요구 사항 수집 및 리드 관리 및 라이프사이클 설계 권장
 * 기존 구현 검토 및 결과 제공
@@ -103,17 +102,17 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 * 시나리오가 주어지면 제안된 변경 사항/요구 사항의 영향을 받는 사용자 라이프사이클의 여러 단계를 간략히 설명합니다.
 * 요구 사항 세트를 평가하고 캠페인 로직에 대한 접근 방법을 권장합니다.
 
-섹션 3: 보고 및 속성(20%)
+**섹션 3: 보고 및 속성(20%)**
 
 * 검토할 모델이 주어지면, 라이프사이클 모델러에서 우회하는 개념을 설명하십시오
 * 온라인 광고 또는 유기적인 소셜 또는 콘텐츠를 감안할 때, 보고에 대한 접근 방법을 권장합니다
-* 유효성 검사 방법 설명 [!DNL Marketo Engage] 라이프사이클 변경 추적 보고
+* 라이프사이클 변경 내용 추적에서 Marketo Engage 보고의 유효성을 검사하는 방법을 보여 줍니다.
 * 주어진 보고서 유형에서 사용할 지표 식별
 * 멀티채널 속성을 추적하여 ROI를 평가하는 방법 식별
 * 다양한 속성 모델의 장단점을 식별하고 설명합니다
 * 비즈니스 요구 사항이 주어지면, 보고에 설정된 채널의 효과를 설명하십시오
 
-섹션 4: 고급 운영(16%)
+**섹션 4: 고급 운영(16%)**
 
 * 시나리오가 주어지면 관리 또는 거버넌스를 개선하기 위한 적절한 단계를 식별합니다
 * 요구 사항 세트가 있는 경우 효율적인 데이터 스키마를 추천하십시오
@@ -142,6 +141,7 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 
 **섹션 2: Adobe [!DNL Marketo Engage] 아키텍처 설계**
 
+* [보고 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
 * [사용자 지정 동기화 규칙 만들기 지침](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
 * [잠재 고객 점수에 대한 확실한 가이드](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
@@ -161,19 +161,17 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-
+>또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
 
 ## 인증 시험 정보
 
 {{about-certification-exam}}
 
-## AD0-E556 시험 예약 또는 시험 응시
+## AD0-E560 시험 예약 또는 시험 응시
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    예제 포털로 이동

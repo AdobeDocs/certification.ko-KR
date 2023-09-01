@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 # Adobe을 위한 인증 여정 [!DNL Marketo Engage] 설계자 기본
 
 인증된 Adobe이 되는 방법 알아보기 [!DNL Marketo Engage] 기본 설계.
+
+>[!NOTE]
+>
+>이번 시험, [!DNL Adobe Marketo Engage] 설계자 기본(AD0-E556)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 10월 31일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전(AD0-E560)](ame-m-architect-23-08.md).
 
 Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marketo Engage] 공인 기본 타이틀 획득에 관심이 있는 후보에 대해 설계사 자격증을 취득합니다. 이는 이전의 Marketo MCSA(Certified Solution Architect) 인증 인터뷰 프로세스를 대체합니다. [자세히 보기](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
