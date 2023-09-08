@@ -6,20 +6,16 @@ product: Target
 role: Data Architect
 badge: label="시험 AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '943'
-ht-degree: 14%
+source-wordcount: '917'
+ht-degree: 15%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 설계자 기본
 
 자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 기본 설계.
-
->[!NOTE]
->
->최신 버전입니다. [!DNL Adobe Target] 건축가 기본 시험. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](at-m-architect.md) 2023년 9월 8일까지 완료해야 합니다.
 
 ## 최소 경험
 
