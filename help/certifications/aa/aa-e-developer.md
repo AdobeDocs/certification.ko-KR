@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '949'
 ht-degree: 10%
 
 ---
@@ -174,14 +174,25 @@ ht-degree: 10%
 
 {{about-certification-exam}}
 
-## AD0-E209 시험 예약 또는 시험 응시
+## AD0-E209(영어) 시험 예약 또는 수강
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   예제 포털로 이동
+   Examity portal - 영어 시험으로 이동
 </span>
 </a>
+
+## AD0-E209-J(일본어) 시험 예약 또는 시험 응시
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Example Portal - 일본어 시험으로 이동
+</span>
+</a>
+
+[일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 

@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -173,14 +173,25 @@ ht-degree: 0%
 
 {{about-certification-exam}}
 
-## AD0-E555 시험 예약 또는 시험 응시
+## AD0-E555 시험 예약 또는 수강(영어)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   예제 포털로 이동
+   Examity portal - 영어 시험으로 이동
 </span>
 </a>
+
+## AD0-E555-J(일본어) 시험 예약 또는 시험 응시
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Example Portal - 일본어 시험으로 이동
+</span>
+</a>
+
+[일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
