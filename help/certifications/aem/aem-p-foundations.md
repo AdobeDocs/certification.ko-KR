@@ -4,12 +4,12 @@ description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Mana
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E132 type="positive"
+badge: label="시험 AD0-E132" type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '603'
 ht-degree: 11%
 
 ---
@@ -115,7 +115,7 @@ ht-degree: 11%
 **섹션 2: 구현**
 
 * [AEM 구성 요소 - 기본 사항](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
-* [AEM의 Headless Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
+* [AEM의 Headless 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
 * [페이지 템플릿 만들기](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [클라이언트 측 라이브러리 사용](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html){target="_blank"}
 
