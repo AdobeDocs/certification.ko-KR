@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="시험 AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1019'
 ht-degree: 1%
 
 ---
@@ -107,9 +107,9 @@ ht-degree: 1%
 * jQuery 위젯 사용 시연
 * 레이아웃 XML을 사용하여 JS 구성 요소의 사용 시연
 
-섹션 5: 관리자 구성 및 PageBuilder(12%)
+섹션 5: 관리자 구성 및 페이지 빌더(12%)
 
-* 페이지 빌더 콘텐츠를 사용자 지정하는 기능 시연&quot;
+* 페이지 빌더 콘텐츠를 사용자 지정하는 기능 시연
 * 프론트엔드 최적화 설명
 * 트랜잭션 이메일 사용자 지정
 * 관리 개발 도구 사용 시연

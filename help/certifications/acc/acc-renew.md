@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 9%
+source-wordcount: '923'
+ht-degree: 8%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!NOTE]
 >
->곧 전문 갱신.
+>프로 리뉴얼은 개발 중입니다. 인증이 만료되는 사람은 이 무료 갱신 방법을 사용할 수 있을 때 계속 사용할 수 있도록 연장 혜택을 받게 됩니다.
 
 >[!TAB 전문가 및 기본]
 
