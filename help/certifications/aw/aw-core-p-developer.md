@@ -6,18 +6,50 @@ role: Developer
 badge: label="시험 AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 2%
+source-wordcount: '819'
+ht-degree: 3%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Workfront] Core Developer Professional
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Workfront] 코어 개발자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 44/70
+* 시간: 140분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E905
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 기술 컨설턴트
+* 시스템 관리자
+* 프로젝트 관리자
+* 프로젝트 코디네이터
+* 전략가
+* 리소스 관리자
+* 분석가
+* IT 전문가
+* [!DNL Workfront] 구현 컨설턴트/리드
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -36,55 +68,25 @@ ht-degree: 2%
 * 기본 커넥터 및 기타 Adobe에 대한 친숙도 [!DNL Workfront] 제품 및 서비스
 * 애자일 및 폭포를 포함한 프로젝트 관리 및 리소스 관리 개념에 대한 숙지
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 기술 컨설턴트
-* 시스템 관리자
-* 프로젝트 관리자
-* 프로젝트 코디네이터
-* 전략가
-* 리소스 관리자
-* 분석가
-* IT 전문가
-* [!DNL Workfront] 구현 컨설턴트/리드
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 44/70
-* 시간: 140분
-* 게재: 온라인 처리됨(카메라 액세스 필요)
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E905
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1. 전략 및 접수(24%)
+**섹션 1. 전략 및 접수(24%)**
 
 * 포트폴리오 및 프로그램 사용
 * 요청 대기열 사용
 * 사용자 정의 양식 사용
 * 기본 승인 사용
 
-섹션 2. 예산 및 계획(11%)
+**섹션 2. 예산 및 계획(11%)**
 
 * 리소스 플래너 사용
 * 시나리오/요구 사항 집합이 주어지면 구성을 적용하여 프로젝트 템플릿을 설정합니다
 
-섹션 3. 사용자 경험(25%)
+**섹션 3. 사용자 경험(25%)**
 
 * 올바른 사용자 경험을 구축하기 위한 사용자 관리 모범 사례 설명
 * 시나리오가 주어지면 시스템에서 공유 및 액세스 권한에 대한 올바른 설정을 적용합니다
@@ -92,13 +94,13 @@ ht-degree: 2%
 * 타임시트를 만들고 사용하는 방법 시연
 * 커넥터, 플러그인 및 추가 기능의 목적 및 가치 설명
 
-섹션 4. 지표 및 보고(16%)
+**섹션 4. 지표 및 보고(16%)**
 
 * 보고서 작성, 전송 및 사용자 지정에 대한 기본 개념 설명
 * 대시보드 빌드 및 사용자 지정 방법 설명
 * 보고서의 기능 보기를 구성하는 방법 시연
 
-섹션 5. 실행(24%)
+**섹션 5. 실행(24%)**
 
 * 승인 및 증명 워크플로를 설정하는 방법 시연
 * 프로젝트에 대한 문제 생성 목적 인식
@@ -107,17 +109,33 @@ ht-degree: 2%
 * 시간을 입력하는 방법 식별 [!DNL Workfront]
 * 에서 재무 추적 요소 식별 [!DNL Workfront]
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
 
-**샘플 질문**
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+<br>
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 전략 및 접수**
 
@@ -160,17 +178,35 @@ ht-degree: 2%
 * [애자일 팀 만들기](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [비용 추적](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ ht-degree: 2%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

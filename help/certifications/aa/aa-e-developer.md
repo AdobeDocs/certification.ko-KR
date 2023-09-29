@@ -8,18 +8,44 @@ level: Experienced
 badge: label="시험 AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 10%
+source-wordcount: '809'
+ht-degree: 12%
 
 ---
 
-# 인증 여정 [!DNL Adobe Analytics] 개발자 전문가
+# Adobe을 위한 인증 여정 [!DNL Analytics] 개발자 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Analytics] 개발자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 31/50
+* 시간: 120분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어, 일본어
+* 비용: 225달러(글로벌) 및 150달러(인도)
+* 시험 ID: AD0-E209(영어), AD0-E209-J(일본어)
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 구현 전문가/엔지니어
+* 개발자
+* 설계자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 에서 약 2년의 경험을 가진 하이브리드 역할의 구현 컨설턴트로서 경험이 있어야 합니다. [!DNL Adobe Analytics] 구현. 사용자는 IT와 비즈니스 간의 가교 역할을 하고 비즈니스 요구 사항을 기술 솔루션(SDR)으로 번역하며 분석가가 제공한 요구 사항을 기반으로 필요한 변수 유형, 데이터 수집 위치 및 방법, 데이터 모델(데이터 레이어) 디자인, 태그 관리 솔루션을 구성 및 유지 관리합니다.
 
@@ -48,48 +74,24 @@ ht-degree: 10%
 * 디지털 마케팅 분야
 * PC, Mac, Android/iOS 운영 체제를 포함한 백엔드 개발 환경에 대한 최소한의 지식(개발이 아닌 기본 운영)
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!BEGINTABS]
-
->[!TAB 준비]
-
-**의도한 대상:**
-
-* 구현 전문가/엔지니어
-* 개발자
-* 설계자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(1-3년 경력)
-* 합격 점수: 31/50
-* 시간: 120분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: 225달러(글로벌) 및 150달러(인도)
-* 시험 ID: AD0-E209
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
+{{exam-objectives}}
 
 **시험 목표 및 범위**
 
-섹션 1: Adobe Experience Cloud 에코시스템의 Analytics 이해(10%)
+**섹션 1: Adobe Experience Cloud 에코시스템의 Analytics 이해(10%)**
 
 * Adobe Experience Cloud ID 활용에 대한 지식 시연
 * Adobe 실행에 대한 이해 증명
 * Adobe Experience Cloud 에코시스템 전반의 일반적인 통합에 대한 이해 시연
 
-섹션 2: 솔루션 디자인 참조(SDR)에 기반한 전략 및 디자인(6%)
+**섹션 2: 솔루션 디자인 참조(SDR)에 기반한 전략 및 디자인(6%)**
 
 * 솔루션 디자인 참조 를 해석하여 데이터 캡처를 위한 효율적인 코드 개발
 * 데이터 개체를 채우는 데 기술 사양 사용
 
-섹션 3: Analytics 구현 및 구성(36%)
+**섹션 3: Analytics 구현 및 구성(36%)**
 
 * 배포할 환경 결정 [!DNL Adobe Analytics] 코드
 * Analytics 추적을 위한 최소 배포 코드 실행
@@ -98,30 +100,52 @@ ht-degree: 10%
 * 배포 내에서 데이터 계층 활용
 * 링크 추적 및 제품 문자열과 같은 고급 추적 기능 실행
 
-섹션 4: 태그 관리 시스템(20%)
+**섹션 4: 태그 관리 시스템(20%)**
 
 * Adobe Experience Platform Launch을 배포하기 위한 요구 사항 열거 [!DNL Adobe Analytics]
 * 프로세스를 적용하여 Adobe 실행으로 웹 사이트 태깅 구성
 * 확장 및 Launch Adobe을 사용하도록 설정하기 위한 요구 사항 열거
 * 규칙 및 데이터 요소 만들기
 
-섹션 5: 모바일 서비스(8%)
+**섹션 5: 모바일 서비스(8%)**
 
 * 프로세스를 적용하여 모바일용 기본 배포 전 코드 구성 및 실행
 * 처리 규칙 및 모바일 서비스에 대한 이해 실증
 
-섹션 6: 테스트, 유효성 검사 및 문제 해결(20%)
+**섹션 6: 테스트, 유효성 검사 및 문제 해결(20%)**
 
 * JavaScript 오류 문제 해결
 * 문제 해결 [!DNL Adobe Analytics] 변수
 * 테스트 및 디버깅 모범 사례 추천
 * 문제 해결 [!DNL Adobe Analytics] 라이프사이클 간 서버 호출(즉, beacon 요청에서 보고서에 표시되기까지의)
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: Adobe Experience Cloud 에코시스템의 Analytics 이해**
 
@@ -157,20 +181,33 @@ ht-degree: 10%
 * [활성화, 디버깅 및 맞춤화 [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [Analysis Workspace 성능 최적화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
 
+<br>
 
->[!TAB 인증 받기]
-
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -194,7 +231,24 @@ ht-degree: 10%
 
 [일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
+
 
 ## 질문
 

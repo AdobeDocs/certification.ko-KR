@@ -7,20 +7,48 @@ role: User,Developer
 badge: label="시험 AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 10%
+source-wordcount: '815'
+ht-degree: 11%
 
 ---
 
 # 인증 여정 [!DNL Adobe Audience Manager] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Audience Manager] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
 
-귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 36/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 225달러(글로벌) 및 150달러(인도)
+* 시험 ID: AD0-E457
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 디지털 마케팅 전문가
+* 마케팅 기술 컨설턴트
+* Audience Strategist
+* 행동 컨설턴트
+* 디지털 마케팅 분석가
+* 마케팅 데이터 분석가
+* 데이터 플랫폼 관리자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -47,74 +75,68 @@ ht-degree: 10%
 * 디지털 마케팅
 * 데이터 및 분석
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 디지털 마케팅 전문가
-* 마케팅 기술 컨설턴트
-* Audience Strategist
-* 행동 컨설턴트
-* 디지털 마케팅 분석가
-* 마케팅 데이터 분석가
-* 데이터 플랫폼 관리자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(1-3년 경력)
-* 합격 점수: 36/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: 225달러(글로벌) 및 150달러(인도)
-* 시험 ID: AD0-E457
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 세그먼트 생성 및 신디케이션(25%)
+**섹션 1: 세그먼트 생성 및 신디케이션(25%)**
 
 * 타겟팅 및 분석 목적으로 퍼스트 파티, 세컨드 파티 및 서드파티 데이터를 활용하여 세그먼트를 만드는 적절한 방법을 결정합니다
 * 시나리오가 주어지면 비즈니스 또는 캠페인 목표에 맞는 활성화를 위한 세그먼트를 추천합니다
 * 활성화 대상으로 세그먼트를 신디케이트할 적절한 방법을 결정합니다
 * 서로 다른 유형의 대상 구분
 
-섹션 2: 트레이트 만들기(17%)
+**섹션 2: 트레이트 만들기(17%)**
 
 * 주어진 대상 전략에 대한 트레이트 추천
 * 규칙 기반 및/또는 온보딩된 트레이트를 만들고 업데이트할 올바른 방법을 결정하십시오
 
-섹션 3: 보고 및 측정(22%)
+**섹션 3: 보고 및 측정(22%)**
 
 * 시나리오가 주어지면 보고서를 분석하여 비즈니스 목표를 충족하는 실행 가능한 다음 단계를 제공합니다
 * 시나리오가 주어지면 대상 최적화 분석
 
-섹션 4: 문제 해결 및 관리(26%)
+**섹션 4: 문제 해결 및 관리(26%)**
 
 * 시나리오가 주어지면 대상자 게재 정보를 확인하여 예약된 게재 요구 사항을 확인합니다
 * 오프라인 인바운드 파일의 유효성을 검사하는 적절한 방법을 결정합니다
 * 시나리오가 주어지면 ID 동기화에 대해 QA를 수행할 올바른 방법을 결정합니다
 * Adobe Audience Marketplace에서 탐색 및 활성화할 적절한 방법을 결정합니다
 
-섹션 5: 분류법(10%)
+**섹션 5: 분류법(10%)**
 
 * 명확하고 일관된 명명법을 활용하는 트레이트 및 세그먼트를 만들기 위한 적절한 구조를 결정합니다
 * 명확한 폴더 구조를 사용하여 정리된 플랫폼을 유지하는 올바른 기술을 결정합니다.
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 세그먼트 생성 및 신디케이션**
 
@@ -156,17 +178,33 @@ ht-degree: 10%
 * [일반적인 분류법으로 트레이트 분류](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [폴더 트레이트: 설명](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -179,10 +217,28 @@ ht-degree: 10%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+
+<!--divider-->

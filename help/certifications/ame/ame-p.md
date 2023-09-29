@@ -7,18 +7,54 @@ role: User
 badge: label="시험 AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Marketo Engage] 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Marketo] 프로페셔널
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 36/55
+* 시간: 110분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어, 일본어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E555(영어), AD0-E555-J(일본어)
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* Campaign 운영 전문가/코디네이터
+* 데이터베이스 마케팅 관리자 / 전문가 / 코디네이터
+* 수요 생성 역할
+* 디지털 마케팅 전문가
+* Email Marketing Associates / 코디네이터
+* 이벤트 이끌이 / 코디네이터
+* Marketing Automation 역할
+* 마케팅 생성 역할
+* 마케팅 캠페인 역할
+* 마케팅 커뮤니케이션 역할
+* 마케팅 운영 전문가/코디네이터
+* 마케팅 기술 코디네이터/전문가/동료
+* 마케팅 팀원
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -37,47 +73,13 @@ ht-degree: 0%
 * Adobe [!DNL Marketo Engage]
 * Excel 또는 Google Sheets/Doc
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* Campaign 운영 전문가/코디네이터
-* 데이터베이스 마케팅 관리자 / 전문가 / 코디네이터
-* 수요 생성 역할
-* 디지털 마케팅 전문가
-* Email Marketing Associates / 코디네이터
-* 이벤트 이끌이 / 코디네이터
-* Marketing Automation 역할
-* 마케팅 생성 역할
-* 마케팅 캠페인 역할
-* 마케팅 커뮤니케이션 역할
-* 마케팅 운영 전문가/코디네이터
-* 마케팅 기술 코디네이터/전문가/동료
-* 마케팅 팀원
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 36/55
-* 시간: 110분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E555
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 프로그램 구축 및 관리(39%)
+**섹션 1: 프로그램 구축 및 관리(39%)**
 
 * 비즈니스 요구/질문이 있는 경우 분석을 수행할 적절한 보고 전략을 확인하십시오.
 * 비즈니스 관련 질문에 답변할 수 있도록 데이터 분석
@@ -86,7 +88,7 @@ ht-degree: 0%
 * 보고서 데이터를 분석하여 요약하고 결론을 도출합니다.
 * 보고서에서 이상치 및 예외 항목 인식
 
-섹션 2: 자산 작성(19%)
+**섹션 2: 자산 작성(19%)**
 
 * Design Studio에서 파일 조작(이미지 및 파일 업로드/바꾸기).
 * 양식 편집기를 사용하여 양식을 작성/수정합니다.
@@ -96,7 +98,7 @@ ht-degree: 0%
 * 초안과 승인된 에셋의 차이를 구별합니다.
 * 로컬 자산과 글로벌 자산의 차이를 구분합니다.
 
-섹션 3: 대상자 정의 및 타겟팅(33%)
+**섹션 3: 대상자 정의 및 타겟팅(33%)**
 
 * 스마트 목록을 생성/수정합니다.
 * 스마트 캠페인 흐름 단계를 이해합니다.
@@ -111,23 +113,39 @@ ht-degree: 0%
 * Smart Campaign 트리거 및 필터의 작동 방식을 이해합니다.
 * 다른 목록 가져오기를 구분합니다.
 
-섹션 4: 보고서 분석 및 작성(9%)
+**섹션 4: 보고서 분석 및 작성(9%)**
 
 * 표준 Adobe 설명 [!DNL Marketo Engage] 보고서 및 사용 시기(이메일 링크 성능, 이메일 성능, 랜딩 페이지 성능, 사람 성능, 프로그램 성능, 웹 페이지 활동 등)
 * 대시보드 정보 및 지표 이해(이메일 프로그램 대시보드, 참여 프로그램 대시보드)
 * 이메일 인사이트 지표 이해
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
 
-**샘플 질문**
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+<br>
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **제1절 프로그램의 구축 및 관리**
 
@@ -160,16 +178,35 @@ ht-degree: 0%
 * [보고서 유형 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [보고서 구독 관리](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
-## 인증 시험 정보
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -193,7 +230,23 @@ ht-degree: 0%
 
 [일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

@@ -6,18 +6,48 @@ product: Target
 role: Data Architect
 badge: label="시험 AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '917'
-ht-degree: 15%
+source-wordcount: '841'
+ht-degree: 17%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 설계자 기본
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 기본 설계.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 기본(3~5년 경력)
+* 합격 점수: 32/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E409
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 전환율 최적화 엔지니어/설계자
+* 개인화 엔지니어/설계자
+* 디지털 솔루션 설계자
+* 디지털 전환 컨설턴트
+* 경험 최적화 리드
+* 최적화 관리자
+* 온라인 캠페인 관리자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -50,67 +80,47 @@ ht-degree: 15%
 * AMS 호스팅 환경
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB 준비]
+### 시험 목표 및 범위 {#exam-objectives}
 
-**의도한 대상:**
+{{exam-objectives}}
 
-* 전환율 최적화 엔지니어/설계자
-* 개인화 엔지니어/설계자
-* 디지털 솔루션 설계자
-* 디지털 전환 컨설턴트
-* 경험 최적화 리드
-* 최적화 관리자
-* 온라인 캠페인 관리자
-
-**시험 세부 정보:**
-
-* 레벨: 기본(3~5년 경력)
-* 합격 점수: 32/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E409
-
-**시험 목표 및 범위**
-
-섹션 1: [!DNL Adobe Target] 기본 사항(13%)
+**섹션 1: [!DNL Adobe Target] 기본 사항(13%)**
 
 * 적절한 항목 식별 [!DNL Adobe Target] 주어진 시나리오에 대한 사용
 * 의 기본 기술 설명 [!DNL Adobe Target] 구현
 
-섹션 2: 와 통합 [!DNL Adobe Target] (18%)
+**섹션 2: 와 통합 [!DNL Adobe Target] (18%)**
 
 * 통합할 프로세스 적용 [!DNL Adobe Target] Adobe Analytics(A4T) 사용
 * 통합할 프로세스 적용 [!DNL Adobe Target] Adobe Experience Manager으로
 * Adobe Experience Cloud 솔루션 및 Adobe Experience Platform 솔루션과의 통합 설명
 * Adobe Experience Cloud 대상과의 통합 설명
 
-섹션 3: [!DNL Adobe Target] 관리 및 거버넌스 (6%)
+**섹션 3: [!DNL Adobe Target] 관리 및 거버넌스 (6%)**
 
 * 진행 중인 작업 정의 [!DNL Adobe Target] 구현 전략 및 시스템 거버넌스
 * 프로세스 및 모범 사례를 적용하여 사용자 관리
 * 구현 설정의 관리 측면 설명
 
-섹션 4: [!DNL Adobe Target] 및 지원되는 터치 포인트(6%)
+**섹션 4: [!DNL Adobe Target] 및 지원되는 터치 포인트(6%)**
 
 * 클라이언트측 전달 구현 설명
 * 서버측 전달 구현 설명
 * 모바일, 이메일 타겟팅 및 API에 대한 구현 요구 사항 설명
 
-섹션 5: 활용 [!DNL Adobe Target] 권장 사항(11%)
+**섹션 5: 활용 [!DNL Adobe Target] 권장 사항(11%)**
 
 * 권장 사항, 카탈로그 및 기준에 대한 이해 실증
 * 프로세스를 적용하여 Target 권장 사항 구성
 
-섹션 6: 설계, 설계 및 구현 [!DNL Adobe Target] (18%)
+**섹션 6: 설계, 설계 및 구현 [!DNL Adobe Target] (18%)**
 
 * 올바른 Target 요청 구현(전역, 주문 확인, 하이브리드)을 선택하고 [!DNL Adobe Target] 구현
 * 구현 설명 [!DNL Adobe Target] 기본 모바일 앱에서
 
-섹션 7: 문제 해결(28%)
+**섹션 7: 문제 해결(28%)**
 
 * mbox 오류 문제 해결
 * Target 요청 및 응답 오류 문제 해결
@@ -118,11 +128,25 @@ ht-degree: 15%
 * 통합 오류 이해
 * 문제 해결 [!DNL Adobe Target] Recommendations 오류
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1**
 
@@ -168,22 +192,33 @@ ht-degree: 15%
 
 **섹션 7**
 
-[활동 QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-[콘텐츠 전달 문제 해결](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-[디자인 FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-[RECOMMENDATIONS FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Platform Web SDK에서 A4T(Adobe Analytics for Target) 로깅](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+* [활동 QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [콘텐츠 게재 문제 해결](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
+* [디자인 FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [권장 사항 FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Platform Web SDK에서 A4T(Adobe Analytics for Target) 로깅](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
++++
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
++++3단계: 시험 일정 및 지불
 
-**이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
+{{schedule-and-pay}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -196,9 +231,25 @@ ht-degree: 15%
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**질문**
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
+
+## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

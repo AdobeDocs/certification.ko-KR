@@ -7,18 +7,44 @@ role: Developer
 badge: label="시험 AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1117'
-ht-degree: 14%
+source-wordcount: '961'
+ht-degree: 17%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Campaign Classic] 개발자 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Campaign Classic] 개발자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 34/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E330
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 기술 컨설턴트
+* 마케팅 기술 엔지니어
+* Adobe [!DNL Campaign Classic] 개발자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -30,37 +56,13 @@ ht-degree: 14%
 * Campaign 구현 문제 해결 기능
 * Campaign과 관련된 서버 구성에 대한 기본 이해
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 기술 컨설턴트
-* 마케팅 기술 엔지니어
-* Adobe [!DNL Campaign Classic] 개발자
-
-**시험 세부 정보**
-
-* 레벨: 전문가(1-3년 경력)
-* 합격 점수: 34/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E330
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 시스템 구성(16%)
+**섹션 1: 시스템 구성(16%)**
 
 * 시스템 전체 구성 설정 및 기본값 적용
 * 다양한 매개 변수가 주어지면 적절한 Adobe Campaign 기능을 선택하여 사용 사례를 구현합니다
@@ -68,7 +70,7 @@ ht-degree: 14%
 * 사용자 지정 구성 구현
 * Campaign Campaign 컨트롤 패널 구성 기능 식별
 
-섹션 2: 사용자 정의(22%)
+**섹션 2: 사용자 정의(22%)**
 
 * 요구 사항 세트가 주어지면 모범 사례를 적용하여 데이터 모델을 디자인합니다
 * Campaign의 API 구현 설명
@@ -78,14 +80,14 @@ ht-degree: 14%
 * 시나리오에 따라 Adobe에서 SQL 스크립트를 사용하는 방법을 이해합니다. [!DNL Campaign Classic]
 * 일반적으로 사용되는 OOTB 함수 설명
 
-섹션 3: 액세스 관리(8%)
+**섹션 3: 액세스 관리(8%)**
 
 * 시나리오가 주어지면 연산자에 대한 보안 설정을 구성합니다.
 * 솔루션 디자인 문서를 기반으로 액세스 관리 설정을 구성하는 방법을 설명합니다.
 * Campaign 컨트롤 패널을 사용한 액세스 관리 설명
 * 데이터 파티셔닝의 제한 사항 및 sysfilter 사용 시기 식별
 
-섹션 4: 데이터 통합(16%)
+**섹션 4: 데이터 통합(16%)**
 
 * 시나리오가 주어지면 외부 데이터 소스와 통합하는 가장 좋은 방법을 선택합니다
 * 워크플로우 데이터 처리에 대한 모범 사례 구현
@@ -93,7 +95,7 @@ ht-degree: 14%
 * 외부 시스템에서 Adobe Campaign과 통합할 보안 및 네트워크 설정 식별
 * Adobe Campaign 외부에서 스키마에 대한 CRUD 프로세스 설정
 
-섹션 5: 인스턴스 유지 관리(12%)
+**섹션 5: 인스턴스 유지 관리(12%)**
 
 * 워크플로우 히트맵 이해 및 작업
 * 인스턴스 모니터링을 위해 사용자 지정 워크플로우 또는 보고서를 만드는 프로세스 시연
@@ -101,7 +103,7 @@ ht-degree: 14%
 * 서비스 및 프로세스가 시스템에 미치는 영향 설명
 * 기본 시스템 감사 지표/점검 시연
 
-섹션 6: 캠페인 구성(25%)
+**섹션 6: 캠페인 구성(25%)**
 
 * 고급 개인화 기술 적용
 * 사용자 지정 대상 매핑 구성 및 적용
@@ -112,11 +114,33 @@ ht-degree: 14%
 * 성능에 부정적인 영향을 미치는 워크플로우 사례 설명
 * 사용 사례가 주어지면 복잡한 타겟팅 워크플로우 설계를 권장합니다
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 시스템 구성**
 
@@ -173,19 +197,27 @@ ht-degree: 14%
 * [템플릿 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ko){target="_blank"}
 * [사용자 정의 수신자 테이블 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
->[!TAB 인증 받기]
++++
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+<br>
 
-## 연습 테스트 수행
++++3단계: 시험 일정 및 지불
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -198,7 +230,23 @@ ht-degree: 14%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

@@ -6,18 +6,47 @@ role: Developer
 badge: label="시험 AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Workfront Fusion] Developer Professional
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Workfront] 개발자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 33/51
+* 시간: 102분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E902
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 개발자, 자동화 엔지니어
+* Automator, 프로세스 최적화 및 자동화 관리자
+* 통합 컨설턴트, 컨설턴트, 파트너
+* 시스템 통합자/파트너
+* 비즈니스 분석가, 응용 비즈니스 분석가
+* 시스템 관리자(IT, MIS, 기술, 지식 시스템, AI 관리자)
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -32,36 +61,13 @@ ht-degree: 0%
 * 조직 팀 및 사용자를 관리하는 기능
 * REST API Oauth2용 범용 커넥터의 목적 및 사용에 대한 이해
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 개발자, 자동화 엔지니어
-* Automator, 프로세스 최적화 및 자동화 관리자
-* 통합 컨설턴트, 컨설턴트, 파트너
-* 시스템 통합자/파트너
-* 비즈니스 분석가, 응용 비즈니스 분석가
-* 시스템 관리자(IT, MIS, 기술, 지식 시스템, AI 관리자)
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 33/51
-* 시간: 102분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E902
-
-**시험 목표 및 범위**
-
-섹션 1: 기본 기술 개념(39%)
+**섹션 1: 기본 기술 개념(39%)**
 
 * 주어진 [!DNL Fusion] 다른 필드 형식이어야 하는 하나의 필드 형식을 사용하는 시나리오에서는 데이터를 올바르게 변환하는 데 사용할 수 있는 함수를 제공합니다
 * 주어진 [!DNL Fusion] 함수를 다른 함수 내에 중첩해야 하는 시나리오에서는 올바른 형식의 식을 선택합니다
@@ -77,7 +83,7 @@ ht-degree: 0%
 * 에서 다양한 옵션 식별 [!DNL Fusion] 시나리오 요구 사항을 해결하기 위한 시나리오 설정
 * 주어진 [!DNL Fusion] 시나리오에서는 적절한 흐름 제어를 선택하거나 흐름 제어 모듈의 올바른 조합을 결정합니다.
 
-섹션 2: 시나리오 설계 및 아키텍처(35%)
+**섹션 2: 시나리오 설계 및 아키텍처(35%)**
 
 * 제공된 단계 목록에서 JSON을 구문 분석하고 번들로 변환할 올바른 시퀀스를 선택합니다
 * 요구 사항 세트가 주어지면 올바른 데이터 조회 방법을 식별합니다
@@ -92,7 +98,7 @@ ht-degree: 0%
 * 60일 이상 시나리오를 보관하고 가능한 유일한 방법(블루프린트 가져오기/내보내기)을 선택해야 하는 필요에 대한 설명이 제공됨
 * 오류 403의 예: 금지됨, 오류 메시지의 출처를 올바르게 선택 및 원인
 
-섹션 3: 테스트 및 오류 처리(16%)
+**섹션 3: 테스트 및 오류 처리(16%)**
 
 * 테스트 계획의 요소 식별
 * 테스트 사례의 요소 식별
@@ -101,24 +107,32 @@ ht-degree: 0%
 * 불완전한 실행을 추적, 읽기 및 해결하는 방법 식별
 * 주어진 [!DNL Fusion] 필수 데이터가 누락된 시나리오에서는 잘못된 데이터를 처리할 방법을 선택하십시오.
 
-섹션 4: API 작업(10%)
+**섹션 4: API 작업(10%)**
 
 * 429: 너무 많은 요청을 반환하는 서드파티 API가 주어지면 오류를 방지하거나 처리할 솔루션을 식별합니다
 * 주어진 [!DNL Fusion] 에서 새 기능을 사용할 수 없는 시나리오 [!DNL Workfront] 모듈, 새 기능을 사용할 올바른 참조 및 모듈 유형을 식별합니다
 * 전용 앱이 없는 서드파티 시스템이 제공되면 HTTP 앱을 식별하고 적절한 모듈을 선택합니다
 * CRUD 작업과 REST API의 다른 공통 기능의 차이점 확인
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
 
-**샘플 질문**
++++1단계: 계정 만들기
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+{{create-your-account}}
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 기본 기술 개념**
 
@@ -151,16 +165,35 @@ ht-degree: 0%
 * [앱 및 해당 모듈](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Adobe의 모듈 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
-## 인증 시험 정보
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

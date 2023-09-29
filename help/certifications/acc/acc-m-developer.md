@@ -7,18 +7,45 @@ role: Data Architect
 badge: label="시험 AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 11%
+source-wordcount: '858'
+ht-degree: 13%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Campaign Classic] 설계자 기본
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Campaign Classic] 기본 설계.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 기본(3~5년 경력)
+* 합격 점수: 30/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E328
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* Adobe 관련 기술 리더 [!DNL Campaign Classic] 배경
+* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] 개발자
+* Adobe [!DNL Campaign Classic] 개발자 또는 유사한 역할
+* Martech 솔루션 설계자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -38,38 +65,13 @@ ht-degree: 11%
 * 현장 코칭 제공 기능(제품 모범 사례, 보고 지표 등)
 * 배포 모델 간의 차이점을 설명하는 경험
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* Adobe 관련 기술 리더 [!DNL Campaign Classic] 배경
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] 개발자
-* Adobe [!DNL Campaign Classic] 개발자 또는 유사한 역할
-* Martech 솔루션 설계자
-
-**시험 세부 정보:**
-
-* 레벨: 기본(3~5년 경력)
-* 합격 점수: 30/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E328
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 솔루션 정의(24%)
+**섹션 1: 솔루션 정의(24%)**
 
 * 특정 비즈니스 요구 사항이 주어지면 솔루션 설계와 관련된 정보를 결정하십시오
 * 시나리오에 따라 성능, 인프라 및 구성 권장 사항 제공
@@ -77,13 +79,13 @@ ht-degree: 11%
 * 디지털 마케팅 솔루션 설계를 위한 비즈니스 요구 사항 결정
 * 시나리오에 따라 올바른 제품 배포 방법을 지정하십시오.
 
-섹션 2: 데이터 조경 (24%)
+**섹션 2: 데이터 조경 (24%)**
 
 * 다른 고객 도구를 사용하여 Campaign 솔루션에 대한 데이터 모델 및 통합 맵 디자인 매개 변수를 지정합니다
 * 시나리오가 주어지면 법률 및 규정을 준수하는 데 필요한 솔루션 설계를 결정합니다
 * 시나리오가 주어지면 최적의 기술 워크플로우 설계를 결정합니다
 
-섹션 3: 설치 및 관리(16%)
+**섹션 3: 설치 및 관리(16%)**
 
 * 키 모듈 세트가 주어지면 모듈 설정의 구성을 확인합니다
 * 시나리오가 주어지면 Adobe과 기본 및 서드파티 통합을 활성화하는 통합 솔루션을 추천합니다 [!DNL Campaign Classic]
@@ -92,24 +94,46 @@ ht-degree: 11%
 * 시나리오가 주어지면 솔루션 설계 시 필요한 적절한 하드웨어 인프라에 대해 조언합니다.
 * 시나리오가 주어지면 각 환경으로 솔루션을 프로모션하는 올바른 방법을 결정하십시오
 
-섹션 4: 프로젝트 리더십(10%)
+**섹션 4: 프로젝트 리더십(10%)**
 
 * 고객 요구 사항이 주어지면 필요한 적절한 활동과 자원을 결정합니다
 * 시나리오가 주어지면 전반적인 솔루션을 분석하여 기술적 위험, 가정, 문제 및 종속성을 파악합니다
 * 내부 및 외부 팀에 기술 ACC 전문 지식 전달
 
-섹션 5: 사용자 정의(26%)
+**섹션 5: 사용자 정의(26%)**
 
 * 사용자 정의 기능 분석 및 디자인
 * 사용자 정의 통합 분석 및 디자인
 * 복잡한 캠페인 템플릿 및 워크플로를 디자인하는 올바른 방법 결정
 * 추가 모듈을 사용하여 솔루션을 설계하는 올바른 방법 결정
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 솔루션 정의**
 
@@ -151,16 +175,27 @@ ht-degree: 11%
 * [상호 작용 및 오퍼 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
 * [운영 원칙](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
->[!TAB 인증 받기]
++++
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+<br>
 
++++3단계: 시험 일정 및 지불
 
-## 인증 시험 정보
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -173,10 +208,28 @@ ht-degree: 11%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+
+

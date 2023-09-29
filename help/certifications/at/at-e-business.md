@@ -7,18 +7,45 @@ role: User
 badge: label="시험 AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1104'
 ht-degree: 1%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 46/68
+* 시간: 136분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어, 일본어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E406(영어), AD0-E406-J(일본어)
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 최적화
+* 개인화
+* Analytics
+* 디지털 및 제품 마케팅
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -66,34 +93,13 @@ ht-degree: 1%
 * 단일 페이지 애플리케이션에 target 사용
 * 이메일
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 최적화
-* 개인화
-* Analytics
-* 디지털 및 제품 마케팅
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(1-3년 경력)
-* 합격 점수: 46/68
-* 시간: 136분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E406
-
-**시험 목표 및 범위**
-
-섹션 1: 계획 및 전략(31%)
+**섹션 1: 계획 및 전략(31%)**
 
 * 비즈니스 KPI를 식별하고 이를 주요 비즈니스 요구 사항이 지정된 최적화 목표로 성공적으로 변환합니다
 * 비즈니스 KPI 및 데이터 분석을 기반으로 최적화 기회 파악
@@ -105,7 +111,7 @@ ht-degree: 1%
 * 대상 요구 사항 평가
 * 적절한 분석 보고 소스(예: Target 또는 Adobe Analytics)를 결정합니다
 
-섹션 2: 구성, 실행 및 관리(42%)
+**섹션 2: 구성, 실행 및 관리(42%)**
 
 * 양식 기반 경험 작성기와 시각적 경험 작성기의 사용 설명
 * VEC를 사용하여 경험을 만드는 절차 적용
@@ -122,7 +128,7 @@ ht-degree: 1%
 * 활동 QA를 수행하는 절차 적용
 * Target 내의 활동 및 대상을 관리하는 절차 적용
 
-섹션 3: 분석 및 보고(17%)
+**섹션 3: 분석 및 보고(17%)**
 
 * 보고서에 나타나는 요소를 설정하는 데 도움이 되도록 보고서 설정을 정의하고 평가합니다.
 * 평가 및 비교 [!DNL Adobe Target] Target 활동 계획 및 Target 활동 검증 보고서를 모두 작성할 경우의 샘플 크기 계산기 설정
@@ -131,17 +137,31 @@ ht-degree: 1%
 * 경험 성과 보고서 평가(MVT)
 * 관찰된 상승도, 신뢰도 수준 및 비즈니스 목표를 기반으로 승패를 가립니다.
 
-섹션 4: 문제 해결(10%)
+**섹션 4: 문제 해결(10%)**
 
 * 활동 자격 문제 진단
 * 브라우저 디버깅 도구(Experience Cloud Debugger 포함)를 사용하여 구현 확인
 * 지표 및 보고 확인
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 계획 및 전략**
 
@@ -179,19 +199,33 @@ ht-degree: 1%
 * [활동 오류 문제 해결](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [통합 오류 문제 해결](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ ht-degree: 1%
 
 [일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

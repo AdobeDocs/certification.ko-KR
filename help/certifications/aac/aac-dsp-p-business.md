@@ -7,40 +7,36 @@ role: User
 badge: label="시험 AD0-E502" type="positive"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Advertising DSP] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Advertising DSP] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
 
-다음을 수행해야 합니다.
+{{exam-description}}
 
-* 을 사용한 6개월 이상의 경험 [!DNL Adobe Advertising]
-* 미디어 구매 소프트웨어의 주요 성능 지표를 계획 및/또는 측정하는 경험
+<br>
 
-다음 도구 및 기술에 익숙함:
+### 시험 세부 정보 {#exam-details}
 
-* 광고 테스트/디버깅 소프트웨어(VAST INSPECTOR, Chrome 개발자 도구)
-* Analytics 도구 ([!DNL Adobe Analytics], Google Analytics)
-* 서드파티 태깅 소프트웨어(Sizmek, Google 태그 관리자)
-* 타사 미디어 품질 도구(IAS, MOAT)
-* 주요 브라우저
-* 광고 교환, SSP 및 DMP
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 44/69
+* 시간: 138분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E502
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
-
->[!TAB 준비]
+### 의도한 대상 {#intended-audience}
 
 **의도한 대상:**
 
@@ -50,19 +46,31 @@ ht-degree: 0%
 * 캠페인 디렉터
 * 미디어 구매자
 
-**시험 세부 정보:**
+<br>
 
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 44/69
-* 시간: 138분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E502
+### 최소 경험 {#minimum-experience}
 
-**시험 목표 및 범위**
+다음을 수행해야 합니다.
 
-섹션 1: 캠페인 설정(42%)
+* 을 사용한 6개월 이상의 경험 [!DNL Adobe Advertising]
+* 미디어 구매 소프트웨어의 주요 성능 지표를 계획 및/또는 측정하는 경험
+
+또한 다음 도구 및 기술에 익숙해야 합니다.
+
+* 광고 테스트/디버깅 소프트웨어(VAST INSPECTOR, Chrome 개발자 도구)
+* Analytics 도구 ([!DNL Adobe Analytics], Google Analytics)
+* 서드파티 태깅 소프트웨어(Sizmek, Google 태그 관리자)
+* 타사 미디어 품질 도구(IAS, MOAT)
+* 주요 브라우저
+* 광고 교환, SSP 및 DMP
+
+<br>
+
+### 시험 목표 및 범위 {#exam-objectives}
+
+{{exam-objectives}}
+
+**섹션 1: 캠페인 설정(42%)**
 
 * 캠페인이 필요한 경우 해당 캠페인에 대한 전략을 결정합니다
 * 시나리오가 주어지면 새 캠페인을 만듭니다.
@@ -72,14 +80,14 @@ ht-degree: 0%
 * 시나리오가 주어지면 캠페인을 복제하고 편집합니다.
 * 캠페인에 대한 개인 및 온디맨드 재고를 설정하는 데 필요한 절차 개념 적용
 
-섹션 2: 캠페인 실행 및 최적화(22%)
+**섹션 2: 캠페인 실행 및 최적화(22%)**
 
 * 절차 개념을 적용하여 캠페인이 올바르게 실행되는지 확인
 * 캠페인을 최적화하기 위해 절차 개념 적용
 * 캠페인 문제를 해결하는 절차 개념 적용
 * 시나리오가 주어지면 인플랫폼 솔루션과의 통합을 관리합니다.
 
-섹션 3: 보고 및 분석(26%)
+**섹션 3: 보고 및 분석(26%)**
 
 * 시나리오가 주어지면 플랫폼 내에서 데이터를 읽습니다.
 * 시나리오가 주어지면 사용자 지정 보고서를 만들고 읽습니다.
@@ -87,19 +95,32 @@ ht-degree: 0%
 * 시나리오가 주어지면 캠페인의 성과를 평가합니다
 * 캠페인에 성과 속성을 위한 절차 개념 적용
 
-섹션 4: 캠페인에 대한 권장 사항 제공(10%)
+**섹션 4: 캠페인에 대한 권장 사항 제공(10%)**
 
 * 시나리오가 주어지면 캠페인을 기반으로 클라이언트에 업데이트를 제공합니다
 * 시나리오가 주어지면 캠페인 성과를 기반으로 캠페인 전략을 조정합니다
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 캠페인 설정**
-
 
 * [의 대상자 관리 정보 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
 * [의 인벤토리 기능 개요 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
@@ -123,15 +144,27 @@ ht-degree: 0%
 * [방법 [!DNL Advertising] DSP이 캠페인을 최적화합니다.](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [의 광고 관리 정보 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
->[!TAB 인증 받기]
++++
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+<br>
 
-## 인증 시험 정보
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -144,7 +177,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

@@ -7,18 +7,49 @@ role: User
 badge: label="시험 AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 12%
+source-wordcount: '981'
+ht-degree: 14%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Experience Manager Sites] 비즈니스 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 32/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어, 일본어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E121(영어), AD0-E121-J(일본어)
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 솔루션 컨설턴트
+* 고객 경험 전문가
+* 설계 및 구축 중인 솔루션의 제품 소유자
+* 비즈니스 분석가
+* 솔루션 설계자
+* AEM 솔루션에 대한 분석가 역할을 수행하는 파트너 조직의 개인 및 프리랜서
+* 비즈니스 요구 사항에 맞는 솔루션을 정의하도록 개발자를 참여시키는 데 필요한 기능과 성능을 알고 있는 마케팅 전문가
+* 제품을 사용하는 고객(예: 고급 사용자)
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -49,49 +80,26 @@ ht-degree: 12%
 * 웹에 대한 일반적인 이해
 * 반응형 웹 디자인 개념
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 솔루션 컨설턴트
-* 고객 경험 전문가
-* 설계 및 구축 중인 솔루션의 제품 소유자
-* 비즈니스 분석가
-* 솔루션 설계자
-* AEM 솔루션에 대한 분석가 역할을 수행하는 파트너 조직의 개인 및 프리랜서
-* 비즈니스 요구 사항에 맞는 솔루션을 정의하도록 개발자를 참여시키는 데 필요한 기능과 성능을 알고 있는 마케팅 전문가
-* 제품을 사용하는 고객(예: 고급 사용자)
-
-**시험 세부 정보:**
-
-수준: 전문가(1-3년 경력) 합격 점수: 32/50 시간: 100분 게재: 온라인 계산자(카메라 액세스 필요) 또는 테스트 센터 계산자 사용 가능한 언어: 영어 및 일본어 비용: $225(글로벌) / $150(인도) 시험 ID: AD0-E121
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 교육(22%)
+**섹션 1: 교육(22%)**
 
 * 관련 AEM 기능 나열
 * 비즈니스 요구 사항을 충족하기 위해 AEM 기능을 활용하는 방법 추천
 * 콘텐츠 편집자를 위한 교육을 수행하는 데 필요한 절차 개념 적용
 
-섹션 2: 아키텍처(24%)
+**섹션 2: 아키텍처(24%)**
 
 * 온프레미스 또는 Adobe 호스팅(클라우드) 환경을 사용하여 비즈니스 요구 사항을 충족하는 AEM Standard 기능을 활용하는 정보 아키텍처 권장
 * AEM이 타사 서비스와 통합되는 방법 설명
 * 역할 및 권한 정의 방법 결정
 * 캐싱 접근 방식 설명
 
-섹션 3: 비즈니스 분석(38%)
+**섹션 3: 비즈니스 분석(38%)**
 
 * AEM의 표준 모듈을 고객의 다양한 비즈니스 문제에 매핑
 * AEM 모듈에 대한 컨텐츠 관리 개념 적용
@@ -100,16 +108,38 @@ ht-degree: 12%
 * 예산 및/또는 범위 내에서 핵심 비즈니스 목표를 충족하는 방법 결정
 * 비즈니스 목표와 관련하여 개발자의 질문에 어떻게 답변해야 하는지 결정합니다
 
-섹션 4: 설정 및 구현(16%)
+**섹션 4: 설정 및 구현(16%)**
 
 * AEM의 모범 사례를 보여 주기 위해 콘텐츠 구성 요소를 구성하고 사용하는 방법을 결정합니다
 * 기능의 올바른 구현을 확인하고 발생한 오류를 찾아 설명합니다
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 교육**
 
@@ -167,19 +197,33 @@ ht-degree: 12%
 * [핵심 구성 요소의 현지화 기능](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"}
 * [검색 기능](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -203,7 +247,23 @@ ht-degree: 12%
 
 [일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

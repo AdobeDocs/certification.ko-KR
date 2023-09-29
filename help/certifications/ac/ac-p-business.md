@@ -7,18 +7,50 @@ role: User
 badge: label="시험 AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '732'
 ht-degree: 3%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Commerce] 비즈니스 전문가
 
-인증된 Adobe 비즈니스 실무자가 되는 방법에 대해 알아보십시오.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 30/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E712
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 비즈니스 분석가
+* 프로젝트 관리자
+* 제품 소유자
+* 컨설턴트
+* [!DNL Adobe Commerce] 전략가
+* eCommerce 관리자/Director/관리자/컨설턴트
+* Digital Marketing Director/관리자/개발자
+* 솔루션 전문가
+* 기술 계정 관리자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 을(를) 사용하여 최소 0~12개월 실습 경험을 쌓아야 합니다 [!DNL Magento Open Source] LUMA 또는 BLANK 테마를 사용한 버전 2.4.3 및 Adobe에 대한 기본 이해 [!DNL Commerce] 버전 2.4.3.
 
@@ -33,43 +65,13 @@ ht-degree: 3%
 * 보안 및 규정 준수(GDPR, ADA, PCI DSS v3.2.1, PSD2)
 * 가격 책정 및 프로모션
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 비즈니스 분석가
-* 프로젝트 관리자
-* 제품 소유자
-* 컨설턴트
-* [!DNL Adobe Commerce] 전략가
-* eCommerce 관리자/Director/관리자/컨설턴트
-* Digital Marketing Director/관리자/개발자
-* 솔루션 전문가
-* 기술 계정 관리자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 30/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E712
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: [!DNL Magento Open Source] 핵심 기능(49%)
+**섹션 1: [!DNL Magento Open Source] 핵심 기능(49%)**
 
 * 의 기능 식별 [!DNL Magento Open Source]
 * 올바른 범위와 각 항목을 사용할 시기를 구분합니다.
@@ -80,13 +82,13 @@ ht-degree: 3%
 * 스토어 유지 관리와 관련된 일상적인 작업 설명
 * 다양한 유형의 콘텐츠 요소 및 사용 시기 설명
 
-섹션 2: Adobe [!DNL Commerce] 기본 사항(14%)
+**섹션 2: Adobe [!DNL Commerce] 기본 사항(14%)**
 
 * Adobe에서 사용할 수 있는 주요 기능 식별 [!DNL Commerce]
 * Adobe에서 서비스 추가 기능 식별 [!DNL Commerce]
 * Adobe을 위한 호스팅 옵션 식별 [!DNL Commerce]
 
-섹션 3: 디지털 마케팅 및 eCommerce 기본 사항(24%)
+**섹션 3: 디지털 마케팅 및 eCommerce 기본 사항(24%)**
 
 * 디지털 마케팅 도구(Google Analytics/Adobe Analytics, Google 태그 관리자, 이메일 마케팅, 세그먼테이션, 소셜 플러그인)의 기본 사용 식별
 * SEO의 기본 원칙 설명
@@ -94,23 +96,39 @@ ht-degree: 3%
 * eCommerce 웹 사이트의 주요 기능 식별
 * 기본 eCommerce 개념 파악(상점 옵션 포함)
 
-섹션 4: 규정 준수/보안 기본 사항(13%)
+**섹션 4: 규정 준수/보안 기본 사항(13%)**
 
 * 개인 정보 보호 법률 및 지불 보안에 대한 규정 준수의 기본 사항 이해
 * Adobe의 일반적인 보안 측면 식별 [!DNL Commerce] 프로젝트
 * 접근성 규정 준수에 대한 Best Practice 및 법적 요구 사항 파악
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
 
-**샘플 질문**
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+<br>
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: [!DNL Magento Open Source] 핵심 기능**
 
@@ -158,19 +176,35 @@ ht-degree: 3%
 * [ADA 규정 준수 및 eCommerce 웹 사이트와 관련된 방법 이해](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] 보안 모범 사례 안내서](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
-## 연습 테스트 수행
+{{sample-questions}}
 
-{{practice-test}}
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -183,7 +217,23 @@ ht-degree: 3%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

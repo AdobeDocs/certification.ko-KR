@@ -4,9 +4,9 @@ description: ' [!DNL Experience Cloud]  인증을 시작합니다. 프로그램�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 611305977b6fb73516c236983fdf5878fcc920d6
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '732'
 ht-degree: 2%
 
 ---
@@ -58,17 +58,21 @@ Adobe 인증 시험은 세 가지 다른 직무 역할에 맞게 사용자 정�
 
 {style="table-layout:auto"}
 
->[!TAB 인증 여정]
+<!--
 
-인증 여정 안내서는 인증 시험을 준비하는 데 필요한 모든 정보를 제공하기 위해 고안된 포괄적인 도구입니다. 이 안내서는 준비, 준비, 인증의 세 가지 주요 섹션으로 나뉘어 있습니다.
+>[!TAB Certification journey]
 
-| 섹션 | 설명 |
+The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
+
+| Sections | Description |
 | ------- | ------- |
-| **준비** | 의도한 대상, 시험 세부 정보, 준비 상태 자체 평가, 시험 목표 및 범위에 대한 정보를 포함하여 시험 개요를 제공하기 위한 것입니다. 이 섹션은 시험에 대한 이해와 시험을 볼 때 무엇을 기대할 수 있는지를 돕습니다. 준비 상태 자체 평가는 현재 지식 수준을 결정하고 공부 노력에 집중해야 할 영역을 식별할 수 있으므로 특히 유용합니다. |
-| **준비 완료** | 시험을 준비하는 데 도움이 되는 교육 및 리소스를 찾을 수 있는 곳입니다. 이 섹션에는 학습 자료 및 교육 과정에 대한 정보 및 링크가 포함되어 있습니다. |
-| **인증 받기** | 등록 프로세스 및 사용 가능한 결제 방법에 대한 세부 정보를 포함하여 인증 시험 등록 방법에 대한 중요한 정보를 제공합니다. 이 단원에서는 또한 시험 과정에 대한 명확한 개요를 제공합니다. 연습 테스트를 제공하는 시험을 위한 Adobe 인증 준비 포털에 대한 링크 및 인증 시험 등록에 대한 링크와 같은 유용한 리소스에 대해서는 이 섹션을 참조하십시오. |
+|**Get Ready** | Intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts. |
+| **Get Prepped** | Is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. |
+| **Get Certified** | Offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams. |
 
 {style="table-layout:auto"}
+
+-->
 
 >[!ENDTABS]
 

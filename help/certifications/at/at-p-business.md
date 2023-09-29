@@ -7,18 +7,45 @@ role: User
 badge: label="시험 AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 8%
+source-wordcount: '698'
+ht-degree: 11%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 31/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어, 일본어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E408(영어), AD0-E408-J(일본어)
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 최적화
+* 개인화
+* Analytics
+* 디지털 및 제품 마케팅
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -29,34 +56,13 @@ ht-degree: 8%
 * 3단계 워크플로(경험, 타겟팅, 모든 보고 소스를 포함한 목표 및 설정)에 대한 기본 지식
 * 활동 보고 결과를 읽고 이해하는 기능
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 최적화
-* 개인화
-* Analytics
-* 디지털 및 제품 마케팅
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 31/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요)
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E408
-
-**시험 목표 및 범위**
-
-섹션 1: 계획 및 전략(26%)
+**섹션 1: 계획 및 전략(26%)**
 
 * 비즈니스 KPI 식별
 * 비즈니스 KPI 및 데이터 분석 시나리오가 주어지면 최적화를 위한 기회를 식별합니다
@@ -67,7 +73,7 @@ ht-degree: 8%
 * 시나리오가 주어지면 대상자 요구 사항 평가
 * 적절한 분석 보고 소스(예: Target 또는 Adobe Analytics) 설명
 
-섹션 2: 구성, 실행 및 관리(50%)
+**섹션 2: 구성, 실행 및 관리(50%)**
 
 * 양식 기반 경험 작성기와 시각적 경험 작성기의 사용 설명
 * VEC를 사용하여 경험을 만드는 절차 설명
@@ -84,7 +90,7 @@ ht-degree: 8%
 * 활동 QA를 수행하는 절차 설명
 * Target 내의 활동 및 대상을 관리하는 절차 설명
 
-섹션 3: 분석 및 보고(16%)
+**섹션 3: 분석 및 보고(16%)**
 
 * 보고서에 나타나는 요소를 설정하는 데 도움이 되는 설정을 설명합니다.
 * 의 차이점 설명 [!DNL Adobe Target] 계획과 검증 사이의 샘플 크기 계산기 설정
@@ -93,23 +99,31 @@ ht-degree: 8%
 * 경험 성과 보고서(MVT)의 기능 설명
 * A/B 테스트 실행에서 따라야 하는 모범 사례 설명
 
-섹션 4: 문제 해결(8%)
+**섹션 4: 문제 해결(8%)**
 
 * 시나리오가 주어지면 활동 자격 문제를 식별합니다
 * 브라우저 디버깅 도구(Experience Cloud Debugger 포함)의 기능 식별
 * 지표 및 보고 식별
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
 
-**샘플 질문**
++++1단계: 계정 만들기
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+{{create-your-account}}
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 계획 및 전략**
 
@@ -141,16 +155,35 @@ ht-degree: 8%
 * [[!DNL Adobe Target] 비즈니스 실무자 안내서](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Adobe Experience Cloud Debugger 개요](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
-## 인증 시험 정보
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -163,7 +196,25 @@ ht-degree: 8%
 </span>
 </a>
 
->[!ENDTABS]
+[일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

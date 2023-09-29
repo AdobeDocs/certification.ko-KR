@@ -8,36 +8,24 @@ level: Experienced
 badge: label="시험 AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 13%
+source-wordcount: '804'
+ht-degree: 15%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Audience Manager] 비즈니스 전문가
 
-다음으로 인증 받는 방법 알아보기 [!DNL Audience Manager] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
 
-데이터 흐름, 비즈니스 목표 및 KPI에 대해 기본적으로 이해하고 데이터 분석 및 전략에 대한 경험이 있어야 합니다
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB 준비]
-
-**의도한 대상:**
-
-* 디지털 마케팅 전문가
-* 마케팅 기술 컨설턴트
-* Audience Strategist
-* 행동 컨설턴트
-* 디지털 마케팅 분석가
-* 마케팅 데이터 분석가
-* 데이터 플랫폼 관리자
-
-**시험 세부 정보:**
+### 시험 세부 정보 {#exam-details}
 
 * 레벨: 전문가(0~12개월 경력)
 * 합격 점수: 31/50
@@ -47,9 +35,31 @@ ht-degree: 13%
 * 비용: 125달러(전세계) / 95달러(인도)
 * 시험 ID: AD0-E458
 
-**시험 목표 및 범위**
+<br>
 
-섹션 1: 세그먼트 생성 및 신디케이션(32%)
+### 의도한 대상 {#intended-audience}
+
+* 디지털 마케팅 전문가
+* 마케팅 기술 컨설턴트
+* Audience Strategist
+* 행동 컨설턴트
+* 디지털 마케팅 분석가
+* 마케팅 데이터 분석가
+* 데이터 플랫폼 관리자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
+
+데이터 흐름, 비즈니스 목표 및 KPI에 대해 기본적으로 이해하고 데이터 분석 및 전략에 대한 경험이 있어야 합니다
+
+<br>
+
+### 시험 목표 및 범위 {#exam-objectives}
+
+{{exam-objectives}}
+
+**섹션 1: 세그먼트 생성 및 신디케이션(32%)**
 
 * 타겟팅 및 분석 목적으로 퍼스트, 세컨드 및 서드파티 데이터를 활용하는 방법 확인
 * 비즈니스 또는 캠페인 목표 활성화를 위한 기본 프로세스 설명
@@ -57,42 +67,50 @@ ht-degree: 13%
 * 다양한 대상 유형 식별
 * 다양한 소스 유형 식별
 
-섹션 2: 트레이트 생성(16%)
+**섹션 2: 트레이트 생성(16%)**
 
 * 시나리오가 주어지면 신호, 트레이트, 세그먼트 및 대상을 식별합니다
 * 다양한 유형의 트레이트 사용 파악
 
-섹션 3: 보고 및 측정(16%)
+**섹션 3: 보고 및 측정(16%)**
 
 * 시나리오가 주어지면 활성화 또는 캠페인 목표를 측정하는 보고서를 생성합니다.
 * 시나리오가 주어지면 일치율을 기준으로 대상을 비교합니다
 
-섹션 4: 문제 해결(10%)
+**섹션 4: 문제 해결(10%)**
 
 * 시나리오가 주어지면 다양한 소스 및 소스 유형의 인바운드 데이터 문제 해결
 * 인바운드 데이터 파일에 대한 형식 유효성 검사
 
-섹션 5: 분류법(12%)
+**섹션 5: 분류법(12%)**
 
 * 명확하고 일관된 명명법을 활용하는 트레이트 및 세그먼트를 만들기 위한 적절한 구조를 결정합니다
 * 명확한 폴더 구조를 사용하여 정리된 플랫폼을 유지하는 올바른 기술을 결정합니다.
 
-섹션 6: 프로필 병합, ID 동기화 및 Audience Marketplace
+**섹션 6: 프로필 병합, ID 동기화 및 Audience Marketplace**
 
 * 사용자 트레이트를 하나의 통합 프로필로 구성하여 가정용 또는 디바이스 기반 대상자를 만듭니다
 * Audience Marketplace을 사용하여 활성화 식별
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
 
-**샘플 질문**
++++1단계: 계정 만들기
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+{{create-your-account}}
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 세그먼트 생성 및 신디케이션**
 
@@ -142,15 +160,35 @@ ht-degree: 13%
 * [애드혹 활성화 API를 통해 대상 세그먼트를 배치 대상으로 온디맨드로 활성화합니다](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [대상에 대한 프로필 및 세그먼트 활성화](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+**샘플 질문**
 
+{{sample-questions}}
 
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+

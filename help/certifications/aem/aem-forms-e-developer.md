@@ -7,18 +7,45 @@ role: Developer
 badge: label="시험 AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 6%
+source-wordcount: '698'
+ht-degree: 7%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Experience Manager Forms] 개발자 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager Forms] 개발자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 27/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E125
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* AEM 개발자
+* 수석 AEM 개발자
+* AEM 컨설턴트
+* AEM 설계자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -54,45 +81,20 @@ ht-degree: 6%
 * Maven
 * GIT/버전 관리 도구
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* AEM 개발자
-* 수석 AEM 개발자
-* AEM 컨설턴트
-* AEM 설계자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(1-3년 경력)
-* 합격 점수: 27/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E125
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: Forms 생성 및 관리(36%)
+**섹션 1: Forms 생성 및 관리(36%)**
 
 * Forms 빌드
 * Forms 데이터 모델 구성
 * AEM Forms 사용자 지정
 * GuideBridge API를 활용하여 Javascript ClientLib 개발 및 사용
 
-섹션 2: 프로세스 및 워크플로(34%)
+**섹션 2: 프로세스 및 워크플로(34%)**
 
 * 양식 승인 워크플로우 디자인 및 오케스트레이션
 * 문서 서비스 API를 사용하여 OSGi 번들 개발
@@ -101,7 +103,7 @@ ht-degree: 6%
 * Forms 또는 어셈블러 서비스를 사용하여 PDF 조작
 * JDBC 서비스 구현
 
-섹션 3: 관리 및 문제 해결(18%)
+**섹션 3: 관리 및 문제 해결(18%)**
 
 * 로그 파일 문제 해결 및 차별화
 * 관리 활동 수행
@@ -109,20 +111,42 @@ ht-degree: 6%
 * Forms에 대한 AEM Dispatcher 설정 수행
 * 다른 콘솔 탐색
 
-섹션 4: API 엔드포인트 및 통합(8%)
+**섹션 4: API 엔드포인트 및 통합(8%)**
 
 * Adobe Experience Cloud와 통합
 * 다양한 엔드포인트 서비스 생성 및 사용
 
-섹션 5: 대화형 통신(4%)
+**섹션 5: 대화형 통신(4%)**
 
 * 대화형 커뮤니케이션을 위한 프로세스 설계, 시연 및 구현
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: Forms 생성 및 관리**
 
@@ -153,17 +177,33 @@ ht-degree: 6%
 * [인터랙션 커뮤니케이션 개요](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [대화형 통신의 조건](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ ht-degree: 6%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

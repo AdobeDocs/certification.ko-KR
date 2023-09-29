@@ -6,18 +6,48 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 12%
+source-wordcount: '581'
+ht-degree: 16%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Journey Optimizer] 개발자 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 개발자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1~3년 경력)
+* 합격 점수: 31/51
+* 시간: 110분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E603
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 데이터 설계자
+* 데이터 엔지니어
+* 솔루션 설계자
+* 엔터프라이즈 아키텍트
+* Marketing Automation 개발자
+* CDP 개발자
+* CDP 설계
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다양한 CDP 및 마케팅 자동화 시스템에서 1년 이상 작업한 경험이 있어야 하며 다음 작업을 수행할 수 있습니다.
 
@@ -37,48 +67,20 @@ ht-degree: 12%
 * 여정 보고
 * 여정 테스트/확인
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 데이터 설계자
-* 데이터 엔지니어
-* 솔루션 설계자
-* 엔터프라이즈 아키텍트
-* Marketing Automation 개발자
-* CDP 개발자
-* CDP 설계
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(1~3년 경력)
-* 합격 점수: 31/51
-* 시간: 110분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E603
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 관리 및 구성(17%)
+**섹션 1: 관리 및 구성(17%)**
 
 * 역할 및 각 역할에 적용되는 권한 식별
 * 샌드박스 할당/재설정/삭제 방법 설명
 * 채널 관리에 대한 이해 설명
 * 이벤트/작업/데이터 소스에 대한 이해 설명
 
-섹션 2: Adobe Experience Platform Foundation(33%)
+**섹션 2: Adobe Experience Platform Foundation(33%)**
 
 * XDM(Experience Data Model)에 대한 이해 설명
 * 데이터 소스 및 데이터 수집을 설정하는 방법 설명
@@ -86,28 +88,50 @@ ht-degree: 12%
 * AJO에 대한 스키마를 구성하는 방법 설명
 * AJO에서 실시간 고객 프로필의 동작 확인
 
-섹션 3: Offer decisioning(11%)
+**섹션 3: Offer decisioning(11%)**
 
 * 오퍼 및 구성 요소 생성 및 관리에 대한 이해 설명
 * 테스트 프로필을 사용하여 오퍼 시뮬레이션을 실행하는 방법 시연
 
-섹션 4: 콘텐츠 작성(20%)
+**섹션 4: 콘텐츠 작성(20%)**
 
 * 이메일, SMS, 인앱 메시지 및 푸시 알림을 만드는 방법을 이해합니다.
 * 도우미 함수를 사용한 콘텐츠 조작 및 개인화에 대한 이해 설명
 * 메시지 유효성 검사, 증명 및 게시에 대한 이해 설명
 
-섹션 5: Journey Orchestration(19%)
+**섹션 5: Journey Orchestration(19%)**
 
 * 다중 채널 여정 만들기 프로세스 설명
 * 보고서 대시보드에 액세스할 위치 식별
 * 여정 테스트 및 유효성 검사 방법 시연
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 관리 및 구성**
 
@@ -169,19 +193,33 @@ ht-degree: 12%
    * 세그먼트
    * 프로필 및 ID
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -194,7 +232,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

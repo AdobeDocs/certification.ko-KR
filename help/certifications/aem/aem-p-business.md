@@ -7,48 +7,24 @@ role: User
 badge: label="시험 AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 14%
+source-wordcount: '686'
+ht-degree: 17%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Experience Manager] 비즈니스 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
 
-다음을 수행해야 합니다.
+{{exam-description}}
 
-* Adobe Cloud Manager 사용 및 구성 경험 최소 0~12개월
-* 개발자를 참여시켜 비즈니스 솔루션을 찾는 데 필요한 AEM 기능 및 성능에 대한 최소 0~12개월 동안의 경험
-* Continuous Integration/Continuous Deployment 작업 구성, 구현 및 관리에 대한 최소 0~12개월 동안의 경험
+<br>
 
-Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있는 경우 [!DNL Experience Manager] as a Cloud Service 및 Adobe 설정 가능 [!DNL Experience Manager] 환경 및 인프라.
-
-또한 다음을 수행해야 합니다.
-
-* AEM 제품을 사용하여 디지털 경험을 제공하는 콘텐츠 관리 기능
-* 존재하는 모듈에 대한 이해
-* 사이트, 에셋 및 Forms과 같은 모듈에 대한 심층적인 통찰력
-
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
-
->[!BEGINTABS]
-
->[!TAB 준비]
-
-**의도한 대상:**
-
-* 솔루션 컨설턴트
-* 고객 경험
-* 설계 및 구현 중인 솔루션에 대한 제품 소유자, 비즈니스 분석가, 솔루션 설계자
-
-**시험 세부 정보:**
+### 시험 세부 정보 {#exam-details}
 
 * 레벨: 전문가(0~12개월 경력)
 * 합격 점수: 33/50
@@ -58,22 +34,52 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있는 경우 
 * 비용: 125달러(전세계) / 95달러(인도)
 * 시험 ID: AD0-E126
 
-**시험 목표 및 범위**
+<br>
 
-섹션 1: 교육(22%)
+### 의도한 대상 {#intended-audience}
+
+* 솔루션 컨설턴트
+* 고객 경험
+* 설계 및 구현 중인 솔루션에 대한 제품 소유자, 비즈니스 분석가, 솔루션 설계자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
+
+다음을 수행해야 합니다.
+
+* Adobe Cloud Manager 사용 및 구성 경험 최소 0~12개월
+* 개발자를 참여시켜 비즈니스 솔루션을 찾는 데 필요한 AEM 기능 및 성능에 대한 최소 0~12개월 동안의 경험
+* Continuous Integration/Continuous Deployment 작업 구성, 구현 및 관리에 대한 최소 0~12개월 동안의 경험
+
+Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. [!DNL Experience Manager] as a Cloud Service 및 Adobe 설정 가능 [!DNL Experience Manager] 환경 및 인프라.
+
+또한 다음을 수행해야 합니다.
+
+* AEM 제품을 사용하여 디지털 경험을 제공하는 콘텐츠 관리 기능
+* 존재하는 모듈에 대한 이해
+* 사이트, 에셋 및 Forms과 같은 모듈에 대한 심층적인 통찰력
+
+<br>
+
+### 시험 목표 및 범위 {#exam-objectives}
+
+{{exam-objectives}}
+
+**섹션 1: 교육(22%)**
 
 * AEM 기능 식별
 * 비즈니스 요구 사항을 충족하는 AEM 기능 설명
 * 콘텐츠 편집자를 위한 교육을 수행하는 데 필요한 절차 개념 설명
 
-섹션 2: 아키텍처(22%)
+**섹션 2: 아키텍처(22%)**
 
 * 온프레미스 또는 Adobe 호스팅(클라우드) 환경을 사용하여 비즈니스 요구 사항에 적합한 정보 아키텍처를 식별합니다
 * AEM이 서드파티 서비스와 연결되는 방법 설명
 * 역할 및 권한 정의 위치 식별
 * 시나리오에 따라 사용 가능한 캐싱 접근 방식을 정의합니다
 
-섹션 3: 비즈니스 분석(43%)
+**섹션 3: 비즈니스 분석(43%)**
 
 * 시나리오가 주어지면 고객 비즈니스 문제를 해결하는 AEM의 표준 모듈을 식별합니다
 * AEM 모듈에 대한 컨텐츠 관리 개념 파악
@@ -82,22 +88,30 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있는 경우 
 * 시나리오가 주어지면 예산 및/또는 범위 내에서 유지하면서 비즈니스 목표를 충족하는 올바른 접근 방식을 설명하십시오
 * 비즈니스 목표를 개발 팀과 연결하는 방법 식별
 
-섹션 4: 설정 및 구현(13%)
+**섹션 4: 설정 및 구현(13%)**
 
 * 콘텐츠 구성 요소 사용을 위한 AEM 모범 사례 식별
 * 시나리오가 주어지면 기능의 올바른 구현을 확인하십시오
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
 
-**샘플 질문**
++++1단계: 계정 만들기
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+{{create-your-account}}
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 교육**
 
@@ -138,16 +152,35 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있는 경우 
 * [Adobe과 통합 [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html){target="_blank"}
 * [AEM [!DNL Sites] 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
-## 인증 시험 정보
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -160,7 +193,23 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있는 경우 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

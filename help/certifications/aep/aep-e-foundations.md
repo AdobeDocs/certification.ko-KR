@@ -7,21 +7,40 @@ role: Developer
 badge: label="시험 AD0-E600 및 AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1530'
-ht-degree: 7%
+source-wordcount: '1422'
+ht-degree: 8%
 
 ---
 
 
 # Adobe을 위한 인증 여정 [!DNL Experience Platform] 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Platform] 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
 
-시험으로 자격증을 취득하려면 온라인 또는 현장(가능한 경우)에서 감독관이 있는 2개의 개별 시험에 합격해야 합니다.
+{{exam-description}}
+
+>[!IMPORTANT]
+>
+>Adobe [!DNL Experience Platform] Expert 자격증은 현재 다음 두 가지 시험을 통과해야 합니다. **Adobe [!DNL Experience Platform] 기술 기반(AD0-E600)** 및 **Adobe [!DNL Real-Time CDP] 기술 전문가(AD7-E601)**. 2023년 11월 1일부터 새로운 시험이 시작되며 이는 이 자격증에 필요한 시험만 해당됩니다.
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 데이터 설계자/엔지니어
+* 솔루션 설계자 또는 MSA
+* 엔터프라이즈 아키텍트
+* 제품 관리자
+* 마케팅 기술 리더
+* 기술 컨설턴트
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -38,29 +57,19 @@ ht-degree: 7%
 * 대상을 통해 세그먼트를 보내는 빈도에 대한 지식
 * 세그먼트 멤버십이 업데이트되는 빈도에 대한 지식
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+[요구 사항 1에 대한 정보로 이동](#req-1)
 
->[!TAB 준비]
+[요구 사항 2에 대한 정보로 이동](#req-2)
 
-**의도한 대상:**
+<br>
 
-* 데이터 설계자/엔지니어
-* 솔루션 설계자 또는 MSA
-* 엔터프라이즈 아키텍트
-* 제품 관리자
-* 마케팅 기술 리더
-* 기술 컨설턴트
-
-
-**요구 사항 1: AD0-E600 Adobe [!DNL Experience Platform] 기술 기초**
+## 요구 사항 #1: Adobe 정보 [!DNL Experience Platform] 기술 기반(AD0-E600) {#req-1}
 
 AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다루는 기술과 지식을 검증합니다 [!DNL Experience Platform] 전문가 수준에서.
 
-**시험 세부 정보:**
+### AD0-E600 시험 세부 정보 {#exam-details-600}
 
 * 레벨: 전문가(1-3년 경력)
 * 합격 점수: 35/50
@@ -70,15 +79,19 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 * 비용: $225(글로벌) / $150(인도)
 * 시험 ID: AD0-E600
 
-**시험 목표 및 범위**
+<br>
 
-섹션 1: 데이터 모델링 (20%)
+### AD0-E600의 시험 목표 및 범위 {#exam-objectives}
+
+{{exam-objectives}}
+
+**섹션 1: 데이터 모델링 (20%)**
 
 * 소스 데이터를 분석하여 프로필 결합에 대한 기본 및 보조 ID 평가
 * UI를 사용하여 XDM 스키마를 만들거나 편집하는 방법에 대한 이해를 보여 줍니다.
 * DULE 지침 식별
 
-섹션 2: 데이터 수집(36%)
+**섹션 2: 데이터 수집(36%)**
 
 * 수집을 위한 데이터 포맷 및 준비 방법 시연
 * OOTB 커넥터를 사용하여 데이터 소스를 연결하는 방법 시연
@@ -87,7 +100,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 * 소스 데이터에 대한 데이터 검색 수행 방법 시연
 * XDM과 일치하도록 데이터를 변환하는 방법 시연
 
-섹션 3: 프로필 통합(34%)
+**섹션 3: 프로필 통합(34%)**
 
 * 프로필 및 이벤트 데이터 게시물 수집 유효성 검사
 * ID 이름 공간 정의
@@ -95,19 +108,30 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 * 데이터 과학 작업 영역 모델링 서비스를 통해 프로필을 보강하는 방법을 확인하십시오
 * 세그먼트 빌더를 사용하여 세그먼트를 작성하는 방법과 세그먼테이션 서비스 작동 방식 시연
 
-섹션 4: 활성화(10%)
+**섹션 4: 활성화(10%)**
 
 * 대상 설정 방법 및 세그먼트 활성화 작동 방식 시연
 * 데이터 액세스 API 및 Real-Time CDP을 통한 데이터 내보내기에 대해 설명하고 이해합니다.
 
-준비 상태 설문지를 통해 최소 자격 조건을 충족하는지 확인하십시오.
+<br>
 
+## 인증을 받는 방법(AD0-E600) {#how-to-get-certified}
 
->[!TAB 준비 완료]
+{{how-to-get-certified-intro}}
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
++++1단계: 계정 만들기
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 데이터 모델링**
 
@@ -132,17 +156,33 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 
 * [대상 개요](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ko){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -155,18 +195,25 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
 
->[!BEGINTABS]
++++6단계: 배지 관리
 
->[!TAB 준비]
+{{manage-your-badges}}
 
-**요구 사항 2: AD7-E601 Adobe Real-Time CDP 기술 전문가**
++++
+
+<br>
+
+## 요구 사항 #2: Adobe 정보 [!DNL Real-Time CDP] 기술 전문가(AD7-E601) {#req-2}
 
 AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항목의 생성, 관리 및 이해를 다룹니다. 이 시험은 데이터 및 개인 정보 보호 규정을 준수하는 통합 프로필에 대한 대상 세분화, 대상 내보내기 및 활성화를 위해 실시간 CDP를 사용하는 데 필요한 기본 기술과 지식을 확인합니다. 지원자는 고객 데이터 플랫폼(CDP)에 대한 경험과 Adobe에 대한 지식이 있어야 합니다 [!DNL Experience Platform].
 
-**시험 세부 정보:**
+<br>
+
+### AD7-E601 시험 세부 정보
 
 * 레벨: 전문가(1-3년 경력)
 * 합격 점수: 25/34
@@ -176,11 +223,11 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 * 비용: $225(글로벌) / $150(인도)
 * 시험 ID: AD7-E601
 
-**준비 자체 평가**
+<br>
 
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
+### AD7-E601에 대한 시험 목표 및 범위
 
-**시험 범위 및 목표**
+{{exam-objectives}}
 
 섹션 1: 유효성 검사(41%)
 
@@ -200,7 +247,33 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 * 비즈니스 사용 사례를 기반으로 대상을 전송/내보낼 때 하나 이상의 대상을 구성하는 데 필요한 개념을 적용합니다
 * 대상을 통해 세그먼트 내보내기에 대한 이해 설명
 
->[!TAB 준비 완료]
+<br>
+
+### AD7-E601에 대한 준비 설문지
+
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"}
+
+<br>
+
+## 인증을 받는 방법(AD7-E601)
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 유효성 검사**
 
@@ -262,33 +335,62 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 * [소셜 대상 구성](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [Adobe이 아닌 응용 프로그램에 데이터 활성화](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=ko-KR){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
-## AD0-E601 시험 예약 또는 시험 응시
+## AD7-E601 시험 예약 또는 응시
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    예제 포털로 이동
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

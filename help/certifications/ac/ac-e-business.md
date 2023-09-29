@@ -8,18 +8,48 @@ level: Experienced
 badge: label="시험 AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
 
 # 인증 여정 [!DNL Adobe Commerce] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Commerce] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 31/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E708
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 비즈니스 분석가
+* 상거래 전략가
+* 컨설턴트
+* 기술 프로젝트 관리자/기술 계정 관리자
+* 애플리케이션 설계자/솔루션 설계자/전문가
+* 에이전시 관리자/Director/관리자/컨설턴트
+* Digital Marketing Director/관리자/개발자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 약 1-3년 정도의 실습기간을 가지고 있어야 합니다 [!DNL Commerce] 전자 상거래 경험에 대한 광범위한 이해와 경험.
 
@@ -40,41 +70,13 @@ ht-degree: 0%
 * 보안 도구: PCI 규정 준수, ADA, GDPR 등
 * 클라우드 또는 온프레미스 아키텍처
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 비즈니스 분석가
-* 상거래 전략가
-* 컨설턴트
-* 기술 프로젝트 관리자/기술 계정 관리자
-* 애플리케이션 설계자/솔루션 설계자/전문가
-* 에이전시 관리자/Director/관리자/컨설턴트
-* Digital Marketing Director/관리자/개발자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(1-3년 경력)
-* 합격 점수: 31/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E708
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 핵심 기능/일반 구성(46%)
+**섹션 1: 핵심 기능/일반 구성(46%)**
 
 * Adobe의 기능 식별 [!DNL Commerce] 오픈 소스 에디션 및 [!DNL Commerce] 에디션
 * Adobe의 모든 에디션 간 차이점 구분 [!DNL Commerce] products
@@ -90,18 +92,18 @@ ht-degree: 0%
 * 트랜잭션 이메일 구성 및 수정
 * B2B의 고객 셀프서비스 및 충성도 프로그램 기본 기능 설명
 
-섹션 2: 머천다이징(10%)
+**섹션 2: 머천다이징(10%)**
 
 * 특정 비즈니스 기준을 충족하는 프로모션을 만들고 최종 가격을 결정하는 방법을 보여 줍니다.
 * 범주 및 제품 관리 기능 시연
 * 다양한 가격 구성과 이것이 최종 가격에 미치는 영향 이해
 
-섹션 3: 디지털 마케팅 (4%)
+**섹션 3: 디지털 마케팅 (4%)**
 
 * 기본 기능을 사용하는 SEO에 대한 모범 사례 추천
 * Google Analytics 및 BI의 일반적인 지표 평가
 
-섹션 4: 추가 모듈 및 추가 제품(18%)
+**섹션 4: 추가 모듈 및 추가 제품(18%)**
 
 * B2B 기능 및 일반적인 B2B 시나리오와 어떻게 관련되는지 설명합니다.
 * MSI를 사용하여 솔루션을 제안하려면 비즈니스 요구 사항 적용
@@ -111,25 +113,47 @@ ht-degree: 0%
 * B2B 고객에게 맞춤 가격을 적용하는 방법 이해
 * Adobe 간의 차이점 이해 [!DNL Commerce] 기본 제품 및 Adobe Sensei 제품 권장 사항
 
-섹션 5: 시스템 아키텍처(10%)
+**섹션 5: 시스템 아키텍처(10%)**
 
 * 요구 사항을 평가하여 필요한 웹 사이트, 스토어 및 스토어 보기 확인
 * 성능 지표를 식별하고 분석하여 개선 작업 수행
 * 외부 시스템을 Adobe과 통합하는 데 사용할 수 있는 방법 이해 [!DNL Commerce]
 * Headless 접근 방식과 기존 방식 간의 차별화
 
-섹션 6: 규정 준수/보안(12%)
+**섹션 6: 규정 준수/보안(12%)**
 
 * Adobe 보안 방법 시연 [!DNL Commerce] 역할 및 권한이 있는 데이터 액세스
 * 개인 정보 보호 법률 및 지불 보안에 대한 규정 준수의 기본 사항 이해
 * Adobe의 일반적인 보안 측면 설명 [!DNL Commerce] 프로젝트
 * 세법의 기본 사항과 구성 방법을 이해할 수 있습니다.
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 핵심 기능/일반 구성**
 
@@ -209,19 +233,33 @@ ht-degree: 0%
 * [보안](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [나라별 세금 지침](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -234,7 +272,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

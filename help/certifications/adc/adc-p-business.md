@@ -7,40 +7,24 @@ role: User
 badge: label="시험 AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '552'
 ht-degree: 1%
 
 ---
 
 # 인증 여정 [!DNL Adobe Document Cloud] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Document Cloud] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
 
-다음을 수행해야 합니다.
+{{exam-description}}
 
-* 다음 기간 내에 최소 0~12개월의 경험 보유 [!DNL Adobe Document Cloud]
-* 비즈니스 요구 사항 파악 및 전달
-* 에 대한 제품 지원 조언을 수행할 수 있습니다. [!DNL Adobe Document Cloud] 솔루션.
+<br>
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
-
->[!BEGINTABS]
-
->[!TAB 준비]
-
-**의도한 대상:**
-
-* 솔루션 컨설턴트
-* 비즈니스 분석가
-* 판매
-
-**시험 세부 정보:**
+### 시험 세부 정보 {#exam-details}
 
 * 레벨: 전문가(0~12개월 경력)
 * 합격 점수: 34/50
@@ -50,33 +34,69 @@ ht-degree: 1%
 * 비용: 125달러(전세계) / 95달러(인도)
 * 시험 ID: AD0-D106
 
-**시험 목표 및 범위**
+<br>
 
-섹션 1: 사용 사례 검색(36%)
+### 의도한 대상 {#intended-audience}
+
+* 솔루션 컨설턴트
+* 비즈니스 분석가
+* 판매
+
+<br>
+
+### 최소 경험 {#minimum-experience}
+
+다음을 수행해야 합니다.
+
+* 다음 기간 내에 최소 0~12개월의 경험 보유 [!DNL Adobe Document Cloud]
+* 비즈니스 요구 사항 파악 및 전달
+* 에 대한 제품 지원 조언을 수행할 수 있습니다. [!DNL Adobe Document Cloud] 솔루션.
+
+<br>
+
+### 시험 목표 및 범위 {#exam-objectives}
+
+{{exam-objectives}}
+
+**섹션 1: 사용 사례 검색(36%)**
 
 * Document Cloud 영업 기회 검증을 위한 질문
 * 높은 수준의 비즈니스 사용 사례 정의
 
-제2절: 업무프로세스 평가(34%)
+**제2절: 업무프로세스 평가(34%)**
 
 * 프로세스 개선 및 솔루션 적합도의 핵심 영역 파악
 * Document Cloud 기능에 따라 비즈니스 목표 조정
 * Document Cloud의 다양한 구성 요소에 대한 하이레벨 최종 사용자 중심 데모 제공
 
-섹션 3: Document Cloud(DC) 기능 정의(18%)
+**섹션 3: Document Cloud(DC) 기능 정의(18%)**
 
 * 문서 및 전자 서명의 규정 준수 및 보안 요구 사항의 의미를 간략하게 설명합니다.
 * 프로세스 변경이 가치를 추가하는 방법 설명
 
-섹션 4: 솔루션 추천(12%)
+**섹션 4: 솔루션 추천(12%)**
 
 * Document Cloud 솔루션 디자인 추천
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 사용 사례 검색**
 
@@ -118,20 +138,33 @@ ht-degree: 1%
 * [Adobe Acrobat 기능 및 도구](https://www.adobe.com/acrobat/features.html){target="_blank"}
 * [서명 워크플로우 설정](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -144,11 +177,26 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
-

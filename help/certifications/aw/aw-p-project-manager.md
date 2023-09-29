@@ -6,44 +6,24 @@ role: Developer
 badge: label="시험 AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1352'
 ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Workfront] 프로젝트 관리자 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Workfront] 프로젝트 관리자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
 
-다음을 수행해야 합니다.
+{{exam-description}}
 
-* 초기 작업 요청에서 완료까지 작업 프로세스에 대한 이해 또는 프로젝트 또는 작업 관리에 대한 노출
-* 셀프 가이드 교육 또는 부트캠프를 완료했거나 [!DNL Workfront] 기본 기능을 이해할 수 있도록 6~12개월 사용자
-* 보고서 데이터 구성, 추적 및 모니터링 방법에 대한 이해
+<br>
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
-
->[!BEGINTABS]
-
->[!TAB 준비]
-
-**의도한 대상:**
-
-* 프로젝트 관리자, 작업 관리자, 플래너
-* 스크럼 마스터
-* [!DNL Workfront] 고급 사용자
-* 시스템 관리자
-* 프로그램 관리자, 포트폴리오 관리자
-* Director, 관리자
-* 리소스 관리자, 트래픽 관리자
-
-**시험 세부 정보 - Adobe [!DNL Workfront] 프로젝트 관리자**
+### 시험 세부 정보 {#exam-details}
 
 * 레벨: 전문가(0~12개월 경력)
 * 합격 점수: 45/70
@@ -53,13 +33,35 @@ ht-degree: 0%
 * 비용: 125달러(전세계) / 95달러(인도)
 * 시험 ID: AD0-E903
 
-**준비 자체 평가**
+<br>
 
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
+### 의도한 대상 {#intended-audience}
 
-**시험 목표 및 범위**
+* 프로젝트 관리자, 작업 관리자, 플래너
+* 스크럼 마스터
+* [!DNL Workfront] 고급 사용자
+* 시스템 관리자
+* 프로그램 관리자, 포트폴리오 관리자
+* Director, 관리자
+* 리소스 관리자, 트래픽 관리자
 
-섹션 1: 섭취 및 계획(30%)
+<br>
+
+### 최소 경험 {#minimum-experience}
+
+다음을 수행해야 합니다.
+
+* 초기 작업 요청에서 완료까지 작업 프로세스에 대한 이해 또는 프로젝트 또는 작업 관리에 대한 노출
+* 셀프 가이드 교육 또는 부트캠프를 완료했거나 [!DNL Workfront] 기본 기능을 이해할 수 있도록 6~12개월 사용자
+* 보고서 데이터 구성, 추적 및 모니터링 방법에 대한 이해
+
+<br>
+
+### 시험 목표 및 범위 {#exam-objectives}
+
+{{exam-objectives}}
+
+**섹션 1: 섭취 및 계획(30%)**
 
 * 작업 요청에 대한 다양한 알림 방법 식별
 * 요청이 주어지면 사용자 지정 데이터를 검토하여 적절한 작업을 결정합니다
@@ -71,7 +73,7 @@ ht-degree: 0%
 * 지정된 특정 리소스를 보려면 해당 필드 식별
 * 담당자의 경우 프로젝트/작업 프로세스의 작업 접수 또는 계획 단계 동안 담당자에게 도움이 되는 접수 또는 계획 보고서/대시보드를 결정합니다
 
-섹션 2: 실행(50%)
+**섹션 2: 실행(50%)**
 
 * 프로젝트에서 마일스톤을 이해, 적용 및 측정하는 방법 식별
 * 만들기 [!DNL Workfront] 단일 사용 승인 및 승인 사용 시기
@@ -92,30 +94,44 @@ ht-degree: 0%
 * 내에서 사용할 수 있는 다양한 유형의 보고서 식별 [!DNL Workfront]
 * 시나리오가 주어지면 사용자 지정 보고서를 작성하는 단계를 설명합니다
 
-섹션 3: 마감(20%)
+**섹션 3: 마감(20%)**
 
 * 특정 오브젝트 상태가 주어지면 실행해야 하는 활동 또는 트리거되는 작업을 결정합니다
 * 시나리오가 주어지면 작업 목록 또는 보고서를 수정하는 데 사용할 보고서 유형 및 보고 요소를 결정합니다
 * 보고에 사용할 수 있는 여러 와일드카드 식별
 * 프로젝트 성공을 측정하는 데 사용할 수 있는 프로젝트 요소를 식별합니다
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
 
-**샘플 질문**
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+<br>
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+## 인증 받는 방법 {#how-to-get-certified}
 
-**추천 교육 과정:**
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**추천 교육 과정**
 
 [새로운 환경에서 플래너를 위한 핵심 팀 교육 [!DNL Workfront] 경험](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**추가 리소스:**
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 섭취 및 계획**
 
@@ -160,16 +176,35 @@ ht-degree: 0%
 * [프로젝트 타임라인](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [프로젝트 만들기](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
-## 인증 시험 정보
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -182,7 +217,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

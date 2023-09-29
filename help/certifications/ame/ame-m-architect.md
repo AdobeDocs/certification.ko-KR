@@ -7,24 +7,63 @@ role: Data Architect
 badge: label="시험 AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '834'
 ht-degree: 1%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Marketo Engage] 설계자 기본
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Marketo Engage] 기본 설계.
+{{intro}}
 
 >[!NOTE]
 >
 >이번 시험, [!DNL Adobe Marketo Engage] 설계자 기본(AD0-E556)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 10월 31일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전(AD0-E560)](ame-m-architect-23-08.md).
 
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
 Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marketo Engage] 공인 기본 타이틀 획득에 관심이 있는 후보에 대해 설계사 자격증을 취득합니다. 이는 이전의 Marketo MCSA(Certified Solution Architect) 인증 인터뷰 프로세스를 대체합니다. [자세히 보기](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
-## 최소 경험
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 전제 조건: Adobe Certified Expert - [!DNL Marketo Engage] 비즈니스 전문가
+* 레벨: 기본(3~5년 경력)
+* 실무자 자격증
+* 합격 점수: 30/50
+* 시간: 150분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E556
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 마케팅 기술 관리자
+* 수석/마케팅 운영 관리자
+* 마케팅 운영 디렉터
+* 수익 운영을 위한 선임 Director/관리자
+* 마케팅 운영/기술/자동화 컨설턴트
+* 마케팅 기술자
+* 캠페인 관리자
+* 마케팅 자동화 관리자
+* 디지털 마케팅
+* 수요 생성 관리자
+* 솔루션 설계자
+* 비즈니스 시스템 분석가
+* CRM 관리자
+* CRM/라이프사이클 마케팅 관리자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -42,57 +81,20 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 * CRM 플랫폼
 * 마케팅 기술 플랫폼
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 마케팅 기술 관리자
-* 수석/마케팅 운영 관리자
-* 마케팅 운영 디렉터
-* 수익 운영을 위한 선임 Director/관리자
-* 마케팅 운영/기술/자동화 컨설턴트
-* 마케팅 기술자
-* 캠페인 관리자
-* 마케팅 자동화 관리자
-* 디지털 마케팅
-* 수요 생성 관리자
-* 솔루션 설계자
-* 비즈니스 시스템 분석가
-* CRM 관리자
-* CRM/라이프사이클 마케팅 관리자
-
-**시험 세부 정보:**
-
-* 전제 조건: Adobe Certified Expert - [!DNL Marketo Engage] 비즈니스 전문가
-* 레벨: 기본(3~5년 경력)
-* 실무자 자격증
-* 합격 점수: 30/50
-* 시간: 150분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E556
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 프로젝트 리더십(16%)
+**섹션 1: 프로젝트 리더십(16%)**
 
 * 사례 연구를 통해 적합한 이해 당사자를 파악합니다.
 * 요구 사항 세트를 평가하고 프로젝트 경계, 예산, 리소스 및 범위를 추천합니다.
 * 수정된 프로세스가 주어지면 지원 및 효율적인 지원 롤아웃 계획이 필요한 사용자를 결정합니다.
 * 감사 평가 및 우선 순위 및 타임라인 추천
 
-섹션 2: [!DNL Marketo Engage] 아키텍처 설계(48%)
+**섹션 2: [!DNL Marketo Engage] 아키텍처 설계(48%)**
 
 * 요구 사항/요구 사항 수집 및 리드 관리 및 라이프사이클 설계 권장
 * 기존 구현 검토 및 결과 제공
@@ -104,7 +106,7 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 * 시나리오가 주어지면 제안된 변경 사항/요구 사항의 영향을 받는 사용자 라이프사이클의 여러 단계를 간략히 설명합니다.
 * 요구 사항 세트를 평가하고 캠페인 로직에 대한 접근 방법을 권장합니다.
 
-섹션 3: 보고 및 속성(20%)
+**섹션 3: 보고 및 속성(20%)**
 
 * 검토할 모델이 주어지면, 라이프사이클 모델러에서 우회하는 개념을 설명하십시오
 * 온라인 광고 또는 유기적인 소셜 또는 콘텐츠를 감안할 때, 보고에 대한 접근 방법을 권장합니다
@@ -114,7 +116,7 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 * 다양한 속성 모델의 장단점을 식별하고 설명합니다
 * 비즈니스 요구 사항이 주어지면, 보고에 설정된 채널의 효과를 설명하십시오
 
-섹션 4: 고급 운영(16%)
+**섹션 4: 고급 운영(16%)**
 
 * 시나리오가 주어지면 관리 또는 거버넌스를 개선하기 위한 적절한 단계를 식별합니다
 * 요구 사항 세트가 있는 경우 효율적인 데이터 스키마를 추천하십시오
@@ -123,17 +125,33 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 * 클라이언트의 구현에 대한 정보를 수집하고 보안 사례를 권장합니다
 * 주어진 시나리오에 대한 작업 공간 및 분할 영역의 적용 가능성 설명
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
 
-**샘플 질문**
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+<br>
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 프로젝트 리더십**
 
@@ -158,17 +176,35 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 * [소프트 바운스 억제](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -181,10 +217,27 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+

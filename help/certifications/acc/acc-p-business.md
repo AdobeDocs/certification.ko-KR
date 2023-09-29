@@ -7,18 +7,48 @@ role: User
 badge: label="시험 AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1215'
-ht-degree: 12%
+source-wordcount: '1027'
+ht-degree: 14%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Campaign Classic] 비즈니스 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Campaign Classic] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 32/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E329
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 비즈니스 컨설턴트
+* 비즈니스 분석가
+* 상호 작용 관리자
+* 캠페인 관리자
+* 데이터베이스 마케터
+* 비즈니스 전문가
+* CRM 프로젝트 관리자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -36,41 +66,15 @@ ht-degree: 12%
 * 기본 HTML 및 개인화 경험
 * 구독 서비스 관리(옵트인/옵트아웃)
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
-
-**의도한 대상:**
-
-* 비즈니스 컨설턴트
-* 비즈니스 분석가
-* 상호 작용 관리자
-* 캠페인 관리자
-* 데이터베이스 마케터
-* 비즈니스 전문가
-* CRM 프로젝트 관리자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 32/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요)
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E329
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
+{{exam-objectives}}
 
 **시험 목표 및 범위**
 
-섹션 1: 캠페인 구축(29%)
+**섹션 1: 캠페인 구축(29%)**
 
 * 다양한 디지털 마케팅 개념 및 목표 인식
 * 인터페이스와 관련하여 주요 도구 기능 및 구조를 식별하고 정의합니다.
@@ -82,14 +86,14 @@ ht-degree: 12%
 * 게재 결과 또는 출력을 찾을 위치 인식
 * 다양한 오류 및 경고 유형(게재, 캠페인 및 워크플로우 수준)을 구분합니다.
 
-섹션 2: 워크플로우 관리 및 플랫폼 기능(16%)
+**섹션 2: 워크플로우 관리 및 플랫폼 기능(16%)**
 
 * 시나리오가 주어지면 선택해야 하는 워크플로우 활동을 결정합니다.
 * 캠페인 및 기술 워크플로우 차별화
 * 시나리오가 주어지면 지속적, 대기, 반복, 중단 상황에 가장 적합한 워크플로우 솔루션을 결정합니다.
 * 이전 버전과 비교한 Campaign V8의 새로운 기능 및 특징 식별
 
-섹션 3: 데이터 작업(20%)
+**섹션 3: 데이터 작업(20%)**
 
 * 데이터/출력을 테스트하기 위해 보기 내에서 열을 수정하는 방법을 결정합니다.
 * 결합, 교차, 제외 및 분할 워크플로우 타기팅 활동의 목적을 설명합니다
@@ -98,7 +102,7 @@ ht-degree: 12%
 * 시나리오가 주어지면 대상을 세그먼트화하고 목록 및 셀로 저장하는 방법을 결정합니다
 * 시나리오가 주어지면 이를 구성하여 대상으로 데이터를 내보내는 최상의 방법을 결정합니다
 
-섹션 4: 게재 구성(28%)
+**섹션 4: 게재 구성(28%)**
 
 * 시나리오가 주어지면 올바른 게재 유형을 결정합니다
 * 비즈니스 요구 사항이 주어지면 템플릿을 만드는 방법을 결정합니다
@@ -109,24 +113,40 @@ ht-degree: 12%
 * 게재 콘텐츠 및 개인화를 테스트할 위치/방법을 지정합니다.
 * 처리 및 적용 작업 중에 발생하는 다양한 게재 상태를 구분합니다
 
-섹션 5: 관리 및 보고(7%)
+**섹션 5: 관리 및 보고(7%)**
 
 * 일반적인 OOTB 보고서 및 이에 액세스할 수 있는 위치 식별
 * 보고 요구 사항에 따라 필요한 OOTB 보고서 결정
 * Adobe Campaign 내의 설명 분석 기능 식별
 * 시나리오가 주어지면 Campaign 객체에 대한 액세스를 제한/허용하도록 올바른 권한을 적용합니다
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
 
-**샘플 질문**
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+<br>
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 캠페인 구축**
 
@@ -171,16 +191,35 @@ ht-degree: 12%
 * [설명 분석 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
 * [사용 권한 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
-## 인증 시험 정보
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -193,7 +232,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

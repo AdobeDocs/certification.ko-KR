@@ -7,18 +7,47 @@ role: Developer
 badge: label="시험 AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 12%
+source-wordcount: '930'
+ht-degree: 14%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Campaign Standard] 개발자 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Campaign Standard] 개발자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1~3년 경력)
+* 합격 점수: 29/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E306
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* Marketing Automation 관리자
+* Adobe Experience Cloud 개발자
+* 이메일 마케팅 분석가
+* 애플리케이션 개발자
+* Campaign 개발자
+* Martech 개발자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -40,40 +69,13 @@ ht-degree: 12%
 * 트랜잭션 메시지 및 다중 채널에서의 메시지 전달 경험
 * 관리 패키지를 사용한 경험
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* Marketing Automation 관리자
-* Adobe Experience Cloud 개발자
-* 이메일 마케팅 분석가
-* 애플리케이션 개발자
-* Campaign 개발자
-* Martech 개발자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(1~3년 경력)
-* 합격 점수: 29/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E306
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 데이터 모델링 및 관리(26%)
+**섹션 1: 데이터 모델링 및 관리(26%)**
 
 * 시나리오가 주어지면 클라이언트 요구 사항을 사용자 지정 리소스로 변환합니다
 * 화면 및 필터 정의 구성 방법 결정
@@ -82,7 +84,7 @@ ht-degree: 12%
 * 데이터 모델링 문제 해결
 * 기술 워크플로우를 빌드하는 올바른 방법 결정
 
-섹션 2: 캠페인 관리(50%)
+**섹션 2: 캠페인 관리(50%)**
 
 * 워크플로우 오류 문제 해결
 * 캠페인을 구축하는 올바른 방법 결정
@@ -95,7 +97,7 @@ ht-degree: 12%
 * 크리에이티브 디자이너를 사용하여 이메일을 작성하는 올바른 방법 결정
 * 맞춤형 보고서를 작성하는 올바른 방법 결정
 
-섹션 3: 관리(24%)
+**섹션 3: 관리(24%)**
 
 * 사용자 보안 그룹 및 조직 단위를 만드는 올바른 접근 방식을 결정합니다.
 * 올바른 패키지 관리 및 배포 방법 결정
@@ -104,9 +106,33 @@ ht-degree: 12%
 * 브랜드를 만드는 올바른 방법 결정
 * 채널 구성을 개발하는 올바른 방법 결정
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
+
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 데이터 모델링 및 관리**
 
@@ -151,19 +177,33 @@ ht-degree: 12%
 * [채널 구성 기본 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [소통 채널 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

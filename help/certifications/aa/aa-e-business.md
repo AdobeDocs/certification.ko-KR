@@ -1,24 +1,57 @@
 ---
 title: 비즈니스 전문가 인증
-description: 에서 Adobe 비즈니스 실무자 인증을 받는 방법에 대해 알아봅니다. [!DNL Adobe Analytics]
+description: 다음으로 인증 받는 방법 알아보기 [!DNL Adobe Analytics] 비즈니스 전문가
 solution: Analytics
 product: Analytics
 role: User
 badge: label="시험 AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 13%
+source-wordcount: '883'
+ht-degree: 16%
 
 ---
 
 # 인증 여정 [!DNL Adobe Analytics] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Analytics] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* **레벨:** 전문가(1-3년 경력)
+* **합격 점수:** 31/50
+* **시간:** 120분
+* **게재:** 온라인 처리됨(카메라 액세스 필요)
+* **사용 가능한 언어:** 영어, 일본어
+* **비용:** 225달러(글로벌) / 150달러(인도)
+* **시험 ID:** AD0-E208(영어), AD0-E208-J(일본어)
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 디지털 마케터
+* 비즈니스 분석가
+* 비즈니스 컨설턴트
+* 데이터 분석가
+* 웹 분석가
+* 디지털 분석가
+* 미디어/마케팅 분석가
+* 제품 소유자 및 관리자
+* UI 분석가
+* 전환 / 최적화 전문가
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -34,7 +67,7 @@ ht-degree: 13%
 * 디지털 분석이 데이터를 필터링/구조화하는 방법에 대한 기본 이해
 * 의 통합에 대한 인식 [!DNL Adobe Analytics] 다른 Adobe 솔루션 사용
 
-### 또한 다음 기술 및 환경에 익숙해야 합니다.
+또한 다음 기술 및 환경에 익숙해야 합니다.
 
 * FTP 클라이언트
 * 현재 [!DNL Adobe Analytics] 작업 영역 기능 및 작업 영역 외부의 기타 보고 옵션(예: 프로젝트 및 일정 보고서)
@@ -46,50 +79,19 @@ ht-degree: 13%
 * Adobe Help Center
 * 데이터 내보내기 옵션(예: 마우스 오른쪽 단추를 클릭하여 내보내기, .csv 다운로드, 데이터 피드, Data Warehouse 추출)
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 디지털 마케터
-* 비즈니스 분석가
-* 비즈니스 컨설턴트
-* 데이터 분석가
-* 웹 분석가
-* 디지털 분석가
-* 미디어/마케팅 분석가
-* 제품 소유자 및 관리자
-* UI 분석가
-* 전환 / 최적화 전문가
-
-**시험 세부 정보:**
-
-* **레벨:** 전문가(1-3년 경력)
-* **합격 점수:** 31/50
-* **시간:** 120분
-* **게재:** 온라인 관리(카메라 액세스 필요) 또는 >테스트 센터 관리
-* **사용 가능한 언어:** 영어
-* **비용:** 225달러(글로벌) / 150달러(인도)
-* **시험 ID:** AD0-E208
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: Adobe Experience Cloud 에코시스템의 Analytics 이해(10%)
+**섹션 1: Adobe Experience Cloud 에코시스템의 Analytics 이해(10%)**
 
 * Adobe Experience Cloud ID 활용에 대한 지식 시연
 * Adobe 실행에 대한 이해 증명
 * Adobe Experience Cloud 에코시스템 전반의 일반적인 통합에 대한 이해 시연
 
-섹션 2: 프로젝트에 대한 보고 및 대시보드(30%)
+**섹션 2: 프로젝트에 대한 보고 및 대시보드(30%)**
 
 * 주어진 시나리오를 기반으로 보고 도구를 사용할 때의 이점을 고려하십시오
 * 폴아웃 및 플로우 시각화 및 보고에 적절한 변수 유형 비교
@@ -101,7 +103,7 @@ ht-degree: 13%
 * 시나리오가 주어지면 사용할 적절한 항목을 결정합니다
 * 모바일 스코어카드를 생성, 구성 및 사용하기 위한 프로세스 적용
 
-섹션 3: 세분화 및 계산된 지표 (22%)
+**섹션 3: 세분화 및 계산된 지표 (22%)**
 
 * 세그먼트 개발 및 구성 방법 결정
 * 조직의 다른 사용자와 세그먼트를 공유하는 프로세스 적용
@@ -109,14 +111,14 @@ ht-degree: 13%
 * 프로젝트 및 구성 요소에 세그먼트 적용
 * 프로세스를 적용하여 계산된 지표 및/또는 세그먼트화된 지표 생성
 
-섹션 4: 일반적인 도구 지식 및 문제 해결(12%)
+**섹션 4: 일반적인 도구 지식 및 문제 해결(12%)**
 
 * 보고서 분석 및 데이터 품질 문제 식별
 * 에 있는 다양한 유형의 치수 및 매개변수 정의 [!DNL Adobe Analytics] (eVar, prop 및 이벤트)
 * 데이터 입출력을 확인하는 방법 결정 [!DNL Adobe Analytics]
 * 마케팅 URL에서 정보 식별
 
-섹션 5: 관리(10%)
+**섹션 5: 관리(10%)**
 
 * 프로세스를 적용하여 구성 [!UICONTROL 마케팅 채널] 다음을 포함하는 보고서: [!UICONTROL 마케팅 채널] 처리 규칙
 * 프로세스를 적용하여 분류 가져오기 및 규칙 빌더를 구성합니다
@@ -124,11 +126,33 @@ ht-degree: 13%
 * 사용 [!UICONTROL 데이터 피드] 관리자 관리 UI
 * 데이터 거버넌스 이해
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 비즈니스 분석**
 
@@ -161,19 +185,31 @@ ht-degree: 13%
 * [자주 묻는 질문](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
 * [분류 규칙 빌더 워크플로](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
->[!TAB 인증 받기]
-
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
-
-## 연습 테스트 수행
+**연습 테스트 수행**
 
 {{practice-test}}
 
-## 인증 시험 정보
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -197,7 +233,23 @@ ht-degree: 13%
 
 [일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

@@ -6,18 +6,45 @@ product: Magento
 role: Developer
 badge: label="시험 AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Commerce] 프론트엔드 개발자 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Commerce] 개발자 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 33/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E721
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 개발자
+* 프론트엔드 개발자
+* 전체 스택 개발자
+* PWA 개발자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개별 구성 요소를 제공하기 위한 기술 솔루션 작업 능력이 있어야 합니다.
 
@@ -42,36 +69,19 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * 표준 링크에 대한 기본 이해 및 JavaScript 및 CSS 병합
 * Adobe Commerce 클라우드 인프라에 대한 기본 이해
 
->[!BEGINTABS]
+<br>
 
->[!TAB 준비]
+### 시험 목표 및 범위 {#exam-objectives}
 
-**의도한 대상:**
+{{exam-objectives}}
 
-* 개발자
-* 프론트엔드 개발자
-* 전체 스택 개발자
-* PWA 개발자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 33/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요)
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E721
-
-**시험 목표 및 범위**
-
-섹션 1: 테마 관리 (테마 계층 구조, 이미지 구성, 번역) (14%)
+**섹션 1: 테마 관리 (테마 계층 구조, 이미지 구성, 번역) (14%)**
 
 * 설명 Adobe [!DNL Commerce] 테마 폴더 구조
 * 새 테마를 만들거나 기존 테마를 확장하는 기능 시연
 * 사용자 정의 번역 구문 추가 기능 시연
 
-섹션 2: 레이아웃 XML 및 템플릿(30%)
+**섹션 2: 레이아웃 XML 및 템플릿(30%)**
 
 * 기본 레이아웃 XML 지침 작업 기능 시연
 * 기존 페이지 레이아웃을 사용할 수 있는 기능 시연
@@ -79,7 +89,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * 템플릿을 만들고 사용자 지정하는 기능 시연
 * 템플릿 보안 설명(출력 이스케이프 처리)
 
-섹션 3: 스타일 (22%)
+**섹션 3: 스타일 (22%)**
 
 * styles-m.less, styles-l.less, print.less의 목적 설명
 * 특정 부분 파일(_extends.less,_extend.less,_theme.less,_widgets.less,_module.less) 간의 차이점 설명
@@ -88,7 +98,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * 스타일(라이브러리, 모듈, 테마)의 계층 구조 설명
 * 클라이언트측 및 서버측 컴파일 설명
 
-섹션 4: JavaScript(18%)
+**섹션 4: JavaScript(18%)**
 
 * JavaScript 구성 요소를 초기화하고 호출하는 기능을 보여 줍니다.
 * RequireJS 사용 시연
@@ -97,25 +107,39 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * 녹아웃 JS 사용 설명
 * jQuery 위젯의 사용 설명
 
-섹션 5: 관리자 구성 및 PageBuilder(6%)
+**섹션 5: 관리자 구성 및 PageBuilder(6%)**
 
 * 페이지 빌더 및 CMS 콘텐츠를 사용자 지정하는 기능 시연&quot;
 * 특정 범위(웹 사이트, 스토어, 스토어-뷰)에 테마 적용/예약
 * 관리자 구성을 사용하여 카테고리, 제품 및 CMS 페이지에 디자인 변경 사항 적용
 * 트랜잭션 이메일을 사용자 지정하는 단계 설명
 
-섹션 6: 툴(CLI 및 성능)(8%)
+**섹션 6: 툴(CLI 및 성능)(8%)**
 
 * 기본 bin/magento 명령 사용 설명
 * Composer 명령 사용 설명(설치, 업데이트, 필요, 제거)
 * 배포 모드에 대한 적절한 사용 사례 차별화
 * 클라우드가 제공하는 추가 도구 설명(Fastly, 데이터베이스 다운로드, 콘텐츠 배포)
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 테마 관리 (테마 계층 구조, 이미지 구성, 번역)**
 
@@ -156,18 +180,33 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * [변수 작성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [클라우드 인프라의 상거래](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+**연습 테스트 수행**
 
+{{practice-test}}
 
-**이제 성공적으로 로그인했으므로 다음 링크에 직접 액세스할 수 있습니다.**
++++
 
-**연습 시험 준비 중**
+<br>
 
-## 인증 시험 정보
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -180,9 +219,25 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**질문**
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
+
+## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

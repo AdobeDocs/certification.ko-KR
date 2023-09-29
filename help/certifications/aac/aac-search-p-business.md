@@ -8,18 +8,44 @@ role: User
 badge: label="시험 AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 5%
+source-wordcount: '732'
+ht-degree: 6%
 
 ---
 
 # 인증 여정 [!DNL Adobe Advertising Search] 비즈니스 전문가
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Advertising Search] 비즈니스 전문가.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 35/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: 125달러(전세계) / 95달러(인도)
+* 시험 ID: AD0-E501
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 마케팅 캠페인 관리자 검색
+* 마케팅 실무자 검색
+* 정기적으로 검색을 사용하여 검색 캠페인을 실행 및 관리하는 개인 사용자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -28,7 +54,7 @@ ht-degree: 5%
 * 에서 작업 중인 경험 [!DNL Advertising Search] 유료 검색 입찰 자동화, 캠페인 관리,
 * Portfolio 이론에 대한 이해
 
-다음 기능을 사용한 경험:
+또한 다음 기능을 사용한 경험이 있어야 합니다.
 
 * Portfolio의 각 측면 만들기
 * 포트폴리오를 최적화할 준비가 되었는지 확인하기 위한 사용자 지정 시뮬레이션 만들기
@@ -51,37 +77,13 @@ ht-degree: 5%
 * 대상 입찰 수정자
 * 위치 입찰 조정
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* 마케팅 캠페인 관리자 검색
-* 마케팅 실무자 검색
-* 정기적으로 검색을 사용하여 검색 캠페인을 실행 및 관리하는 개인 사용자
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 35/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: 125달러(전세계) / 95달러(인도)
-* 시험 ID: AD0-E501
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: Portfolio 및 최적화(54%)
+**섹션 1: Portfolio 및 최적화(54%)**
 
 * 시나리오가 주어지면 자동화된 입찰 전략을 선택하고 설정합니다.
 * 주어진 비즈니스 전략에서 Portfolio KPI 목표를 정의하고 생성합니다.
@@ -90,27 +92,49 @@ ht-degree: 5%
 * 시나리오가 주어지면 Portfolio 성능을 평가하고 문제를 해결합니다.
 * 시나리오가 주어지면 지속적으로 Portfolio 설정을 조정하는 방법을 결정합니다.
 
-섹션 2: 보고서, 통찰력 및 도구(14%)
+**섹션 2: 보고서, 통찰력 및 도구(14%)**
 
 * 비즈니스 요구 사항에 따라 보고서를 만들고 예약하기 위해 절차 개념 적용
 * 여러 Portfolio에서 사용 가능한 Platform AI 도구를 사용하여 최적의 예산 할당을 결정하고 필요한 경우 적용합니다
 * 사용 사례가 주어지면 Portfolio 분석 및 예측을 위한 사용자 지정 시뮬레이션을 만들고 정의합니다
 
-섹션 3: 캠페인 관리(22%)
+**섹션 3: 캠페인 관리(22%)**
 
 * 계정 설정
 * 캠페인의 모든 측면을 구축, 관리 및 구성
 
-섹션 4: 측정(10%)
+**섹션 4: 측정(10%)**
 
 * 비즈니스 시나리오가 주어지면 캠페인 전환 추적에 대한 접근 방식을 결정하고 적용합니다
 * 시나리오가 주어지면 캠페인 전환 지표 문제를 해결합니다.
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: Portfolio 및 최적화**
 
@@ -147,16 +171,27 @@ ht-degree: 5%
 * [Marketo Measure 도움말 설명서](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [전환 변수 (eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
->[!TAB 인증 받기]
++++
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+<br>
 
++++3단계: 시험 일정 및 지불
 
-## 인증 시험 정보
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -169,10 +204,29 @@ ht-degree: 5%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+
+
+

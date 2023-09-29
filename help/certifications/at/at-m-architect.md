@@ -8,18 +8,48 @@ badge: label="시험 AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 hidefromtoc: true
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 20%
+source-wordcount: '920'
+ht-degree: 24%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 설계자 기본
 
-자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 기본 설계.
+{{intro}}
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 기본(3~5년 경력)
+* 합격 점수: 34/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E407
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* 전환율 최적화 엔지니어/설계자
+* 개인화 엔지니어/설계자
+* 디지털 솔루션 설계자
+* 디지털 전환 컨설턴트
+* 경험 최적화 리드
+* 최적화 관리자
+* 온라인 캠페인 관리자
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 다음을 수행해야 합니다.
 
@@ -54,85 +84,73 @@ ht-degree: 20%
 * AMS 호스팅 환경
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB 준비]
+### 시험 목표 및 범위 {#exam-objectives}
 
-**의도한 대상:**
+{{exam-objectives}}
 
-* 전환율 최적화 엔지니어/설계자
-* 개인화 엔지니어/설계자
-* 디지털 솔루션 설계자
-* 디지털 전환 컨설턴트
-* 경험 최적화 리드
-* 최적화 관리자
-* 온라인 캠페인 관리자
-
-**시험 세부 정보:**
-
-* 레벨: 기본(3~5년 경력)
-* 합격 점수: 34/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E407
-
-**시험 목표 및 범위**
-
-섹션 1: [!DNL Adobe Target] 기본 사항(12%)
+**섹션 1: [!DNL Adobe Target] 기본 사항(12%)**
 
 * 적절한 항목 식별 [!DNL Adobe Target] 주어진 시나리오에 대한 사용
 * 의 기본 기술 설명 [!DNL Adobe Target] 구현
 
-섹션 2: 와 통합 [!DNL Adobe Target] (16%)
+**섹션 2: 와 통합 [!DNL Adobe Target] (16%)**
 
 * 통합할 프로세스 적용 [!DNL Adobe Target] Adobe Analytics(A4T) 사용
 * 통합할 프로세스 적용 [!DNL Adobe Target] Adobe Experience Manager으로
 * 다른 Adobe Experience Cloud 솔루션과의 통합 설명
 * Adobe Experience Cloud 대상과의 통합 설명
 
-섹션 3: [!DNL Adobe Target] 관리 및 거버넌스 (13%)
+**섹션 3: [!DNL Adobe Target] 관리 및 거버넌스 (13%)**
 
 * 진행 중인 작업 정의 [!DNL Adobe Target] 구현 전략 및 시스템 거버넌스
 * 프로세스 및 모범 사례를 적용하여 사용자 관리
 * 구현 설정의 관리 측면 설명
 
-섹션 4: [!DNL Adobe Target] 및 지원되는 터치 포인트(15%)
+**섹션 4: [!DNL Adobe Target] 및 지원되는 터치 포인트(15%)**
 
 * 클라이언트측 전달 구현 설명
 * 서버측 전달 구현 설명
 * 모바일, 이메일 타겟팅 및 API에 대한 구현 요구 사항 설명
 
-섹션 5: 활용 [!DNL Adobe Target] 권장 사항(9%)
+**섹션 5: 활용 [!DNL Adobe Target] 권장 사항(9%)**
 
 * 권장 사항, 카탈로그 및 환경에 대한 이해 설명
 * 프로세스를 적용하여 Target 권장 사항 구성
 
-섹션 6: 설계, 설계 및 구현 [!DNL Adobe Target] (15%)
+**섹션 6: 설계, 설계 및 구현 [!DNL Adobe Target] (15%)**
 
 * 올바른 mbox 구현 선택
 * 디자인 시연 [!DNL Adobe Target] 구현
 * 구현 설명 [!DNL Adobe Target] 기본 모바일 앱에서
 
-섹션 7: 문제 해결(20%)
+**섹션 7: 문제 해결(20%)**
 
 * mbox 오류 문제 해결
 * 활동 오류 문제 해결
 * 통합 오류 이해
 * 문제 해결 [!DNL Adobe Target] Recommendations 오류
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+## 인증 받는 방법 {#how-to-get-certified}
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{how-to-get-certified-intro}}
 
-**샘플 질문**
++++1단계: 계정 만들기
 
-샘플 문항은 실제 시험에서 접하게 될 문항의 종류와 형식을 확인할 수 있다. 로그온할 필요가 없습니다. 기출문제 결과는 저장되지 않으며, 실제 시험 결과를 예측하지 않는다.
+{{create-your-account}}
 
-[샘플 질문 참조](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: [!DNL Adobe Target] 기본 사항**
 
@@ -193,16 +211,35 @@ ht-degree: 20%
 * [해결 방법: 과거 대상이 &quot;데이터 수집&quot;으로 표시되는 이유는 무엇입니까?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=ko){target="_blank"}
 
->[!TAB 인증 받기]
+<br>
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용**  다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+**샘플 질문**
 
+{{sample-questions}}
 
-## 인증 시험 정보
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++3단계: 시험 일정 및 지불
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -215,7 +252,23 @@ ht-degree: 20%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 

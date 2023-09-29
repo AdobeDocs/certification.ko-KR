@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="시험 AD0-E907" type="positive"
 mini-toc-levels: 1
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1792'
+source-wordcount: '1639'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,41 @@ ht-degree: 0%
 
 # Adobe을 위한 인증 여정 [!DNL Workfront] 코어 개발자 전문가
 
-인증된 Adobe이 되는 방법 알아보기 [!DNL Workfront] 코어 개발자 전문가.
+{{intro}}
 
 >[!NOTE]
 >
 >최신 Adobe [!DNL Workfront] 코어 개발자 전문가 시험. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](aw-core-e-developer.md), 2023년 11월 6일까지 완료해야 합니다.
 
-## 최소 경험
+## 시험 설명 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 35/50
+* 시간: 100분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E907
+
+<br>
+
+### 의도한 대상 {#intended-audience}
+
+* [!DNL Workfront] 구현 및 신규 또는 업데이트된 인스턴스 구성을 전문으로 하는 시스템 관리자
+* 프로세스 디자이너/설계자
+* 비즈니스 분석가
+* 기술 컨설턴트
+* 구성 컨설턴트
+
+<br>
+
+### 최소 경험 {#minimum-experience}
 
 18~24개월 이상 Adobe 경험이 있어야 합니다. [!DNL Workfront], 및 은 다음 작업을 수행할 수 있어야 합니다.
 
@@ -32,39 +60,13 @@ ht-degree: 0%
 * 마케팅 및 PMO 활용 사례 이해 및 적용
 * 고객 프로세스를 지원하는 보고서 추천 및 생성
 
->[!NOTE]
->
->귀하의 인증은 합격 후 2년 동안 유효합니다. 최신 제품 기능을 포함하므로 가능하면 최신 버전을 사용하는 것이 좋습니다.
+<br>
 
->[!BEGINTABS]
+### 시험 목표 및 범위 {#exam-objectives}
 
->[!TAB 준비]
+{{exam-objectives}}
 
-**의도한 대상:**
-
-* [!DNL Workfront] 구현 및 신규 또는 업데이트된 인스턴스 구성을 전문으로 하는 시스템 관리자
-* 프로세스 디자이너/설계자
-* 비즈니스 분석가
-* 기술 컨설턴트
-* 구성 컨설턴트
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(1-3년 경력)
-* 합격 점수: 35/50
-* 시간: 100분
-* 게재: 온라인 처리됨(카메라 액세스 필요) 또는 테스트 센터에서 처리됨
-* 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E907
-
-**준비 자체 평가**
-
-다음을 완료합니다. [온라인 준비 설문지](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} 현재 경험이 최소 추천 후보 자격과 일치하는지 확인합니다.
-
-**시험 목표 및 범위**
-
-섹션 1: 핵심 시스템 관리 및 설정(17%)
+**섹션 1: 핵심 시스템 관리 및 설정(17%)**
 
 * 시나리오에 따라 권한 및 액세스를 효과적으로 공유하는 방법을 설명합니다.
 * 시나리오가 주어지면 그룹 상태와 시스템 상태를 사용해야 하는 시기를 식별합니다.
@@ -74,7 +76,7 @@ ht-degree: 0%
 * 시나리오가 주어지면 사용자 지정 요구 사항을 충족하도록 보드 구성을 추천합니다.
 * 시나리오가 주어지면 그룹 관리에 대한 모범 사례를 식별합니다.
 
-섹션 2: 접수, 맞춤형 양식 및 프로젝트 착수(13%)
+**섹션 2: 접수, 맞춤형 양식 및 프로젝트 착수(13%)**
 
 * 시나리오가 주어지면 작업 할당을 지원하는 데 필요한 구성 영역을 식별합니다.
 * 시나리오가 주어지면 값이 프로젝트 사용자 정의 양식에 전달되는 방법을 식별합니다.
@@ -83,7 +85,7 @@ ht-degree: 0%
 * 여러 양식이 있는 시나리오가 주어지면 액세스, 가시성 및 종속성을 제어하는 작업을 결정합니다.
 * 다중 객체 양식의 계산된 필드가 있는 시나리오가 주어지면 올바른 공식을 식별합니다.
 
-섹션 3: 전략 기능: 포트폴리오 및 프로그램 관리, 리소스 관리(13%)
+**섹션 3: 전략 기능: 포트폴리오 및 프로그램 관리, 리소스 관리(13%)**
 
 * 시나리오가 주어지면 프로젝트 범위에서 변경 사항을 캡처하는 도구를 정의합니다.
 * 시나리오가 주어지면 프로젝트가 실행할 필수 기준의 평균 수준을 충족하는지 여부를 포트폴리오 내에서 식별하는 보기를 만듭니다.
@@ -92,7 +94,7 @@ ht-degree: 0%
 * 시나리오가 주어지면 리소스 관리 도구를 사용하여 프로젝트가 완전히 실행되도록 하는 메커니즘을 제공합니다.
 * 시나리오가 주어지면 리소스 관리 도구를 사용하여 사용자가 초과 할당된 이유를 파악합니다.
 
-섹션 4: 문서 관리 및 증명(13%)
+**섹션 4: 문서 관리 및 증명(13%)**
 
 * 시나리오에 따라 문서 관리와 증명 간 활용 시점 시연
 * 시나리오가 주어지면 증명 뷰어, 설정 및 마크업 기능 사용에 대한 모범 사례를 식별합니다
@@ -100,7 +102,7 @@ ht-degree: 0%
 * 시나리오에 따라 보안 제한을 사용하여 외부 문서 저장소를 설정하는 방법을 보여 줍니다.
 * 시나리오가 주어지면 AEM as a Cloud Service 또는 AEM Assets Essentials에 대한 연결을 설정합니다.
 
-섹션 5: 보고(11%)
+**섹션 5: 보고(11%)**
 
 * 시나리오가 주어지면 여러 데이터 열을 단일 열로 결합하는 방법을 설명합니다.
 * 보고서 또는 필터가 주어지면 와일드카드 값 사용의 장점을 보여 줍니다.
@@ -109,7 +111,7 @@ ht-degree: 0%
 * 시나리오가 주어지면 다음을 수행합니다. [!DNL Workfront] 사용자 채택을 모니터링하고 개선하기 위한 보고.
 * 시나리오가 주어지면 보고서에서 필드 유형을 렌더링하는 방법을 결정합니다. (필드 유형에는 리치 텍스트, 이미지, 다중 선택 등이 포함됩니다.)
 
-섹션 6: 방법론/모범 사례/사용 사례(22%)
+**섹션 6: 방법론/모범 사례/사용 사례(22%)**
 
 * 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront]에서는 단일 캠페인에 포함된 결과물 추적을 설정하는 기능을 보여 줍니다.
 * 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront]에서는 전략적 우선 순위 지정 및 작업 정당화에 대한 기능을 보여줍니다.
@@ -120,7 +122,7 @@ ht-degree: 0%
 * 주어진 시나리오 [!DNL Workfront] 게시판, 진행률을 보여 주는 기본 기능을 식별합니다.
 * 시나리오가 주어지면 시스템 및 그룹 관리를 중심으로 거버넌스를 위한 프레임워크를 추천한다.
 
-섹션 7: 비즈니스 컨설팅(11%)
+**섹션 7: 비즈니스 컨설팅(11%)**
 
 * 시나리오가 주어지면 구현에 필요한 노력을 완전히 지원하는 데 필요한 프로세스를 설명합니다. [!DNL Workfront] 부서와 부서간의 업무.
 * 시나리오에 따라 중요한 경량 비즈니스 프로세스의 최근 변경 사항을 충족하도록 기존 워크플로우를 조정하는 방법을 설명합니다.
@@ -128,11 +130,33 @@ ht-degree: 0%
 * 시나리오가 주어지면 다음에 대한 변경 관리의 주요 고려 사항을 식별합니다. [!DNL Workfront] 구현
 * 클라이언트에 여러 팀이 있는 시나리오가 주어지면 효율성을 높이기 위한 권장 사항을 제공합니다.
 
->[!TAB 준비 완료]
+<br>
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+### 준비 설문지
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## 인증 받는 방법 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++1단계: 계정 만들기
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++2단계: 시험 준비
+
+**학습 자료**
+
+{{study-materials-intro}}
 
 **섹션 1: 핵심 시스템 관리 및 설정**
 
@@ -207,23 +231,27 @@ ht-degree: 0%
 * [작업에 대한 &quot;시작 가능&quot; 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
 * [모범 사례 - 온보딩 및 채택](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
->[!TAB 인증 받기]
++++
 
->[!IMPORTANT]
->
->다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
->
->또한 의 프로필 이름 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 은(는) 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 발생하면 감독관이 시험을 종료하게 되며, 추가 시험 비용을 지불하는 것 외에 귀하의 약속을 다시 조정해야 합니다.*
+<br>
 
-<!-- Test is coming later
++++3단계: 시험 일정 및 지불
 
-## Take a practice test
+{{schedule-and-pay}}
 
-{{practice-test}}
++++
 
--->
+<br>
 
-## 인증 시험 정보
++++4단계: 시험 전후에
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++5단계: 시험 응시
 
 {{about-certification-exam}}
 
@@ -236,7 +264,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++6단계: 배지 관리
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 인증 갱신
+
+{{renewing-intro}}
+
+<br>
 
 ## 질문
 
