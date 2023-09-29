@@ -4,12 +4,12 @@ description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Plat
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="시험 AD0-E600 및 AD7-E601" type="positive"
+badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1424'
 ht-degree: 8%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 8%
 >[!IMPORTANT]
 >
 >Adobe [!DNL Experience Platform] Expert 자격증은 현재 다음 두 가지 시험을 통과해야 합니다. **Adobe [!DNL Experience Platform] 기술 기반(AD0-E600)** 및 **Adobe [!DNL Real-Time CDP] 기술 전문가(AD7-E601)**. 2023년 11월 1일부터 새로운 시험이 시작되며 이는 이 자격증에 필요한 시험만 해당됩니다.
+
+<br>
+
+[요구 사항 1 관련 정보로 이동](#req-1)
+
+[요구 사항 2 관련 정보로 이동](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ ht-degree: 8%
 * 필요한 프로필 속성을 결정하는 기능
 * 대상을 통해 세그먼트를 보내는 빈도에 대한 지식
 * 세그먼트 멤버십이 업데이트되는 빈도에 대한 지식
-
-<br>
-
-[요구 사항 1에 대한 정보로 이동](#req-1)
-
-[요구 사항 2에 대한 정보로 이동](#req-2)
 
 <br>
 

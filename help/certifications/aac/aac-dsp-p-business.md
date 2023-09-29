@@ -4,10 +4,10 @@ description: Adobe 인증을 받는 방법 알아보기 [!DNL Advertising DSP] �
 solution: Advertising
 product: Advertising Cloud
 role: User
-badge: label="시험 AD0-E502" type="positive"
+badge: label="시험 AD0-E502" type="neutral"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '539'
 ht-degree: 0%

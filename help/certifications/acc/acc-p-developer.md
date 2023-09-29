@@ -4,10 +4,10 @@ description: 에서 인증된 Adobe Developer Professional이 되는 방법에 �
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="시험 AD0-E331" type="positive"
+badge: label="시험 AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '979'
 ht-degree: 13%
