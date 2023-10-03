@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -127,7 +127,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **시험 세부 정보:**
 
-* 합격 점수: 25/35
+* 합격 점수: 27/35
 * 시간: 70분
 * 비용: 무료/비관리됨
 * 배달: 온디맨드
