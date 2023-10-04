@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 2%
@@ -248,54 +248,54 @@ CMS 페이지 및 블록 사용 설명 시나리오, 레이아웃 수정 시나�
 
 **섹션 1**
 
-[ACL(액세스 제어 목록) 규칙 만들기](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-[관리 그리드 추가](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
-[system.xml 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
+* [ACL(액세스 제어 목록) 규칙 만들기](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [관리 그리드 추가](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [system.xml 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
 **섹션 2**
 
-[라우팅](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
-[URL 재작성](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
-[캐시 유형 구성](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-[사이트, 스토어 및 보기 범위](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
-[명령줄 도구](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-[종속성 삽입 구성](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-[모듈 만들기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
-[색인화](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-[번역](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-[플러그인](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [라우팅](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [URL 재작성](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+* [캐시 유형 구성](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+* [사이트, 스토어 및 보기 범위](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [명령줄 도구](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [종속성 삽입 구성](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+* [모듈 생성](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
+* [색인 생성](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [번역](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [플러그인](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
 **섹션 3**
 
-[속성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
-[EAV 및 확장 속성](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-[선언적 스키마 구성](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
-[구성 요소 파일 구조 만들기](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+* [속성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+* [EAV 및 확장 속성](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+* [선언적 스키마 구성](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [구성 요소 파일 구조 만들기](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
 **섹션 4**
 
-[콘텐츠 블록](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
-[모델 보기](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
-[레이아웃 지침](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
-[테마 구조](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-[JavaScript 호출 및 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-[비공개 콘텐츠](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+* [콘텐츠 블록](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [모델 보기](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+* [레이아웃 지침](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+* [테마 구조](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+* [JavaScript 호출 및 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [비공개 콘텐츠](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
 **섹션 5**
 
-[장바구니 구성](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-[장바구니 가격 규칙 만들기](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-[다른 체크아웃 필드에 영향을 주는 사용자 정의 필드 추가](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
-[견적 테이블](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
-[배송 방법 목록 사용자 지정](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-[세금 구성 설정](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+* [장바구니 구성](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [장바구니 가격 규칙 만들기](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [다른 체크아웃 필드에 영향을 주는 사용자 정의 필드 추가](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+* [견적 테이블](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+* [배송 방법 목록 사용자 지정](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+* [세금 구성 설정](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
 **섹션 6**
 
-[카탈로그 수정](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
-[제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
-[카탈로그 가격 규칙](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
-[그룹 가격 책정](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+* [카탈로그 수정](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+* [제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+* [카탈로그 가격 규칙](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+* [그룹 가격 책정](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
 ### 인증 갱신
 
