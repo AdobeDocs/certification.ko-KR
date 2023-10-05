@@ -4,9 +4,9 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 1%
 
 ---
@@ -37,11 +37,17 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 >[!TAB 시험 보기]
 
+**내 Adobe ID**
+
 사용자 [프로필](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Adobe 자격 증명 관리 시스템의 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
+
+**취소 및 일정 조정**
 
 예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
 
 Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수 없습니다. 48시간 이내 취소 시에는 시험 수수료 외에 일정 조정 수수료가 부과됩니다.
+
+**시험 이후**
 
 일단 시험을 마치면 잠정적인 합격증을 받거나 불합격한다. 최종 점수는 채우는 데 최대 72시간이 소요될 수 있습니다. 결과 및 점수 보고서는 의 기록 탭 아래에서 찾을 수 있습니다. [Adobe 자격 증명 관리자](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수
 
 >[!TAB 시험 비용]
 
-다음은 현재 인증 시험 비용입니다.
+**인증 시험 가격**
 
-![시험 비용 배지](/help/certifications/assets/exam_costs_new.png)
+| Adobe 인증 | 가격(USD) | 인도 가격(USD) |
+| ------- | ------- | ------- |
+| Adobe Certified Professional | $125 | $95 |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe 인증 기본 | $225 | $150 |
+
+**갱신 가격**
+
+대부분의 인증 갱신은 **무료**. 무료 갱신 옵션이 없는 인증의 경우 전체 인증 시험에 재응시해야 인증을 갱신할 수 있습니다.
+
+**시험 비용 지불**
 
 자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
