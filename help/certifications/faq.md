@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
+source-git-commit: 5a884e40f89a53c9348359f65b8fd1ac8190b85c
 workflow-type: tm+mt
 source-wordcount: '3097'
 ht-degree: 1%
@@ -327,7 +327,7 @@ Adobe 인증 재시작 프로그램은 개인이 비용 없이 온라인 단기 
 
 +++Adobe은 향후 이러한 유형의 프로그램을 다시 제공할 예정입니까?
 
-현재 우리는 이 오퍼를 다시 제공하지 않을 계획입니다. 이것은 일회성 상품입니다.
+우리는 이 프로그램을 다시 제공할 계획이 없습니다. 이것은 일회성 상품입니다.
 
 +++
 
