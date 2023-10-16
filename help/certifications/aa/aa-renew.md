@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 8%
+source-wordcount: '2061'
+ht-degree: 9%
 
 ---
 
@@ -125,7 +125,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 5**
 
-* [Analytics Export 안내서](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=ko-KR){target="_blank"}
+* [Analytics Export 안내서](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [처리 규칙 작동 방식](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [Adobe Analytics API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
@@ -147,11 +147,96 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 +++
 
-+++[!DNL Adobe Analytics] 비즈니스 전문가
+## 인증 갱신 지침:
+
+* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계**: 시험 목표 및 리소스 검토
+* **3단계**: 시험 응시 및 통과
+
+### 준비
+
+**시험 세부 정보:**
+
+* 합격 점수: 26/35
+* 시간: 70분
+* 비용: 무료/비관리됨
+* 배달: 온디맨드
+* 사용 가능한 언어: 영어
+* 전제 조건: 현재(만료되지 않음) Adobe Analytics 비즈니스 실무자 전문 인증
+* 시험 ID: AD5-E832
+
+**범위 및 목표**
+
+섹션 1: 비즈니스 분석
+
+1.1 비즈니스 요구 사항/질문이 주어지면 분석을 수행하는 데 가장 적합한 보고 전략을 파악합니다 4% 1.2 비즈니스 질문에 답변할 수 있는 데이터 분석 및 새로운 최적화 가설 추천 4% 1.3 전환 단계(비즈니스 분석을 이해하는 개념으로 사용) 4% 1.4 보고서에 사용할 수 있는 데이터를 결정하기 위해 솔루션 디자인 참조(SDR) 해석 4% 1.5 보고서 데이터를 분석하여 요약 및 결론 도출 6% 1.6 보고서의 이상치 및 예외 항목 조사 4%
+
+섹션 2: 프로젝트에 대한 보고 및 대시보드
+
+2.1 주어진 시나리오를 기반으로 보고 도구를 사용할 때의 이점 고려 2% 2.2 폴아웃 및 플로우 시각화 및 보고에 적절한 Data Warehouse 유형 비교 4% 2.3 프로세스를 적용하여 프로젝트 일정을 잡고, 변수 2% 2.4 프로세스를 적용하여 다른 사용자 및/또는 그룹에 대한 프로젝트 및 보고 및 Analytics 대시보드 공유(공유가 변경됨) 2% 2.5 프로세스를 적용하여 경고 설정 2% 2.6 프로세스를 적용하여 차원/구성 요소(사전 정의 및 사용자 지정) 조회 4% 2.7 프로세스를 적용하여 시각화 만들기 6% 2.8 시나리오가 주어지면 6% 2.9 프로세스를 적용하여 모바일 스코어카드 생성, 구성 및 사용 2%
+
+섹션 3: 세분화 및 계산된 지표
+
+3.1 모범 사례를 사용하여 세그먼트를 개발 및 구성하는 방법 결정 6% 3.2 조직의 다른 사용자와 세그먼트를 공유하는 프로세스 적용 4% 3.3 세그먼트 비교 4% 3.4 프로젝트 및 구성 요소에 세그먼트 적용 4% 3.5 계산된 지표 및/또는 세그먼트화된 지표 생성을 위해 프로세스 적용 4%
+
+섹션 4: 일반 도구 지식 및 문제 해결
+
+4.1 보고서 분석 및 데이터 품질 문제 와 구현 문제 차이 4% 4.2 Adobe Analytics에 있는 다양한 유형의 차원 및 매개 변수 정의 (evar, prop 및 이벤트) 4% 4.3 데이터를 Adobe Analytics에서 들어오고 나가는 방법을 결정합니다 2% 4.4 마케팅 URL에서 정보 식별 2%
+
+섹션 5: 관리
+
+5.1 마케팅 채널 처리 규칙으로 마케팅 채널 보고서를 구성하는 프로세스 적용 2% 5.2 분류 가져오기 및 규칙 빌더를 구성하는 프로세스 적용 2% 5.3 기존 세그먼트를 기반으로 가상 보고서 세트를 구성하는 프로세스 적용 2% 5.4 Data Feed Manager 관리 UI 사용 2% 5.5 데이터 거버넌스 이해 2%
+
+## 준비 완료
+
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+
+섹션 1
+
+[기여도 분석 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=ko-KR)
+[Analysis Workspace 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+[전환 단계](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[시작 차원](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+섹션 2
+
+[프로젝트 공유](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+[구성 요소 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+[경고 빌더](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[모바일 스코어카드 만들기](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
+
+섹션 3
+
+[세그먼트 비교](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ko-KR)
+[지표 작성](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ko-KR)
+[Analysis Workspace에서 드롭다운 필터 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=ko-KR)
+[세그먼트 태깅](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+섹션 4
+
+[데이터 증가 및 감소 문제 해결](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[사용자 지정 이벤트](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=ko-KR)
+[PDF 또는 CSV 파일 다운로드](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+[URL 매개 변수에 대한 초보자 안내서](https://www.semrush.com/blog/url-parameters/)
+
+섹션 5
+
+[마케팅 채널의 처리 규칙](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[분류 개요](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+[가상 보고서 세트 만들기](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=ko-KR)
+[개인 정보 보호 규정 FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## 인증 갱신
+
+위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 AD5-E832 Adobe Analytics 비즈니스 실무자 전문가 갱신 시험(AD5-E832) 링크를 클릭하십시오.
+
+* [AD5-E832 Adobe Analytics 비즈니스 실무자 전문 갱신 시험](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->곧 갱신됩니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 

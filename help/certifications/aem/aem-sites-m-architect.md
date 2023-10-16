@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1541'
+source-wordcount: '1470'
 ht-degree: 20%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 20%
 # Adobe을 위한 인증 여정 [!DNL Experience Manager Sites] 설계자 기본
 
 {{intro}}
-
->[!NOTE]
->
->이 시험(AD0-E117 / AD0-E117-J)은 유지 관리 중이므로 일시적으로 사용할 수 없습니다. 불편을 끼쳐드려 진심으로 죄송합니다. [알림을 받으려면 등록](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 다시 사용할 수 있는 경우.<br><br>**질문?** 다음 참조: [FAQ](#AEM-FAQ) 이 페이지의 맨 아래에 있습니다.
 
 ## 시험 설명 {#exam-description}
 
@@ -253,11 +249,25 @@ ht-degree: 20%
 
 {{about-certification-exam}}
 
-## AD0-E117/AD0-E117-J 시험 예약 또는 시험 응시
+## AD0-E117(영어) 시험 예약 또는 수강
 
->[!NOTE]
->
->이 시험(AD0-E117 / AD0-E117-J)은 유지 관리 중이므로 일시적으로 사용할 수 없습니다. 불편을 끼쳐드려 진심으로 죄송합니다. [알림을 받으려면 등록](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 다시 사용할 수 있는 경우.<br><br>**질문?** 다음 참조: [FAQ](#AEM-FAQ) 이 페이지의 맨 아래에 있습니다.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Examity portal - 영어 시험으로 이동
+</span>
+</a>
+
+## AD0-E117-J(일본어) 시험 예약 또는 시험 응시
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Example Portal - 일본어 시험으로 이동
+</span>
+</a>
+
+[일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
