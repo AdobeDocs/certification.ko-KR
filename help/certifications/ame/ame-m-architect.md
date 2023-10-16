@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E556" type="neutral"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '886'
 ht-degree: 1%
 
 ---
@@ -31,6 +31,10 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 <br>
 
 ### 시험 세부 정보 {#exam-details}
+
+>[!IMPORTANT]
+>
+>이 인증에는 전제 조건이 있습니다. 활성(만료되지 않음) Adobe이 있어야 합니다. [!DNL Marketo Engage] 비즈니스 전문가 **전문가** Adobe을 받기 위한 인증 [!DNL Marketo Engage] 건축가 기본 시험.
 
 * 전제 조건: Adobe Certified Expert - [!DNL Marketo Engage] 비즈니스 전문가
 * 레벨: 기본(3~5년 경력)
@@ -209,6 +213,10 @@ Adobe 자격 증명 프로그램이 새 Adobe을 시작했습니다. [!DNL Marke
 {{about-certification-exam}}
 
 ## AD0-E556 시험 예약 또는 시험 응시
+
+>[!IMPORTANT]
+>
+>이 인증에는 전제 조건이 있습니다. 활성(만료되지 않음) Adobe이 있어야 합니다. [!DNL Marketo Engage] 비즈니스 전문가 **전문가** Adobe을 받기 위한 인증 [!DNL Marketo Engage] 건축가 기본 시험.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

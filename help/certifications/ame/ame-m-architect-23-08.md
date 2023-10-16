@@ -6,13 +6,13 @@ product: Marketo
 role: Data Architect
 badge: label="시험 AD0-E560" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '848'
 ht-degree: 1%
 
 ---
-
 
 # Adobe을 위한 인증 여정 [!DNL Marketo Engage] 설계자 기본
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->최신 버전입니다. [!DNL Adobe Marketo Engage] 건축가 기본 시험. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ame-m-architect.md), 2023년 10월 31일까지 시험을 완료해야 합니다.
+>최신 Adobe [!DNL Marketo Engage] 건축가 기본 시험. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ame-m-architect.md), 2023년 10월 31일까지 시험을 완료해야 합니다.
 
 ## 시험 설명 {#exam-description}
 
@@ -30,7 +30,11 @@ ht-degree: 1%
 
 ### 시험 세부 정보 {#exam-details}
 
-* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Marketo Engage] 비즈니스 전문가 인증
+>[!IMPORTANT]
+>
+>이 인증에는 전제 조건이 있습니다. 활성(만료되지 않음) Adobe이 있어야 합니다. [!DNL Marketo Engage] 비즈니스 전문가 **전문가** Adobe을 받기 위한 인증 [!DNL Marketo Engage] 건축가 기본 시험.
+
+* 전제 조건: 활성(만료되지 않음) Adobe [!DNL Marketo Engage] 비즈니스 전문가 인증
 * 레벨: 기본(3~5년 경력)
 * 실무자 자격증
 * 합격 점수: 30/50
@@ -209,6 +213,10 @@ ht-degree: 1%
 {{about-certification-exam}}
 
 ## AD0-E560 시험 예약 또는 시험 응시
+
+>[!IMPORTANT]
+>
+>이 인증에는 전제 조건이 있습니다. 활성(만료되지 않음) Adobe이 있어야 합니다. [!DNL Marketo Engage] 비즈니스 전문가 **전문가** Adobe을 받기 위한 인증 [!DNL Marketo Engage] 건축가 기본 시험.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
