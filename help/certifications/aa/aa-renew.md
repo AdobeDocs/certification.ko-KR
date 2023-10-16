@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2067'
 ht-degree: 9%
 
 ---
 
-# 갱신 [!DNL Adobe Analytics] 인증
+# Adobe 갱신 [!DNL Analytics] 인증
 
 Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
 
@@ -32,7 +32,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 전문가]
 
-+++[!DNL Adobe Analytics] Developer Professional
++++Adobe [!DNL Analytics] Developer Professional
 
 ## 인증 갱신 지침:
 
@@ -146,6 +146,8 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 >이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
+
++++Adobe [!DNL Analytics] 비즈니스 전문가
 
 ## 인증 갱신 지침:
 
