@@ -2,9 +2,9 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시오. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 09935ec498e3e56ee7efc52e974080e63334862e
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '260'
 ht-degree: 46%
 
 ---
@@ -125,6 +125,7 @@ ht-degree: 46%
       + [Journey Optimizer 개요](/help/certifications/ajo/ajo-overview.md)
       + 전문가 {#ajo-expert}
          + [Developer](/help/certifications/ajo/ajo-e-developer.md)
+         + [개발자 - 신규](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [갱신](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
       + [Target 개요](/help/certifications/at/at-overview.md)
