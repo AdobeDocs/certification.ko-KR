@@ -6,16 +6,20 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 069b61ed426395f0162310ca9a0d2a83ed25bf30
+source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 16%
+source-wordcount: '673'
+ht-degree: 14%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Journey Optimizer] 개발자 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>이 시험, Adobe [!DNL Journey Optimizer] 개발자 전문가(AD0-E603)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 12월 22일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](ajo-e-developer-23-10.md).
 
 ## 시험 설명 {#exam-description}
 
@@ -224,6 +228,10 @@ ht-degree: 16%
 {{about-certification-exam}}
 
 ## AD0-E603 시험 예약 또는 시험 응시
+
+>[!NOTE]
+>
+>이 시험, Adobe [!DNL Journey Optimizer] 개발자 전문가(AD0-E603)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 12월 22일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
