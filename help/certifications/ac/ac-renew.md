@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
+source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 2%
@@ -156,7 +156,7 @@ Adobe Commerce에서 사용할 수 있는 주요 기능 확인 Adobe Commerce에
 **Section3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
-* [SEO 개요](https://experienceleague.adobe.com/docs/commerce-admin/maketing/seo/seo-overview.html){target="_blank"}
+* [SEO 개요](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
 * [향상된 Storefront 환경](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
 * [PCI 준수](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
 * [옴니채널 마케팅과 멀티채널 마케팅의 차이점 알아보기](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
