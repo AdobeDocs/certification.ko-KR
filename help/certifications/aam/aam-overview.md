@@ -1,13 +1,13 @@
 ---
-title: Audience Manager 인증 개요
-description: Adobe Audience Manager의 인증 옵션 개요
+title: Audience Manager 개요
+description: Adobe Experience Manager의 인증 옵션 개요
 solution: Audience Manager
 product: Audience Manager
-exl-id: a278740d-7175-4e23-8b46-310dbf6fd97f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: aeeef127-446c-4d22-8791-b93ea755545a
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 7%
+ht-degree: 16%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 7%
 
 **전문가**
 
-* [비즈니스 실무자](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [비즈니스 전문가](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **전문가**
 
-* [비즈니스 실무자](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [비즈니스 전문가](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
 **마스터**
 

@@ -1,10 +1,10 @@
 ---
 title: 전문 기술 인증
 description: 전문 사용자를 위한 인증 옵션 개요
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 30%
+ht-degree: 44%
 
 ---
 
@@ -17,28 +17,28 @@ ht-degree: 30%
 
 **Analytics**
 
-* [비즈니스 실무자](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [비즈니스 전문가](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [Developer](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 
 **Audience Manager**
 
-* [비즈니스 실무자](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [비즈니스 전문가](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Campaign Classic**
 
-* [비즈니스 실무자](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [비즈니스 전문가](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Developer](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
-**Commerce**
+**상거래**
 
-* [비즈니스 실무자](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [비즈니스 전문가](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
 * [Developer](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
 * [Developer](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **Experience Manager**
 
-* [비즈니스 실무자](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [비즈니스 전문가](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [개발자(사이트)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [개발자(에셋)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [백엔드 개발자(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
@@ -66,4 +66,3 @@ ht-degree: 30%
 >
 >* [전문 기술 인증](expert.md)
 >* [기본 기술 인증](master.md)
-
