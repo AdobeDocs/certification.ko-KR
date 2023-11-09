@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2462'
+source-wordcount: '2490'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 >[!BEGINTABS]
 
 >[!TAB 전문가]
+
+>[!NOTE]
+>
+>모든 Adobe Commerce Professional 자격증의 지속적인 학습 갱신 방법은 다음과 같습니다. **2023년 11월 10일에 중단됨**. 이러한 인증은 갱신 시험을 통해 계속 무료 갱신이 가능합니다.
 
 ## 다음에 대한 무료 연속 학습 갱신을 사용할 수 있습니다.
 

@@ -4,10 +4,10 @@ description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 12%
+source-wordcount: '402'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe에서의 인증이란 무엇이고 이 인증을 받으면 얻을 수 있�
 
 ![배너](/help/certifications/assets/home_banner_smallwide.png)
 
-Adobe 인증 프로그램은 Adobe에서 자신의 기술을 입증하는 데 도움을 주기 위해 만들어졌습니다 [!DNL Experience Cloud] 제품. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
+Adobe 디지털 경험 자격 증명 프로그램은 Adobe에서 자신의 기술을 입증하는 데 도움이 되도록 만들어졌습니다 [!DNL Experience Cloud] 제품. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
 
 Adobe [!DNL Experience Cloud] 는 기업이 웹, 모바일, 이메일 및 소셜 미디어를 비롯한 여러 채널에 개인화된 고객 경험을 제공할 수 있도록 하는 디지털 마케팅 솔루션 제품군입니다. Adobe [!DNL Experience Cloud] Adobe과 같은 다양한 제품 포함 [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]등.
 
@@ -35,11 +35,11 @@ Adobe 가져오기 [!DNL Experience Cloud] 인증에는 다음과 같은 많은 
 * **무료 실습 시험:** Adobe은 무료 연습 시험을 제공하여 인증 시험에 대한 완벽한 준비를 보장합니다.
 * **무료 인증 갱신:** Adobe 자격증은 2년 동안 유효하며, 대부분의 자격증은 주문형 비관리형 시험을 치르거나 일련의 지속적인 학습 활동을 완료하면 무료로 갱신할 수 있습니다.
 
-Adobe 인증 프로그램은 개발자, 비즈니스 실무자, 설계자 등 다양한 분야의 전문가가 참여할 수 있도록 구성됐다. 숙련된 전문가든 막 시작하는 전문가든 자격증은 경력을 향상시키고 경쟁에서 앞서가는 데 도움이 됩니다.
+Adobe 디지털 경험 자격 증명 프로그램은 개발자, 비즈니스 실무자, 설계자 등 다양한 분야의 전문가를 위해 설계되었습니다. 숙련된 전문가든 막 시작하는 전문가든 자격증은 경력을 향상시키고 경쟁에서 앞서가는 데 도움이 됩니다.
 
 ## 시작하기
 
-Adobe 인증 프로그램에 대해 학습하여 전문가의 잠재력을 발휘하십시오.
+Adobe 디지털 경험 자격 증명 프로그램에 대해 학습하여 전문가의 잠재력을 발휘하십시오.
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">시작하기</span></a>
 

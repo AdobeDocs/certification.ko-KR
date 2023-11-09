@@ -1,20 +1,20 @@
 ---
 title: FAQ
-description: Adobe 인증 프로그램의 질문에 대한 답변을 확인할 수 있습니다. 인증의 이점, 등록 방법 및 문의처에 대해 알아봅니다.
+description: Adobe 디지털 경험 자격 증명 프로그램에 대한 질문에 대한 답변을 받아 보십시오. 인증의 이점, 등록 방법 및 문의처에 대해 알아봅니다.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8f1f4244c9184a1b99d29fc0b48e4ca9992264bd
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2344'
-ht-degree: 1%
+source-wordcount: '2348'
+ht-degree: 0%
 
 ---
 
 # Adobe 인증 FAQ
 
-Adobe 인증 프로그램에 대한 자세한 내용은 아래 FAQ를 참조하십시오.
+디지털 경험 자격 증명 Adobe 프로그램에 대한 자세한 내용은 아래 자주 묻는 질문(FAQ)을 참조하십시오.
 
 ![배너](/help/certifications/assets/home_banner_narrow.png)
 
