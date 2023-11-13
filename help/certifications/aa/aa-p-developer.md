@@ -8,10 +8,10 @@ level: Experienced
 badge: label="시험 AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
 workflow-type: tm+mt
-source-wordcount: '946'
-ht-degree: 11%
+source-wordcount: '958'
+ht-degree: 10%
 
 ---
 
@@ -111,6 +111,14 @@ ht-degree: 11%
 * 공통점의 의미 파악 [!DNL Adobe Analytics] 변수 오류입니다.
 * 시나리오가 주어지면 따라야 하는 테스트 및 디버깅 유효성 검사 모범 사례를 식별합니다.
 * 추적 방법 식별 [!DNL Adobe Analytics] 서버 호출 (즉, 비콘 요청에서 보고서에 표시까지.)
+
+<br>
+
+### 준비 설문지
+
+{{readiness}}
+
+[온라인 준비 설문지 작성](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
