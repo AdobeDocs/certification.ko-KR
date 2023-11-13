@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
+source-git-commit: 72c191b0f6c62776b9cd02e1ae504d105ae6b827
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '2066'
 ht-degree: 13%
 
 ---
@@ -31,9 +31,11 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 전문가]
 
++++Adobe [!DNL Experience Manager] 비즈니스 전문가
+
 ## 다음 항목이 있어야 합니다. **활성** 인증:
 
-Adobe Experience Manager Developer Professional
+* Adobe [!DNL Experience Manager] 비즈니스 전문가
 
 ## 인증 갱신 지침:
 
@@ -41,7 +43,116 @@ Adobe Experience Manager Developer Professional
 * **2단계**: 시험 목표 및 리소스 검토
 * **3단계**: 시험 응시 및 통과
 
-### 준비
+## 준비
+
+**시험 세부 정보:**
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 26/34
+* 시간: 68분
+* 게재: 온디맨드/비포장됨
+* 사용 가능한 언어: 영어
+* 비용: 무료
+* 시험 ID: AD5-E843 Adobe [!DNL Experience Manager] 비즈니스 전문가
+
+**범위 및 목표:**
+
+섹션 1: 교육 23%
+
+* AEM 기능 식별
+* 비즈니스 요구 사항을 충족하는 AEM 기능 설명
+* 콘텐츠 편집자를 위한 교육을 수행하는 데 필요한 절차 개념 설명
+
+섹션 2: 아키텍처 23%
+
+* 온프레미스 또는 Adobe 호스팅(클라우드) 환경을 사용하여 비즈니스 요구 사항에 적합한 정보 아키텍처를 식별합니다
+* AEM이 서드파티 서비스와 연결되는 방법 설명
+* 역할 및 권한 정의 위치 식별
+* 시나리오에 따라 사용 가능한 캐싱 접근 방식을 정의합니다
+
+섹션 3: 비즈니스 분석 42%
+
+* 시나리오가 주어지면 고객 비즈니스 문제를 해결하는 AEM의 표준 모듈을 식별합니다
+* AEM 모듈에 대한 컨텐츠 관리 개념 파악
+* 일반적인 프로젝트 이해 당사자 파악
+* 관련 팀 간의 실제 공동 작업 시나리오 확인
+* 시나리오가 주어지면 예산 및/또는 범위 내에서 유지하면서 비즈니스 목표를 충족하는 올바른 접근 방식을 설명하십시오
+* 비즈니스 목표를 개발 팀과 연결하는 방법 식별
+
+섹션 4: 설정 및 구현 12%
+
+* 콘텐츠 구성 요소 사용을 위한 AEM 모범 사례 식별
+* 시나리오가 주어지면 기능의 올바른 구현을 확인하십시오
+
+## 준비 완료
+
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+
+**섹션 1**
+
+* [콘텐츠 조각 작성](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ko-KR)
+* [DAM 솔루션으로서의 Adobe Experience Manager Assets 정보](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html)
+* [Adobe Experience Manager Assets에서 지원되는 형식](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster)
+* [개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html)
+* [AEM Forms 소개](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html)
+* [페이지 태깅](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html)
+
+**섹션 2**
+
+* [AEM as a Cloud Service 액세스 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.)
+* [AEM 사용자, 그룹 및 권한](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html)
+* [사이트맵](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html)
+* [Adobe Experience Manager 및 Creative Cloud 통합 우수 사례](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html)
+* [AEM-CIF 핵심 구성 요소 및 Adobe Experience Platform 통합](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html)
+* [사용자 관리 및 보안](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html)
+* [Admin Console 개요](https://helpx.adobe.com/enterprise/using/admin-console.html)
+* [AEM 게시](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html)
+
+**섹션 3**
+
+* [AEM Screens 소개](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html)
+* [AEM as a Cloud Service으로 디지털 경험 강화](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3)
+* [Adobe Experience Manager as a Headless CMS 소개](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html)
+* [제품 제작에서 게재에 이르기까지 제품, 도움말 및 지원 콘텐츠를 관리합니다.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html)
+* [Experience Manager Assets Brand Portal 개요](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
+* [프로젝트 역할 및 책임](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html)
+* [페이지 주석 추가](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html)
+* [페이지 작성에 대한 빠른 시작 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html)
+* [AEM Assets에서 연결된 자산 사용](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html)
+* [계획](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start)
+* [테스트 사례 정의](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html)
+
+**섹션 4**
+
+* [시작](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=ko-KR)
+* [워크플로우 편집기 사용](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html)
+* [Assets 관리 검색 레일](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.)
+
+## 인증 갱신
+
+위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
+
+[!BADGE Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+
+>[!NOTE]
+>
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+
++++Adobe [!DNL Experience Manager] Developer Professional
+
+## 다음 항목이 있어야 합니다. **활성** 인증:
+
+* Adobe [!DNL Experience Manager] Developer Professional
+
+## 인증 갱신 지침:
+
+* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계**: 시험 목표 및 리소스 검토
+* **3단계**: 시험 응시 및 통과
+
+## 준비
 
 **시험 세부 정보:**
 
@@ -57,21 +168,32 @@ Adobe Experience Manager Developer Professional
 
 **섹션 1: 구성(26%)**
 
-AEM Dispatcher 구성 및 캐싱의 목적 인식 AEM에서 다중 사이트를 구성하는 올바른 단계 결정 OSGi 구성을 만들고 관리하는 방법 설명 사용자 정의 OAK 인덱스를 관리하는 올바른 단계 결정 OOTB SAML 또는 IMS 통합을 구성하는 올바른 단계를 결정합니다
+* AEM Dispatcher 구성 및 캐싱의 목적 인식
+* AEM에서 다중 사이트를 구성하는 올바른 단계를 결정합니다.
+* OSGi 구성을 만들고 관리하는 방법 설명
+* 사용자 정의 OAK 인덱스를 관리하는 올바른 단계 결정
+* OOTB SAML 또는 IMS 통합을 구성하는 올바른 단계 결정
 
 **섹션 2: AEM 개발(40%)**
 
-핵심 기반 구성 요소를 구현하는 올바른 단계 결정 HTL, 모델 및 서비스를 포함하는 구성 요소 기능 연결 시나리오가 주어지면 워크플로를 개발하는 올바른 단계 결정 시나리오가 주어지면 콘텐츠 조각 또는 경험 조각의 목적을 간략하게 설명합니다
+* 핵심 기반 구성 요소를 구현하는 올바른 단계 결정
+* HTL, 모델 및 서비스를 포함한 구성 요소 기능 연결
+* 시나리오가 주어지면 워크플로우를 개발하는 올바른 단계를 결정합니다
+* 시나리오가 주어지면 콘텐츠 조각 또는 경험 조각의 목적에 대해 간략히 설명합니다
 
 **섹션 3: 빌드 및 배포(12%)**
 
-Maven 프로젝트 구조 정의 Archetype에서 프로젝트 구성
+* Maven 프로젝트 구조 정의
+* Archetype에서 프로젝트 구성
 
 **섹션 4: 환경 유지 관리(22%)**
 
-시나리오가 주어지면 AEM 환경에서 문제를 디버깅하는 데 필요한 단계 결정 AEM 유지 관리 릴리스 설명 토폴로지 간에 AEM을 구성하는 방법을 식별 AEM as a Cloud Service으로 계획 및 마이그레이션에 필요한 단계를 결정합니다.
+* 시나리오가 주어지면 AEM 환경에서 문제를 디버깅하는 데 필요한 단계를 결정합니다
+* AEM 유지 관리 릴리스 설명
+* 여러 토폴로지에서 AEM을 구성하는 방법 식별
+* AEM as a Cloud Service으로 계획 및 마이그레이션에 필요한 단계 결정
 
-### 준비 완료
+## 준비 완료
 
 시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
 
@@ -116,15 +238,17 @@ Maven 프로젝트 구조 정의 Archetype에서 프로젝트 구성
 * [AEM as a Cloud Service로의 마이그레이션 여정 시작하기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [Best Practice Analyzer 사용](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
 
-### 인증 갱신
+## 인증 갱신
 
 위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
 
-[!BADGE Adobe [!DNL Experience Manager] Developer Professional AD5-E837]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true&quot;}
+[!BADGE Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
 >이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+
++++
 
 >[!TAB 전문가 및 기본]
 
@@ -160,7 +284,6 @@ Maven 프로젝트 구조 정의 Archetype에서 프로젝트 구성
 >여러 개를 보유하는 경우 [!DNL Adobe Experience Manager] 전문가 및 기본 인증은 1개 인증만 받으면 갱신 요건을 완료하고 나머지는 자동 갱신한다.
 
 ## Expert 및 기본 교육 과정 및 교육 과정 평가:
-
 
 | 전문가 및 기본 교육 과정 | 강의 평가 |
 | ------- | ------- |
