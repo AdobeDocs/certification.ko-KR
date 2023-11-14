@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="시험 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 954e46f77812963518b858e75669cf98183c4a44
+source-git-commit: 87ed809862370a10d085156bea4f947a3b2f0743
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 1%
@@ -33,7 +33,7 @@ ht-degree: 1%
 * 전제 조건: 활성(만료되지 않음) Adobe [!DNL Marketo Engage] 비즈니스 전문가 인증
 * 레벨: 기본(3~5년 경력)
 * 실무자 자격증
-* 합격 점수: 30/50
+* 합격 점수: 32/50
 * 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
 * 사용 가능한 언어: 영어
