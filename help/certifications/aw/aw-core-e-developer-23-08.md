@@ -6,9 +6,9 @@ role: Developer
 badge: label="시험 AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Workfront] 코어 개발자 전문가
 
 {{intro}}
-
->[!NOTE]
->
->최신 Adobe [!DNL Workfront] 코어 개발자 전문가 시험. 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](aw-core-e-developer.md), 2023년 11월 6일까지 완료해야 합니다.
 
 ## 시험 설명 {#exam-description}
 
