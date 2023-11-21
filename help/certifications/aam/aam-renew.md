@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1171'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,11 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!IMPORTANT]
 >
->다음 섹션 및 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>**먼저 로그인:** 다음 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**링크를 공유하려면:** 갱신 시험 또는 평가 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지로 연결하십시오.
 
 >[!BEGINTABS]
 
@@ -185,7 +189,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [AAM: 기술 기초](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
 * [AAM: 통합 시리즈](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
 * [AAM: 고급 기능](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Launch 교육 및 리소스](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [Launch 교육 및 리소스](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### 인증 갱신
 

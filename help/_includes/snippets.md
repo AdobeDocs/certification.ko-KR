@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 ## 인증 갱신 {#renewing-intro}
 
 인증은 2년 후에 만료됩니다. 인증을 유지하려면 만료되기 전에 갱신해야 합니다. 다음 방문: [인증 갱신](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} 페이지 를 참조하십시오.
+
+<!--divider-->
