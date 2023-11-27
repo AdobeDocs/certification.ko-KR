@@ -7,13 +7,13 @@ role: Developer
 badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 8%
+source-wordcount: '1318'
+ht-degree: 9%
 
 ---
-
 
 # Adobe을 위한 인증 여정 [!DNL Experience Platform] 전문가
 
@@ -23,9 +23,7 @@ ht-degree: 8%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->Adobe [!DNL Experience Platform] Expert 자격증은 현재 다음 두 가지 시험을 통과해야 합니다. **Adobe [!DNL Experience Platform] 기술 기반(AD0-E600)** 및 **Adobe [!DNL Real-Time CDP] 기술 전문가(AD7-E601)**. 2023년 11월 1일부터 새로운 시험이 시작되며 이는 이 자격증에 필요한 시험만 해당됩니다.
+
 
 <br>
 
@@ -209,8 +207,6 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 
 ## 요구 사항 #2: Adobe 정보 [!DNL Real-Time CDP] 기술 전문가(AD7-E601) {#req-2}
 
-AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항목의 생성, 관리 및 이해를 다룹니다. 이 시험은 데이터 및 개인 정보 보호 규정을 준수하는 통합 프로필에 대한 대상 세분화, 대상 내보내기 및 활성화를 위해 실시간 CDP를 사용하는 데 필요한 기본 기술과 지식을 확인합니다. 지원자는 고객 데이터 플랫폼(CDP)에 대한 경험과 Adobe에 대한 지식이 있어야 합니다 [!DNL Experience Platform].
-
 <br>
 
 ### AD7-E601 시험 세부 정보
@@ -281,11 +277,11 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 * [프로필 대시보드](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [실시간 고객 프로필 데이터에 대한 기본 보호](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=ko)
 * [실시간 고객 프로필 활성화](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
-* [Real-time Customer Data Platform 개요](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=ko-KR){target="_blank"}
+* [Real-time Customer Data Platform 개요](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html){target="_blank"}
 * [AEP 애플리케이션 서비스: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDP 시작하기](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform 홈 페이지 및 대시보드](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
-* [UI의 대상에 대한 데이터 흐름 모니터링](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=ko-KR){target="_blank"}
+* [UI의 대상에 대한 데이터 흐름 모니터링](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
 * [Adobe에서 세그먼트 만들기 및 활성화 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [개인정보 보호 개요](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Real-time CDP의 데이터 거버넌스](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
