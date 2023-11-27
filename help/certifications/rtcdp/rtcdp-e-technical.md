@@ -8,14 +8,18 @@ recommendations: disable, exclude
 badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 9%
+source-wordcount: '1601'
+ht-degree: 7%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Real-Time Customer Data Platform] 전문가
+
+>[!IMPORTANT]
+>
+>Adobe [!DNL Experience Platform] Expert 자격증은 현재 다음 두 가지 시험을 통과해야 합니다. **Adobe [!DNL Experience Platform] 기술 기반(AD0-E600)** 및 **Adobe [!DNL Real-Time CDP] 기술 전문가(AD7-E601)**. 2024년 1월 15일부터 새로운 시험이 시작되며 이는 이 자격증에 필요한 시험만 해당됩니다.
 
 {{intro}}
 
@@ -62,6 +66,14 @@ ht-degree: 9%
 <br>
 
 ## 요구 사항 #1: Adobe 정보 [!DNL Experience Platform] 기술 기반(AD0-E600) {#req-1}
+
+>[!IMPORTANT]
+>
+>AD0-E600 시험 일정이 보류되었습니다. 이 시험은 현재 업데이트 중이며 다음에에 릴리스됩니다. **2024년 1월 15일**. 해당 날짜 이후, 이 자격증은 현재 필요한 두 번의 시험이 아닌 한 번의 시험만 통과하면 됩니다.
+>
+><br>
+>
+>**이미 AD0-E600 시험을 예약한 경우**, 약속을 취소하고 새 시험이 출시될 때 일정을 재조정하는 것이 좋습니다. 질문이 있는 경우 다음으로 문의하십시오. [인증 지원](mailto:certif@adobe.com){target="_blank"}.
 
 AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다루는 기술과 지식을 검증합니다 [!DNL Experience Platform] 전문가 수준에서.
 
@@ -204,6 +216,18 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 <br>
 
 ## 요구 사항 #2: Adobe 정보 [!DNL Real-Time CDP] 기술 전문가(AD7-E601) {#req-2}
+
+>[!IMPORTANT]
+>
+>이 시험은 현재 업데이트 중이며 다음에에 릴리스됩니다. **2024년 1월 15일**. 해당 날짜 이후, 이 자격증은 현재 필요한 두 번의 시험이 아닌 한 번의 시험만 통과하면 됩니다.
+>
+><br>
+>
+>**현재 필요한 시험을 치르지 않았다면** 업데이트된 시험을 기다리는 것이 좋습니다. 그렇게 하면 두 개 대신 한 개의 시험을 볼 수 있어.
+>
+><br>
+>
+>**AD0-E600 Adobe을 이미 통과한 경우 [!DNL Experience Platform] 기술 기초 시험에 AD7-E601 시험을 준비하고 있습니다.**, AD7-E601 시험에 합격하면 Adobe을 받을 수 있으므로 약속을 유지하는 것이 좋습니다 [!DNL Experience Platform] 기술 기초 전문가 인증. 질문이 있는 경우 다음으로 문의하십시오. [인증 지원](mailto:certif@adobe.com){target="_blank"}.
 
 AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항목의 생성, 관리 및 이해를 다룹니다. 이 시험은 데이터 및 개인 정보 보호 규정을 준수하는 통합 프로필에 대한 대상 세분화, 대상 내보내기 및 활성화를 위해 실시간 CDP를 사용하는 데 필요한 기본 기술과 지식을 확인합니다. 지원자는 고객 데이터 플랫폼(CDP)에 대한 경험과 Adobe에 대한 지식이 있어야 합니다 [!DNL Experience Platform].
 
