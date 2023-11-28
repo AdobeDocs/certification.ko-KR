@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
+source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1599'
 ht-degree: 7%
 
 ---
@@ -227,7 +227,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 >
 ><br>
 >
->**AD0-E600 Adobe을 이미 통과한 경우 [!DNL Experience Platform] 기술 기초 시험에 AD7-E601 시험을 준비하고 있습니다.**, AD7-E601 시험에 합격하면 Adobe을 받을 수 있으므로 약속을 유지하는 것이 좋습니다 [!DNL Experience Platform] 기술 기초 전문가 인증. 질문이 있는 경우 다음으로 문의하십시오. [인증 지원](mailto:certif@adobe.com){target="_blank"}.
+>**AD0-E600 Adobe을 이미 통과한 경우 [!DNL Experience Platform] 기술 기초 시험에 AD7-E601 시험을 준비하고 있습니다.**, AD7-E601 시험에 합격하면 Adobe을 받을 수 있으므로 약속을 유지하는 것이 좋습니다 [!DNL Real-Time Customer Data Platform] 전문가 인증. 질문이 있는 경우 다음으로 문의하십시오. [인증 지원](mailto:certif@adobe.com){target="_blank"}.
 
 AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항목의 생성, 관리 및 이해를 다룹니다. 이 시험은 데이터 및 개인 정보 보호 규정을 준수하는 통합 프로필에 대한 대상 세분화, 대상 내보내기 및 활성화를 위해 실시간 CDP를 사용하는 데 필요한 기본 기술과 지식을 확인합니다. 지원자는 고객 데이터 플랫폼(CDP)에 대한 경험과 Adobe에 대한 지식이 있어야 합니다 [!DNL Experience Platform].
 
