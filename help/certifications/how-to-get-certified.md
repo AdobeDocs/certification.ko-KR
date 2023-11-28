@@ -4,7 +4,7 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
+source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
 workflow-type: tm+mt
 source-wordcount: '1550'
 ht-degree: 1%
@@ -18,9 +18,7 @@ Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 받기 전, �
 >[!TIP]
 >
 >**연말 세일은 사이버 먼데이를 시작합니다!**<br>
-><br>
 >11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때.<br>
-><br>
 ><i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
 
 >[!BEGINTABS]
