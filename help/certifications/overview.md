@@ -4,7 +4,7 @@ description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
+source-git-commit: f3c825b8306646b870970f767db9060435865815
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 9%
@@ -19,9 +19,7 @@ Adobe에서의 인증이란 무엇이고 이 인증을 받으면 얻을 수 있�
 
 >[!TIP]
 >
->**연말 세일은 사이버 먼데이를 시작합니다!**<br>
->11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때.<br>
-><i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
+>**연말 세일은 사이버 먼데이를 시작합니다!** <br><br> 11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때. <br><br> <i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
 
 Adobe 디지털 경험 자격 증명 프로그램은 Adobe에서 자신의 기술을 입증하는 데 도움이 되도록 만들어졌습니다 [!DNL Experience Cloud] 제품. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
 
