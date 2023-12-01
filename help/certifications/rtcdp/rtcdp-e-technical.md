@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1748'
 ht-degree: 7%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 7%
 >
 ><br>
 >
->**이미 AD0-E600 시험을 예약한 경우**, 약속을 취소하고 새 시험이 출시될 때 일정을 재조정하는 것이 좋습니다. 질문이 있는 경우 다음으로 문의하십시오. [인증 지원](mailto:certif@adobe.com){target="_blank"}.
+>**이미 AD0-E600 시험을 예약한 경우**, 예제 포털에서 약속을 취소하고(아래 3단계 참조) 새 시험이 릴리스될 때 일정을 조정하는 것이 좋습니다. 질문이 있는 경우 다음으로 문의하십시오. [인증 지원](mailto:certif@adobe.com){target="_blank"}.
 
 AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다루는 기술과 지식을 검증합니다 [!DNL Experience Platform] 전문가 수준에서.
 
@@ -176,6 +176,14 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 
 +++3단계: 시험 일정 및 지불
 
+>[!IMPORTANT]
+>
+>AD0-E600 시험 일정이 보류되었습니다. 이 시험은 현재 업데이트 중이며 다음에에 릴리스됩니다. **2024년 1월 15일**. 해당 날짜 이후, 이 자격증은 현재 필요한 두 번의 시험이 아닌 한 번의 시험만 통과하면 됩니다.
+>
+><br>
+>
+>**이미 AD0-E600 시험을 예약한 경우**, 예제 포털에서 약속을 취소하고 새 시험이 릴리스될 때 일정을 조정하는 것이 좋습니다. 질문이 있는 경우 다음으로 문의하십시오. [인증 지원](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 {{about-certification-exam}}
 
 ## AD0-E600 시험 예약 또는 시험 응시
+
+>[!IMPORTANT]
+>
+>AD0-E600 시험 일정이 보류되었습니다. 이 시험은 현재 업데이트 중이며 다음에에 릴리스됩니다. **2024년 1월 15일**. 해당 날짜 이후, 이 자격증은 현재 필요한 두 번의 시험이 아닌 한 번의 시험만 통과하면 됩니다.
+>
+><br>
+>
+>**이미 AD0-E600 시험을 예약한 경우**, 예제 포털에서 약속을 취소하고 새 시험이 릴리스될 때 일정을 조정하는 것이 좋습니다. 질문이 있는 경우 다음으로 문의하십시오. [인증 지원](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
