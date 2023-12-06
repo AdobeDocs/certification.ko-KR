@@ -6,9 +6,10 @@ product: Magento
 role: Developer
 badge: label="시험 AD0-E721" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
@@ -172,19 +173,13 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * [페이지](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
 * [페이지 빌더란 무엇입니까?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
 * [JavaScript 번들](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
+* [Google recaptcha](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
 **섹션 6: 툴(CLI 및 grunt)**
 
 * [구성 안내서](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
 * [변수 작성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [클라우드 인프라의 상거래](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
-**연습 테스트 수행**
-
-{{practice-test}}
 
 +++
 

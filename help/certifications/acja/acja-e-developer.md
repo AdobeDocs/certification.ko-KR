@@ -7,14 +7,14 @@ product: Customer Journey Analytics
 badge: label="시험 AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 17%
+source-wordcount: '431'
+ht-degree: 2%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Customer Journey Analytics] 전문가
+# Adobe을 위한 인증 여정 [!DNL Customer Journey Analytics] 개발자 전문가
 
 {{intro}}
 
@@ -62,7 +62,7 @@ Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics
 * 기본 ID(개인 ID)로 연결 구성
 * 여러 데이터 세트로 연결 구성
 * 데이터 보기 구성(지표/차원 구성)
-* Adobe 구성 [!DNL Customer Journey Analytics]
+* 구성 Adobe [!DNL Customer Journey Analytics]
 * 차원 및 지표 내 데이터 변환
 * Workspace 분석 기본 사항(시각화, 속성 설정, 필터, 계산된 지표)
 * CJA(DULE)의 데이터 거버넌스 이해
@@ -121,7 +121,7 @@ Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics
 
 **섹션 1: 연결**
 
-* [연결 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=ko-KR){target="_blank"}
+* [연결 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html){target="_blank"}
 * [연결 만들기](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html){target="_blank"}
 
 **섹션 2: 데이터 보기**
@@ -134,7 +134,7 @@ Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics
 * [데이터 보기 개요](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ko-KR){target="_blank"}
 * [데이터 보기 만들기 또는 편집](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
 * [구성 요소 설정](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [표준 구성 요소 참조](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=ko-KR){target="_blank"}
+* [표준 구성 요소 참조](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
 
 **섹션 4: 보고 및 활성화**
 
