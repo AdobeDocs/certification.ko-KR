@@ -7,10 +7,10 @@ role: Developer
 badge: label="시험 AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 8d50d5574c0f9066acc58272e44994e2771cbefc
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 19%
+source-wordcount: '545'
+ht-degree: 2%
 
 ---
 
@@ -134,7 +134,7 @@ ht-degree: 19%
 * [Dispatcher 개요](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [AEM Assets 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
 * [Assets 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [AEM 6.5 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [AEM 6.5 Deploying 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 * [AEM 6.5 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 
 **섹션 2: AEM 개발**
@@ -151,7 +151,7 @@ ht-degree: 19%
 * [AEM 6.5 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [AEM 6.5 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Adobe [!DNL Experience Manager as a Cloud Service] 비디오 및 Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
-* [AEM 6.5 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [AEM 6.5 Deploying 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
 **섹션 4: 환경 유지 관리**
 
@@ -159,7 +159,13 @@ ht-degree: 19%
 * [AEM Foundation 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [배포 및 유지 관리](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html){target="_blank"}
 * [AEM 6.5 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM 6.5 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [AEM 6.5 Deploying 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+
+<br>
+
+**연습 테스트 수행**
+
+{{practice-test}}
 
 +++
 
