@@ -7,10 +7,10 @@ role: User
 badge: label="시험 AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 16%
+source-wordcount: '779'
+ht-degree: 1%
 
 ---
 
@@ -167,22 +167,22 @@ ht-degree: 16%
 * [[!DNL Adobe Analytics] 대시보드 - 개요](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
 * [프로젝트 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
 * [시각화 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [지능형 경고 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=ko-KR){target="_blank"}
+* [지능형 경고 개요](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **섹션 3: 세분화 및 계산된 지표**
 
-* [Analytics 세분화](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
-* [계산 및 고급 계산된(파생된) 지표](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
+* [Analytics 세그멘테이션](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
+* [계산 및 고급 계산(파생) 지표](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
 
 **섹션 4: 일반적인 도구 지식 및 문제 해결**
 
-* [Analytics 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analysis Workspace 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=ko-KR){target="_blank"}
+* [Analytics 툴 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
+* [Analysis Workspace 개요](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **섹션 5: 관리**
 
-* [Analytics Admin 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
-* [자주 묻는 질문](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
+* [Analytics 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
+* [FAQ(자주 묻는 질문)](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
 * [분류 규칙 빌더 워크플로](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
 **연습 테스트 수행**

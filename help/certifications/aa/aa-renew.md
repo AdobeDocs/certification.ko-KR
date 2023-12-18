@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d8759508e4f618a8c66c91c9ebce0478f2bd5168
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 12%
+source-wordcount: '1862'
+ht-degree: 3%
 
 ---
 
@@ -117,11 +117,11 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 * [Launch에서 전역 페이지 로드 규칙 확인](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
 * [위성 개체 참조](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
-* [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
+* [linkTrackevents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
 
 **섹션 3**
 
-* [appendVisitorIDsTo (도메인 간 추적)](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=ko-KR){target="_blank"}
+* [appendVisitorIDsTo(도메인 간 추적)](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=ko-KR){target="_blank"}
 * [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
 * [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
 
@@ -133,15 +133,15 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 5**
 
-* [Analytics Export 안내서](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [Analytics 내보내기 안내서](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [처리 규칙 작동 방식](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-* [Adobe Analytics API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [ADOBE ANALYTICS API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
 **섹션 6**
 
 * [JavaScript 구현 문제 해결](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 * [Experience Cloud Debugger을 사용하여 태그 환경 전환](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
-* [데이터 수집 쿼리 매개변수](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=ko-KR){target="_blank"}
+* [데이터 수집 쿼리 매개 변수](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=ko-KR){target="_blank"}
 
 ## 인증 갱신
 
@@ -242,7 +242,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 * [프로젝트 공유](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
 * [구성 요소 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [경고 빌더](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+* [경고 빌더](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=ko-KR)
 * [모바일 스코어카드 만들기](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **섹션 3**
@@ -317,7 +317,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 | [사용자 정의 세분화 및 날짜를 통해 데이터 필터링 - 단원 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [안내식 Analytics 구현 - 단원 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
 | [내부 사이트 검색 구현 및 측정 - 3과 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [ADOBE ANALYTICS API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
 >[!ENDTABS]
 

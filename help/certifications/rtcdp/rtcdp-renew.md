@@ -6,11 +6,10 @@ product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-hidefromtoc: true
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 2b18ae63bce685f340fc7075519b7b61904f9056
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '692'
 ht-degree: 1%
 
 ---
@@ -37,9 +36,117 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 전문가]
 
++++Adobe [!DNL Real-Time CDP] 비즈니스 전문가
+
+## 다음 항목이 있어야 합니다. **활성** 인증:
+
+* Adobe [!DNL Real-Time CDP] 비즈니스 전문가
+
+## 인증 갱신 지침:
+
+* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계**: 시험 목표 및 리소스 검토
+* **3단계**: 시험 응시 및 통과
+
+## 준비
+
+**시험 세부 정보:**
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 29/38
+* 시간: 76분
+* 게재: 온디맨드/비포장됨
+* 사용 가능한 언어: 영어
+* 비용: 무료
+* 시험 ID: AD5-E845 Adobe [!DNL Real-Time CDP] 비즈니스 전문가
+
+**범위 및 목표:**
+
+섹션 1: 세그먼트 및 활성화 11%
+
+* 세그먼트 만들기 및 대상에 활성화
+* 새 대상 구성
+* 대상의 타겟 ID에 필요한 개념 적용
+* 속성 매핑 및 대상에 대한 세그먼트 일정 확인
+
+섹션 2: 개인정보 보호 및 데이터 거버넌스 8%
+
+* DULE 정책 및 대상 데이터 가용성에 미치는 영향에 대한 이해
+* 개인 정보 및 데이터 규정 준수 조치 준수 보장
+
+섹션 3: 비즈니스 분석 12%
+
+* 비즈니스 KPI에 다시 연결되는 사용 사례 식별
+* 플랫폼의 고객 세그먼트에 대한 데이터 분석 수행
+* 데이터 흐름 개념에 대한 이해 실증
+
+섹션 4: 스키마 및 프로필 7%
+
+* Adobe Experience Platform 개념에 대한 이해 설명
+* 프로필 기능 사용
+
+## 준비 완료
+
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+
+**섹션 1**
+
+* [세그먼트 빌더 UI 안내서](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
+* [스트리밍 대상에 대상 활성화](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
+* [대상 유형 및 범주](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
+* [스트리밍 세분화](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [활성화 데이터 보호](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
+* [프로필 내보내기 대상을 일괄 처리하도록 대상자 활성화](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [대상 개요](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ko){target="_blank"}
+* [대상 활성화 워크플로에서의 ID 처리](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
+* [지원되는 ID](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
+* [프로필 내보내기 대상을 일괄 처리하도록 대상자 활성화](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+
+**섹션 2**
+
+* [데이터 거버넌스 개요](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=ko){target="_blank"}
+* [Real-Time CDP의 데이터 거버넌스](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
+* [데이터 사용 정책 개요](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html?lang=ko){target="_blank"}
+* [UI에서 데이터 사용 레이블 관리](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=ko){target="_blank"}
+* [자동 정책 시행](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html){target="_blank"}
+* [요청 빌더 사용](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=ko#request-builder){target="_blank"}
+
+**섹션 3**
+
+* [세그먼테이션 서비스 개요](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=ko){target="_blank"}
+* [고객에게 지능적으로 재참여를 유도하여 재방문](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"}
+* [Customer AI 개요](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html){target="_blank"}
+* [순차적 대상자 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
+* [다중 엔티티 세그먼트 작성](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
+* [스트리밍 세분화](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [대상자 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
+* [UI에서 ID에 대한 데이터 흐름 모니터링](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
+* [프로필 내보내기 대상을 일괄 처리하도록 대상자 활성화](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [부분 일괄 처리 수집](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
+
+**섹션 4**
+
+* [클라우드 스토리지 대상으로 데이터 세트 내보내기](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html){target="_blank"}
+* [이벤트 전달 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
+* [ID 서비스 개요](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=ko-KR){target="_blank"}
+* [병합 정책 개요](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
+* [실시간 고객 프로필 UI 안내서](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=ko){target="_blank"}
+* [프로필 대시보드](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [Real-time Customer Data Platform에서 프로필 찾아보기](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
+
+## 인증 갱신
+
+위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
+
+[!BADGE Adobe [!DNL Real-Time CDP]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+
 >[!NOTE]
 >
->곧 전문 갱신.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+
++++
 
 >[!TAB 전문가]
 

@@ -6,16 +6,20 @@ role: Developer
 badge: label="시험 AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 3%
+source-wordcount: '736'
+ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>이 시험, Adobe [!DNL Workfront] 코어 개발자 전문가(AD0-E905)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2024년 2월 26일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전(AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## 시험 설명 {#exam-description}
 
@@ -144,7 +148,7 @@ ht-degree: 3%
 * [요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [요청 대기열 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [사용자 정의 양식 개요](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [맞춤형 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
+* [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
 **섹션 2: 예산 및 계획**
 
@@ -166,7 +170,7 @@ ht-degree: 3%
 
 **섹션 4: 지표 및 보고**
 
-* [사용자 정의 보고서 만들기](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
+* [사용자 지정 보고서 만들기](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [보고서 보내기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [모범 사례 - 사용자 정의 보고서](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
@@ -211,6 +215,10 @@ ht-degree: 3%
 {{about-certification-exam}}
 
 ## AD0-E905 시험 예약 또는 시험 응시
+
+>[!NOTE]
+>
+>이 시험, Adobe [!DNL Workfront] 코어 개발자 전문가(AD0-E905)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2024년 2월 26일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전(AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
-user-guide-description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시오. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
+user-guide-description: 다음에 대해 알아보기 [!DNL Experience Cloud] Adobe 시 인증 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 47%
+ht-degree: 32%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 47%
       + 전문가 {#aa-expert}
          + [비즈니스 전문가](/help/certifications/aa/aa-e-business.md)
          + [Developer](/help/certifications/aa/aa-e-developer.md)
-      + 마스터 {#aa-master}
+      + 기본 {#aa-master}
          + [아키텍트](/help/certifications/aa/aa-m-architect.md)
       + [갱신](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
@@ -49,7 +49,7 @@ ht-degree: 47%
          + [비즈니스 전문가](/help/certifications/aam/aam-p-business.md)
       + 전문가 {#aam-expert}
          + [비즈니스 전문가](/help/certifications/aam/aam-e-business.md)
-      + 마스터 {#aam-master}
+      + 기본 {#aam-master}
          + [아키텍트](/help/certifications/aam/aam-m-architect.md)
       + [갱신](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
@@ -60,7 +60,7 @@ ht-degree: 47%
       + 전문가 {#acc-expert}
          + [비즈니스 전문가](/help/certifications/acc/acc-e-business.md)
          + [Developer](/help/certifications/acc/acc-e-developer.md)
-      + 마스터 {#acc-master}
+      + 기본 {#acc-master}
          + [아키텍트](/help/certifications/acc/acc-m-developer.md)
       + [갱신](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
@@ -79,7 +79,7 @@ ht-degree: 47%
          + [비즈니스 전문가](/help/certifications/ac/ac-e-business.md)
          + [Developer](/help/certifications/ac/ac-e-developer.md)
          + [프론트엔드 개발자](/help/certifications/ac/ac-e-fedeveloper0623.md)
-      + 마스터 {#ac-master}
+      + 기본 {#ac-master}
          + [아키텍트](/help/certifications/ac/ac-m-architect.md)
       + [갱신](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Document Cloud] {#adc}
@@ -101,7 +101,7 @@ ht-degree: 47%
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
          + [개발자(Forms)](/help/certifications/aem/aem-forms-e-developer.md)
          + [Cloud Service 마이그레이션](/help/certifications/aem/aem-cs-e-migration.md)
-      + 마스터 {#aem-master}
+      + 기본 {#aem-master}
          + [설계자(사이트)](/help/certifications/aem/aem-sites-m-architect.md)
       + [갱신](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
@@ -110,7 +110,7 @@ ht-degree: 47%
          + [공인 전문가](/help/certifications/ame/ame-p.md)
       + 전문가 {#ame-expert}
          + [비즈니스 전문가](/help/certifications/ame/ame-e-business.md)
-      + 마스터 {#ame-master}
+      + 기본 {#ame-master}
          + [아키텍트](/help/certifications/ame/ame-m-architect-23-08.md)
       + [갱신](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
@@ -132,7 +132,7 @@ ht-degree: 47%
          + [비즈니스 전문가](/help/certifications/at/at-p-business.md)
       + 전문가 {#at-expert}
          + [비즈니스 전문가](/help/certifications/at/at-e-business.md)
-      + 마스터 {#at-master}
+      + 기본 {#at-master}
          + [아키텍트](/help/certifications/at/at-m-architect0623.md)
       + [갱신](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
@@ -141,6 +141,7 @@ ht-degree: 47%
          + [개발자(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [프로젝트 관리자](/help/certifications/aw/aw-p-project-manager.md)
          + [개발자(핵심)](/help/certifications/aw/aw-core-p-developer.md)
+         + [개발자(핵심) - 신규](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + 전문가 {#aw-expert}
          + [개발자(핵심)](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM 강화 커넥터](/help/certifications/aw/aw-aem-e-connector.md)
