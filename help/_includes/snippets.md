@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -123,7 +123,7 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 
 **바우처 구매**
 
-시험 비용은 바우처로 지불하시면 됩니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}.
+시험 비용은 바우처로 지불하시면 됩니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}.
 
 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 바우처 할인 정보는 아래를 참조하십시오.
 
@@ -220,3 +220,9 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 인증은 2년 후에 만료됩니다. 인증을 유지하려면 만료되기 전에 갱신해야 합니다. 다음 방문: [인증 갱신](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} 페이지 를 참조하십시오.
 
 <!--divider-->
+
+## 일본어 시험 세부 정보 {#Japanese-exam-details}
+
+시험 일정을 일요일부터 목요일, 동부 시간 기준 오후 5시부터 오전 2시까지로 잡아 일본어할 줄 아는 감독관을 배치할 수 있도록 해 주십시오. 이 시간 외에 일정을 잡으시면, 일본어를 할 줄 아는 감독관을 장담할 수 없습니다.
+
+[일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)

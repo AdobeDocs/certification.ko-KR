@@ -7,10 +7,10 @@ role: User
 badge: label="시험 AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '981'
-ht-degree: 14%
+source-wordcount: '716'
+ht-degree: 2%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 14%
 * 프로젝트
 * Forms
 * 경험 조각 및 콘텐츠 조각
-* 스크린
+* Screens
 * 워크플로
 * 시작
 * CRXDE Lite
@@ -75,7 +75,7 @@ ht-degree: 14%
 * 버전 매기기
 * 개인화 및 컨텍스트 허브
 * SPA 편집기
-* 태깅
+* 태그 지정
 * 브라우저 사용
 * 웹에 대한 일반적인 이해
 * 반응형 웹 디자인 개념
@@ -146,7 +146,7 @@ ht-degree: 14%
 * [AEM 6.5 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [AEM 6.5 기능에 대해 알아보기](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [시작](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=ko-KR){target="_blank"}
+* [론치](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=ko-KR){target="_blank"}
 * [작성자를 위한 첫 번째 단계](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [콘텐츠 편집 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [페이지 생성 및 구성](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html){target="_blank"}
@@ -174,7 +174,7 @@ ht-degree: 14%
 * [AEM에서 글로벌 웹 사이트 개발](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
 * [AEM 핵심 개념](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html){target="_blank"}
 * [구성 요소 개요](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
-* [컨텐츠 아키텍처](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
+* [콘텐츠 아키텍처](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
 * [프로젝트 관리 - 우수 사례 검사 목록](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
 * [프로젝트 범위 지정 시 고려 사항](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html){target="_blank"}
 * [게재 및 계획 접근 방식](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
@@ -192,7 +192,7 @@ ht-degree: 14%
 * [AEM 6.4 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 * [AEM 개발 - 지침 및 우수 사례](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=ko-KR){target="_blank"}
 * [구성 요소 개요](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
-* [구성 요소 가이드라인](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
+* [구성 요소 지침](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
 * [구성 요소](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html){target="_blank"}
 * [핵심 구성 요소의 현지화 기능](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"}
 * [검색 기능](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
@@ -238,14 +238,14 @@ ht-degree: 14%
 
 ## AD0-E121-J(일본어) 시험 예약 또는 시험 응시
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Example Portal - 일본어 시험으로 이동
 </span>
 </a>
-
-[일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

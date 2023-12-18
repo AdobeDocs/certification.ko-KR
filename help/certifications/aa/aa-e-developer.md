@@ -8,10 +8,10 @@ level: Experienced
 badge: label="시험 AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 12%
+source-wordcount: '707'
+ht-degree: 1%
 
 ---
 
@@ -161,18 +161,18 @@ ht-degree: 12%
 **섹션 3: Analytics 구현 및 구성**
 
 * [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [보고서 세트의 이해 및 생성](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko){target="_blank"}
+* [보고서 세트 이해 및 생성](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko){target="_blank"}
 * [링크 추적 구성 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
 **섹션 4: 태그 관리 시스템**
 
-* [태그 관리](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
+* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
 * [개요](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 **섹션 5: 모바일 서비스**
 
-* [모바일 디바이스용 Analytics 구현](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
+* [모바일 장치용 Analytics 구현](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
 * [모바일 서비스 처리 규칙 마이그레이션 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **섹션 6: 테스트, 검증 및 문제 해결**
@@ -222,14 +222,14 @@ ht-degree: 12%
 
 ## AD0-E209-J(일본어) 시험 예약 또는 시험 응시
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Example Portal - 일본어 시험으로 이동
 </span>
 </a>
-
-[일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
