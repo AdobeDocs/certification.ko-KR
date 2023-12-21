@@ -4,7 +4,7 @@ description: 시작 [!DNL Experience Cloud] 인증. 프로그램과 이 웹 사�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '825'
 ht-degree: 1%
@@ -20,8 +20,13 @@ Adobe의 인증은 당사의 디지털 마케팅 솔루션을 사용하는 전�
 >Adobe은 2023년 12월 22일부터 2024년 1월 1일까지 휴장합니다. 이 기간 동안 지원 요청에 대한 응답이 지연될 것으로 예상하십시오. 인내심을 가져 주셔서 감사합니다.
 
 >[!BEGINSHADEBOX]
->
->**50% 할인 쿠폰 판매!** <br><br> 11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때. <br><br> <i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
+
+**50% 할인 쿠폰 판매!**
+
+11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때.
+
+<i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
+
 >[!ENDSHADEBOX]
 
 >[!BEGINTABS]
