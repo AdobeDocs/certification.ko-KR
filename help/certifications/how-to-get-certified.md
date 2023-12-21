@@ -4,10 +4,10 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1550'
-ht-degree: 1%
+source-wordcount: '1503'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 1%
 
 Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 받기 전, 과정, 후에 필요한 모든 리소스를 찾아보십시오.
 
->[!TIP]
+>[!NOTE]
 >
->**연말 세일은 사이버 먼데이를 시작합니다!** <br><br> 11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때. <br><br> <i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
+>Adobe은 2023년 12월 22일부터 2024년 1월 1일까지 휴장합니다. 이 기간 동안 지원 요청에 대한 응답이 지연될 것으로 예상하십시오. 인내심을 가져 주셔서 감사합니다.
+
+>[!BEGINSHADEBOX]
+>
+>**50% 할인 쿠폰 판매!** <br><br> 11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때. <br><br> <i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
@@ -63,9 +68,9 @@ Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수
 
 | Adobe 인증 | 가격(USD) | 인도 가격(USD) |
 | ------- | ------- | ------- |
-| Adobe Certified Professional | $125 | $95 |
-| Adobe Certified Expert | $225 | $150 |
-| Adobe 인증 기본 | $225 | $150 |
+| Adobe Certified Professional | US$125 | 95달러 |
+| Adobe Certified Expert | 225달러 | 150달러 |
+| Adobe 인증 기본 | 225달러 | 150달러 |
 
 **갱신 가격**
 

@@ -1,13 +1,13 @@
 ---
 title: 인증 홈
-description: Adobe의  [!DNL Experience Cloud]  인증에 대해 알아보십시오. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
+description: 다음에 대해 알아보기 [!DNL Experience Cloud] Adobe 시 인증 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 9%
+source-wordcount: '498'
+ht-degree: 5%
 
 ---
 
@@ -17,9 +17,14 @@ Adobe에서의 인증이란 무엇이고 이 인증을 받으면 얻을 수 있�
 
 ![배너](/help/certifications/assets/home_banner_smallwide.png)
 
->[!TIP]
+>[!NOTE]
 >
->**연말 세일은 사이버 먼데이를 시작합니다!** <br><br> 11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때. <br><br> <i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
+>Adobe은 2023년 12월 22일부터 2024년 1월 1일까지 휴장합니다. 이 기간 동안 지원 요청에 대한 응답이 지연될 것으로 예상하십시오. 인내심을 가져 주셔서 감사합니다.
+
+>[!BEGINSHADEBOX]
+>
+>**50% 할인 쿠폰 판매!** <br><br> 11월 27일부터 12월 31일까지 진행되는 Adobe 디지털 경험 자격 증명 프로그램에서 인증 시험 바우처를 50% 할인된 가격으로 이용할 수 있습니다. 이 오퍼는 를 통해 구입한 경우에만 유효합니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe). 프로모션 코드 사용 **홀리데이2023** 체크아웃할 때. <br><br> <i>이 오퍼는 언급된 시간대에만 사용할 수 있으며 새 주문에만 적용되며 이전에 수행한 구매에는 적용할 수 없습니다. 바우처 코드는 구입일로부터 1년 동안 유효합니다.</i>
+>[!ENDSHADEBOX]
 
 Adobe 디지털 경험 자격 증명 프로그램은 Adobe에서 자신의 기술을 입증하는 데 도움이 되도록 만들어졌습니다 [!DNL Experience Cloud] 제품. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
 
@@ -44,7 +49,7 @@ Adobe 디지털 경험 자격 증명 프로그램은 개발자, 비즈니스 실
 
 Adobe 디지털 경험 자격 증명 프로그램에 대해 학습하여 전문가의 잠재력을 발휘하십시오.
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">시작하기</span></a>
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">시작</span></a>
 
 
 ## 모든 인증 보기

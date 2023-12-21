@@ -1,7 +1,7 @@
 ---
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1769'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 ## 소개 {#intro}
 
 이 페이지에서는 이 인증을 획득하는 방법에 대해 설명합니다. 시험에 대한 설명, 학습자료, 자격증 과정에 대한 단계별 지침, 자격증 갱신 방법 등이 포함된다.
+
+>[!WARNING]
+>
+>Adobe은 2023년 12월 22일부터 2024년 1월 1일까지 휴장합니다. 이 기간 동안 지원 요청에 대한 응답이 지연될 것으로 예상하십시오. 인내심을 가져 주셔서 감사합니다.
 
 <!--divider-->
 
