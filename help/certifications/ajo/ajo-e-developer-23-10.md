@@ -5,20 +5,17 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E606" type="neutral"
-source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
+exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '591'
+ht-degree: 1%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Journey Optimizer] 개발자 전문가
 
 {{intro}}
-
->[!NOTE]
->
->최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험(AD0-E606). 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ajo-e-developer.md), 2023년 12월 22일까지 완료해야 합니다.
 
 ## 시험 설명 {#exam-description}
 
@@ -143,7 +140,7 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 **섹션 4: 컨텐츠 작성**
 
 * [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 컨텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Journey Optimizer 튜토리얼](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR){target="_blank"}
+* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR){target="_blank"}
 
 **섹션 5: 데이터 모델링**
 
@@ -175,10 +172,6 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 {{about-certification-exam}}
 
 ## AD0-E606 시험 예약 또는 시험 응시
-
->[!NOTE]
->
->최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험(AD0-E606). 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ajo-e-developer.md), 2023년 12월 22일까지 완료해야 합니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

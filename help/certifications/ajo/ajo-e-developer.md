@@ -6,10 +6,11 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
+hidefromtoc: true
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 14%
+source-wordcount: '628'
+ht-degree: 4%
 
 ---
 
@@ -139,7 +140,7 @@ ht-degree: 14%
 
 **섹션 1: 관리 및 구성**
 
-* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 액세스 제어
    * 메시지 구성
@@ -152,7 +153,7 @@ ht-degree: 14%
 
 **섹션 2: AEP Foundation**
 
-* [Adobe  [!DNL Experience Platform]  설명서](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Adobe [!DNL Experience Platform] 설명서](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * XDM 안내서
    * 실시간 고객 프로필 안내서
@@ -170,7 +171,7 @@ ht-degree: 14%
 
 **섹션 3: Offer decisioning**
 
-* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 의사 결정 관리
 
@@ -180,7 +181,7 @@ ht-degree: 14%
 
 **섹션 4: 컨텐츠 작성**
 
-* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 콘텐츠 디자인
    * 여정
@@ -190,7 +191,7 @@ ht-degree: 14%
 
 **섹션 5: Journey Orchestration**
 
-* [Adobe  [!DNL Journey Optimizer]  설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 여정
    * 추적 및 모니터링
