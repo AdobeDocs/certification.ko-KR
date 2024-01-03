@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="시험 AD0-E908" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->최신 Adobe [!DNL Workfront] 코어 개발자 전문가 시험(ADO-E908). 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전(ADO-E905)](aw-core-p-developer.md), 2024년 2월 26일까지 완료해야 합니다.
+>최신 Adobe [!DNL Workfront] 코어 개발자 전문가 시험(ADO-E908). 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전(ADO-E905)](aw-core-p-developer.md), 2024년 2월 26일까지 완료해야 합니다. 일정을 다시 잡으려면 새 시험을 봐야 한다.
 
 ## 시험 설명 {#exam-description}
 
