@@ -3,9 +3,9 @@ title: Workfront 인증 개요
 description: Adobe Workfront의 인증 옵션 개요
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 922961fcab8c3cf6745d3239d112625d717b1b82
+source-git-commit: 6242b08cb1ecd63d58bd059dd3b5ac4ccd3f20f9
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 7%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 7%
 
 다음 **Adobe [!DNL Workfront] Core Developer Professional** 인증 시험이 업데이트되었습니다.
 
-현재 버전: [Adobe Marketo Engage (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
+현재 버전: [Adobe [!DNL Workfront] 코어 개발자 전문가(AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
 
 이미 본 시험을 위한 일정을 잡았거나 공부를 시작한 경우에는 반드시 일정을 잡고 시험을 완료하시기 바랍니다 **2024년 2월 26일 이전**.
 
-그러나 인증을 막 시작하는 경우에는 다음을 수행하는 것이 좋습니다. **새로 만들기** 시험 버전: [Adobe Marketo Engage (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
+그러나 인증을 막 시작하는 경우에는 다음을 수행하는 것이 좋습니다. **새로 만들기** 시험 버전: [Adobe [!DNL Workfront] 코어 개발자 전문가(AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## Adobe에 사용 가능한 모든 시험 [!DNL Workfront]
 
