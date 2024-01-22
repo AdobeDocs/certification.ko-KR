@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: bd08c54f5c17b9eb08becfbf5ba47925db8d4254
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '595'
 ht-degree: 1%
 
 ---
@@ -146,6 +146,12 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 * [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 * [Experience Platform, 데이터 세트, 소스 커넥터 안내서, API Tutorials, Platform Identity Service 안내서, 세그먼테이션 UI, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+
+<br>
+
+**연습 테스트 수행**
+
+{{practice-test}}
 
 +++
 
