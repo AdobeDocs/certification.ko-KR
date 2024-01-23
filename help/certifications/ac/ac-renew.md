@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dcad25077afd7883333326939ce8751eee191f36
+source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '2241'
 ht-degree: 0%
 
 ---
@@ -304,6 +304,138 @@ Adobe 갱신 [!DNL Commerce] 개발자 전문가 인증:
 2. 아래 버튼을 클릭하여 Examity 포털로 이동하여 시험을 치릅니다(AD5-E839).
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   예제 포털로 이동
+</span>
+</a>
+
+>[!NOTE]
+>
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+
++++Adobe [!DNL Commerce] 프론트엔드 개발자 전문가
+
+## 다음 항목이 있어야 합니다. **활성** 이 방법을 사용하여 갱신할 인증:
+
+Adobe [!DNL Commerce] 프론트엔드 개발자 전문가
+
+## 인증 갱신 지침:
+
+* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계**: 시험 목표 및 리소스 검토
+* **3단계**: 시험 응시 및 통과
+
+## 준비
+
+**시험 세부 정보:**
+
+* 레벨: 전문가(0~12개월 경력)
+* 합격 점수: 26/34
+* 시간: 68분
+* 게재: 온디맨드/비포장됨
+* 사용 가능한 언어: 영어
+* 비용: 무료
+* 시험 ID: AD5-E844 Adobe [!DNL Commerce] 프론트엔드 개발자 전문가 갱신
+
+**범위 및 목표:**
+
+**섹션 1: 테마 관리 (테마 계층 구조, 이미지 구성, 번역) (14%)**
+
+* 설명 Adobe [!DNL Commerce] 테마 폴더 구조
+* 새 테마를 만들거나 기존 테마를 확장하는 기능 시연
+* 사용자 정의 번역 구문 추가 기능 시연
+
+**섹션 2: 레이아웃 XML 및 템플릿(30%)**
+
+* 기본 레이아웃 XML 지침 작업 기능 시연
+* 기존 페이지 레이아웃을 사용할 수 있는 기능 시연
+* XML 확장 및 재정의 단계 설명
+* 템플릿을 만들고 사용자 지정하는 기능 시연
+* 템플릿 보안 설명(출력 이스케이프 처리)
+
+**섹션 3: 스타일 (22%)**
+
+* styles-m.less, styles-l.less, print.less의 목적 설명
+* 특정 부분 파일(_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,) 간의 차이점 설명
+* 시나리오가 주어지면 Magento LESS를 재정의하거나 확장하는 기능을 보여 줍니다.
+* LESS의 기본 개념 설명
+* 스타일(라이브러리, 모듈, 테마)의 계층 구조 설명
+* 클라이언트측 및 서버측 컴파일 설명
+
+**섹션 4: JavaScript(18%)**
+
+* JavaScript 구성 요소를 초기화하고 호출하는 기능을 보여 줍니다.
+* RequireJS 사용 시연
+* mixin 사용 설명
+* JS에서 번역을 추가하는 방법 설명
+* 녹아웃 JS 사용 설명
+* jQuery 위젯의 사용 설명
+
+**섹션 5: 관리자 구성 및 PageBuilder(8%)**
+
+* 페이지 빌더 및 CMS 콘텐츠를 사용자 지정하는 기능 시연
+* 트랜잭션 이메일을 사용자 지정하는 단계 설명
+
+**섹션 6: 툴(CLI 및 성능)(8%)**
+
+* 기본 bin/Magento 명령의 사용 설명
+* Composer 명령 사용 설명(설치, 업데이트, 필요, 제거)
+* 배포 모드에 대한 적절한 사용 사례 차별화
+* 클라우드가 제공하는 추가 도구 설명(Fastly, 데이터베이스 다운로드, 콘텐츠 배포)
+
+## 준비 완료
+
+시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+
+다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+
+**섹션 1**
+
+* [테마 번역 사전 예제](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [테마 구조](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [테마 속성 구성](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [사전을 사용하여 문자열 사용자 지정](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+
+**섹션 2**
+
+* [referenceBlock 및 참조 컨테이너](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [레이아웃 지침](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [레이아웃 재정의](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [인수](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [새 레이아웃 만들기](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [레이아웃을 재정의하는 방법](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [템플릿 사용자 지정 연습](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [magento2/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [테마 상속](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [XSS(크로스 사이트 스크립팅)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+
+**섹션 3**
+
+* [반응형 디자인의 CSS](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [테마 스타일 맞춤화](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [상위 스타일 확장](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [상위 스타일 재정의](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [컴파일 모드](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+
+**섹션 4**
+
+* [JavaScript 호출 및 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Mixin 범위](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [테마 문자열](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [바인딩 맵](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [아코디언 위젯 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+
+## 인증 갱신
+
+Adobe 갱신 [!DNL Commerce] 프론트엔드 개발자 전문가 인증:
+
+1. 에 로그인합니다 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. 아래 버튼을 클릭하여 Examity 포털로 이동하여 시험을 치릅니다(AD5-E844).
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    예제 포털로 이동
