@@ -6,9 +6,9 @@ role: Developer
 badge: label="시험 AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,7 @@ ht-degree: 0%
 **섹션 4: 커넥터 설치 및 구성**
 
 * [설치 [!DNL Workfront] 대상 [!DNL Experience Manager] 향상된 커넥터](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
-* [[!DNL Workfront] 향상된 커넥터 기본 사항](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
+* [[!DNL Workfront] 향상된 커넥터 기본 사항](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html){target="_blank"}
 * [구성 [!DNL Workfront] 대상 [!DNL Experience Manager] 향상된 커넥터](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] Adobe과 통합 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 

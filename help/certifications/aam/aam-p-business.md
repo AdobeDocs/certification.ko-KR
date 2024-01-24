@@ -8,10 +8,10 @@ level: Experienced
 badge: label="시험 AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 15%
+source-wordcount: '588'
+ht-degree: 1%
 
 ---
 
@@ -120,7 +120,7 @@ ht-degree: 15%
 * [[!DNL Audience Manager] 튜토리얼](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
 * [다음에 대한 GDPR 준비 지침: [!DNL Audience Manager] 고객 (데이터 컨트롤러)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html){target="_blank"}
 * [세그먼트 세부 정보 페이지](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html){target="_blank"}
-* [고객 팁 - 트레이트 및 세그먼트 모범 사례](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
+* [고객 팁 - 트레이트 및 세그먼트 모범 사례](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html){target="_blank"}
 
 **섹션 2: 트레이트 만들기**
 
@@ -141,7 +141,7 @@ ht-degree: 15%
 
 * [글로벌 데이터 소스](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/global-data-sources.html#:~:text=Global%20data%20sources%20are%20accessible,by%20manufacturers%20for%20advertising%20purposes.){target="_blank"}
 * [데이터 소스 목록 및 설정](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html){target="_blank"}
-* [데이터 소스 관리](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=ko-KR){target="_blank"}
+* [데이터 소스 관리](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html){target="_blank"}
 * [인바운드 데이터 파일 내용: 구문, 잘못된 문자, 변수 및 예](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
 * [실시간 인바운드 데이터 섭취](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
 * [인바운드 데이터 전송을 위한 ID 동기화](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
@@ -151,7 +151,7 @@ ht-degree: 15%
 * [폴더 트레이트: 설명](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 * [트레이트 저장소](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html){target="_blank"}
 * [특성 분류 체계 만들기](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html){target="_blank"}
-* [세분화 이해](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html){target="_blank"}
+* [세그먼테이션 이해](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html){target="_blank"}
 
 **섹션 6: 프로필 병합, ID 동기화 및 Audience Marketplace**
 
