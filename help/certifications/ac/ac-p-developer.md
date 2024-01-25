@@ -7,10 +7,10 @@ role: Developer
 badge: label="시험 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 51dbc0e8818df72da81caa3d0d9a981ae7aa7456
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
-source-wordcount: '1161'
-ht-degree: 1%
+source-wordcount: '887'
+ht-degree: 0%
 
 ---
 
@@ -199,7 +199,7 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 **섹션 3: 디지털 마케팅 및 전자 상거래 기본 사항**
 
-* [[!DNL Commerce] 튜토리얼](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [이벤트 및 옵저버](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
 * [계층화된 탐색](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
 * [제품 속성 개요](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
@@ -262,6 +262,12 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 {{sample-questions}}
 
 [샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad4-e717-adobe-commerce-developer-with-cloud-add-on-professional-practice-exam){target="_blank"}
+
+<br>
+
+**연습 테스트 수행**
+
+{{practice-test}}
 
 +++
 

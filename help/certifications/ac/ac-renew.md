@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: e966c384d1b08ceecfa02aca78a246beadcd6bc2
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
 source-wordcount: '2241'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 전문가]
 
-+++ Adobe [!DNL Commerce] 비즈니스 전문가
++++Adobe [!DNL Commerce] 비즈니스 전문가
 
 ## 다음 항목이 있어야 합니다. **활성** 이 방법을 사용하여 갱신할 인증:
 
