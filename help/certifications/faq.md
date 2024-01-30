@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -84,8 +84,8 @@ Adobe 인증 상태를 획득하거나 유지하려면 최근 인증 시험을 �
 +++성적표 사본은 어떻게 받을 수 있습니까?
 
 * 1단계: 다음에 로그인 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. ID 또는 이메일 주소와 암호를 사용하여 로그인합니다.
-* 2단계: 성적 증명서 를 클릭합니다.
-* 3단계: 성적 증명서 내역을 스크롤하고 보려는 보고서를 선택합니다. 보고서를 이메일로 보내거나 화면에서 볼 수 있습니다.
+* 2단계: 내역을 클릭합니다.
+* 3단계: 내역을 스크롤하고 보려는 보고서를 선택합니다. 보고서를 이메일로 보내거나 화면에서 볼 수 있습니다.
 
 +++
 
