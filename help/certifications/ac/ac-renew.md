@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 Adobe 갱신 [!DNL Commerce] 비즈니스 전문가 인증:
 
-1. 에 로그인합니다 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}
+위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 Adobe을 클릭합니다 [!DNL Commerce] 비즈니스 전문가 재계약 시험 (AD5-E840) 링크 아래.
 
-2. 아래 버튼을 클릭하여 Examity 포털로 이동하여 시험을 치릅니다(AD5-E840).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   예제 포털로 이동
-</span>
-</a>
+[!BADGE Adobe 받기 [!DNL Commerce] 비즈니스 전문가 재계약 시험 (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Adobe [!DNL Commerce] Developer Professional
 
 Adobe 갱신 [!DNL Commerce] 개발자 전문가 인증:
 
-1. 에 로그인합니다 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}
+위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 Adobe을 클릭합니다 [!DNL Commerce] 개발자 전문가 갱신 시험(AD5-E839) 링크 아래.
 
-2. 아래 버튼을 클릭하여 Examity 포털로 이동하여 시험을 치릅니다(AD5-E839).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   예제 포털로 이동
-</span>
-</a>
+[!BADGE Adobe 받기 [!DNL Commerce] 개발자 전문가 갱신 시험(AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Adobe [!DNL Commerce] 프론트엔드 개발자 전문가
 
 Adobe 갱신 [!DNL Commerce] 프론트엔드 개발자 전문가 인증:
 
-1. 에 로그인합니다 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}
+위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 Adobe을 클릭합니다 [!DNL Commerce] 아래 프론트엔드 개발자 전문가 갱신 시험(AD5-E844) 링크.
 
-2. 아래 버튼을 클릭하여 Examity 포털로 이동하여 시험을 치릅니다(AD5-E844).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   예제 포털로 이동
-</span>
-</a>
+[!BADGE Adobe 받기 [!DNL Commerce] 프론트엔드 개발자 전문가 갱신 시험(AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
