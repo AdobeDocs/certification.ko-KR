@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="시험 AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 2572f234a1a51667cfc584607c50af6bd14c0c8d
 workflow-type: tm+mt
-source-wordcount: '1470'
-ht-degree: 20%
+source-wordcount: '949'
+ht-degree: 3%
 
 ---
 
@@ -143,7 +143,7 @@ ht-degree: 20%
 
 * [AEM 6.5 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Assets 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM 6.4 모바일 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
+* [AEM 6.4 Mobile 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
 * [AEM Assets 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 Communities 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
@@ -167,7 +167,7 @@ ht-degree: 20%
 * [AEM Granite 사용자 지정 렌더링 조건](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [React 애플리케이션에서 XSS 방지](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [AEM 6.5 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM 6.4 모바일 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
+* [AEM 6.4 Mobile 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
 * [핵심 구성 요소 소개](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ko){target="_blank"}
 * [AEM 6.5 Authoring 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [AEM Sites 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
@@ -181,23 +181,23 @@ ht-degree: 20%
 * [[!DNL Experience Manager as a Cloud Service] 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [HTL 안내서](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html){target="_blank"}
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
-* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [AEM 6.4 Deploying 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 
 **섹션 3: 구현**
 
-* [AEM 6.5 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [Adobe 엔터프라이즈 설명서](https://experienceleague.adobe.com/docs/){target="_blank"}
+* [AEM 6.5 Deploying 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [Adobe Enterprise 설명서](https://experienceleague.adobe.com/docs/){target="_blank"}
 * [Adobe [!DNL Experience Manager] 데스크탑 앱 개요](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
-* [AEM Foundation 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
+* [AEM Foundation 비디오 및 Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Adobe Admin Console의 ID 유형](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Dispatcher 개요](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [AEM Sites 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
+* [AEM Sites 비디오 및 Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [Cloud Manager 소개](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Adobe Target 안내서](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [AEM 6.5 Authoring 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Assets 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM Assets 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [AEM Assets 비디오 및 Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
+* [AEM 6.4 Deploying 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 * [Experience Manager as a Cloud Service 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 
 
@@ -213,7 +213,7 @@ ht-degree: 20%
 * [Cloud Manager: 시작하기](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
 * [CQBufferedImageCache가 에셋 업로드 중 힙을 사용함](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
 * [Assets 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM Dispatcher 캐시 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
+* [AEM Dispatcher 캐시 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
 * [Lucene 인덱스](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
 * [AEM 6.4 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
@@ -292,23 +292,3 @@ ht-degree: 20%
 인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
-
-## Adobe Experience Manager Sites Architect 기본 시험에 대한 FAQ(AD0-E117) {#AEM-FAQ}
-
-인증 시험 AD0-E117이 유지 관리 중이어서 일시적으로 사용할 수 없습니다. 불편을 끼쳐드려 진심으로 죄송합니다. [알림을 받으려면 등록](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 다시 사용할 수 있는 경우.
-
-**이미 시험 일정을 잡았다면 어떻게 되나요?**
-
-예정된 AD0-E117 시험이 모두 취소되었습니다. 영향을 받는 응시자는 새 버전을 사용할 수 있게 되면 시험을 다시 예약해야 합니다.
-
-**나는 이미 시험 비용을 지불했어요. 환불받을 수 있나요?**
-
-* 수험표를 통해 신용카드로 수험비를 결제하셨다면 전액 환불됩니다.  
-* 바우처로 지불한 경우 코드가 재설정되고 새 시험 약속에 적용할 수 있습니다.  
-* 바우처를 사용하기 전에 만료되는 경우, 예약할 준비가 되면 새 바우처를 발급해 드립니다.
-
-**10월 이전에 인증을 갱신해야 하는데, 이 경우 갱신 내용에 영향을 미칩니까?**
-
-아니요. 지속적인 학습을 통해 새롭게 할 수 있을 것입니다. 아래에 제공된 지침 및 프로세스를 따라야 합니다. [인증 갱신](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
-
