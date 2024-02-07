@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
+source-git-commit: 352e6c3a35bb1429a187800519bedc9495e8f7cd
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '891'
 ht-degree: 0%
 
 ---
@@ -165,13 +165,11 @@ ht-degree: 0%
 **섹션 1: 관리 및 유지 관리**
 
 * [이해 [!DNL Salesforce] 동기화](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [[!DNL Marketo]: 비즈니스 전문가를 위한 관리](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
 * [전체 목록 내보내기 [!DNL Marketo] API 필드 이름](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [사용자 정의 필드 유형 용어집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [언어, 로케일 및 시간대 선택](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
 * [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [감사 추적 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
-
 
 **섹션 2: 마케팅 활동/캠페인 관리**
 
@@ -188,7 +186,6 @@ ht-degree: 0%
 * [이벤트 프로그램 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
 * [Webhook 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
-
 **섹션 3: 리드 관리**
 
 * [숨겨진 양식 필드 값 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
@@ -199,7 +196,6 @@ ht-degree: 0%
 * [즐거운 순간을 위한 트리거 토큰](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
 * [수익 모델 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
-
 **섹션 4: 데이터 관리**
 
 * [데이터 값 변경](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
@@ -207,7 +203,6 @@ ht-degree: 0%
 * [Marketo 활동 데이터 보존 정책](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
 * [세분화 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [스마트 목록에서 세그먼트 필터 사용](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
-
 
 **섹션 5: 보고**
 
