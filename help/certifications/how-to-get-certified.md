@@ -4,9 +4,9 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 * [온라인 감독자 시험에 등록하는 방법](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [시험을 시작하고 프록터에 연결하는 방법](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [수험생 시스템 요구 사항 테스트](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB 시험 보기]
 
@@ -43,9 +44,11 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 **취소 및 일정 조정**
 
-예정된 시험 약속 48시간 이전에 시작된 경우 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
+예정된 시험 약속 48시간 전에 시작된 경우 일반적으로 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
 
 Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수 없습니다. 48시간 이내 취소 시에는 시험 수수료 외에 일정 조정 수수료가 부과됩니다.
+
+시험 시작 48시간 이상 남았지만 시험 일정을 변경할 수 없는 경우, 이는 새로운 버전의 시험이 있기 때문일 수 있습니다. 만약 당신의 약속이 이전 버전의 시험이라면, 당신은 당신의 시험 약속을 다시 잡을 수 없을 것이다. 가능하면 시험 약속을 지키는 것이 좋습니다. 할 수 없는 경우, 시험을 취소하고 새 시험을 치르기 위해 새 약속을 잡아야 합니다.
 
 **시험 이후**
 
