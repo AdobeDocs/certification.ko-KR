@@ -8,10 +8,10 @@ role: Data Architect,Developer
 badge: label="시험 AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 27%
+source-wordcount: '436'
+ht-degree: 5%
 
 ---
 
@@ -121,13 +121,13 @@ ht-degree: 27%
 
 **섹션 2: 솔루션 디자인**
 
-* [[!DNL Analytics] 관리자 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
+* [[!DNL Analytics] 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
 * [[!DNL Analytics] 구성 요소 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-* [[!DNL Analytics] Tools 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [[!DNL Analytics] 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
 * [Experience Cloud 솔루션용 iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=ko-KR){target="_blank"}
 * [[!DNL Analytics] 가져오기 안내서](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
 * [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 * [관리자 역할](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
 * [Admin Console 개요](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [개별적으로 사용자 관리](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
@@ -136,23 +136,21 @@ ht-degree: 27%
 
 * [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 * [[!DNL Analytics] 구성 요소 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-* [[!DNL Analytics] 관리자 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
+* [[!DNL Analytics] 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
 * [이벤트 기반 데이터 레이어](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
 * [[!DNL Analytics] 내보내기 안내서](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [Adobe [!DNL Target] 비즈니스 실무자 안내서](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Adobe [!DNL Experience Cloud] ID 서비스](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 * [[!DNL Analytics] 가져오기 안내서](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [[!DNL Analytics] Tools 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [[!DNL Analytics] 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
 * [데이터 삽입 프로세스](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [태그를 사용하여 웹 사이트에서 Experience Cloud 구현 자습서](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 <br>
 
-**샘플 질문**
+**연습 테스트 수행**
 
-{{sample-questions}}
-
-[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+{{practice-test}}
 
 +++
 
