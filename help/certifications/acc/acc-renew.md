@@ -7,7 +7,7 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 2bd38805bbc64287b5328c0920e9e45fad9c56a1
+source-git-commit: 40d3d5a3cb94048deaf247454641fa4d78088b0a
 workflow-type: tm+mt
 source-wordcount: '2391'
 ht-degree: 0%
@@ -275,10 +275,10 @@ Adobe [!DNL Campaign Classic] Developer Professional
 **섹션 1**
 
 * [캠페인 설정 FAQ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
-* [사용자 지정 수신자 테이블 사용](https://docs.adobe.com/content/help/en/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
-* [대상자 가져오기 및 내보내기](https://docs.adobe.com/content/help/en/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
+* [사용자 지정 수신자 테이블 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [대상자 가져오기 및 내보내기](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
 * [SOAP 메서드 구현](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
-* [데이터 패키지를 사용한 작업](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [데이터 패키지를 사용한 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
 * [데이터베이스 매핑](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
 * [Campaign을 솔루션과 연결](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
 * [캠페인별 외부 계정](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
@@ -288,7 +288,7 @@ Adobe [!DNL Campaign Classic] Developer Professional
 
 * [스키마 구조](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
 * [시드 주소](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
-* [게시 템플릿](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
+* [게시 템플릿](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
 * [Campaign에서 데이터 스키마 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/data-schemas.html){target="_blank"}
 * [양식 편집](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/editing-forms.html){target="_blank"}
 
@@ -306,19 +306,19 @@ Adobe [!DNL Campaign Classic] Developer Professional
 * [경고](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/alert.html){target="_blank"}
 * [데이터베이스 매핑](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
 * [집계 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html){target="_blank"}
-* [파일 전송](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html){target="_blank"}
-* [오류 관리](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
-* [날짜](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
+* [파일 전송](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html){target="_blank"}
+* [오류 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
+* [날짜](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
 
 **섹션 5**
 
-* [워크플로우 Heatmap](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/monitoring/workflow-heatmap.html){target="_blank"}
+* [워크플로우 Heatmap](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/monitoring/workflow-heatmap.html){target="_blank"}
 
 **섹션 6**
 
 * [컨트롤 그룹 사용](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
 * [승인 정의](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
-* [워크플로우 실행 모니터링](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html){target="_blank"}
+* [워크플로우 실행 모니터링](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=ko){target="_blank"}
 * [반복 게재](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
 * [Adobe Campaign Standard](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Standard/Issue-with-Mobile-App-Integration-in-Adobe-Campaign/qaq-p/330913/comment-id/8286){target="_blank"}
 * [워크플로우 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html?lang=ko){target="_blank"}
