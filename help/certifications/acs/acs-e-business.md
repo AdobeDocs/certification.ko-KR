@@ -7,10 +7,10 @@ role: User
 badge: label="시험 AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 11%
+source-wordcount: '518'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 11%
 * 합격 점수: 30/50
 * 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
-* 사용 가능한 언어: 영어 및 일본어
+* 사용 가능한 언어: 영어
 * 비용: $225(글로벌) / $150(인도)
 * 시험 ID: AD0-E307
 
@@ -141,12 +141,12 @@ ht-degree: 11%
 **섹션 2: 캠페인 관리**
 
 * [워크플로우 실행 기본 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
-* [개인 정보 요청에 대한 사용자 정의 리소스 수정](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
+* [개인 정보 요청에 대한 사용자 지정 리소스 수정](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
 * [대상자 만들기](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
 **섹션 3: 요구 사항 분석**
 
-* [워크플로우 작성](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
+* [워크플로우 구축](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
 * [사용자 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
 
 **섹션 4: 보고**
@@ -164,7 +164,7 @@ ht-degree: 11%
 
 **섹션 6: 데이터 관리 및 관리**
 
-* [ [!DNL Campaign Standard] 데이터 모델 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [시작 [!DNL Campaign Standard] 데이터 모델](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [시작 [!DNL Campaign Standard] 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 <br>
