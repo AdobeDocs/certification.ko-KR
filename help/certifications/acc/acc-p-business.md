@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: f77041d17437d9e42deeef7ffbe42155b6089043
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '831'
 ht-degree: 1%
 
 ---
@@ -188,18 +188,14 @@ ht-degree: 1%
 * [게재 보고서 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [보고 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 * [게재 모니터링 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=ko){target="_blank"}
-* [설명 분석 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
+* [설명 분석 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=ko){target="_blank"}
 * [권한 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
 <br>
 
-**샘플 질문**
+**연습 테스트 수행**
 
-{{sample-questions}}
-
-[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad4-e329-adobe-campaign-classic-business-practitioner-professional-practice-exam){target="_blank"}
-
-
+{{practice-test}}
 
 +++
 
