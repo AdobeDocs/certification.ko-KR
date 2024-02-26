@@ -2,9 +2,9 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: 다음에 대해 알아보기 [!DNL Experience Cloud] Adobe 시 인증 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
+source-git-commit: 9da619a40b8ebfdee7c9940cc56138f84ae76e8d
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 32%
 
 ---
@@ -145,7 +145,7 @@ ht-degree: 32%
          + [개발자(핵심)](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM 강화 커넥터](/help/certifications/aw/aw-aem-e-connector.md)
       + [갱신](/help/certifications/aw/aw-renew.md)
-+ [최종 사용자용 자격 증명](https://learning.adobe.com/certification/credentials)
+   + [ADLS에서 제공하는 적격 시험](https://learning.adobe.com/certification/credentials)
 + 숨김 {#hidden}
    + [인증 다시 시작 자격 검사](exam-eligibility-check.md)
    + [Experience Platform 개요](/help/certifications/aep/aep-overview.md)
