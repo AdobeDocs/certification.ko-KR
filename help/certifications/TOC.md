@@ -2,7 +2,7 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: 다음에 대해 알아보기 [!DNL Experience Cloud] Adobe 시 인증 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: 9da619a40b8ebfdee7c9940cc56138f84ae76e8d
+source-git-commit: 4ff319790c8be6b9f66f95dcd18709b3536d62d7
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 32%
@@ -16,9 +16,6 @@ ht-degree: 32%
 + [시작하기](getting-started.md)
 + [인증 받는 방법](how-to-get-certified.md)
 + [인증 갱신](renew.md)
-+ [프로그램 다시 시작](restart-program.md)
-+ [내 프로필](my-profile.md)
-+ [FAQ](faq.md)
 + 솔루션별 기술 인증 {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [Advertising 개요](/help/certifications/aac/aac-overview.md)
@@ -146,7 +143,10 @@ ht-degree: 32%
          + [AEM 강화 커넥터](/help/certifications/aw/aw-aem-e-connector.md)
       + [갱신](/help/certifications/aw/aw-renew.md)
    + [ADLS에서 제공하는 적격 시험](https://learning.adobe.com/certification/credentials)
++ [FAQ](faq.md)
 + 숨김 {#hidden}
    + [인증 다시 시작 자격 검사](exam-eligibility-check.md)
    + [Experience Platform 개요](/help/certifications/aep/aep-overview.md)
    + [Developer)](/help/certifications/aep/aep-e-foundations.md)
+   + [프로그램 다시 시작](restart-program.md)
+   + [내 프로필](my-profile.md)
