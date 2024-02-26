@@ -6,9 +6,9 @@ role: Developer
 badge: label="시험 AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Workfront] Core Developer Professional
 
 {{intro}}
-
->[!NOTE]
->
->최신 Adobe [!DNL Workfront] 코어 개발자 전문가 시험(ADO-E908). 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전(ADO-E905)](aw-core-p-developer.md), 2024년 2월 26일까지 완료해야 합니다. 일정을 다시 잡으려면 새 시험을 봐야 한다.
 
 ## 시험 설명 {#exam-description}
 
@@ -239,10 +235,6 @@ Adobe [!DNL Workfront] Core Developer Certified Professional 의 기능:
 {{about-certification-exam}}
 
 ## AD0-E908 시험 예약 또는 시험 응시
-
->[!NOTE]
->
->최신 Adobe [!DNL Workfront] 코어 개발자 전문가 시험(ADO-E908). 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전(ADO-E905)](aw-core-p-developer.md), 2024년 2월 26일까지 완료해야 합니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E908" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
