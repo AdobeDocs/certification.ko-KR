@@ -7,10 +7,10 @@ role: Developer
 badge: label="시험 AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 8%
+source-wordcount: '686'
+ht-degree: 1%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 8%
 * 합격 점수: 30/50
 * 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
-* 사용 가능한 언어: 영어
+* 사용 가능한 언어: 영어, 일본어
 * 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E124
+* 시험 ID: AD0-E124(영어), AD0-E124-J(일본어)
 
 <br>
 
@@ -146,7 +146,7 @@ Managed Services 및 Adobe Experience Manager as a Cloud Service Adobe에서 편
 **섹션 2: Cloud Manager 및 Cloud Manager API 운영**
 
 * [환경 관리](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html){target="_blank"}
-* [AEM as a Cloud Service로의 마이그레이션 여정 시작하기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [as a Cloud Service으로 마이그레이션 여정 AEM 시작](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [Adobe I/O 통합 개요](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
 
 **섹션 3: 웹 프록시 인프라 구성**
@@ -170,7 +170,7 @@ Managed Services 및 Adobe Experience Manager as a Cloud Service Adobe에서 편
 
 **섹션 6: Admin Console 운영**
 
-* [AEM as a Cloud Service에 대한 IMS 지원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
+* [AEM IMS as a Cloud Service 지원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Adobe IMS 사용자 그룹 및 AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
 +++
@@ -197,12 +197,23 @@ Managed Services 및 Adobe Experience Manager as a Cloud Service Adobe에서 편
 
 {{about-certification-exam}}
 
-## AD0-E124 시험 예약 또는 시험 응시
+## AD0-E124(영어) 시험 예약 또는 수강
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   예제 포털로 이동
+   Examity portal - 영어 시험으로 이동
+</span>
+</a>
+
+## AD0-E124-J(일본어) 시험 예약 또는 시험 응시
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Example Portal - 일본어 시험으로 이동
 </span>
 </a>
 
