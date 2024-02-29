@@ -6,10 +6,11 @@ product: Magento
 role: Developer
 badge: label="시험 AD0-E720" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
+source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 1%
+source-wordcount: '794'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 1%
 ### 시험 세부 정보 {#exam-details}
 
 * 레벨: 전문가(1-3년 경력)
-* 합격 점수: 33/50
+* 합격 점수: 29/50
 * 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
 * 사용 가능한 언어: 영어
@@ -189,7 +190,7 @@ Adobe Commerce 프론트엔드 개발을 1~3년 이상 직접 경험해야 합�
 * [페이지](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
 * [페이지 빌더란 무엇입니까?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
 * [JavaScript 번들](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
+* [Google recaptcha](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
 **섹션 6: 툴(CLI 및 grunt)**
 
