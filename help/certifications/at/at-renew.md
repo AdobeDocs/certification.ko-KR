@@ -7,7 +7,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
+source-git-commit: f4aa50b8d3121567589fb94139bd01b833a6bd04
 workflow-type: tm+mt
 source-wordcount: '1209'
 ht-degree: 0%
@@ -159,7 +159,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 Adobe을 클릭합니다 [!DNL Target] 비즈니스 실무자 전문 갱신 시험 링크 아래.
 
-[!BADGE Adobe 받기 [!DNL Target] 비즈니스 실무자 전문 갱신 시험 AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
+[!BADGE Adobe 받기 [!DNL Target] 비즈니스 실무자 전문 갱신 시험 AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
 
 >[!NOTE]
 >
