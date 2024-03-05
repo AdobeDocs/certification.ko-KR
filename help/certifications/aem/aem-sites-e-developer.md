@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 8d50d5574c0f9066acc58272e44994e2771cbefc
+source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '561'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 2%
 * 합격 점수: 26/50
 * 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
-* 사용 가능한 언어: 영어
+* 사용 가능한 언어: 영어, 일본어
 * 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E134
+* 시험 ID: AD0-E134(영어), AD0-E134-J(일본어)
 
 <br>
 
@@ -140,7 +140,7 @@ ht-degree: 2%
 **섹션 2: AEM 개발**
 
 * [AEM 6.5 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [AEM Sites 시작하기 - WKND 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
+* [AEM Sites 시작하기 - WKND 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=ko-KR){target="_blank"}
 * [AEM 6.5 Authoring 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [AEM 6.5 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
@@ -191,9 +191,20 @@ ht-degree: 2%
 
 {{about-certification-exam}}
 
-## AD0-E134 시험 예약 또는 시험 응시
+## AD0-E134(영어) 시험 예약 또는 수강
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   예제 포털로 이동
+</span>
+</a>
+
+## AD0-E134-J(일본어) 시험 예약 또는 시험 응시
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    예제 포털로 이동
