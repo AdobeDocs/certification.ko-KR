@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 
 **바우처 구매**
 
-시험 비용은 바우처로 지불하시면 됩니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}.
+시험 비용은 바우처로 지불하시면 됩니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 바우처 할인 정보는 아래를 참조하십시오.
 
