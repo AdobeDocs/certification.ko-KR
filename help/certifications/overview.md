@@ -4,20 +4,20 @@ description: 다음에 대해 알아보기 [!DNL Experience Cloud] Adobe 시 인
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
+source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '437'
 ht-degree: 6%
 
 ---
 
 # Adobe의 인증에 오신 것을 환영합니다!
 
-Adobe에서의 인증이란 무엇이고 이 인증을 받으면 얻을 수 있는 이점에 대해 알아보십시오.
+Adobe에서 Experience Cloud 인증에 대해 알아보고 인증을 받는 것이 어떤 도움이 되는지 알아보십시오.
 
 ![배너](/help/certifications/assets/home_banner_smallwide.png)
 
-Adobe 디지털 경험 자격 증명 프로그램은 Adobe에서 자신의 기술을 입증하는 데 도움이 되도록 만들어졌습니다 [!DNL Experience Cloud] 제품. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
+Adobe 디지털 경험 인증 프로그램은 Adobe에서 자신의 기술을 입증하는 데 도움을 주기 위해 만들어졌습니다 [!DNL Experience Cloud] 제품. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
 
 Adobe [!DNL Experience Cloud] 는 기업이 웹, 모바일, 이메일 및 소셜 미디어를 비롯한 여러 채널에 개인화된 고객 경험을 제공할 수 있도록 하는 디지털 마케팅 솔루션 제품군입니다. Adobe [!DNL Experience Cloud] Adobe과 같은 다양한 제품 포함 [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]등.
 
@@ -36,11 +36,11 @@ Adobe 가져오기 [!DNL Experience Cloud] 인증에는 다음과 같은 많은 
 * **무료 실습 시험:** Adobe은 무료 연습 시험을 제공하여 인증 시험에 대한 완벽한 준비를 보장합니다.
 * **무료 인증 갱신:** Adobe 자격증은 2년 동안 유효하며, 대부분의 자격증은 주문형 비관리형 시험을 치르거나 일련의 지속적인 학습 활동을 완료하면 무료로 갱신할 수 있습니다.
 
-Adobe 디지털 경험 자격 증명 프로그램은 개발자, 비즈니스 실무자, 설계자 등 다양한 분야의 전문가를 위해 설계되었습니다. 숙련된 전문가든 막 시작하는 전문가든 자격증은 경력을 향상시키고 경쟁에서 앞서가는 데 도움이 됩니다.
+Adobe 디지털 인증 프로그램은 개발자, 비즈니스 실무자, 설계자 등 다양한 분야의 전문가를 위해 설계되었습니다. 숙련된 전문가든 막 시작하는 전문가든 자격증은 경력을 향상시키고 경쟁에서 앞서가는 데 도움이 됩니다.
 
 ## 시작하기
 
-Adobe 디지털 경험 자격 증명 프로그램에 대해 학습하여 전문가의 잠재력을 발휘하십시오.
+Adobe 디지털 경험 인증 프로그램에 대해 학습하여 전문가의 잠재력을 발휘하십시오.
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">시작</span></a>
 
@@ -48,17 +48,25 @@ Adobe 디지털 경험 자격 증명 프로그램에 대해 학습하여 전문�
 
 사용 가능한 각 제품 인증에 대한 모든 세부 사항은 왼쪽 목차와 아래 목록에 나열되어 있습니다.
 
-* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md)
-* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md)
-* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md)
-* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md)
-* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md)
-* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md)
-* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md)
-* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md)
-* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md)
-* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md)
-* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md)
-* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md)
-* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md)
-* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md)
+* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
+* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
+* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
+* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
+* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
+* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
+* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
+* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
+* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
+* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
+* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
+* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
+* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
+* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
+
+Adobe을 찾고 계십니까 [!DNL Creative Cloud] 인증? 다음 방문: [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} 웹 사이트에서 Creative Cloud 프로그램 인증을 받는 방법을 알아봅니다.
+
+## 질문
+
+인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+
+추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
