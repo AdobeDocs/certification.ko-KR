@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="시험 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 87ed809862370a10d085156bea4f947a3b2f0743
+source-git-commit: c81e158a12b6f52a01919f15c32e6614139ebd9d
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 1%
+source-wordcount: '733'
+ht-degree: 0%
 
 ---
 
@@ -154,7 +154,7 @@ ht-degree: 1%
 **섹션 1: 프로젝트 리더십**
 
 * [챔피언 블로그 - Marketo 국가](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko-KR){target="_blank"}
 * [설명서 - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
 **섹션 2: Adobe [!DNL Marketo Engage] 아키텍처 설계**
@@ -171,18 +171,15 @@ ht-degree: 1%
 
 **섹션 4: 고급 작업**
 
-* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko-KR){target="_blank"}
 * [소프트 바운스 억제](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
-
 <br>
 
-**샘플 질문**
+**연습 테스트 수행**
 
-{{sample-questions}}
-
-[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+{{practice-test}}
 
 +++
 
