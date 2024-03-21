@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: Adobe 디지털 경험 인증 프로그램에 대한 질문에 대한 답변을 받아 보십시오. 인증의 이점, 등록 방법 및 문의처에 대해 알아봅니다.
+description: Adobe Digital Experience 인증 프로그램과 관련된 질문에 대한 답변을 살펴보십시오. 인증의 이점, 등록 방법 및 문의처에 대해 알아봅니다.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
 source-wordcount: '2485'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
