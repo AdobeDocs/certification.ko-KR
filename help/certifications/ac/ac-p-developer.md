@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,16 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Commerce] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
+>
+>* **강의:** 테이크 어 [교육 과정](https://app.rockinfo.com/courses/106) 여기에는 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 포함된다.
+>
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/382) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
+>
+>로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다.
 
 ## 시험 설명 {#exam-description}
 
@@ -172,94 +182,31 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 {{study-materials-intro}}
 
-**섹션 1: 관리자 작업**
-
-* [레이아웃](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [사용자 역할](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
-* [UI 구성 요소 소개](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [배포용 구성 파일](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [확장성 및 모듈성](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-
-**섹션 2: 아키텍처**
-
-* [확장성 및 모듈성](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-* [배포용 구성 파일](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [명령줄 도구](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [이벤트 및 옵저버](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [관리 시스템 소개](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
-* [템플릿](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [번역](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [URL 재작성](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
-* [캐싱 구성](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
-* [바니시 구성 및 사용](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-* [웹 사이트 스토어 및 조회수](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
-* [사이트, 스토어 및 보기 범위](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [범주 만들기](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
-* [저장소 및 사이트 구조](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-
-**섹션 3: 디지털 마케팅 및 전자 상거래 기본 사항**
-
-* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
-* [이벤트 및 옵저버](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [계층화된 탐색](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
-* [제품 속성 개요](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [선언적 스키마 개요](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
-
-**섹션 4: 레이아웃/UI**
-
-* [페이지](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [레이아웃](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [계단식 스타일 시트](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [테마](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [JavaScript 소개](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [코딩 표준](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
-* [페이지 캐싱](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
-
-**섹션 5: 체크아웃 및 판매**
-
-* [주문 관리 및 운영](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [장바구니](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [장바구니 가격 규칙](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [체크아웃 사용자 정의](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [공통 [!DNL Commerce] 표](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
-* [새 결제 통합 추가](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [통화](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-
-**섹션 6: 카탈로그**
-
-* [카테고리 개요](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [제품 만들기](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [프로모션](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [동적 블록](https://docs.magento.com/user-guide/cms/dynamic-blocks.html){target="_blank"}
-* [카탈로그 가격 규칙](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
-* [고급 가격 책정](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**섹션 7: Adobe [!DNL Commerce] 클라우드 아키텍처**
-
-* [[!DNL Commerce] 클라우드 인프라에서](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
-* [용 클라우드 아키텍처 [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
-* [스타터 아키텍처](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
-* [Pro 아키텍처](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [확장 아키텍처](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
-
-**섹션 8: 설정/구성 Adobe [!DNL Commerce] 클라우드**
-
-* [구성 파일 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
-* [응용 프로그램 구성에 대한 속성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
-* [배포를 위한 환경 변수 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe [!DNL Commerce] 클라우드 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
-
-**섹션 9: [!DNL Commerce] Cloud CLI 도구(관리 부분)**
-
-* [Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
-* [CLI를 사용하여 분기 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
-* [서비스 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**강의 수강**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   강의 수강
+</span>
+</a>
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 준비 안내서 보기
+</span>
+</a>
 
 +++
 

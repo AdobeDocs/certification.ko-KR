@@ -7,16 +7,20 @@ role: Developer
 badge: label="시험 AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 7%
+source-wordcount: '542'
+ht-degree: 1%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Experience Manager Forms] 개발자 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/372) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -113,7 +117,7 @@ ht-degree: 7%
 
 **섹션 4: API 엔드포인트 및 통합(8%)**
 
-* Adobe Experience Cloud와 통합
+* Adobe Experience Cloud과 통합
 * 다양한 엔드포인트 서비스 생성 및 사용
 
 **섹션 5: 대화형 통신(4%)**
@@ -148,40 +152,20 @@ ht-degree: 7%
 
 {{study-materials-intro}}
 
-**섹션 1: Forms 생성 및 관리**
-
-* [Adobe Experience Manager 6.4 Forms 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [AEM Forms 데이터 통합](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"}
-* [게시 양식 소개](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"}
-* [클라이언트 측 라이브러리 사용](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
-
-**섹션 2: 프로세스 및 워크플로**
-
-* [AEM Forms Tutorials 및 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
-* [초안 및 제출용 사용자 정의 저장소](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
-* [출력 서비스](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
-
-**섹션 3: 관리 및 문제 해결**
-
-* [로그를 사용하여 AEM as a Cloud Service 디버깅](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [HTML5 Forms에 대한 로깅 활성화](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
-* [Adobe Experience Manager 6.5 최신 서비스 팩 릴리스 노트](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [Dispatcher 구성](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=ko-KR){target="_blank"}
-
-**섹션 4: API 엔드포인트 및 통합**
-
-* [Acrobat Sign과 Adobe Experience Manager Forms as Cloud Service 통합 | ADOBE EXPERIENCE MANAGER](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
-
-**섹션 5: 대화형 통신**
-
-* [인터랙션 커뮤니케이션 개요](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
-* [대화형 통신의 조건](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/372" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 준비 안내서 보기
+</span>
+</a>
 
 +++
 

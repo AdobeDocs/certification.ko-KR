@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 시험 일정을 일요일부터 목요일, 동부 시간 기준 오후 5시부터 오전 2시까지로 잡아 일본어할 줄 아는 감독관을 배치할 수 있도록 해 주십시오. 이 시간 외에 일정을 잡으시면, 일본어를 할 줄 아는 감독관을 장담할 수 없습니다.
 
 [일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## 무료 강좌 수강 {#take-course}
+
+이 무료 온디맨드 강좌는 주요 개념 설명, 실습 데모 및 지식 점검을 통해 시험 준비를 지원합니다.
+
+## 시험 준비 안내서 {#exam-prep-guide}
+
+무료 시험 준비 안내서는 시험에 성공하기 위해 필요한 심화 학습 자료를 포함하여 시험 준비 과정을 통해 맞춤 경로를 제공합니다.

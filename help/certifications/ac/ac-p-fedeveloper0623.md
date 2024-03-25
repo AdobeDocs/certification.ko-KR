@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Commerce] 프론트엔드 개발자 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/384) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -142,50 +146,20 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 
 {{study-materials-intro}}
 
-**섹션 1: 테마 관리 (테마 계층 구조, 이미지 구성, 번역)**
-
-* [테마](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [레이아웃](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [로컬라이제이션](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
-* [번역](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-
-**섹션 2: 레이아웃 XML 및 템플릿**
-
-* [일반적인 사용자 지정 작업](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [구성 요소 개발](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [보안](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**섹션 3: 스타일**
-
-* [코딩 표준](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [{less}](https://lesscss.org/){target="_blank"}
-* [코딩 표준 감소](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
-* [테마 스타일 맞춤화](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**섹션 4: JavaScript**
-
-* [JavaScript 소개](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [UI 구성 요소 개념](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/){target="_blank"}
-* [Observables (KnockOutJS)](https://knockoutjs.com/documentation/observables.html){target="_blank"}
-
-**섹션 5: 관리자 구성 및 PageBuilder**
-
-* [페이지](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [페이지 빌더란 무엇입니까?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [JavaScript 번들](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google recaptcha](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**섹션 6: 툴(CLI 및 grunt)**
-
-* [구성 안내서](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [변수 작성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [클라우드 인프라의 상거래](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/384" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 준비 안내서 보기
+</span>
+</a>
 
 +++
 

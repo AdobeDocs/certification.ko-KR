@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Commerce] 비즈니스 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/383) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -130,57 +134,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**섹션 1: [!DNL Magento Open Source] 핵심 기능**
-
-* [속성](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [[!DNL Magento] 2 모듈 개발 - Simple Hello World 모듈](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
-* [관련 제품, 상향 판매 및 교차 판매](https://docs.magento.com/user-guide/catalog/related-products-up-sells-cross-sells.html){target="_blank"}
-* [구매 지점](https://docs.magento.com/user-guide/sales/point-of-purchase.html){target="_blank"}
-* [오프라인 결제 방법](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
-* [SEO 및 검색](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [페이지 빌더](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [결제 개요](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
-* [프로모션](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [장바구니 가격 규칙](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [구성 참조 안내서](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [범위](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [저장소 및 사이트 구조](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-* [보기 저장](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
-* [검색어 관리](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
-
-**섹션 2: Adobe [!DNL Commerce] 기본 사항**
-
-* [용 클라우드 가이드 [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
-* [[!DNL Magento] Business Intelligence 소개](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [페이지](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [구성 참조 안내서](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [라이브 검색 소개](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
-* [소개 [!DNL Commerce] 머천다이징 및 프로모션](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
-* [체크아웃](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [Adobe [!DNL Commerce] 관리 시스템 안내서](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
-
-**섹션 3: 디지털 마케팅 및 전자 상거래 기본 사항**
-
-* [프로모션](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [쇼핑 지원](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
-* [변수 및 고객 커뮤니케이션](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
-* [SEO 개요](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
-* [사이트 맵 사용](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
-* [고객 여정](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
-* [Business Intelligence 도구](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-
-**섹션 4: 규정 준수/보안 기본 사항**
-
-* [접근성 지침](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html#visual){target="_blank"}
-* [보안](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
-* [ADA 규정 준수 및 eCommerce 웹 사이트와 관련된 방법 이해](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
-* [Adobe [!DNL Commerce] 보안 모범 사례 안내서](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 준비 안내서 보기
+</span>
+</a>
 
 +++
 

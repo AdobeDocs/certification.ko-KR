@@ -7,16 +7,20 @@ role: User
 badge: label="시험 AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 16%
+source-wordcount: '505'
+ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Analytics] 비즈니스 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/391) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -125,37 +129,27 @@ ht-degree: 16%
 
 {{study-materials-intro}}
 
-**섹션 1: 비즈니스 분석**
+**시험 준비 안내서**
 
-* [Analytics 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analytics Components 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-* [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Data Workbench 도움말](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=ko-KR){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 프로젝트에 대한 보고 및 대시보드**
+<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Analytics Admin 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
-* [Analytics 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [시각화 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
-* [Analytics Components 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-* [Customer Journey Analytics 안내서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
-
-**섹션 3: 세분화 및 계산된 지표**
-
-* [Analytics Components 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-
-**섹션 4: 일반적인 도구 지식 및 문제 해결**
-
-* [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Analytics Components 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   시험 준비 안내서 보기
+</span>
+</a>
 
 **샘플 질문**
 
 {{sample-questions}}
 
-[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   샘플 질문 보기
+</span>
+</a>
 
 +++
 

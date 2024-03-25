@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 0%
 # 인증 여정 [!DNL Adobe Commerce] 비즈니스 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/386) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+
 
 ## 시험 설명 {#exam-description}
 
@@ -155,89 +160,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**섹션 1: 핵심 기능/일반 구성**
-
-* [[!DNL Commerce] 판매자 설명서](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
-* [제품 유형 이해](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"}
-* [고객 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"}
-* [제품 만들기](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [관리 메뉴](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
-* [데이터 그리드](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
-* [스토어 설정](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
-* [스토어 및 구매 경험 소개](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
-* [관리 시스템 소개: 운영 관리](https://docs.magento.com/user-guide/operations.html){target="_blank"}
-* [제품 가져오기 및 내보내기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
-* [데이터 전송](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
-* [장바구니](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [체크아웃](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [배송 및 배송](https://docs.magento.com/user-guide/shipping/delivery.html){target="_blank"}
-* [주문 관리 및 운영](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [기프트 카드](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-8-gift-cards.html){target="_blank"}
-* [기프트 카드 제품](https://docs.magento.com/user-guide/catalog/product-gift-card.html){target="_blank"}
-* [선물 옵션](https://docs.magento.com/user-guide/sales/gift-options.html){target="_blank"}
-* [이메일 통신](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
-* [이메일 템플릿](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"}
-* [Adobe을 위한 B2B 소개 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"}
-* [보상 및 충성도 프로그램](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
-
-**섹션 2: 머천다이징**
-
-* [프로모션](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [제품 카테고리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
-* [범주 위치 지정](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
-* [제품 설정](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
-* [속성](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
-* [속성 집합](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
-* [단순 제품](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
-* [구성 가능한 속성](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html){target="_blank"}
-* [계층화된 탐색](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html){target="_blank"}
-* [카탈로그 관리 소개](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
-* [고급 가격 책정](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**섹션 3: 디지털 마케팅**
-
-* [소개 [!DNL Commerce] 머천다이징 및 프로모션](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
-* [SEO 개요](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Business Intelligence 시작(웨비나 녹화)](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
-* [Google 사이트 도구](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
-* [Business Intelligence 도구](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-
-**섹션 4: 추가 기능 모듈 및 추가 제품**
-
-* [B2B 기능](https://docs.magento.com/user-guide/configuration/general/b2b-features.html){target="_blank"}
-* [Adobe을 위한 B2B 소개 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
-* [재고 관리](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
-* [MBI 소개](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [검색 엔진 사전 요구 사항](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}
-* [세금](https://docs.magento.com/user-guide/tax/taxes.html){target="_blank"}
-* [공유 카탈로그 작업](https://docs.magento.com/user-guide/catalog/catalog-shared.html){target="_blank"}
-* [Adobe Sensei, Magento 제품 Recommendations 강화](https://business.adobe.com/summit/2020/adobe-sensei-powers-magento-product-recommendations.html){target="_blank"}
-* [제품 Recommendations 소개](https://docs.magento.com/user-guide/marketing/product-recommendations.html){target="_blank"}
-
-**섹션 5: 시스템 아키텍처**
-
-* [비즈니스 사용자를 위한 Commerce - 사이트, 스토어 및 보기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
-* [비즈니스 사용자용 Commerce - 저장소 보기 및 캐시 지우기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
-* [비즈니스 사용자용 Commerce - Storefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
-* [저장소 세부 정보](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [보고서 메뉴](https://docs.magento.com/user-guide/reports.html){target="_blank"}
-* [Adobe Commerce 웹 API 시작하기](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
-
-**섹션 6: 규정 준수/보안**
-
-* [사용자 및 역할](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
-* [역할 범위 및 권한](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
-* [권한](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
-* [개인정보 처리방침 저장](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
-* [보안 및 규정 준수](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
-* [보안](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
-* [나라별 세금 지침](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/386" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 준비 안내서 보기
+</span>
+</a>
 
 +++
 

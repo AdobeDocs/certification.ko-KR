@@ -7,16 +7,26 @@ role: Developer
 badge: label="시험 AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '518'
-ht-degree: 22%
+source-wordcount: '414'
+ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Experience Manager Sites] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
+>
+>* **강의:** 테이크 어 [교육 과정](https://app.rockinfo.com/courses/105) 여기에는 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 포함된다.
+>
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/364) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
+>
+>로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다.
 
 ## 시험 설명 {#exam-description}
 
@@ -105,44 +115,38 @@ ht-degree: 22%
 
 {{study-materials-intro}}
 
-**섹션 1: 구성**
+**강의 수강**
 
-* [AEM 6.4 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Dispatcher 개요](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+{{take-course}}
 
-**섹션 2: AEM 개발**
+<a href="https://app.rockinfo.com/courses/105" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [AEM 6.4 Administering 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [AEM 6.5 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [AEM 6.5 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [핵심 구성 요소 소개](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ko){target="_blank"}
-* [구성 요소 기본 사항](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   강의 수강
+</span>
+</a>
 
-**섹션 3: 빌드 및 배포**
+**시험 준비 안내서**
 
-* [핵심 구성 요소 소개](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ko){target="_blank"}
-* [시작하기 [!DNL AEM Sites] - WKND 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
+<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**섹션 4: 환경 유지 관리**
-
-* [AEM 6.4 배포 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ko){target="_blank"}
-* [AEM 6.4 Developing 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [작업 대시보드](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
-* [Adobe 릴리스 정보 [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [핵심 구성 요소 소개](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ko)
-* [[!DNL AEM as Cloud Service] 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 릴리스 업데이트 및 로드맵](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   시험 준비 안내서 보기
+</span>
+</a>
 
 **샘플 질문**
 
 {{sample-questions}}
 
-[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   샘플 질문 보기
+</span>
+</a>
 
 +++
 

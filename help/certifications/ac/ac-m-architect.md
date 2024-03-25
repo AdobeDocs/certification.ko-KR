@@ -8,17 +8,20 @@ level: Experienced
 badge: label="시험 AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Commerce] 설계자 기본
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/388) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -141,42 +144,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**섹션 1: 디자인**
-
-* [제품 만들기](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [페이지 캐싱](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [소개 [!DNL Commerce] 고객 관리](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [이벤트 및 옵저버](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [SEO 개요](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [저장소 세부 정보](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [페이지](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [새 결제 통합 추가(결제 방법)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [인증](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [GraphQL 개요](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
-
-**섹션 2: 검토**
-
-* [소개](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [사용자 정의 텍스트 필드 속성 추가](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [Application Testing 안내서 소개](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [구성 요소 개발](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [우수 사례](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [바니시 구성](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**섹션 3: 구성 및 배포**
-
-* [구성 참조 안내서](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [배포용 구성 파일](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Redis 구성](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [통화](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [초기화 및 부트스트랩 개요](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Fastly 서비스 개요](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   시험 준비 안내서 보기
+</span>
+</a>
 
 +++
 
