@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 전문가]
 
+## 인증 갱신 지침:
+
+* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **2단계**: 시험 목표 및 리소스 검토
+* **3단계**: 시험 응시 및 통과
+
 ### Adobe [!DNL Audience Manager] 비즈니스 실무자 전문 갱신 시험
 
 다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
 
 * Adobe [!DNL Audience Manager] 비즈니스 전문가
-
-### 인증 갱신 지침:
-
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
-* **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
 
 ### 준비
 
@@ -163,15 +163,15 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 전문가]
 
-다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
-
-* Adobe Audience Manager 비즈니스 실무자 전문가
-
-### 인증 갱신 지침:
+## 인증 갱신 지침:
 
 * **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
 * **2단계**: 시험 목표 및 리소스 검토
 * **3단계**: 시험 응시 및 통과
+
+### 다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
+
+* Adobe Audience Manager 비즈니스 실무자 전문가
 
 ### 준비
 
@@ -244,15 +244,15 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!TAB 마스터]
 
-### 다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
-
-* Adobe Audience Manager Architect 마스터
-
-### 인증 갱신 지침
+## 인증 갱신 지침
 
 * **1단계** - 시험 목표 검토
 * **2단계** - 리소스 검토
 * **3단계** 시험 보고 합격
+
+### 다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
+
+* Adobe Audience Manager Architect 마스터
 
 ### 준비
 
