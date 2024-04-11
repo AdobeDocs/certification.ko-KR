@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 [일정 조정에 대한 일본어 지침](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## 무료 강좌 수강 {#take-course}
 
 이 무료 온디맨드 강좌는 주요 개념 설명, 실습 데모 및 지식 점검을 통해 시험 준비를 지원합니다.
+
+<!--divider-->
 
 ## 시험 준비 안내서 {#exam-prep-guide}
 

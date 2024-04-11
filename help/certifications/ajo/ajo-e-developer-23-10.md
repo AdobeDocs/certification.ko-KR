@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: bd08c54f5c17b9eb08becfbf5ba47925db8d4254
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '643'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 1%
 # Adobe을 위한 인증 여정 [!DNL Journey Optimizer] 개발자 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새 과정:** 무료, 온디맨드 [Adobe Journey Optimizer 개발자 전문가 과정](https://app.rockinfo.com/courses/147) 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 수록되어 있다. _로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 
 ## 시험 설명 {#exam-description}
 
@@ -123,28 +127,41 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 {{study-materials-intro}}
 
+**강의 수강**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Adobe Journey Optimizer 개발자 전문가 과정 수강
+</span>
+</a>
+
+**학습 리소스**
+
 **섹션 1: 관리 및 구성**
 
 * [Experience Platform, 액세스 제어, 샌드박스 안내서](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ko){target="_blank"}
-* [AJO 안내서, 구성, SMS 채널, 여정](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO 안내서, 구성, SMS 채널, 여정](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **섹션 2: Journey Orchestration**
 
-* [AJO 안내서, 여정, 표현식, 추적 및 모니터링](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO 안내서, 여정, 표현식, 추적 및 모니터링](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
 **섹션 3: Offer decisioning**
 
-* [AJO 안내서, 의사 결정 관리, API 참조](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO 안내서, 의사 결정 관리, API 참조](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
 **섹션 4: 컨텐츠 작성**
 
-* [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 컨텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 컨텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 * [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR){target="_blank"}
 
 **섹션 5: 데이터 모델링**
 
-* [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 * [Experience Platform, 데이터 세트, 소스 커넥터 안내서, API Tutorials, Platform Identity Service 안내서, 세그먼테이션 UI, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
 <br>
