@@ -7,7 +7,7 @@ role: Developer
 badge: label="시험 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: a2b143073ab26b3667a7c82243607e713595c92e
 workflow-type: tm+mt
 source-wordcount: '754'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **과정:** 다음을 수행합니다. [Adobe Commerce 개발자 전문가 과정](https://app.rockinfo.com/courses/106) 여기에는 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 포함된다. 지금 막 시작하는 거라면 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 는 인증 여정에서 빌드할 수 있는 지식의 기반을 제공합니다.
+>* **과정:** 다음을 수행합니다. [Adobe Commerce 개발자 전문가 과정](https://app.rockinfo.com/courses/92) 여기에는 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 포함된다. 지금 막 시작하는 거라면 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 는 인증 여정에서 빌드할 수 있는 지식의 기반을 제공합니다.
 >
 >* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/382) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
 >
@@ -197,7 +197,7 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 </span>
 </a>
 
-<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/92" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Adobe Commerce 개발자 전문가 과정 수강
