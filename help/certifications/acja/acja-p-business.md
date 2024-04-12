@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->**강의:** 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
+>* **강의:** 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
 >
->**시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/375) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/375) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
 >
 >_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 

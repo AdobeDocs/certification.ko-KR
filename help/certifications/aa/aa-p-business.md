@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/391) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/531) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/playScorm/531" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    시험 준비 안내서 보기
