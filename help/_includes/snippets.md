@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 ## 무료 강좌 수강 {#take-course}
 
-이 무료 온디맨드 강좌는 주요 개념 설명, 실습 데모 및 지식 점검을 통해 시험 준비를 지원합니다.
+저희의 무료 온디맨드 강좌는 시험 준비에 도움이 됩니다. 교육 과정에는 주요 개념에 대한 설명, 제품 둘러보기, 실습 데모 및 지식 검사가 포함될 수 있습니다.
 
 <!--divider-->
 

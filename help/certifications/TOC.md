@@ -2,9 +2,9 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: 다음에 대해 알아보기 [!DNL Experience Cloud] Adobe 시 인증 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '253'
 ht-degree: 33%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 33%
          + [Developer](/help/certifications/acs/acs-e-developer.md)
       + [갱신](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
-      + [상거래 개요](/help/certifications/ac/ac-overview.md)
+      + [Commerce 개요](/help/certifications/ac/ac-overview.md)
       + 전문가 {#ac-professional}
          + [비즈니스 전문가](/help/certifications/ac/ac-p-business.md)
          + [Developer](/help/certifications/ac/ac-p-developer.md)
@@ -119,6 +119,8 @@ ht-degree: 33%
       + [갱신](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Journey Optimizer 개요](/help/certifications/ajo/ajo-overview.md)
+      + 전문가 {#ajo-professional}
+         + [비즈니스 전문가](/help/certifications/ajo/ajo-p-business.md)
       + 전문가 {#ajo-expert}
          + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [갱신](/help/certifications/ajo/ajo-renew.md)
