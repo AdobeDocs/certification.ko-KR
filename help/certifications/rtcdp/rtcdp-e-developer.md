@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="시험 AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 3%
@@ -21,6 +21,18 @@ ht-degree: 3%
 ## 시험 설명 {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### 시험 세부 정보 {#exam-details}
+
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 45/68
+* 시간: 136분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 언어: 영어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ ht-degree: 3%
 
 * AEP
 * 에지 네트워크
-
-<br>
-
-### 시험 세부 정보 {#exam-details}
-
-* 레벨: 전문가(1-3년 경력)
-* 합격 점수: 45/68
-* 시간: 136분
-* 게재: 온라인 처리됨(카메라 액세스 필요)
-* 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
-* 시험 ID: AD0-E605
 
 <br>
 
@@ -178,7 +178,7 @@ ht-degree: 3%
 **섹션 3**
 
 * [UI의 클라우드 스토리지 소스에서 배치 데이터를 수집하도록 데이터 흐름을 구성합니다](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Edge Network Server API 개요](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=ko-KR){target="_blank"}
+* [Edge Network 서버 API 개요](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=ko-KR){target="_blank"}
 * [Adobe Experience Platform Web SDK를 통해 데이터 수집](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
 * [HTTP API를 사용하여 데이터 스트리밍](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html){target="_blank"}
 * [이벤트 전달 시작](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}
@@ -195,7 +195,7 @@ ht-degree: 3%
 * [세그먼트 빌더 UI 안내서](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
 * [순차적인 세분화](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html#sequential){target="_blank"}
 * [스트리밍 세분화 쿼리 유형](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html#query-types){target="_blank"}
-* [Edge 세그멘테이션 UI 안내서](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html){target="_blank"}
+* [Edge 세그멘테이션 UI 안내서](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=ko-KR){target="_blank"}
 * [세그먼트 일치 개요](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html){target="_blank"}
 * [다중 엔티티 세그멘테이션 개요](https://experienceleague.adobe.com/docs/experience-platform/segmentation/multi-entity-segmentation.html){target="_blank"}
 * [프로필 내보내기 동작](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/cloud-storage/azure-event-hubs.html#profile-export-behavior){target="_blank"}
