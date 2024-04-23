@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -115,14 +115,14 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**섹션 1: 캠페인 및 여정 최적화**
+**섹션 1: 캠페인 및 여정 최적화(48%)**
 
 * 시나리오가 주어지면 고객 여정을 구축하는 방법을 확인하십시오.
 * 주어진 시나리오에서 고객 여정의 유효성을 검사하는 방법을 결정합니다.
 * 여정 실행 후 시나리오가 주어지면 고객 여정을 평가하는 방법을 확인하십시오
 * 시나리오가 주어지면 단일 이벤트 또는 비즈니스 이벤트를 사용할 시기를 식별합니다
 
-**섹션 2: Offer decisioning**
+**섹션 2: Offer decisioning(12%)**
 
 * 오퍼 컬렉션을 만드는 방법 식별
 * offer decisioning 단계 식별
@@ -131,7 +131,7 @@ ht-degree: 0%
 * 시나리오가 주어지면 규모에 따라 offer decisioning 또는 개인화를 사용할 시기를 식별합니다
 * 시나리오가 주어지면 정적 오퍼와 동적 오퍼를 구별합니다
 
-**섹션 3: 컨텐츠 작성**
+**섹션 3: 콘텐츠 작성(20%)**
 
 * Asset Essentials 사용 방법 식별
 * 시나리오가 주어지면 이메일에 개인화된 필드를 추가하는 방법을 확인하십시오
@@ -141,7 +141,7 @@ ht-degree: 0%
 * 조각 유형 식별
 * 이메일 템플릿을 만드는 방법 식별
 
-**섹션 4: AEP의 기초**
+**섹션 4: AEP 기초(20%)**
 
 * 시나리오가 주어지면 서로 다른 유형의 데이터를 사용할 시기를 결정합니다
 * 프로필 속성 및 대상자 멤버십을 검토할 위치 식별

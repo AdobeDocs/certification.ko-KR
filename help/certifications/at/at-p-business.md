@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '593'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 1%
 <br>
 
 ### 의도한 대상 {#intended-audience}
+
+이 인증의 대상 후보에는 다음 팀/조직의 멤버가 포함됩니다.
 
 * 최적화
 * 개인화
