@@ -8,10 +8,10 @@ level: Experienced
 badge: label="시험 AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 15%
+source-wordcount: '557'
+ht-degree: 3%
 
 ---
 
@@ -38,8 +38,6 @@ ht-degree: 15%
 <br>
 
 ### 의도한 대상 {#intended-audience}
-
-**의도한 대상:**
 
 * [!DNL Audience Manager] 컨설턴트
 * 멀티 솔루션 설계자
@@ -158,7 +156,7 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 
 * [[!DNL Audience Manager] 안내서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] 나머지 API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Analytics Admin 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
+* [Analytics 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
 
 **섹션 5: 성능 및 보고**
 
