@@ -6,9 +6,9 @@ role: Developer
 badge: label="시험 AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Workfront] 프로젝트 관리자 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새 과정:** 다음 [Adobe Workfront 프로젝트 관리자 - 전문 교육 과정](https://app.rockinfo.com/courses/230) 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 수록되어 있다. _로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 
 ## 시험 설명 {#exam-description}
 
@@ -181,6 +185,12 @@ ht-degree: 0%
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**강의 수강**
+
+{{take-course}}
+
+[Adobe Workfront 프로젝트 관리자 - Professional 교육 과정 수강](https://app.rockinfo.com/courses/230)
 
 +++
 
