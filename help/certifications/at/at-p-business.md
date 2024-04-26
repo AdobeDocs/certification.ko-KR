@@ -7,16 +7,20 @@ role: User
 badge: label="시험 AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 1%
+source-wordcount: '563'
+ht-degree: 0%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 비즈니스 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/593) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -127,41 +131,18 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**섹션 1: 계획 및 전략**
-
-* [[!DNL Adobe Target] 비즈니스 실무자 안내서](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [[!DNL Adobe Target] 설명서](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
-* [방문자 프로필](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
-* [[!DNL Adobe Target] 시작 키트](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [성공 지표](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [대상의 카테고리](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
-
-**섹션 2: 구성, 실행 및 관리**
-
-* [VEC(시각적 경험 작성기)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
-* [[!DNL Adobe Target] 시작 키트](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [A/B 테스트 개요](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-* [경험 타깃팅 활동 만들기](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
-* [다변량 테스트 개요](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [대상자 만들기](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=ko-KR){target="_blank"}
-* [활동 QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-
-**섹션 3: 분석 및 보고**
-
-* [보고서 설정](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [A/B 테스트 개요](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-
-**섹션 4: 문제 해결**
-
-* [[!DNL Adobe Target] 비즈니스 실무자 안내서](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Adobe Experience Cloud Debugger 개요](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
-
-<br>
 
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/593)
+
+<br>
 
 +++
 

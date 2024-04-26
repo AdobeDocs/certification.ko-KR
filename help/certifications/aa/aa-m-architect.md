@@ -8,16 +8,20 @@ role: Data Architect,Developer
 badge: label="시험 AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 5%
+source-wordcount: '387'
+ht-degree: 1%
 
 ---
 
 # 인증 여정 [!DNL Adobe Analytics] 설계자 기본
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/541) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -111,40 +115,11 @@ ht-degree: 5%
 
 {{study-materials-intro}}
 
-**섹션 1: 검색**
+**시험 준비 안내서**
 
-* [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] 구성 요소 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-* [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [[!DNL Analytics] 기술 노트](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=ko-KR){target="_blank"}
-* [데이터 레이어 관리자](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 솔루션 디자인**
-
-* [[!DNL Analytics] 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
-* [[!DNL Analytics] 구성 요소 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-* [[!DNL Analytics] 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
-* [Experience Cloud 솔루션용 iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=ko-KR){target="_blank"}
-* [[!DNL Analytics] 가져오기 안내서](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
-* [관리자 역할](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
-* [Admin Console 개요](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
-* [개별적으로 사용자 관리](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
-
-**섹션 3: 구현 후**
-
-* [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] 구성 요소 안내서](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ko-KR){target="_blank"}
-* [[!DNL Analytics] 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
-* [이벤트 기반 데이터 레이어](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [[!DNL Analytics] 내보내기 안내서](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
-* [Adobe [!DNL Target] 비즈니스 실무자 안내서](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Adobe [!DNL Experience Cloud] ID 서비스](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [[!DNL Analytics] 가져오기 안내서](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [[!DNL Analytics] 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
-* [데이터 삽입 프로세스](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [태그를 사용하여 웹 사이트에서 Experience Cloud 구현 자습서](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/541)
 
 <br>
 

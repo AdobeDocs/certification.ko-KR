@@ -6,9 +6,9 @@ role: Developer
 badge: label="시험 AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**사용 가능한 새 과정:** 다음 [Adobe Workfront 핵심 개발자 - 전문 교육 과정](https://app.rockinfo.com/courses/231) 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 수록되어 있다. _로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
+>이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
+>
+>* **사용 가능한 새 과정:** 다음 [Adobe Workfront 핵심 개발자 - 전문 교육 과정](https://app.rockinfo.com/courses/231) 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 수록되어 있다.
+>
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/596) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
+>
+>_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 
 ## 시험 설명 {#exam-description}
 
@@ -128,88 +134,6 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**섹션 1**
-
-* [프로그램 제작 및 관리](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/create-and-manage-programs/create-and-manage-programs.html){target="_blank"}
-* [포트폴리오 삭제 및 비활성화](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/create-and-manage-portfolios/delete-deactivate-portfolios.html){target="_blank"}
-* [Portfolio 최적화 프로그램 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
-* [요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
-* [라우팅 규칙 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-routing-rules.html){target="_blank"}
-* [대기열 주제 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics.html){target="_blank"}
-* [디스플레이 논리 및 건너뛰기 논리 사용에 대한 고려 사항](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/display-or-skip-logic-custom-form.html#considerations-for-using-display-logic-and-skip-logic){target="_blank"}
-* [양식 디자이너를 사용하여 양식 구성 및 미리 보기](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/design-a-form/organize-a-form.html){target="_blank"}
-* [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
-* [사용자 정의 양식 공유](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/manage-custom-forms/share-access-to-a-custom-form.html){target="_blank"}
-* [승인 프로세스 개요](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
-* [자동화된 워크플로 템플릿 만들기 및 관리](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/create-manage-automated-workflow-templates.html){target="_blank"}
-* [주제 그룹 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-topic-groups.html){target="_blank"}
-* [요청 대기열 생성 및 관리](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html){target="_blank"}
-
-**섹션 2**
-
-* [리소스 관리 시작](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-management/get-started-resource-management.html){target="_blank"}
-* [프로젝트 템플릿 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/project-template-overview.html){target="_blank"}
-* [템플릿 공유](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-template.html)
-* [프로젝트 템플릿 공유](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
-* [Adobe Workfront 리소스 플래너를 사용하여 리소스 가용성 및 할당 검토](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-availability-allocation-resource-planner.html){target="_blank"}
-
-**섹션 3**
-
-* [모범 사례 - 대시보드](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/dashboards-bp.html){target="_blank"}
-* [모범 사례 - 레이아웃 템플릿](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/layout-templates-bp.html){target="_blank"}
-* [레이아웃 템플릿 만들기 및 관리](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/create-and-manage-layout-templates.html){target="_blank"}
-* [사용자 비활성화 또는 삭제 시기 및 방법](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
-* [새로운 액세스 수준 개요](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview.html){target="_blank"}
-* [프로젝트에 대한 액세스 권한 부여](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/grant-access-projects.html){target="_blank"}
-* [Adobe에서 보고서 공유 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/share-report.html){target="_blank"}
-* [문제/요청을 프로젝트로 전환](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/create-a-project-from-a-request.html){target="_blank"}
-* [모범 사례 - 조직 단위](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/organizational-units-bp.html){target="_blank"}
-* [사용자 정의 액세스 수준 만들기 및 수정](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels.html){target="_blank"}
-* [Adobe에서 데이터 내보내기 [!DNL Workfront] 킥스타트를 통해](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/export-data-from-wf-via-kick-starts.html){target="_blank"}
-* [킥스타트 데이터 가져오기](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts-data-importer.html){target="_blank"}
-* [시간 유형 관리](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/hour-types.html){target="_blank"}
-* [Adobe [!DNL Workfront] Jira용](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html){target="_blank"}
-* [Adobe [!DNL Workfront] Creative Cloud 앱용 플러그인](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html){target="_blank"}
-* [Adobe 설정 [!DNL Workfront] Outlook용](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html){target="_blank"}
-* [Adobe에서 타임시트 만들기 및 관리 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-and-manage-timesheets.html){target="_blank"}
-* [일정 개요](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/schedules-overview.html){target="_blank"}
-
-**섹션 4**
-
-* [보기에서 조건부 서식 사용](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-conditional-formatting-views.html){target="_blank"}
-* [Adobe에서 보고서 시작 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-basics/get-started-reports-workfront.html){target="_blank"}
-* [보고서에 차트 추가](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/add-chart-report.html)
-* [라이선스 유형별 오브젝트 및 영역에 대한 액세스](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/access-to-objects-and-areas-by-license-type.html){target="_blank"}
-* [외부 웹 페이지를 대시보드에 포함](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/embed-external-web-page-dashboard.html){target="_blank"}
-* [캔버스 대시보드 개요](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/canvas-dashboards-overview.html){target="_blank"}
-* [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/create-dashboard.html){target="_blank"}
-* [사용자 정의 섹션 만들기](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/create-custom-tabs.html){target="_blank"}
-* [Adobe에서 보기 만들기 또는 편집 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/create-edit-views.html){target="_blank"}
-* [보고서 설정 편집](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/edit-report-settings.html){target="_blank"}
-
-**섹션 5**
-
-* [Adobe에서 문제를 작업으로 전환 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
-* [Adobe에서 문제를 프로젝트로 전환 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
-* [문제 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
-* [Adobe의 오브젝트 이해 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
-* [프로젝트에 대한 요청 유형 정의](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/define-request-types-for-project.html){target="_blank"}
-* [그룹 상태 관리](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/manage-group-statuses.html){target="_blank"}
-* [[!DNL Workfront] 설명서](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%){target="_blank"}
-* [사용자 지정 상태를 그룹의 기본 상태로 사용](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/use-custom-statuses-as-default-statuses-group.html){target="_blank"}
-* [카드 폴오프 구성](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
-* [보드에서 연결된 카드 사용](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
-* [로그 시간](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time.html){target="_blank"}
-* [청구 및 수익 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
-* [원가 성과 지수(CPI) 계산](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-cpi.html){target="_blank"}
-* [시간 유형 관리](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/hour-types.html){target="_blank"}
-* [문제 이동](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/move-issues.html){target="_blank"}
-* [증명 역할 개요](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
-* [증명 검토 및 승인](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
-* [에서 자동화된 워크플로를 사용하여 증명 설정 [!DNL Workfront] 증명](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/automated-workflow-in-wf-proof/set-up-proof-auto-workflow.html){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
@@ -219,6 +143,12 @@ ht-degree: 0%
 {{take-course}}
 
 [Adobe Workfront 핵심 개발자 - 전문가 과정 수강](https://app.rockinfo.com/courses/231)
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/596)
 
 +++
 

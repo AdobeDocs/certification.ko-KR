@@ -7,16 +7,20 @@ role: Data Architect
 badge: label="시험 AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '585'
+ht-degree: 0%
 
 ---
 
 # 인증 여정 [!DNL Adobe Target] 설계자 기본
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/595) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -151,61 +155,15 @@ ht-degree: 2%
 
 {{study-materials-intro}}
 
-**섹션 1**
-
-* [Target 활동 유형](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html){target="_blank"}
-* [다변량 테스트 개요](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [at.js 함수](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
-* [방문자 프로필](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
-
-**섹션 2**
-
-* [Adobe Campaign과 Target 통합](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html){target="_blank"}
-* [Adobe Target용 보고 소스로서의 Adobe Analytics (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
-* [Experience Cloud 대상](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=ko){target="_blank"}
-* [Adobe Target 내에서 경험 조각 오퍼 사용](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html){target="_blank"}
-
-**섹션 3**
-
-* [호스트](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html){target="_blank"}
-* [사용자](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/users/user-management.html){target="_blank"}
-* [Enterprise 권한 구성](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html){target="_blank"}
-* [시각적 경험 작성기 우수 사례 및 제한 사항](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
-
-
-**섹션 4**
-
-* [이메일과 Recommendations 통합](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
-* [양식 기반 경험 작성기](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [JSON 오퍼 만들기](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
-
-**섹션 5**
-
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [RECOMMENDATIONS FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-* [피드](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
-* [Velocity를 사용하여 디자인 사용자 지정](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
-
-**섹션 6**
-
-* [Adobe Target 하이브리드 배포](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/hybrid-deployment.html){target="_blank"}
-* [모바일 앱에서의 Target 작동 방식](https://experienceleague.adobe.com/docs/target-dev/developer/mobile-apps/version-4/how-target-works-mobile-apps.html){target="_blank"}
-* [Target 구현 디자인](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
-* [Platform Web SDK로 Adobe Target 사용](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html){target="_blank"}
-
-**섹션 7**
-
-* [활동 QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [콘텐츠 전달 문제 해결](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-* [디자인 FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-* [RECOMMENDATIONS FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-* [Platform Web SDK에서 A4T(Adobe Analytics for Target) 로깅](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/595)
 
 +++
 

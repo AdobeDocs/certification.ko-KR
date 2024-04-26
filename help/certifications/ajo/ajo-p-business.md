@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 0%
 >* 다음 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 에서는 규모에 맞게 개인화를 위해 설계된 유일한 플랫폼에 구축된 디지털 마케팅 도구 세트인 Adobe Experience Cloud을 소개합니다.
 >* 다음 [Adobe Journey Optimizer 파운데이션 과정](https://app.rockinfo.com/courses/113) 는 이 특정 애플리케이션에 대한 지식의 기반을 제공합니다.
 >* 다음 [Adobe Journey Optimizer 비즈니스 실무자 전문 교육 과정](https://app.rockinfo.com/courses/107) 는 기초 과정을 기반으로 하며 전문 수준의 인증 시험을 준비할 수 있도록 지원합니다.
+>* 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/588) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
 >
 >_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 
@@ -180,69 +181,15 @@ ht-degree: 0%
 [Adobe Journey Optimizer 기초 과정 수강](https://app.rockinfo.com/courses/113){target="_blank"}
 [Adobe Journey Optimizer 비즈니스 실무자 전문 교육 과정 수강](https://app.rockinfo.com/courses/107){target="_blank"}
 
-**학습 리소스**
-
-**섹션 1**
-
-* [데이터 소스](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/configure-journeys/data-source-journeys/about-data-sources.html){target="_blank"}
-* [여정에서 대상자 사용](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-audience.html?){target="_blank"}
-* [프로필 업데이트](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/update-profiles.html){target="_blank"}
-* [여정 테스트](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey.html?){target="_blank"}
-* [콘텐츠 실험 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/get-started-experiment.html){target="_blank"}
-* [여정 속성 정의](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?#change-properties){target="_blank"}
-* [조건 활동](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/condition-activity.html?){target="_blank"}
-* [첫 번째 여정 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?){target="_blank"}
-* [일반 이벤트](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/general-events.html?){target="_blank"}
-* [여정 테스트](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey.html?){target="_blank"}
-* [여정 게시](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/publishing-the-journey.html?){target="_blank"}
-* [세그먼트 작업 엔드포인트](https://experienceleague.adobe.com/docs/experience-platform/segmentation/api/segment-jobs.html){target="_blank"}
-* [Audience Portal 및 구성 소개](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/introduction-to-audience-portal-and-composition.html?){target="_blank"}
-* [라이브 보고서 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html?){target="_blank"}
-* [비표시 목록](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/deliverability/suppression-list.html?){target="_blank"}
-* [액세스 여정](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?#journey-access){target="_blank"}
-* [여정 종료](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/end-journey.html?){target="_blank"}
-* [이메일 탭](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/journey-global-report.html?#email-global){target="_blank"}
-* [글로벌 보고서 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html?){target="_blank"}
-* [사용 사례 - 비즈니스 이벤트](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-business-event.html){target="_blank"}
-
-**섹션 2**
-
-* [컬렉션 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/managing-offers-in-the-offer-library/creating-collections.html?){target="_blank"}
-* [의사 결정 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?){target="_blank"}
-* [의사 결정 관리 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?){target="_blank"}
-* [개인화된 오퍼 추가](https://experienceleague.adobe.com/docs/journey-optimizer/using/email/design-email/add-content/add-offers-email.html?){target="_blank"}
-
-**섹션 3**
-
-* [Experience Manager Assets을 사용하여 에셋 만들기 및 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/assets-images/assets.html?){target="_blank"}
-* [에셋 관리](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?){target="_blank"}
-* [개인화 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/personalization/personalize.html?){target="_blank"}
-* [개인화 사용 사례: 주문 상태 알림](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-use-case.html?){target="_blank"}
-* [Adobe Experience Platform 데이터 소스](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/configure-journeys/data-source-journeys/adobe-experience-platform-data-source.html?){target="_blank"}
-* [콘텐츠 실험 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/get-started-experiment.html){target="_blank"}
-* [콘텐츠 실험 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/content-experiment.html?){target="_blank"}
-* [조각을 사용한 작업](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/reusable-content/fragments.html){target="_blank"}
-* [이메일 템플릿 사용](https://experienceleague.adobe.com/docs/journey-optimizer/using/email/design-email/start-creating-content/use-email-templates.html?){target="_blank"}
-* [처음부터 템플릿 만들기](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/reusable-content/content-templates.html?#create-template-from-scratch){target="_blank"}
-
-**섹션 4**
-
-* [데이터 유형](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/data-types.html?){target="_blank"}
-* [실시간 고객 프로필 UI 안내서](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?){target="_blank"}
-* [XDM 시스템 개요](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?){target="_blank"}
-* [ID 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/get-started-identity.html?){target="_blank"}
-* [Adobe Experience Platform 대상자 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?){target="_blank"}
-* [대상 구성 및 사용자 지정 업로드 FAQ](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?#streaming-segmentation-events-guardrails){target="_blank"}
-* [Adobe Experience Platform 대상자 시작](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?){target="_blank"}
-* [등급 활동](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/audience-orchestration/composition-canvas.html?#rank){target="_blank"}
-* [데이터 수집 모니터링](https://experienceleague.adobe.com/docs/experience-platform/ingestion/quality/monitor-data-ingestion.html?){target="_blank"}
-* [스키마에 데이터 사용 레이블 추가](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?#add-labels-to-schema){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/588)
 
 +++
 

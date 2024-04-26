@@ -8,16 +8,20 @@ level: Experienced
 badge: label="시험 AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 1%
+source-wordcount: '647'
+ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Analytics] 개발자 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/530) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -147,39 +151,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**섹션 1: Adobe Experience Cloud 에코시스템의 Analytics 이해**
+**시험 준비 안내서**
 
-* [Analytics 기술 노트](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=ko-KR){target="_blank"}
-* [Analytics 및 Experience Cloud ID 설정](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=ko-KR){target="_blank"}
-* [Analytics 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 솔루션 디자인 참조(SDR)에 기반한 전략 및 디자인**
-
-* [리소스 관리](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] 설명서](https://experienceleague.adobe.com/docs/analytics.html)
-
-**섹션 3: Analytics 구현 및 구성**
-
-* [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [보고서 세트 이해 및 생성](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko){target="_blank"}
-* [링크 추적 구성 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**섹션 4: 태그 관리 시스템**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [개요](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
-
-**섹션 5: 모바일 서비스**
-
-* [모바일 장치용 Analytics 구현](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [모바일 서비스 처리 규칙 마이그레이션 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**섹션 6: 테스트, 검증 및 문제 해결**
-
-* [Adobe Experience Platform Debugger 개요](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [활성화, 디버깅 및 맞춤화 [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Analysis Workspace 성능 최적화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 

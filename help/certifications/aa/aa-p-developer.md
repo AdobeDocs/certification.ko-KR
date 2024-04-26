@@ -8,16 +8,20 @@ level: Experienced
 badge: label="시험 AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 1%
+source-wordcount: '717'
+ht-degree: 0%
 
 ---
 
 # 인증 여정 [!DNL Adobe Analytics] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/532) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -140,49 +144,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**섹션 1: Adobe Experience Cloud 생태계의 Analytics**
+**시험 준비 안내서**
 
-* [Adobe Experience Cloud ID 서비스](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [FAQ](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [AEM 6.5 Authoring 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 솔루션 디자인 참조를 기반으로 하는 분석 전략 및 디자인**
-
-* [구현 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Analytics 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
-* [목록 변수](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [머천다이징 eVar 및 제품 검색 방법](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
-
-**섹션 3: Analytics 구현 및 구성**
-
-* [Analytics 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
-* [빠른 팁 - Launch 규칙에 데이터 전달](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
-* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [Analytics 데이터 수집 방법](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
-
-**섹션 4: 태그 관리 시스템**
-
-* [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [패킷 분석기](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
-* [위성 개체 참조](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
-
-**섹션 5: 모바일 서비스 및 API**
-
-* [[!DNL Adobe Analytics]: 이메일 마케팅(ESP) 통합 사례 연구](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
-* [[!DNL Adobe Analytics] API](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
-* [Enterprise 및 Teams 관리 가이드 시작](https://helpx.adobe.com/kr/enterprise/admin-guide.html){target="_blank"}
-* [Analytics 보고 API](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
-* [처리 규칙 작동 방식](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-
-**섹션 6: 테스트, 검증 및 문제 해결**
-
-* [JavaScript 오류 참조](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Analytics 기술 노트](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=ko-KR){target="_blank"}
-* [linkDownloadFileTypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html){target="_blank"}
-* [클릭한 구성 요소 추적 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
-* [[!DNL Adobe Analytics] 구현 디버깅 - 도구](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/532)
 
 <br>
 

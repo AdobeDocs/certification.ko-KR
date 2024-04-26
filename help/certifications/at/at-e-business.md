@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '961'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 # 인증 여정 [!DNL Adobe Target] 비즈니스 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/594) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -165,43 +169,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**섹션 1: 계획 및 전략**
+**시험 준비 안내서**
 
-* [에서 계정 환경 설정 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html){target="_blank"}
-* [에서 Enterprise 사용자 권한 이해 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html){target="_blank"}
-* [Enterprise 사용자 권한 구성](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html){target="_blank"}
-* [에서 작업 공간 설정 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html?lang=ko-KR){target="_blank"}
-* [관리 설정 소개](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
-* [에서 속성 설정 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 구성, 실행 및 관리**
-
-* [소개 [!DNL Adobe Target] 구현](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html){target="_blank"}
-* [태그와 Target 통합](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html){target="_blank"}
-* [위치 사용의 이점](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.2-benefits-of-locations.html){target="_blank"}
-* [Target 요청 소개](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html){target="_blank"}
-* [Target 매개 변수 소개](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html){target="_blank"}
-* [방법 이해 [!DNL Adobe Target]의 at.js 2.0 작품](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
-* [구현 [!DNL Adobe Target]단일 페이지 애플리케이션(SPA)의 s at.js 2.0](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
-* [Target 구현 디자인](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
-* [Target 구현을 디자인하는 다음 단계](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
-
-**섹션 3: 분석 및 보고**
-
-* [개인화 통찰력 보고서 사용](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
-* [Analytics와 Target 통합](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
-* [Adobe Analytics을 데이터 소스로 사용 [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
-* [자동 타겟 활동을 위해 Analysis Workspace에서 A4T 보고서 설정](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ko-KR){target="_blank"}
-
-**섹션 4: 문제 해결**
-
-* [Experience Cloud Debugger 문제 해결](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html){target="_blank"}
-* [Target 추적 문제 해결](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-target-traces.html){target="_blank"}
-* [mbox 오류 문제 해결](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.1-troubleshoot-mbox-errors.html){target="_blank"}
-* [활동 오류 문제 해결](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
-* [통합 오류 문제 해결](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
-
-<br>
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/594)
 
 **연습 테스트 수행**
 

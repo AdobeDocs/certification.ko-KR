@@ -7,16 +7,20 @@ role: User
 badge: label="시험 AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '775'
-ht-degree: 1%
+source-wordcount: '738'
+ht-degree: 0%
 
 ---
 
 # 인증 여정 [!DNL Adobe Analytics] 비즈니스 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/533) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -26,13 +30,13 @@ ht-degree: 1%
 
 ### 시험 세부 정보 {#exam-details}
 
-* **레벨:** 전문가(1-3년 경력)
-* **합격 점수:** 31/50
-* **시간:** 120분
-* **게재:** 온라인 처리됨(카메라 액세스 필요)
-* **사용 가능한 언어:** 영어, 일본어
-* **비용:** 225달러(글로벌) / 150달러(인도)
-* **시험 ID:** AD0-E208(영어), AD0-E208-J(일본어)
+* 레벨: 전문가(1-3년 경력)
+* 합격 점수: 31/50
+* 시간: 120분
+* 게재: 온라인 처리됨(카메라 액세스 필요)
+* 사용 가능한 언어: 영어, 일본어
+* 비용: $225(글로벌) / $150(인도)
+* 시험 ID: AD0-E208(영어), AD0-E208-J(일본어)
 
 <br>
 
@@ -154,36 +158,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**섹션 1: 비즈니스 분석**
+**시험 준비 안내서**
 
-* [대상 [!DNL Adobe Analytics] 도구를 사용해야 합니까?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
-* [[!DNL Adobe Analytics] 설명서](https://helpx.adobe.com/kr/support/analytics.html){target="_blank"}
-* [데이터 수집 정보](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=ko-KR){target="_blank"}
-* [Analytics 데이터 피드 개요](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=ko-KR){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 프로젝트에 대한 보고 및 대시보드**
-
-* [Reports &amp; Analytics 시작하기](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
-* [[!DNL Adobe Analytics] 대시보드 - 개요](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
-* [프로젝트 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
-* [시각화 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [지능형 경고 개요](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**섹션 3: 세분화 및 계산된 지표**
-
-* [Analytics 세그멘테이션](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
-* [계산 및 고급 계산(파생) 지표](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
-
-**섹션 4: 일반적인 도구 지식 및 문제 해결**
-
-* [Analytics 툴 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
-* [Analysis Workspace 개요](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**섹션 5: 관리**
-
-* [Analytics 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
-* [FAQ(자주 묻는 질문)](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [분류 규칙 빌더 워크플로](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/533)
 
 **연습 테스트 수행**
 

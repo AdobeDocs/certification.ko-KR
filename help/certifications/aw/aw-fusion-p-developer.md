@@ -6,9 +6,9 @@ role: Developer
 badge: label="시험 AD0-E902" type="neutral"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '966'
+source-wordcount: '917'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Workfront Fusion] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/550) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -134,36 +138,11 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**섹션 1: 기본 기술 개념**
+**시험 준비 안내서**
 
-* [Adobe에서 매핑 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
-* [Adobe의 함수 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
-* [Adobe의 조직 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FOrganizations%2F_organizations.htm&amp;_LANG=enus){target="_blank"}
-* [Adobe 시작 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FGet_Started%2F_Get_started.htm&amp;_LANG=en){target="_blank"}
-* [앱 및 해당 모듈](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe의 시나리오 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-* [Adobe의 모듈 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 시나리오 설계 및 아키텍처**
-
-* [앱 및 해당 모듈](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe의 모듈 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe의 함수 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
-* [작업 항목 업데이트 및 업데이트 보기](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FUpdating_Work_Items_and_Viewing_Updates%2F_update-work-items-and-view-updates.htm&amp;_LANG=en){target="_blank"}
-* [시스템 추적 업데이트 피드](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
-* [Adobe의 시나리오 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-
-**섹션 3: 테스트 및 오류 처리**
-
-* [Adobe 오류 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FErrors%2F_errors.htm&amp;_LANG=en){target="_blank"}
-* [Adobe의 시나리오 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-* [앱 및 해당 모듈](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe에서 매핑 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
-
-**섹션 4: API 작업**
-
-* [앱 및 해당 모듈](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
-* [Adobe의 모듈 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/550)
 
 <br>
 
