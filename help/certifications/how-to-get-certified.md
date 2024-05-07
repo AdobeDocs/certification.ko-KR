@@ -4,9 +4,9 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수
 
 >[!TAB 인증 공급업체]
 
-Adobe 자격 증명 팀은 공급업체와 협력하여 프로그램의 이니셔티브와 목표를 지원합니다.  다음은 공급업체와 해당 연락처 정보입니다.
+Adobe Digital Experience Certification Program은 공급업체와 협력하여 프로그램의 이니셔티브와 목표를 지원합니다. 다음은 공급업체와 해당 연락처 정보입니다.
 
 | 공급업체 이름 | 설명 | 지원 페이지/이메일 |
 | ------- | ------- | ------- |

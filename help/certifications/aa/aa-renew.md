@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: d8759508e4f618a8c66c91c9ebce0478f2bd5168
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1862'
+source-wordcount: '1864'
 ht-degree: 3%
 
 ---
@@ -240,10 +240,10 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 2**
 
-* [프로젝트 공유](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+* [프로젝트 공유](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
 * [구성 요소 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
 * [경고 빌더](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=ko-KR)
-* [모바일 스코어카드 만들기](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
+* [모바일 스코어카드 만들기](https://experienceleague.adobe.com/ko/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **섹션 3**
 
@@ -302,7 +302,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
   [Adobe Analytics에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
-  고객 참조가 검토되면 Adobe 자격 증명 팀으로부터 알림을 받게 됩니다. 참조가 수락되지 않으면 인증이 만료되기 전에 성공하기 전까지 다시 제출할 수 있습니다.
+  고객 참조가 검토되면 Adobe 디지털 경험 인증 프로그램 으로부터 알림을 받게 됩니다. 참조가 수락되지 않으면 인증이 만료되기 전에 성공하기 전까지 다시 제출할 수 있습니다.
 
 >[!NOTE]
 >
