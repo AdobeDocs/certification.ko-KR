@@ -6,9 +6,9 @@ role: Developer
 badge: label="시험 AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 42e49c6bc5c7b20d3d298cff4c2c72d1d409c607
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Workfront] 대상 [!DNL Experience Manager] 향상된 커넥터 전문가
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/615) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -117,40 +121,11 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**섹션 1: 기술 요구 사항**
+**시험 준비 안내서**
 
-* [사용자 정의 양식 개요](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [문서 통합 구성](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
-* [멀티테넌트 관리 및 동시 개발 이해](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html){target="_blank"}
-* [기존 양식 빌더로 계산된 데이터를 사용자 정의 양식에 추가](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [Adobe [!DNL Workfront] 상태 사이트](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
-* [개발 도구를 사용한 고급 문제 해결](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 구성**
-
-* [모범 사례 - 온보딩 및 채택](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
-* [개별 사용자 프로필 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] Adobe과 통합 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
-* [메타데이터 및 키워드: 메타데이터 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html){target="_blank"}
-* [설치 [!DNL Workfront] 대상 [!DNL Experience Manager] 향상된 커넥터](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
-
-**섹션 3: 비즈니스 관행**
-
-* [개발 [!DNL Workfront] DAM 전략](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
-* [작업 항목에 대한 승인 프로세스 만들기](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [자동화된 워크플로우 개요](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
-* [증명 검토 및 승인](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
-* [프로젝트 타임라인에서 진행 상황 추적](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
-* [Adobe 목표 정의 [!DNL Workfront] 구현](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
-
-**섹션 4: 커넥터 설치 및 구성**
-
-* [설치 [!DNL Workfront] 대상 [!DNL Experience Manager] 향상된 커넥터](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
-* [[!DNL Workfront] 향상된 커넥터 기본 사항](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html){target="_blank"}
-* [구성 [!DNL Workfront] 대상 [!DNL Experience Manager] 향상된 커넥터](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] Adobe과 통합 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
-
-<br>
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/615)
 
 **샘플 질문**
 
