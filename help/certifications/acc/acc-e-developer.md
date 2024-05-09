@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: 6196ca57b04cb2c197db3c3dc96eedb89fbf9ccc
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '732'
 ht-degree: 1%
 
 ---
@@ -136,7 +136,7 @@ ht-degree: 1%
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
@@ -144,7 +144,7 @@ ht-degree: 1%
 
 **섹션 1: 시스템 구성**
 
-* [[!DNL Campaign Classic] v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html){target="_blank"}
+* [[!DNL Campaign Classic] v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko-KR){target="_blank"}
 * [트랜잭션 메시지 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html){target="_blank"}
 * [일반 아키텍처](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
 * [Adobe Campaign 통합 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/about-campaign-integrations.html){target="_blank"}

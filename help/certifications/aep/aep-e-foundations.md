@@ -8,10 +8,10 @@ badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1318'
-ht-degree: 9%
+source-wordcount: '1069'
+ht-degree: 1%
 
 ---
 
@@ -125,7 +125,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
@@ -145,7 +145,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 **섹션 3: 프로필 통합**
 
 * [ID 및 ID 그래프](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
-* [맵 ID](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
+* [ID 매핑](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
 * [ID 데이터 레이블 지정, 처리 및 확인](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [대상 세그먼트를 내보내기 위한 데이터 세트 만들기](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
 * [실시간 고객 프로필을 사용하여 머신 러닝 세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
@@ -265,7 +265,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
@@ -283,7 +283,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 * [Real-time Customer Data Platform 홈 페이지 및 대시보드](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [UI의 대상에 대한 데이터 흐름 모니터링](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
 * [Adobe에서 세그먼트 만들기 및 활성화 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [개인정보 보호 개요](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
+* [개인 정보 보호 개요](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Real-time CDP의 데이터 거버넌스](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [데이터 거버넌스 프레임워크 적용](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
 * [데이터 거버넌스 시작하기](https://video.tv.adobe.com/v/333350/){target="_blank"}

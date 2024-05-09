@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 ### 의도한 대상 {#intended-audience}
 
 * 비즈니스 분석가
-* 상거래 전략가
+* Commerce 전략가
 * 컨설턴트
 * 기술 프로젝트 관리자/기술 계정 관리자
 * 애플리케이션 설계자/솔루션 설계자/전문가
@@ -154,7 +154,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

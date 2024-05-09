@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="시험 AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '858'
-ht-degree: 13%
+source-wordcount: '694'
+ht-degree: 1%
 
 ---
 
@@ -129,7 +129,7 @@ ht-degree: 13%
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
@@ -138,7 +138,7 @@ ht-degree: 13%
 **섹션 1: 솔루션 정의**
 
 * [구독 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html){target="_blank"}
-* [Campaign 서버 구성 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html){target="_blank"}
+* [Campaign 서버 구성 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=ko){target="_blank"}
 * [게재 모니터링 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=ko){target="_blank"}
 * [하드웨어 크기 조정 권장 사항](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
 * [독립형 배포](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=ko){target="_blank"}
@@ -147,8 +147,8 @@ ht-degree: 13%
 
 * [전원 부스터 및 전원 클러스터](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
 * [PII 보기 제한](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
-* [워크플로우 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ko){target="_blank"}
-* [데이터 모델 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=ko){target="_blank"}
+* [워크플로우 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+* [데이터 모델 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
 * [개인 정보 보호 요청 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
 
 **섹션 3: 설치 및 관리**
@@ -164,7 +164,7 @@ ht-degree: 13%
 * [워크플로우 실행 모니터링](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=ko){target="_blank"}
 * [ID 및 SSO(Single Sign-On) 설정](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
 * [데이터베이스 매핑](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
-* [워크플로우 히트맵](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
+* [워크플로우 열 지도](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
 
 **섹션 5: 사용자 정의**
 

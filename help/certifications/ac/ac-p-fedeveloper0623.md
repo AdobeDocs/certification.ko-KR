@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '711'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

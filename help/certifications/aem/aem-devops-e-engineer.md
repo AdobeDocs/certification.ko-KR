@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '604'
 ht-degree: 0%
 
 ---
@@ -135,7 +135,7 @@ Managed Services 및 Adobe Experience Manager as a Cloud Service Adobe에서 편
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

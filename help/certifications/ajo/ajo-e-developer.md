@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '633'
 ht-degree: 4%
 
 ---
@@ -132,7 +132,7 @@ ht-degree: 4%
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
@@ -140,7 +140,7 @@ ht-degree: 4%
 
 **섹션 1: 관리 및 구성**
 
-* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
    * 액세스 제어
    * 메시지 구성
@@ -167,11 +167,11 @@ ht-degree: 4%
 * [Adobe 소개 [!DNL Experience Platform] 강의](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Adobe 시작 [!DNL Experience Platform] 데이터 엔지니어 교육 과정](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [데이터 엔지니어를 위한 데이터 수집 교육 과정](https://experienceleague.adobe.com/?lang=ko-KR?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [Digital Experience 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
+* [Digital Experience 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ko-KR){target="_blank"}
 
 **섹션 3: Offer decisioning**
 
-* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
    * 의사 결정 관리
 
@@ -181,7 +181,7 @@ ht-degree: 4%
 
 **섹션 4: 컨텐츠 작성**
 
-* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
    * 콘텐츠 디자인
    * 여정
@@ -191,7 +191,7 @@ ht-degree: 4%
 
 **섹션 5: Journey Orchestration**
 
-* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
    * 여정
    * 추적 및 모니터링

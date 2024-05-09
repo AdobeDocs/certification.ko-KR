@@ -8,10 +8,10 @@ role: User
 badge: label="시험 AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 6%
+source-wordcount: '585'
+ht-degree: 1%
 
 ---
 
@@ -130,7 +130,7 @@ ht-degree: 6%
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
@@ -147,8 +147,8 @@ ht-degree: 6%
 
 **섹션 2: 보고서, 통찰력 및 도구**
 
-* [[!DNL Analytics] Tools 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [ [!DNL Reports & Analytics] 시작](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
+* [[!DNL Analytics] 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
+* [시작 [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] 보고](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
 * [만들기 [!DNL Analytics] Adobe 프로필 [!DNL Advertising] 활성화 및 보고](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
 * [다음에 대한 보고서 [!DNL Advertising] Adobe의 데이터 [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}

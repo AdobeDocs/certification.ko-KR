@@ -9,9 +9,9 @@ badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1474'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
@@ -306,7 +306,7 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

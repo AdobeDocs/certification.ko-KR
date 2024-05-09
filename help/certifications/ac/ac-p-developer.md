@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: a2b143073ab26b3667a7c82243607e713595c92e
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -176,7 +176,7 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

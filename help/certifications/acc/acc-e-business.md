@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '596'
 ht-degree: 3%
 
 ---
@@ -122,7 +122,7 @@ ht-degree: 3%
 
 <br>
 
-+++2단계: 시험 준비
++++2단계: 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
@@ -130,11 +130,11 @@ ht-degree: 3%
 
 **섹션 1: 캠페인 관리**
 
-* [[!DNL Campaign Classic] v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html){target="_blank"}
+* [[!DNL Campaign Classic] v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko-KR){target="_blank"}
 * [마케팅 캠페인 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ko){target="_blank"}
 * [시드 주소 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html)
 * [마케팅 캠페인 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ko)
-* [Adobe [!DNL Campaign Classic] V7 튜토리얼](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html)
+* [Adobe [!DNL Campaign Classic] V7 튜토리얼](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR)
 * [사용자 지정 수신자 테이블 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
 **섹션 2: 워크플로 관리**
@@ -151,7 +151,7 @@ ht-degree: 3%
 * [워크플로우의 작업 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
 * [프로세스 및 데이터 관리 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html){target="_blank"}
 * [양식 식별](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html){target="_blank"}
-* [콘텐츠 관리 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html){target="_blank"}
+* [콘텐츠 관리 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=ko){target="_blank"}
 
 
 **섹션 4: 게재 관리**
