@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-에서 약 2년의 경험을 가진 하이브리드 역할의 구현 컨설턴트로서 경험이 있어야 합니다. [!DNL Adobe Analytics] 구현. 사용자는 IT와 비즈니스 간의 가교 역할을 하고 비즈니스 요구 사항을 기술 솔루션(SDR)으로 번역하며 분석가가 제공한 요구 사항을 기반으로 필요한 변수 유형, 데이터 수집 위치 및 방법, 데이터 모델(데이터 레이어) 디자인, 태그 관리 솔루션을 구성 및 유지 관리합니다.
+에서 약 2년의 경험을 가진 하이브리드 역할의 구현 컨설턴트로서 경험이 있어야 합니다. [!DNL Adobe Analytics] 구현. IT와 비즈니스 간의 가교 역할을 수행하고, 비즈니스 요구 사항을 기술 솔루션(SDR)으로 번역하며, 분석가가 제공한 요구 사항을 기반으로 필요한 변수 유형, 데이터 수집 위치 및 방법, 데이터 모델(데이터 레이어) 디자인, 태그 관리 솔루션을 구성 및 유지 관리합니다.
 
-사용자는 Analytics 개발자가 페이지에서 태그를 구현하는 경우가 거의 없습니다. 대신 IT 또는 시스템 통합자에 의해 구현됩니다.
+사용자는 Analytics 개발자로서 페이지에서 태그를 구현하는 경우가 거의 없습니다. 대신 IT 또는 시스템 통합자에 의해 구현됩니다.
 
 다음 도구 및 환경에 익숙해야 합니다.
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 * Adobe Experience Platform Launch(Adobe 시작)
 * 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe Debugger, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
-* [!DNL Adobe Analytics] Admin Console 보고서 세트 설정
+* [!DNL Adobe Analytics] 보고서 세트 설정 Admin Console
 * 기본 작업 영역 지식
 * 웹 개발 도구, 코드 편집기 및 모바일 디버깅 도구
 * Adobe 감사기
@@ -121,7 +121,7 @@ ht-degree: 0%
 * JavaScript 오류 문제 해결
 * 문제 해결 [!DNL Adobe Analytics] 변수
 * 테스트 및 디버깅 모범 사례 추천
-* 문제 해결 [!DNL Adobe Analytics] 라이프사이클 간 서버 호출(즉, beacon 요청에서 보고서에 표시되기까지의)
+* 문제 해결 [!DNL Adobe Analytics] 라이프사이클 간 서버 호출(즉, beacon 요청에서 보고서에 표시되기까지)
 
 <br>
 
@@ -145,7 +145,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

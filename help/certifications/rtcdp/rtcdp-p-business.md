@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="시험 AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ ht-degree: 0%
 
 **섹션 3: 비즈니스 분석(30%)**
 
-* 비즈니스 KPI에 다시 연결되는 사용 사례 식별
+* 비즈니스 KPI에 다시 연결된 사용 사례 식별
 * 플랫폼의 고객 세그먼트에 대한 데이터 분석 수행
 * 데이터 흐름 개념에 대한 이해 실증
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

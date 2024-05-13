@@ -7,7 +7,7 @@ level: Experienced
 badge: label="시험 AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '858'
 ht-degree: 0%
@@ -148,14 +148,14 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 * UI를 사용하여 클라우드 변수를 업데이트하는 방법을 설명합니다
 * UI를 사용한 환경 관리 설명
 * UI를 사용하여 분기 이해 시연
-* Adobe commerce Cloud Plan 기능 식별
+* Adobe Commerce Cloud 플랜 기능 식별
 
 **섹션 9: [!DNL Commerce] Cloud CLI 도구(관리 부분)(6%)**
 
 * CLI를 사용한 클라우드 변수 업데이트에 대한 이해 설명
-* CLI를 사용한 환경 관리 이해(CLI 전용 기능: 이메일 활성화, 환경 리베이스, 스냅샷, DB 덤프, 로컬 환경 설정)
+* CLI를 사용한 환경 관리 이해(이메일 활성화, 환경 기준 재지정, 스냅샷, DB 덤프, 로컬 환경 설정 등 CLI의 독점 기능)
 * CLI를 사용한 분기 이해
-* 클라우드 서비스 문제 해결 방법을 보여 주십시오. (내 SQL, Redis, 터널:info)
+* 클라우드 서비스 문제를 해결하는 방법을 보여 주십시오. (내 SQL, Redis, 터널:info)
 
 <br>
 
@@ -179,7 +179,7 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

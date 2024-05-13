@@ -6,7 +6,7 @@ role: Developer
 badge: label="시험 AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 0%
@@ -114,7 +114,7 @@ ht-degree: 0%
 **섹션 6: 방법론/모범 사례/사용 사례(22%)**
 
 * 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront]에서는 단일 캠페인에 포함된 결과물 추적을 설정하는 기능을 보여 줍니다.
-* 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront]에서는 전략적 우선 순위 지정 및 작업 정당화에 대한 기능을 보여줍니다.
+* 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront]는 전략적 우선 순위 지정 및 작업 정당화에 대한 기능을 보여 줍니다.
 * 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront], 재무, 활용도, 예측, 청구 요금/기록에 대한 기능 시연
 * 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront]은 워크플로우 및 승인 설정과 관련된 기능을 보여줍니다.
 * 시나리오가 주어지면 클라이언트의 인스턴스를 확장할 때 시스템 관리와 관련된 거버넌스의 프레임워크를 추천합니다.
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

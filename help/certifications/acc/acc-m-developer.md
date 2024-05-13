@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -56,14 +56,14 @@ ht-degree: 1%
 * LEO 및 작업 종속성을 포함한 기술 로드맵을 제공하는 기능
 * 프로젝트 범위 및 타임라인에 대한 기술 요구 사항 정보 제공 기능
 * 비즈니스 요구 사항에 대한 경험 워크숍
-* 최고의 솔루션 디자인 워크숍 경험
+* 선도적인 솔루션 디자인 워크샵에서의 경험
 * 다양한 솔루션 접근 방식을 평가하고 권장 사항을 제공하는 기능
 * 다른 플랫폼에서 기존 캠페인 및 프로세스를 검토하여 Adobe Campaign 구현에 대한 요구 사항을 결정하는 기능
 * 제품 기능 설명 및 시연 기능
 * 제품 기능을 높은 사용 사례에 매핑하는 기능
-* Pre-sales 팀을 지원한 경험
+* Pre-sales 팀 지원 경험
 * 현장 코칭 제공 기능(제품 모범 사례, 보고 지표 등)
-* 배포 모델 간의 차이점을 설명하는 경험
+* 배포 모델 간의 차이점 설명 경험
 
 <br>
 
@@ -129,7 +129,7 @@ ht-degree: 1%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="시험 AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -100,7 +100,7 @@ ht-degree: 0%
 * 프로필 어셈블리 작동 방식 설명
 * ID 그래프의 작동 방식 설명
 * 프로필 구성 설명
-* Edge와 Hub 프로필 간 차이점
+* Edge와 Hub 프로필 구분
 
 **데이터 수집 (13%)**
 
@@ -112,7 +112,7 @@ ht-degree: 0%
 
 * CDP 내에서 대상 및 세그먼트를 작성하는 다양한 방법 설명
 * 다양한 세분화 유형 및 작동 방식 설명
-* 세그먼트/대상 활성화에 사용 사례를 적용하는 방법에 대한 이해 설명
+* 세그먼트/대상 활성화에 사용 사례를 적용하는 방법에 대한 이해를 보여 줍니다
 
 **활성화(12%)**
 
@@ -146,7 +146,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

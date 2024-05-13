@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **강의:** 테이크 어 [교육 과정](https://app.rockinfo.com/courses/105) 여기에는 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 포함된다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/381) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/381) 에서는 시험에 합격하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거쳐 맞춤 경로를 제공합니다.
 >
 >로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다.
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 * AEM Dispatcher 구성 및 캐싱의 목적 인식
 * AEM에서 다중 사이트를 구성하는 올바른 단계를 결정합니다.
 * OSGi 구성을 만들고 관리하는 방법 설명
-* 사용자 정의 OAK 인덱스를 관리하는 올바른 단계 결정
+* 사용자 정의 Oak 인덱스를 관리하는 올바른 단계 결정
 * OOTB SAML 또는 IMS 통합을 구성하는 올바른 단계 결정
 
 **섹션 2: AEM 개발(40%)**
@@ -109,7 +109,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

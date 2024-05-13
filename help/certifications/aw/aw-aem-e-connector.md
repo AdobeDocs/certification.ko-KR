@@ -1,12 +1,12 @@
 ---
 title: Enhanced Connector Expert 인증
-description: Adobe에서 인증된 Adobe 인증 전문가가 되는 방법에 대해 알아봅니다. [!DNL Workfront] 대상 [!DNL Experience Manager]
+description: Adobe에서 인증된 Adobe Certified Expert이 되는 방법 알아보기 [!DNL Workfront] 대상 [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="시험 AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -115,7 +115,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

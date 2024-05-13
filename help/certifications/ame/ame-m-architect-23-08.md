@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->이 인증에는 전제 조건이 있습니다. 활성(만료되지 않음) Adobe이 있어야 합니다. [!DNL Marketo Engage] 비즈니스 전문가 **전문가** Adobe을 받기 위한 인증 [!DNL Marketo Engage] 건축가 기본 시험.
+>이 인증에는 전제 조건이 있습니다. 활성(만료되지 않음) Adobe이 있어야 합니다. [!DNL Marketo Engage] 비즈니스 전문가 **전문가** Adobe을 수락하기 위한 인증 [!DNL Marketo Engage] 건축가 기본 시험.
 
 * 전제 조건: 활성(만료되지 않음) Adobe [!DNL Marketo Engage] 비즈니스 전문가 인증
 * 레벨: 기본(3~5년 경력)
@@ -66,7 +66,7 @@ ht-degree: 0%
 다음을 수행해야 합니다.
 
 * Marketo Engage 비즈니스 실무자 인증 전문가로서의 현재 인증
-* 최소 5년 경력의 경우 Marketo Engage 인스턴스가 여러 개인 것이 좋습니다.
+* 최소 5년 경력, 바람직하게는 여러 Marketo Engage 인스턴스 보유
 * 비즈니스 영향에 대한 이해 및 다양한 수준의 관련자(기술 및 비기술)에게 솔루션을 효과적으로 설명/전달
 * 솔루션을 개념화하고 Marketo Engage 아키텍처로 변환하여 통합의 영향을 받는 비즈니스 프로세스를 이해하는 기능
 * 인스턴스 아키텍처 원리에 대한 숙지
@@ -145,7 +145,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

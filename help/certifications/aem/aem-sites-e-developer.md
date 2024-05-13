@@ -7,7 +7,7 @@ role: Developer
 badge: label="시험 AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -80,7 +80,7 @@ ht-degree: 0%
 * AEM Dispatcher 구성을 만들고 관리하는 단계를 식별합니다
 * 멀티 테넌시를 구성하는 올바른 단계 결정
 * OSGi 구성을 만들고 관리하는 방법 설명
-* 시나리오가 주어지면 사용자 지정 OAK 인덱스를 만들고 관리하는 올바른 방법을 결정합니다
+* 시나리오가 주어지면 사용자 지정 Oak 인덱스를 만들고 관리하는 올바른 방법을 결정합니다
 * OOTB SAML 및 LDAP 통합을 구성하는 올바른 단계 결정
 
 **섹션 2: AEM 개발(44%)**
@@ -126,7 +126,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

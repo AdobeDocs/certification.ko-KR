@@ -7,7 +7,7 @@ role: Developer
 badge: label="시험 AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -86,7 +86,7 @@ ht-degree: 0%
 * 시나리오가 주어지면 AEM Forms을 빌드하는 데 필요한 단계를 식별합니다
 * Forms 데이터 모델 설명
 * AEM Forms을 사용자 지정하는 단계 식별
-* 시나리오가 주어지면 GuideBridge API를 활용하여 Javascript ClientLib을 사용하는 단계를 식별합니다
+* 시나리오가 주어지면 GuideBridge API를 활용하여 JavaScript ClientLib을 사용하는 단계를 식별합니다
 
 **섹션 2: 프로세스 및 워크플로(34%)**
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="시험 AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '644'
 ht-degree: 0%
@@ -64,7 +64,7 @@ ht-degree: 0%
 * 향후 요구 사항을 수용할 수 있는 컨텐츠/자산에 대한 컨텐츠 모델 정의
 * 비즈니스 요구 사항에 따라 필요한 템플릿 및 구성 요소 정의
 * 맞춤형 구성 요소와 비교하여 기본 제공/기능/핵심 구성 요소를 언제 사용해야 하는지 확인
-* 디자인 캐싱, 로드 밸런싱 및 보안 전략(Dispatcher, Firewall, CDN)
+* 디자인 캐싱, 로드 밸런싱 및 보안 전략(Dispatcher, firewall, CDN)
 * 초기 설정 및 기능 제공에 대한 높은 수준의 작업량 예측 제공
 * 국제화의 기능 및 사용 사례 수립
 * 다중 사이트 및 다국어를 지원하는 전략 정의
@@ -137,7 +137,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

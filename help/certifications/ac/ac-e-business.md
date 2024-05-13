@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/386) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
-
 
 ## 시험 설명 {#exam-description}
 
@@ -88,10 +87,10 @@ ht-degree: 0%
 * 고객 요구 사항을 충족하기 위해 제품 유형 및 해당 기능을 활용하는 방법 결정
 * 요구 사항 해석 및 모의 실행을 통해 기본 기능을 충족할 수 있는지 확인
 * 관리 패널 및 공통 기능의 위치에 대한 지식 시연
-* 가져오기/내보내기 Adobe 기능 시연 [!DNL Commerce] 엔티티
+* Adobe 가져오기/내보내기 기능 시연 [!DNL Commerce] 엔티티
 * 장바구니 및 체크아웃을 기본적으로 구성하는 방법 이해
 * Adobe에서 기본 사용 가능한 배송 방법 평가 [!DNL Commerce] 일반적인 사용 사례에 적용되는 방식
-* Adobe을 사용하여 양식화된 콘텐츠를 만들고 게시하는 방법 이해 [!DNL Commerce] PageBuilder를 포함한 CMS 기능
+* Adobe을 사용하여 양식화된 콘텐츠를 만들고 게시하는 방법 이해 [!DNL Commerce] Page Builder를 포함한 CMS 기능
 * 기본 도구를 사용하여 주문 수명 주기 관리
 * 다양한 선물 옵션(기프트 카드, 선물 포장, 메시지 제공)을 구성하는 기능을 보여 줍니다.
 * 트랜잭션 이메일 구성 및 수정
@@ -154,7 +153,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

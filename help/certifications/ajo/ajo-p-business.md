@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >이제 시험 준비에 도움이 되는 온디맨드 강좌를 무료로 이용할 수 있습니다. 귀하의 경험 수준에 가장 적합한 과정을 선택하여 오늘 학습 여정을 시작하십시오!
 >
->* 다음 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 에서는 규모에 맞게 개인화를 위해 설계된 유일한 플랫폼에 구축된 디지털 마케팅 도구 세트인 Adobe Experience Cloud을 소개합니다.
+>* 다음 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 규모에 맞게 개인화를 위해 설계된 유일한 플랫폼에 구축된 디지털 마케팅 도구 세트인 Adobe Experience Cloud을 소개합니다.
 >* 다음 [Adobe Journey Optimizer 파운데이션 과정](https://app.rockinfo.com/courses/113) 는 이 특정 애플리케이션에 대한 지식의 기반을 제공합니다.
 >* 다음 [Adobe Journey Optimizer 비즈니스 실무자 전문 교육 과정](https://app.rockinfo.com/courses/107) 는 기초 과정을 기반으로 하며 전문 수준의 인증 시험을 준비할 수 있도록 지원합니다.
->* 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/588) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
+>* 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/588) 에서는 시험에 합격하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거쳐 맞춤 경로를 제공합니다.
 >
 >_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 * 여정의 다양한 활동 이해 및 사용
 * 기본 디버깅 - 테스트 모드 또는 보고(쿼리 서비스 필요 없음)
 * 비즈니스와 관련된 여정 요구 사항 수집 및 문서화
-* 여정 및 채널에 대한 모범 사례(예: 전송 모범 시간, 사용 모범 채널, 다양한 사용 사례에 대한 모범 여정 디자인 패턴, 트랜잭션 및 마케팅 메시지 사용 시기)를 파악합니다.
+* 여정 및 채널에 대한 모범 사례(예: 전송 모범 시간, 사용 모범 채널, 다양한 사용 사례에 대한 모범 여정 디자인 패턴, 트랜잭션 및 마케팅 메시지 사용 시기)를 파악합니다
 * 전달성 개념 이해(예: 다양한 바운스, 준비)
 * 빈도, 피로 규칙 이해
 * 데이터 세트 미리 보기
@@ -167,7 +167,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

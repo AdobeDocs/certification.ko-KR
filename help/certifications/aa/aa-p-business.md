@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 * 미디어/마케팅 분석가
 * 제품 소유자 및 관리자
 * UI 분석가
-* 전환 / 최적화 전문가
+* 전환/최적화 전문가
 
 <br>
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 1%
 
 ---
@@ -74,9 +74,9 @@ ht-degree: 1%
 
 기술:
 
-* Marketing cloud debugger / Adobe Experience Cloud debugger라고도 함
+* Marketing cloud debugger/Adobe Experience Cloud debugger라고도 함
 * Target용 보고 소스로서의 Adobe Analytics 특히 A4T 통합
-* 브라우저의 콘솔/브라우저 개발자 도구(예: 콘솔, 네트워크 탭)
+* 콘솔, 네트워크 탭과 같은 브라우저의 콘솔/브라우저 개발자 도구
 * 브라우저의 네트워크 도구
 * 기타 Adobe 도구에 대한 기본 이해
 * 개발자 콘솔 (모든 웹 브라우저)
@@ -90,8 +90,8 @@ ht-degree: 1%
 
 환경:
 
-* 데스크탑 및 모바일 장치를 포함한 데스크탑 / 웹 사이트
-* 모바일 앱 (기본 이해) / 모바일 장치용 Target 사용
+* 데스크탑 및 모바일 장치를 포함한 데스크탑/웹 사이트
+* 모바일 장치용 Target의 모바일 앱(기본 이해)/사용
 * 스테이징-개발
 * 프로덕션
 * 모바일 장치, 태블릿 장치 및 데스크탑 장치 전반의 프로덕션 환경
@@ -115,7 +115,7 @@ ht-degree: 1%
 * 주어진 시나리오를 기반으로 테스트 가설을 분석하고 유효한 가설의 측면을 식별합니다
 * KPI 기반 기본 및 보조 성공 지표 결정
 * 대상 요구 사항 평가
-* 적절한 분석 보고 소스(예: Target 또는 Adobe Analytics)를 결정합니다
+* 적절한 분석 보고 소스(즉, Target 또는 Adobe Analytics)를 결정합니다
 
 **섹션 2: 구성, 실행 및 관리(42%)**
 
@@ -163,7 +163,7 @@ ht-degree: 1%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

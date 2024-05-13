@@ -1,15 +1,15 @@
 ---
 title: 프론트엔드 개발자 전문가 신규 인증
-description: Adobe을 위해 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다 [!DNL Commerce] .
+description: Adobe을 위해 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다 [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="시험 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의**: 지금 시작했거나 새로 고침이 필요한 경우 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
+>* **강의**: 지금 시작했거나 새로 고침이 필요한 경우 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이렇게 하면 인증 여정에서 빌드할 수 있는 지식의 기반이 됩니다.
 >
 >* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/384) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
 >
@@ -118,7 +118,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * 녹아웃 JS 사용 설명
 * jQuery 위젯의 사용 설명
 
-**섹션 5: 관리자 구성 및 PageBuilder(6%)**
+**섹션 5: 관리자 구성 및 페이지 빌더(6%)**
 
 * 페이지 빌더 및 CMS 콘텐츠를 사용자 지정하는 기능 시연&quot;
 * 특정 범위(웹 사이트, 스토어, 스토어-뷰)에 테마 적용/예약
@@ -127,7 +127,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 
 **섹션 6: 툴(CLI 및 성능)(8%)**
 
-* 기본 bin/magento 명령 사용 설명
+* 기본 bin/Magento 명령의 사용 설명
 * Composer 명령 사용 설명(설치, 업데이트, 필요, 제거)
 * 배포 모드에 대한 적절한 사용 사례 차별화
 * 클라우드가 제공하는 추가 도구 설명(Fastly, 데이터베이스 다운로드, 콘텐츠 배포)
@@ -146,7 +146,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

@@ -7,7 +7,7 @@ role: Developer
 badge: label="시험 AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
@@ -73,7 +73,7 @@ ht-degree: 1%
 * 데이터 서비스와 통합할 수 있습니다
 * 워크플로우 구현
 * JEE(AEM Forms Workbench)에 대한 기본 이해를 통해 장기 라이브 - 단기 라이브 프로세스 및 서비스를 만듭니다.
-* GuideBridge API를 사용하여 Javascript clientlib 개발
+* GuideBridge API를 사용하여 JavaScript clientlibs 개발
 * sign v 정부 CAC를 기반으로 사용할 AEM Forms 환경 데스크탑 또는 서버 파악
 * 논리를 작성하고 다른 서비스를 호출하기 위한 Java/J2EE 및 JavaScript에 대한 기본 이해.
 * 적응형 양식 미리 채우기
@@ -96,7 +96,7 @@ ht-degree: 1%
 * Forms 빌드
 * Forms 데이터 모델 구성
 * AEM Forms 사용자 지정
-* GuideBridge API를 활용하여 Javascript ClientLib 개발 및 사용
+* GuideBridge API를 활용하여 JavaScript ClientLib 개발 및 사용
 
 **섹션 2: 프로세스 및 워크플로(34%)**
 
@@ -146,7 +146,7 @@ ht-degree: 1%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

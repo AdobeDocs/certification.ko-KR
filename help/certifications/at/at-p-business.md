@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 0%
 * 가설 요소 식별
 * KPI 기반 기본 및 보조 성공 지표 설명
 * 시나리오가 주어지면 대상자 요구 사항 평가
-* 적절한 분석 보고 소스(예: Target 또는 Adobe Analytics) 설명
+* 적절한 Analytics 보고 소스(즉, Target 또는 Adobe Analytics) 설명
 
 **섹션 2: 구성, 실행 및 관리(50%)**
 
@@ -125,7 +125,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

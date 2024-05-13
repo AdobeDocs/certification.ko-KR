@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="시험 AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ ht-degree: 1%
 * 마케팅 기술 분야에서 1-2년 경력
 * 3-6개월 동안 audience activation 경험
 * 부울 논리, 디지털 마케팅 용어, 데이터 분석 및 전략 경험
-* 비즈니스 목표 및 KPI에 대한 지식, 디지털 마케팅 기술 스택 및 다양한 플랫폼 통합에 대한 친숙도, 데이터 흐름(ID 유형, ID 동기화, 픽셀 추적, 사용자 기반 대상)에 대한 이해
+* 비즈니스 목표 및 KPI에 대한 지식
+* 디지털 마케팅 기술 스택 및 다양한 플랫폼 통합에 익숙함
+* 데이터 흐름(ID 유형, ID 동기화, 픽셀 추적, 사용자 기반 대상)에 대한 이해
 
 다음 기술 및 환경에 익숙해야 합니다.
 
@@ -63,7 +65,7 @@ ht-degree: 1%
 
 * DSP Platform(Trade Desk, Double Click Bid Manager 등)
 * Excel
-* 타블로와 유사한 도구(PowerBI, Qlik)
+* 타블로 및 유사 도구(Power BI, Qlik)
 * 광고 서버(캠페인 관리자 두 번 클릭)
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ ht-degree: 1%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

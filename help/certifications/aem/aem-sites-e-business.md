@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '555'
 ht-degree: 1%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 1%
 * 솔루션 설계자
 * AEM 솔루션에 대한 분석가 역할을 수행하는 파트너 조직의 개인 및 프리랜서
 * 비즈니스 요구 사항에 맞는 솔루션을 정의하도록 개발자를 참여시키는 데 필요한 기능과 성능을 알고 있는 마케팅 전문가
-* 제품을 사용하는 고객(예: 고급 사용자)
+* 제품을 사용하는 고객(즉, 고급 사용자)
 
 <br>
 
@@ -139,7 +139,7 @@ ht-degree: 1%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

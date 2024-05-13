@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 0%
@@ -52,9 +52,9 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* Adobe Cloud Manager 사용 및 구성 경험 최소 0~12개월
-* 개발자를 참여시켜 비즈니스 솔루션을 찾는 데 필요한 AEM 기능 및 성능에 대한 최소 0~12개월 동안의 경험
-* Continuous Integration/Continuous Deployment 작업 구성, 구현 및 관리에 대한 최소 0~12개월 동안의 경험
+* Adobe Cloud Manager 사용 및 구성 경력 최소 0~12개월
+* 개발자를 참여시켜 비즈니스 솔루션을 찾는 데 필요한 AEM 기능 및 성능에 대해 최소 0~12개월 동안 축적된 경험
+* 연속 통합/연속 배포 작업을 구성, 구현 및 관리한 경력 최소 0~12개월
 
 Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. [!DNL Experience Manager] as a Cloud Service 및 Adobe 설정 가능 [!DNL Experience Manager] 환경 및 인프라.
 
@@ -111,7 +111,7 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. 
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

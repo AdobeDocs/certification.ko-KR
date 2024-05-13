@@ -8,7 +8,7 @@ level: Experienced
 badge: label="시험 AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 또한 다음 작업에 대한 경험이 있어야 합니다.
 
-* SDR(Solutions Design Document) 해석 및 모든 용도 이해 [!DNL Adobe Analytics] 변수 수집됨
+* 솔루션 디자인 문서(SDR) 해석 및 모든 기능의 목적 이해 [!DNL Adobe Analytics] 변수 수집됨
 * Adobe(Experience Platform) 실행 이해 및 작업
 * 기준 요소 구성 이해 [!DNL Adobe Analytics] 차원 및 이벤트 페이지 이름, 링크 이름, Activity Map 등이지만 더 많은 고객 구현을 위해 전문가 개발자와 협력합니다. - 변수 매핑은 여전히 전문가 수준 개발자가 소유합니다.
 * AA 전문가가 제공한 디자인에 따라 Launch 내에서 규칙 생성 및 구성
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 * Adobe Experience Cloud ID의 기능 및 성능을 식별합니다.
 * Adobe 시작에 대한 사용을 식별합니다.
-* 활성화 / 지원 방법 확인 [!DNL Adobe Analytics] Adobe Experience Cloud Eco 시스템의 태그.
+* 활성화/지원 방법 확인 [!DNL Adobe Analytics] Adobe Experience Cloud Eco 시스템의 태그.
 
 **섹션 2: SDR 기반의 Analytics 전략 및 디자인(12%)**
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

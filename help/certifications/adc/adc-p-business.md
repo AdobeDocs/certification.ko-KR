@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* 다음 기간 내에 최소 0~12개월의 경험 보유 [!DNL Adobe Document Cloud]
+* 다음 기간 내에 최소 0~12개월 동안의 경험 [!DNL Adobe Document Cloud]
 * 비즈니스 요구 사항 파악 및 전달
 * 에 대한 제품 지원 조언을 수행할 수 있습니다. [!DNL Adobe Document Cloud] 솔루션.
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -90,7 +90,7 @@ ht-degree: 0%
 * 구성 요소를 만들려면 절차 개념 적용
 * 편집 가능한 템플릿 만들기
 * 클라이언트 라이브러리 만들기
-* CRX-DE Lite에서 콘텐츠 업데이트
+* CRXDE Lite에서 컨텐츠 업데이트
 * JCR 구조를 사용하여 노드로 이동
 * 경험 및 콘텐츠 조각 만들기
 * 코어 구성 요소 확장
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 

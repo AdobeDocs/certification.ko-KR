@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 1%
 * AEM AEM 서비스(자체 관리, AMS 또는 타사 클라우드)에서 as a Cloud Service으로 이동할 때 아키텍처 및 기능의 전반적인 변경 사항에 대해 이해합니다.
 * Adobe을 사용한 웹 애플리케이션 개발 경험 1-3년 [!DNL Experience Manager]
 * AEM Forms, Assets 및 Sites를 사용한 실습
-* AEM 프로젝트의 모든 단계에서 고객에게 조언을 제공하고 참여하는 마이그레이션 프로세스를 안내하는 기능
+* AEM 프로젝트의 모든 단계에 대한 권고 및 참여로 마이그레이션 프로세스를 안내하는 기능
 
 또한 다음 기술 및 환경에 익숙해야 합니다.
 
@@ -105,7 +105,7 @@ ht-degree: 1%
 
 **섹션 3: 배포(16%)**
 
-* Cloud Manager 파이프라인 구성 및 를 환경에 연결
+* Cloud Manager 파이프라인 구성 및 환경 연결
 * AEMaaCS 환경 프로비저닝(개발, 단계, 프로덕션 - 작성자, 게시, 미리보기)
 * Adobe IO CLI를 통해 배포 프로세스 관리
 
@@ -119,7 +119,7 @@ ht-degree: 1%
 
 **섹션 5: 구현(16%)**
 
-* Adobe 파이프라인을 통해 배포할 여러 프로젝트를 단일 프로젝트로 병합
+* Adobe 파이프라인을 통해 배포할 여러 프로젝트를 단일 프로젝트에 병합
 * 사용자/그룹 권한에 대한 권한 부여 스크립트 관리
 * 로컬 SDK 설정
 * AEM에서 as a Cloud Service으로 사용할 수 있는 실행 모드를 기반으로 구성 업데이트
@@ -138,7 +138,7 @@ ht-degree: 1%
 
 <br>
 
-+++2단계: 무료 학습 자료로 시험 준비
++++2단계: 이 무료 학습 자료로 시험 준비
 
 **학습 자료**
 
