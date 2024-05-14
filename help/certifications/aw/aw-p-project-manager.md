@@ -6,9 +6,9 @@ role: Developer
 badge: label="시험 AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '724'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **강의:** 다음 [Adobe Workfront 프로젝트 관리자 - 전문 교육 과정](https://app.rockinfo.com/courses/230) 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 수록되어 있다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/609) 에서는 시험에 합격하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거쳐 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/609) 에서는 시험에 성공하기 위해 필요한 자료를 비롯하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
 >
 >_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 

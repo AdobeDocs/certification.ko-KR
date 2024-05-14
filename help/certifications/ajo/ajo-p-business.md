@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >* 다음 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 규모에 맞게 개인화를 위해 설계된 유일한 플랫폼에 구축된 디지털 마케팅 도구 세트인 Adobe Experience Cloud을 소개합니다.
 >* 다음 [Adobe Journey Optimizer 파운데이션 과정](https://app.rockinfo.com/courses/113) 는 이 특정 애플리케이션에 대한 지식의 기반을 제공합니다.
 >* 다음 [Adobe Journey Optimizer 비즈니스 실무자 전문 교육 과정](https://app.rockinfo.com/courses/107) 는 기초 과정을 기반으로 하며 전문 수준의 인증 시험을 준비할 수 있도록 지원합니다.
->* 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/588) 에서는 시험에 합격하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거쳐 맞춤 경로를 제공합니다.
+>* 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/588) 에서는 시험에 성공하기 위해 필요한 자료를 비롯하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
 >
 >_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 

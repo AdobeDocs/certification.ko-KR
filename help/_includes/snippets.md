@@ -1,7 +1,7 @@
 ---
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -237,4 +237,4 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 ## 시험 준비 안내서 {#exam-prep-guide}
 
-무료 시험 준비 안내서는 시험에 성공하기 위해 필요한 심화 학습 자료를 포함하여 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
+무료 시험 준비 안내서는 시험에 성공하기 위해 필요한 자료를 포함하여 시험 준비 과정을 통해 맞춤 경로를 제공합니다.

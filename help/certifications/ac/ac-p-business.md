@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **교육 과정**: 다음 작업 수행 [Adobe Commerce 비즈니스 실무자 전문 교육 과정](https://app.rockinfo.com/courses/105) 주요 개념에 대한 설명, 실습 시연 및 지식 확인을 위한 자료입니다. 지금 막 시작하는 거라면 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 는 인증 여정에서 빌드할 수 있는 지식의 기반을 제공합니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/383) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/383) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
 >
 >_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 

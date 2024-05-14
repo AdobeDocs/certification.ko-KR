@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="시험 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe을 위한 인증 여정 [!DNL Marketo Engage] 설계자 기본
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/619) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -151,35 +155,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**섹션 1: 프로젝트 리더십**
-
-* [챔피언 블로그 - Marketo 국가](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko-KR){target="_blank"}
-* [설명서 - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
-
-**섹션 2: Adobe [!DNL Marketo Engage] 아키텍처 설계**
-
-* [보고 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
-* [사용자 지정 동기화 규칙 만들기 지침](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [잠재 고객 점수에 대한 확실한 가이드](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
-
-**섹션 3: 보고 및 속성**
-
-* [보고서 유형 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [속성 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
-* [챔피언 블로그 - Marketo 국가](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-
-**섹션 4: 고급 작업**
-
-* [Marketo 제품 문서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko-KR){target="_blank"}
-* [소프트 바운스 억제](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
-
-<br>
-
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**시험 준비 안내서**
+
+{{exam-prep-guide}}
+
+[시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/619)
 
 +++
 
