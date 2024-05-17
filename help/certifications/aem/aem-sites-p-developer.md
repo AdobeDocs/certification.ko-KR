@@ -7,9 +7,9 @@ role: Developer
 badge: label="시험 AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의:** 테이크 어 [교육 과정](https://app.rockinfo.com/courses/105) 여기에는 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 포함된다.
+>* **강의:** 다음을 수행합니다. [개발자용 Adobe Experience Manager Sites - 전문 교육 과정](https://app.rockinfo.com/courses/105)주요 개념에 대한 설명, 실습 데모 및 지식 확인을 포함합니다. 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager 파운데이션 과정](https://app.rockinfo.com/courses/240): 인증 여정에서 빌드할 수 있는 지식의 기반을 제공합니다.
 >
 >* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/381) 에서는 시험에 성공하기 위해 필요한 자료를 비롯하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
 >
@@ -119,34 +119,21 @@ ht-degree: 0%
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/105" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Adobe Experience Manager Foundations 교육 과정 수강](https://app.rockinfo.com/courses/240)
 
-<span class="spectrum-Button-label has-no-wrap">
-   강의 수강
-</span>
-</a>
+[Adobe Experience Manager Sites for Developers - Professional 교육 과정](https://app.rockinfo.com/courses/105)
 
 **시험 준비 안내서**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/381" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 준비 안내서 보기
-</span>
-</a>
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/381)
 
 **샘플 질문**
 
 {{sample-questions}}
 
-<a href="https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   샘플 질문 보기
-</span>
-</a>
+[샘플 질문 보기](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 
