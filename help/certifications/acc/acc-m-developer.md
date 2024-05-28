@@ -7,16 +7,20 @@ role: Data Architect
 badge: label="시험 AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 7a4da86f05dffd04ec46b82f8b47871c8d736723
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 1%
+source-wordcount: '620'
+ht-degree: 0%
 
 ---
 
 # Adobe을 위한 인증 여정 [!DNL Campaign Classic] 설계자 기본
 
 {{intro}}
+
+>[!NOTE]
+>
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/635) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -135,45 +139,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**섹션 1: 솔루션 정의**
+**시험 준비 안내서**
 
-* [구독 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html){target="_blank"}
-* [Campaign 서버 구성 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=ko){target="_blank"}
-* [게재 모니터링 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=ko){target="_blank"}
-* [하드웨어 크기 조정 권장 사항](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
-* [독립형 배포](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=ko){target="_blank"}
+{{exam-prep-guide}}
 
-**섹션 2: 데이터 조경**
-
-* [전원 부스터 및 전원 클러스터](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
-* [PII 보기 제한](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
-* [워크플로우 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
-* [데이터 모델 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [개인 정보 보호 요청 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
-
-**섹션 3: 설치 및 관리**
-
-* [오퍼 공간 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
-* [CRM 커넥터](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
-* [인바운드 채널에 대한 오퍼](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
-* [데이터 패키지를 사용한 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
-* [외부 계정](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html){target="_blank"}
-
-**섹션 4: 프로젝트 리더십**
-
-* [워크플로우 실행 모니터링](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=ko){target="_blank"}
-* [ID 및 SSO(Single Sign-On) 설정](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
-* [데이터베이스 매핑](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
-* [워크플로우 열 지도](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
-
-**섹션 5: 사용자 정의**
-
-* [Campaign을 Experience Cloud 트리거와 함께 사용하기](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html){target="_blank"}
-* [JavaScript 스크립트 및 템플릿](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [Snowflake에서 빅데이터 관리](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html){target="_blank"}
-* [CRM 커넥터](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
-* [상호 작용 및 오퍼 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
-* [운영 원칙](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/635)
 
 +++
 
