@@ -7,7 +7,7 @@ role: Developer
 badge: label="시험 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **과정:** 다음을 수행합니다. [Adobe Commerce 개발자 전문가 과정](https://app.rockinfo.com/courses/92) 여기에는 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 포함된다. 지금 막 시작하는 거라면 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 는 인증 여정에서 빌드할 수 있는 지식의 기반을 제공합니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/382) 에서는 시험에 성공하기 위해 필요한 자료를 비롯하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/136) 에서는 시험에 성공하기 위해 필요한 자료를 비롯하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
 >
 >로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다.
 
@@ -208,12 +208,7 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 준비 안내서 보기
-</span>
-</a>
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/136)
 
 +++
 

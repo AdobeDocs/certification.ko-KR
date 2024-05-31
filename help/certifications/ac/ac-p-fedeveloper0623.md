@@ -7,7 +7,7 @@ role: Developer
 badge: label="시험 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **강의**: 지금 시작했거나 새로 고침이 필요한 경우 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이렇게 하면 인증 여정에서 빌드할 수 있는 지식의 기반이 됩니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/384) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/138) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
 >
 >_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 
@@ -171,12 +171,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/384" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 준비 안내서 보기
-</span>
-</a>
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/138)
 
 +++
 

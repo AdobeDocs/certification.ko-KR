@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **강의:** 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager 파운데이션 과정](https://app.rockinfo.com/courses/240) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
 >
->* **시험 준비 안내서:**  다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/368) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:**  다음 [시험 준비 안내서](https://app.rockinfo.com/courses/124) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
 >
 >_Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
@@ -144,12 +144,8 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/368" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/124)
 
-<span class="spectrum-Button-label has-no-wrap">
-   시험 준비 안내서 보기
-</span>
-</a>
 
 +++
 

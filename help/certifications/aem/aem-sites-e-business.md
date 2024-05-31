@@ -7,10 +7,10 @@ role: User
 badge: label="시험 AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '553'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/410) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/127) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -69,17 +69,17 @@ ht-degree: 1%
 * 프로젝트
 * Forms
 * 경험 조각 및 콘텐츠 조각
-* Screens
+* 스크린
 * 워크플로
-* 시작
+* 론치
 * CRXDE Lite
 * 사용자 관리
 * 다중 사이트 관리
 * 모니터링 도구
-* 버전 매기기
+* 버전 관리
 * 개인화 및 컨텍스트 허브
 * SPA 편집기
-* 태그 지정
+* 태깅
 * 브라우저 사용
 * 웹에 대한 일반적인 이해
 * 반응형 웹 디자인 개념
@@ -153,12 +153,7 @@ ht-degree: 1%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/410" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   시험 준비 안내서 보기
-</span>
-</a>
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/127)
 
 +++
 

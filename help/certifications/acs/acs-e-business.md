@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/636) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/255) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -143,7 +143,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/playScorm/636)
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/255)
 
 +++
 
