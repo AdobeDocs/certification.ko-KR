@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="시험 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '717'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/619) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/248) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -163,7 +163,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/619)
+[시험 준비 안내서](https://app.rockinfo.com/courses/248)
 
 +++
 

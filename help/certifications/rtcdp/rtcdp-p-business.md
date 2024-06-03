@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="시험 AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* **강의:** 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/playScorm/637) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/133) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
 >
 >_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
 
@@ -130,10 +130,6 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
-
-{{practice-test}}
-
 **강의 수강**
 
 {{take-course}}
@@ -145,16 +141,16 @@ ht-degree: 0%
 </span>
 </a>
 
+**연습 테스트 수행**
+
+{{practice-test}}
+
 **시험 준비 안내서**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/637" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[시험 준비 안내서 보기](https://app.rockinfo.com/courses/133)
 
-<span class="spectrum-Button-label has-no-wrap">
-   시험 준비 안내서 보기
-</span>
-</a>
 
 +++
 
