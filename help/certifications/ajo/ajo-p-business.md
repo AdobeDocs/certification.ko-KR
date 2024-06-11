@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 573a6c2e60a4fe3376f3a567b4e99bf7ccb2a4db
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 * 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
 * 사용 가능한 언어: 영어
-* 비용: $225(글로벌) / $150(인도)
+* 비용: 125달러(전세계) / 95달러(인도)
 * 시험 ID: AD0-E607
 
 <br>
