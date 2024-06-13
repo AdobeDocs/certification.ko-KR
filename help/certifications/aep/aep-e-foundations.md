@@ -6,12 +6,13 @@ product: Experience Platform
 role: Developer
 badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 hidefromtoc: true
+hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
 source-wordcount: '1069'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -136,7 +137,7 @@ AD0-E600 시험은 Adobe의 기본 기능과 자주 수행되는 작업을 다�
 * [스키마 이해](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ko-KR){target="_blank"}
 * [스키마 및 XDM 개요/Adobe [!DNL Experience Platform]: 데이터 모델링 및 수집](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [스키마의 모델 데이터](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
-* [스키마 및 XDM 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=ko-KR){target="_blank"}
+* [스키마 및 XDM 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
 **섹션 2: 데이터 수집**
 
