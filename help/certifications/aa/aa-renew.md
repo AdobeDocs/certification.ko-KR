@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 2dccb15126e43c102ab9afdbd99f75c73e315deb
 workflow-type: tm+mt
 source-wordcount: '1864'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -109,7 +109,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 1**
 
-* [Analytics 쿠키](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=ko-KR)
+* [Analytics 쿠키](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
 * [데이터 요소, 규칙 및 라이브러리 추가](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
 * [포함 코드 추가](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
@@ -171,7 +171,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **시험 세부 정보:**
 
-* 합격 점수: 26/35
+* 합격 점수: 27/35
 * 시간: 70분
 * 비용: 무료/비관리됨
 * 배달: 온디맨드
@@ -233,29 +233,29 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 1**
 
-* [기여도 분석 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=ko-KR)
+* [기여도 분석 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
 * [Analysis Workspace 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
 * [전환 단계](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [시작 차원](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
 **섹션 2**
 
-* [프로젝트 공유](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+* [프로젝트 공유](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
 * [구성 요소 개요](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [경고 빌더](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=ko-KR)
-* [모바일 스코어카드 만들기](https://experienceleague.adobe.com/ko/docs/analytics/analyze/mobapp/create-scorecard.html)
+* [경고 빌더](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [모바일 스코어카드 만들기](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **섹션 3**
 
-* [세그먼트 비교](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ko-KR)
-* [지표 작성](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ko-KR)
-* [Analysis Workspace에서 드롭다운 필터 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=ko-KR)
+* [세그먼트 비교](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+* [지표 작성](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+* [Analysis Workspace에서 드롭다운 필터 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
 * [세그먼트 태깅](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **섹션 4**
 
 * [데이터 증가 및 감소 문제 해결](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-* [사용자 지정 이벤트](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=ko-KR)
+* [사용자 지정 이벤트](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
 * [PDF 또는 CSV 파일 다운로드](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
 * [URL 매개 변수에 대한 초보자 안내서](https://www.semrush.com/blog/url-parameters/)
 
@@ -263,7 +263,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 * [마케팅 채널의 처리 규칙](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
 * [분류 개요](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
-* [가상 보고서 세트 만들기](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=ko-KR)
+* [가상 보고서 세트 만들기](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [개인 정보 보호 규정 FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## 인증 갱신
