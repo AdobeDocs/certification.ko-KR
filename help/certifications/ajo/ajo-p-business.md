@@ -1,12 +1,12 @@
 ---
-title: 전문가 인증
+title: 전문 자격증
 description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 비즈니스 전문가.
 solution: Journey Optimizer
 product: Journey Optimizer
-role: Developer
+role: User
 badge: label="시험 AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 573a6c2e60a4fe3376f3a567b4e99bf7ccb2a4db
+source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 0%
