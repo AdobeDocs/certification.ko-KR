@@ -8,9 +8,9 @@ level: Experienced
 badge: label="시험 AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
+source-git-commit: ca46b04aad617757ac7fa1c9089c5c40c6b6addc
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -121,16 +121,6 @@ ht-degree: 0%
 {{exam-prep-guide}}
 
 [시험 준비 안내서 보기](https://app.rockinfo.com/courses/245)
-
-**연습 테스트 수행**
-
-시작하기 전에 무료 연습 테스트를 받는 것이 좋습니다. Adobe의 전문가 수준의 시험에 사용할 수 있는 모든 연습 시험에 제한 없이 액세스할 수 있습니다.
-
-우리의 연습 시험은 모두 라이브 시험과 동일한 청사진에서 개발됩니다. 연습 테스트는 라이브 테스트에서 다룬 주제를 이해하는 데 도움이 됩니다.
-
-모의고사를 통과한다고 자격증 시험에 합격하는 것은 아님을 명심하시기 바랍니다.
-
-[연습 시험 응시](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++
 
