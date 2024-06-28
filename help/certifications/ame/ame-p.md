@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
+source-git-commit: 8102211f100b326a62f51081f34db145320fe231
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/247) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
+>
+>* **강의**: 지금 시작했거나 새로 고침이 필요한 경우 [Adobe Marketo Engage 파운데이션 과정](https://app.rockinfo.com/courses/261) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이렇게 하면 인증 여정에서 빌드할 수 있는 지식의 기반이 됩니다.
+>
+>* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/247) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
+>
+>_Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -162,6 +168,12 @@ ht-degree: 0%
 **연습 테스트 수행**
 
 {{practice-test}}
+
+**강의 수강**
+
+{{take-course}}
+
+[Adobe Marketo Engage 기초 과정 수강](https://app.rockinfo.com/courses/261)
 
 **시험 준비 안내서**
 
