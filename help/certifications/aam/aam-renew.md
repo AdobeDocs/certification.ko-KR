@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
+source-git-commit: 9724d768dc56c7bb67ae709ab623ca5ae173150f
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -242,7 +242,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 >이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 
->[!TAB 마스터]
+>[!TAB 기본]
 
 ## 인증 갱신 지침
 
@@ -316,7 +316,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 Adobe Audience Manager Architect 기본 갱신 - AD5-E825 링크를 클릭하십시오.
 
-[!BADGE Adobe Audience Manager Architect 기본 갱신 시험 응시 AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Adobe Audience Manager Architect 기본 갱신 시험 응시 AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825&amp;cid=358899 newtab=true"}
 
 >[!NOTE]
 >
