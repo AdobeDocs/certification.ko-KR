@@ -7,10 +7,10 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
 workflow-type: tm+mt
-source-wordcount: '1445'
-ht-degree: 11%
+source-wordcount: '1195'
+ht-degree: 0%
 
 ---
 
@@ -33,12 +33,6 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 >**링크를 공유하려면:** 갱신 시험 또는 평가 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지로 연결하십시오.
 
 >[!BEGINTABS]
-
->[!TAB 전문가]
-
->[!NOTE]
->
->곧 전문 갱신.
 
 >[!TAB 전문가]
 
@@ -100,19 +94,19 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 1: 캠페인 관리**
 
-* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (마케팅 활동 작업, 이메일 콘텐츠 작성, 통신 채널, 게재, 채널 구성)
+* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"} (마케팅 활동 작업, 이메일 콘텐츠 작성, 통신 채널, 게재, 채널 구성)
 
 **섹션 2: 게재 관리**
 
-* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (이메일 콘텐츠 작성, 메시지 준비 및 테스트, 통신 채널 — 이메일, 애플리케이션 설정)
+* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"} (이메일 콘텐츠 작성, 메시지 준비 및 테스트, 통신 채널 — 이메일, 애플리케이션 설정)
 
 **섹션 3: 워크플로 디자인 및 실행**
 
-* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (프로세스 및 데이터 관리, 대상 관리, 메시지 예약, 리소스 추가 또는 확장)
+* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"} (프로세스 및 데이터 관리, 대상 관리, 메시지 예약, 리소스 추가 또는 확장)
 
 **제4절: 관리, 모니터링 및 보고**
 
-* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (워크플로우 실행, 테스트 및 보내기, 보고서, 프로필 및 대상자 사용자 지정, 사용자 및 보안)
+* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"} (워크플로우 실행, 테스트 및 보내기, 보고서, 프로필 및 대상자 사용자 지정, 사용자 및 보안)
 
 ## 인증 갱신
 
@@ -208,10 +202,10 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [마케팅 활동 템플릿](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
 * [랜딩 페이지 구성](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
 * [구독 서비스](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
-* [메시지를 보내는 주요 단계](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [메시지 보내기 주요 단계](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
 * [추적 및 모니터링](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
 * [게재 요약](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [Campaign 이메일 디자이너](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Campaign 이메일 Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [동적 보고 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
 **섹션 3: 관리**
