@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: Adobe 인증을 받는 방법 알아보기 [!DNL Audience Manager] 비즈니스 관리자 전문가.
+description: Adobe 인증을 받는 방법 [!DNL Audience Manager] Business Manager Expert를 알아봅니다.
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
@@ -10,11 +10,11 @@ exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
 source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Audience Manager] 비즈니스 전문가
+# [!DNL Adobe Audience Manager] 비즈니스 전문가 인증 여정
 
 {{intro}}
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 환경:
 
-* SMB( 중소, 중견, 성장 기업 )
+* 소규모/Medium/엔터프라이즈 수준의 비즈니스
 * 디지털 마케팅
 * 데이터 및 분석
 
@@ -140,20 +140,20 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**섹션 1: 세그먼트 생성 및 신디케이션**
+**섹션 1: 세그먼트 만들기 및 신디케이션**
 
-* [세그먼트 수준에서 Audience Marketplace의 제2자 및 타사 데이터 사용 보고](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
-* [필터 및 권장 사항을 사용하여 Audience Marketplace에서 타사 데이터를 선택합니다.](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
+* [세그먼트 수준에서 Audience Marketplace의 타사 및 타사 데이터 사용 보고](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [Audience Marketplace에서 필터 및 권장 사항을 사용하여 타사 데이터를 선택하십시오](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
 * [세그먼테이션 이해](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
 * [세그먼트: 목적, 구성 및 규칙](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
 * [세분화 및 필터링](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
 * [대상 홈 페이지](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html){target="_blank"}
 
-**섹션 2: 트레이트 만들기**
+**섹션 2: 특성 만들기**
 
 * [트레이트 Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
 * [트레이트 및 세그먼트 자격 참조](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
-* [신호, 트레이트 및 세그먼트](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=ko-KR){target="_blank"}
+* [신호, 트레이트 및 세그먼트](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
 * [트레이트 규칙 관리](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
 * [규칙 기반 또는 온보딩된 트레이트 만들기](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
@@ -167,22 +167,22 @@ ht-degree: 1%
 
 **섹션 4: 문제 해결 및 관리**
 
-* [Experience Platform 세그먼트 공유 대상 [!DNL Audience Manager] 및 기타 Experience Cloud 솔루션](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
+* [Experience Platform 세그먼트 공유 [!DNL Audience Manager]  및 기타 Experience Cloud 솔루션](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
 * [파일 기반 데이터 수집 단계](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
-* [ID 동기화 파일 이름 및 컨텐츠 요구 사항](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
-* [에서 데이터 활성화 생성 및 관리 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
+* [ID 동기화 파일에 대한 이름 및 콘텐츠 요구 사항](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
+* [다음 위치에서 데이터 활성화 만들기 및 관리 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
 
 **섹션 5: 분류**
 
-* [신호, 트레이트 및 세그먼트](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=ko-KR){target="_blank"}
+* [신호, 트레이트 및 세그먼트](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
 * [사용 제한](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
-* [특성 분류 체계 만들기](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html){target="_blank"}
+* [특성 분류 만들기](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html){target="_blank"}
 * [일반적인 분류법으로 트레이트 분류](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
-* [폴더 트레이트: 설명](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
+* [폴더 트레이트: 정보](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
 <br>
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -239,8 +239,8 @@ ht-degree: 1%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 
 <!--divider-->

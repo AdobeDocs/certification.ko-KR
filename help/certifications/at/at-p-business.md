@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: 자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 비즈니스 전문가.
+description: 인증 [!DNL Adobe Target] 비즈니스 전문가 자격을 취득하는 방법에 대해 알아봅니다.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Target] 비즈니스 전문가
+# [!DNL Adobe Target] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/235) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/235)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* 다음을 포함한 최적화 플랫폼을 통한 0~12개월 경험 [!DNL Adobe Target]
-* 을(를) 통해 감독되는 실습 경험 [!DNL Adobe Target]
+* [!DNL Adobe Target]을(를) 포함하여 최적화 플랫폼을 사용한 0~12개월 경험
+* [!DNL Adobe Target](으)로 감독되는 실습 경험
 * 최적화 프로그램에 대한 0~12개월 경험
 * 기본 Target/Adobe Marketing Cloud 관리 작업(환경 설정, 사용자 역할 및 권한, 설정)을 식별하는 기능
 * 3단계 워크플로(경험, 타겟팅, 모든 보고 소스를 포함한 목표 및 설정)에 대한 기본 지식
@@ -99,7 +99,7 @@ ht-degree: 0%
 **섹션 3: 분석 및 보고(16%)**
 
 * 보고서에 나타나는 요소를 설정하는 데 도움이 되는 설정을 설명합니다.
-* 의 차이점 설명 [!DNL Adobe Target] 계획과 검증 사이의 샘플 크기 계산기 설정
+* 계획과 유효성 검사 간의 [!DNL Adobe Target] 표본 크기 계산기 설정의 차이점 설명
 * A/B 테스트와 관련된 일반적인 문제 설명
 * Automated Personalization 요약 보고서가 다른 보고서와 어떻게 다른지 확인
 * 경험 성과 보고서(MVT)의 기능 설명
@@ -131,15 +131,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/235)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/235)
 
 <br>
 
@@ -196,6 +196,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

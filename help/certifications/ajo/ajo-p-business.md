@@ -1,6 +1,6 @@
 ---
 title: 전문 자격증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 비즈니스 전문가.
+description: 인증된 Adobe이 되는 방법 [!DNL Journey Optimizer] 비즈니스 전문가
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Journey Optimizer] 비즈니스 전문가
+# Adobe [!DNL Journey Optimizer] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
@@ -21,12 +21,12 @@ ht-degree: 0%
 >
 >이제 시험 준비에 도움이 되는 온디맨드 강좌를 무료로 이용할 수 있습니다. 귀하의 경험 수준에 가장 적합한 과정을 선택하여 오늘 학습 여정을 시작하십시오!
 >
->* 다음 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 규모에 맞게 개인화를 위해 설계된 유일한 플랫폼에 구축된 디지털 마케팅 도구 세트인 Adobe Experience Cloud을 소개합니다.
->* 다음 [Adobe Journey Optimizer 파운데이션 과정](https://app.rockinfo.com/courses/113) 는 이 특정 애플리케이션에 대한 지식의 기반을 제공합니다.
->* 다음 [Adobe Journey Optimizer 비즈니스 실무자 전문 교육 과정](https://app.rockinfo.com/courses/107) 는 기초 과정을 기반으로 하며 전문 수준의 인증 시험을 준비할 수 있도록 지원합니다.
->* 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/232) 에서는 시험에 성공하기 위해 필요한 자료를 비롯하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
+>* [Adobe Experience Platform 기초 과정](https://app.rockinfo.com/courses/216)에서는 규모에 맞게 개인화를 위해 설계된 유일한 플랫폼에 구축된 포괄적인 디지털 마케팅 도구 세트인 Adobe Experience Cloud을 소개합니다.
+>* [Adobe Journey Optimizer 기초 과정](https://app.rockinfo.com/courses/113)은(는) 이 특정 응용 프로그램에 대한 지식의 기초를 제공합니다.
+>* [Adobe Journey Optimizer 비즈니스 전문가 과정](https://app.rockinfo.com/courses/107)은 기초 과정을 기반으로 하며 전문가 수준의 인증 시험을 준비하는 데 도움이 됩니다.
+>* [시험 준비 가이드](https://app.rockinfo.com/courses/232)는 시험에 성공하기 위해 필요한 자료를 포함하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
 >
->_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
+>_로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 * 구독 목록 사용
 * 프로필 속성 및 이벤트 검토(UI에서 프로필 로드)
 * 랜딩 페이지 이해 및 사용
-* 다양한 유형의 여정/캠페인을 사용하는 시점을 파악하고 Adobe에서 &quot;캠페인&quot; 기능을 활용할 수 있습니다. [!DNL Journey Optimizer] 1회용 이메일 전송 빌드
+* 다양한 유형의 여정/캠페인을 사용하는 시점을 파악하고 [!DNL Journey Optimizer] Adobe의 &quot;캠페인&quot; 기능을 활용하여 일회성 이메일 전송을 구축할 수 있습니다.
 * 데이터 소스, 이벤트 및 작업 기능 이해
 * 여정 보고서를 모니터링하고 검토하여 이메일 참여/바운스/오류율/스팸 비율/도메인 문제 추적
 * 기본 세그먼트 기준 작성 및 유효성 검사
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 * 대상자 작성(새 대상자 작성기 사용)
 * 대상자 가져오기(CSV 대상자 업로드)
-* 이메일에 대한 HTML 업로드 및 자동 변환(새 html 변환기)
+* 이메일에 대한 HTML 업로드 및 자동 변환  (새 html 변환기)
 * 콘텐츠 실험 만들기
 * 콘텐츠 실험의 결과 측정
 * 여정, 캠페인 등에 태그 지정/필터링/검색
@@ -142,7 +142,7 @@ ht-degree: 0%
 * 조각 유형 식별
 * 이메일 템플릿을 만드는 방법 식별
 
-**섹션 4: AEP 기초(20%)**
+**섹션 4: AEP의 기초(20%)**
 
 * 시나리오가 주어지면 서로 다른 유형의 데이터를 사용할 시기를 결정합니다
 * 프로필 속성 및 대상자 멤버십을 검토할 위치 식별
@@ -177,19 +177,19 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Experience Platform 기초 과정 수강](https://app.rockinfo.com/courses/216){target="_blank"}
-[Adobe Journey Optimizer 기초 과정 수강](https://app.rockinfo.com/courses/113){target="_blank"}
+[Adobe Experience Platform Foundations 교육 과정 수강](https://app.rockinfo.com/courses/216){target="_blank"}
+[Adobe Journey Optimizer Foundations 교육 과정 수강](https://app.rockinfo.com/courses/113){target="_blank"}
 [Adobe Journey Optimizer 비즈니스 실무자 전문 교육 과정 수강](https://app.rockinfo.com/courses/107){target="_blank"}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/232)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/232)
 
 +++
 
@@ -244,7 +244,7 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 

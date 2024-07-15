@@ -1,6 +1,6 @@
 ---
 title: 인증 갱신
-description: Adobe 갱신 방법 알아보기 [!DNL Campaign Standard] 만료되기 전의 인증.
+description: Adobe [!DNL Campaign Standard] 인증이 만료되기 전에 갱신되는 방법을 알아보세요.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe 갱신 [!DNL Campaign Standard] 인증
+# Adobe [!DNL Campaign Standard] 인증 갱신
 
 Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
 
@@ -26,17 +26,17 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!IMPORTANT]
 >
->**먼저 로그인:** 다음 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>**먼저 로그인:** [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 **성공적으로 로그인**&#x200B;한 후에 다음 링크가 **전용**&#x200B;됩니다.
 >
 ><br>
 >
->**링크를 공유하려면:** 갱신 시험 또는 평가 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지로 연결하십시오.
+>**링크 공유:** 갱신 시험 또는 평가에 대한 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지에 연결하십시오.
 
 >[!BEGINTABS]
 
 >[!TAB 전문가]
 
-+++Adobe [!DNL Campaign Standard] 비즈니스 실무자 전문가 갱신
++++Adobe [!DNL Campaign Standard] 비즈니스 전문가 갱신
 
 다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
 
@@ -44,9 +44,9 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ### 준비
 
@@ -67,7 +67,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * 주어진 사용 사례를 기반으로 계층 구성
 * 샘플 비즈니스 요구 사항이 주어지면 OOTB 기능으로 이행할 수 있는 사항을 결정합니다
 * 시나리오가 주어지면 모범 사례를 적용하여 다중 채널 또는 크로스 채널 캠페인을 설계하십시오
-* 에서 채널(푸시 알림, 이메일, SMS, DM, 인앱) 식별 [!DNL Campaign Standard]
+* [!DNL Campaign Standard]에서 채널(푸시 알림, 이메일, SMS, DM, 인앱) 식별
 
 섹션 2: 게재 관리
 
@@ -94,29 +94,29 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 1: 캠페인 관리**
 
-* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"} (마케팅 활동 작업, 이메일 콘텐츠 작성, 통신 채널, 게재, 채널 구성)
+* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"}(마케팅 활동 작업, 이메일 콘텐츠 작성, 통신 채널, 게재, 채널 구성)
 
 **섹션 2: 게재 관리**
 
-* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"} (이메일 콘텐츠 작성, 메시지 준비 및 테스트, 통신 채널 — 이메일, 애플리케이션 설정)
+* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"}(전자 메일 콘텐츠 작성, 메시지 준비 및 테스트, 통신 채널 — 전자 메일, 응용 프로그램 설정)
 
 **섹션 3: 워크플로 디자인 및 실행**
 
-* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"} (프로세스 및 데이터 관리, 대상 관리, 메시지 예약, 리소스 추가 또는 확장)
+* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"}(프로세스 및 데이터 관리, 대상 관리, 메시지 예약, 리소스 추가 또는 확장)
 
-**제4절: 관리, 모니터링 및 보고**
+**섹션 4: 관리, 모니터링 및 보고**
 
-* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"} (워크플로우 실행, 테스트 및 보내기, 보고서, 프로필 및 대상자 사용자 지정, 사용자 및 보안)
+* [Adobe [!DNL Campaign Standard] 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR){target="_blank"}(워크플로우 실행, 테스트 및 보내기, 보고서, 프로필 및 대상 사용자 지정, 사용자 및 보안)
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 테스트를 갱신하려면 다음을 클릭하십시오. [!DNL Campaign Standard] 비즈니스 전문가 갱신 - 아래 AD5-822 링크.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 시험을 갱신하려면 아래의 [!DNL Campaign Standard] 비즈니스 전문가 갱신 - AD5-822 링크를 클릭하십시오.
 
 * [[!DNL Campaign Standard] 비즈니스 전문가 갱신 - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
@@ -128,9 +128,9 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ### 준비
 
@@ -197,15 +197,15 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [워크플로우 모범 사례](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=ko){target="_blank"}
 * [프로그램 및 캠페인](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=ko){target="_blank"}
 * [프로필 및 대상자 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
-* [유형화 및 유형화 규칙 기본 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [유형화 및 유형화 규칙 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
 * [필터링 규칙](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
 * [마케팅 활동 템플릿](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
 * [랜딩 페이지 구성](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
 * [구독 서비스](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
-* [메시지 보내기 주요 단계](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [메시지를 보내는 주요 단계](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
 * [추적 및 모니터링](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
 * [게재 요약](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [Campaign 이메일 Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Campaign 전자 메일 Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [동적 보고 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
 **섹션 3: 관리**
@@ -218,19 +218,19 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [실행 옵션 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=ko){target="_blank"}
 * [워크플로우 실행 모니터링](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
 * [브랜딩](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
-* [채널 구성 기본 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
-* [소통 채널 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
+* [채널 구성 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [통신 채널 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 [!DNL Campaign Standard] 개발자 갱신 - 아래 AD5-821 링크.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 [!DNL Campaign Standard] 개발자 갱신 - AD5-821 링크를 클릭하십시오.
 
 * [[!DNL Campaign Standard] 개발자 갱신 - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 오픈북이며, 감독관이 아닙니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 오픈북이며, 감독관이 아닙니다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
@@ -238,6 +238,6 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## 질문
 
-Adobe 인증에 대한 질문이 있습니까? [연락처](mailto:certif@adobe.com){target="_blank"}.
+Adobe 인증에 대한 질문이 있습니까? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.

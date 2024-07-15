@@ -1,6 +1,6 @@
 ---
 title: 기술 재단 전문가 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 프로페셔널
+description: 인증된 Adobe이 되는 방법 [!DNL Experience Manager] Professional에 대해 알아보세요.
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Experience Manager] 기술 기초 전문가
+# [!DNL Experience Manager] 기술 기초 전문가 Adobe에 대한 인증 여정
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의:** 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager 파운데이션 과정](https://app.rockinfo.com/courses/240) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
+>* **과정:** 처음 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager Foundations 과정](https://app.rockinfo.com/courses/240)을 통해 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스하십시오. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
 >
->* **시험 준비 안내서:**  다음 [시험 준비 안내서](https://app.rockinfo.com/courses/124) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** [시험 준비 안내서](https://app.rockinfo.com/courses/124)는 이 자격증 취득에 필요한 자료를 포함하여 자격증 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
->_Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>_시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**섹션 1: 콘텐츠 작성(33%)**
+**섹션 1: 콘텐츠 만들기(33%)**
 
 * 콘텐츠 페이지 관리
 * 콘텐츠 복제
@@ -140,11 +140,11 @@ ht-degree: 0%
 
 [Adobe Experience Manager Foundations 교육 과정 수강](https://app.rockinfo.com/courses/240)
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/124)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/124)
 
 
 +++
@@ -200,8 +200,8 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 
 

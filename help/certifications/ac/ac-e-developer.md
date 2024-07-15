@@ -1,6 +1,6 @@
 ---
 title: 개발자 전문가 인증
-description: Adobe에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다 [!DNL Commerce].
+description: Adobe [!DNL Commerce]에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.
 solution: Commerce
 role: Developer
 level: Experienced
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Commerce] 개발자 전문가
+# [!DNL Adobe Commerce] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/141) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/141)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발자는 다음과 같은 기술 및 환경에 익숙할 것입니다.
+Adobe [!DNL Commerce] 개발 경험이 1~3년 이상이어야 하며 다음 기술 및 환경에 익숙합니다.
 
 * Adobe [!DNL Commerce] - 버전 2.4
 * PHP
@@ -75,12 +75,12 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 
 **섹션 1: Adobe [!DNL Commerce] 아키텍처 및 사용자 지정 기술(36%)**
 
-* Adobe에서 캐시를 효과적으로 사용하는 방법 시연 [!DNL Commerce]
+* Adobe [!DNL Commerce]에서 캐시를 효과적으로 사용하는 방법을 보여 줍니다.
 * 사용자 지정 확장 특성 작성, 사용 및 조작
 * 제품/카테고리 페이지에 테마 사용자 지정 업데이트를 적용하는 방법에 대한 솔루션 추천
 * 관찰자, 환경 설정 및 플러그인(정렬 순서의 영향)을 올바르게 적용
-* Adobe에서 구성 레이어를 사용하는 기능 시연 [!DNL Commerce]
-* Adobe에서 경로가 작동하는 방식에 대한 지식 시연 [!DNL Commerce]
+* [!DNL Commerce] Adobe에서 구성 레이어를 사용하는 기능을 보여 줍니다.
+* [!DNL Commerce] Adobe에서 경로가 작동하는 방식에 대한 지식을 보여 줍니다.
 * 페이지 빌더를 사용자 지정하는 기능 시연
 * 단일 인스턴스에서 여러 사이트를 구성할 때의 효과 및 제한 사항 결정
 * 종속성 삽입의 기능 및 제약 조건 설명
@@ -88,7 +88,7 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 * Composer에서 Git 패치 및 파일 수준 수정 사용 사례 설명
 * CLI에서 새 명령 만들기
 * 통합 테스트 작성 방법 시연
-* Adobe 식별 [!DNL Commerce] 보안 기능(CSP, 이스케이프, 양식 키, 정리, reCAPTCHA, 입력 유효성 검사)
+* Adobe [!DNL Commerce] 보안 기능(CSP, 이스케이프, 양식 키, 정리, reCAPTCHA, 입력 유효성 검사) 식별
 * CRON 스케줄링 시스템의 작동 방식 설명
 * 데이터 로드 및 조작 기능 시연
 * 앱 에뮬레이션 사용 기능 시연
@@ -100,7 +100,7 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 * Adobe Commerce에서 데이터를 가져오거나 내보내는 기능 시연
 * 패치 및 반복 설정을 사용하여 데이터베이스를 수정하는 방법을 설명합니다.
 
-**섹션 3: 관리자와 함께 개발(6%)**
+**섹션 3: 관리자를 사용하여 개발(6%)**
 
 * 그리드와 양식을 업데이트하고 만드는 기능 시연
 * 격자 확장 작업
@@ -114,7 +114,7 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 * 색인을 관리하고 가격 산출을 사용자 지정하는 기능 시연
 * 다중 출처 재고가 재고(프로그램 레벨)에 미치는 영향 설명
 
-**섹션 5: 판매 업무 사용자 정의(6%)**
+**섹션 5: 판매 작업 사용자 지정(6%)**
 
 * 새로운 결제 방법을 개발하거나 기존 결제 방법을 사용자 지정하는 기능 시연
 * 배송 방법 추가 및 사용자 정의 기능 시연
@@ -128,9 +128,9 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 
 **섹션 7: Adobe [!DNL Commerce] 클라우드 아키텍처(16%)**
 
-* Adobe 지식 시연 [!DNL Commerce] 아키텍처/환경 워크플로
+* Adobe [!DNL Commerce] 아키텍처/환경 워크플로에 대한 지식 시연
 * 클라우드 프로젝트 파일, 권한 및 구조에 대한 실무 지식 시연
-* Adobe에서 다중 도메인 기반 스토어를 설정하는 기능 시연 [!DNL Commerce] 클라우드(개발 작업과 지원이 혼합된 다중 도메인 사이트)
+* Adobe [!DNL Commerce] 클라우드에서 다중 도메인 기반 스토어를 설정하는 기능을 보여 줍니다(다중 도메인 사이트에는 개발 작업 및 지원이 혼합되어 있음).
 * 애플리케이션 서비스에 대한 일반적인 지식과 애플리케이션 서비스 관리 방법(YAML, PHP, MariaDB, Redis, RabbitMQ 등) 시연
 * 다양한 유형의 로그에 액세스하는 방법 식별
 * 프로젝트 배포 기능 시연(배포의 주요 단계)
@@ -140,9 +140,9 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 * *Yaml 파일 및 제한 사항(DIY 및 지원 티켓) 문의 시점을 구분합니다.
 * OOTB FASTLY 기능 구성 및 설치에 대한 기본 지식 시연
 
-**섹션 8: 설정/구성 Adobe [!DNL Commerce] 클라우드(10%)**
+**섹션 8: Adobe [!DNL Commerce] 클라우드(10%) 설정/구성**
 
-* Adobe 설정/구성 방법 설명 [!DNL Commerce] 클라우드
+* Adobe [!DNL Commerce] 클라우드를 설정/구성하는 방법 설명
 * 기본 클라우드 문제 해결 지식 적용(웹 UI 및 변수의 계층 구조, 구성 우선)
 * 클라우드 사용자 관리 및 온보딩 UI에 대한 이해 실증
 * UI를 사용하여 클라우드 변수를 업데이트하는 방법을 설명합니다
@@ -185,15 +185,15 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/141)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/141)
 
 +++
 
@@ -248,6 +248,6 @@ Adobe에 1~3년 이상의 경력이 있어야 합니다. [!DNL Commerce] 개발�
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

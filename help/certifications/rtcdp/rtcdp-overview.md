@@ -20,4 +20,4 @@ ht-degree: 22%
 
 * [개발자](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
-다음 방문: [인증 갱신](/help/certifications/renew.md) 이 제품에 대한 갱신 옵션을 사용할 수 있는지 확인하는 페이지입니다.
+이 제품에 대해 갱신 옵션을 사용할 수 있는지 확인하려면 [인증 갱신](/help/certifications/renew.md) 페이지를 방문하세요.

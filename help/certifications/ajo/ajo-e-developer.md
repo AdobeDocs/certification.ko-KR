@@ -1,6 +1,6 @@
 ---
 title: 전문가 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 개발자 전문가.
+description: 인증된 Adobe [!DNL Journey Optimizer] 개발자 전문가가 되는 방법에 대해 알아봅니다.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 4%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Journey Optimizer] 개발자 전문가
+# Adobe [!DNL Journey Optimizer] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->이 시험, Adobe [!DNL Journey Optimizer] 개발자 전문가(AD0-E603)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 12월 22일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](ajo-e-developer-23-10.md).
+>Adobe [!DNL Journey Optimizer] 개발자 전문가(AD0-E603)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 12월 22일 이전에 완료하시기 바랍니다. 처음 시작하는 경우에는 이 시험의 [최신 버전](ajo-e-developer-23-10.md)을 선택하는 것이 좋습니다.
 
 ## 시험 설명 {#exam-description}
 
@@ -90,7 +90,7 @@ ht-degree: 4%
 * XDM(Experience Data Model)에 대한 이해 설명
 * 데이터 소스 및 데이터 수집을 설정하는 방법 설명
 * 세그먼테이션 서비스에 대한 이해 표시
-* AJO에 대한 스키마를 구성하는 방법 설명
+* AJO에 대해 스키마를 구성하는 방법 설명
 * AJO에서 실시간 고객 프로필의 동작 확인
 
 **섹션 3: Offer decisioning(11%)**
@@ -159,14 +159,14 @@ ht-degree: 4%
    * 실시간 고객 프로필 안내서
    * Platform Identity Service 안내서
    * 데이터 흐름 구성
-   * 소스 커넥터 안내서
+   * Source 커넥터 안내서
    * 데이터 수집 안내서
    * 세그먼테이션 서비스 안내서
    * 스키마
 
-* [Adobe 소개 [!DNL Experience Platform] 강의](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
-* [Adobe 시작 [!DNL Experience Platform] 데이터 엔지니어 교육 과정](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
-* [데이터 엔지니어를 위한 데이터 수집 교육 과정](https://experienceleague.adobe.com/?lang=ko-KR?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
+* [Adobe 소개 [!DNL Experience Platform] 과정](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
+* [Adobe 시작하기 [!DNL Experience Platform] 데이터 엔지니어 과정](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
+* [데이터 엔지니어 과정을 위한 데이터 수집](https://experienceleague.adobe.com/?lang=ko-KR?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
 * [Digital Experience 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ko-KR){target="_blank"}
 
 **섹션 3: Offer decisioning**
@@ -179,7 +179,7 @@ ht-degree: 4%
 
    * 여정 만들기
 
-**섹션 4: 컨텐츠 작성**
+**섹션 4: 콘텐츠 작성**
 
 * [Adobe [!DNL Journey Optimizer] 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
@@ -200,7 +200,7 @@ ht-degree: 4%
 
 <br>
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -232,7 +232,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->이 시험, Adobe [!DNL Journey Optimizer] 개발자 전문가(AD0-E603)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 12월 22일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전](ajo-e-developer-23-10.md).
+>Adobe [!DNL Journey Optimizer] 개발자 전문가(AD0-E603)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2023년 12월 22일 이전에 완료하시기 바랍니다. 처음 시작하는 경우에는 이 시험의 [최신 버전](ajo-e-developer-23-10.md)을 선택하는 것이 좋습니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -261,6 +261,6 @@ ht-degree: 4%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

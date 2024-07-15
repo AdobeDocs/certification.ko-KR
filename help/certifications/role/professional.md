@@ -4,7 +4,7 @@ description: 전문 사용자를 위한 인증 옵션 개요
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 44%
+ht-degree: 13%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 44%
 **Analytics**
 
 * [비즈니스 전문가](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
-* [Developer](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
+* [개발자](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 
 **Audience Manager**
@@ -28,25 +28,25 @@ ht-degree: 44%
 **Campaign Classic**
 
 * [비즈니스 전문가](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
-* [Developer](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
+* [개발자](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **상거래**
 
 * [비즈니스 전문가](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
-* [Developer](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
-* [Developer](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
+* [개발자](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
+* [개발자](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **Experience Manager**
 
 * [비즈니스 전문가](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [개발자(사이트)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [개발자(에셋)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [개발자(Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [백엔드 개발자(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [기술 기초](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **Marketo Engage**
 
-* [공인 전문가](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
+* [Certified Professional](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
 
 **Real-Time CDP**
 
@@ -54,7 +54,7 @@ ht-degree: 44%
 
 **Target**
 
-* [공인 전문가](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [Certified Professional](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
 **Workfront**
 

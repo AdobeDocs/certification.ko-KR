@@ -1,6 +1,6 @@
 ---
 title: Developer Professional 인증
-description: Adobe에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다 [!DNL Commerce].
+description: Adobe [!DNL Commerce]에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Commerce] Developer Professional
+# Adobe [!DNL Commerce] Developer Professional의 인증 여정
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **과정:** 다음을 수행합니다. [Adobe Commerce 개발자 전문가 과정](https://app.rockinfo.com/courses/92) 여기에는 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 포함된다. 지금 막 시작하는 거라면 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 는 인증 여정에서 빌드할 수 있는 지식의 기반을 제공합니다.
+>* **강의:** 주요 개념, 실습 데모 및 지식 검사에 대한 설명이 포함된 [Adobe Commerce 개발자 전문가 강의](https://app.rockinfo.com/courses/92)를 수강하십시오. 처음 시작하는 경우 [Adobe Commerce 기초 과정](https://app.rockinfo.com/courses/148)에서 인증 여정에서 기초를 다질 수 있는 지식을 제공합니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/136) 에서는 시험에 성공하기 위해 필요한 자료를 비롯하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
+>* **시험 준비 가이드:** [시험 준비 가이드](https://app.rockinfo.com/courses/136)는 시험에 성공하기 위해 필요한 자료를 포함하여 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
 >로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한 기본적인 이해 [!DNL Commerce] 관리 개발, 아키텍처, EAV/데이터베이스, 레이아웃/UI, 체크아웃 및 판매, 카탈로그
+Adobe [!DNL Commerce]에서 편안하게 작업하고 Adobe [!DNL Commerce]의 관리 개발, 아키텍처, EAV/데이터베이스, 레이아웃/UI, 체크아웃 및 판매, 카탈로그에 대한 기본적인 이해를 갖추고 있어야 합니다.
 
 또한 다음 기술 및 환경에 익숙해야 합니다.
 
@@ -84,8 +84,8 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 **섹션 2: 아키텍처(29%)**
 
-* 설명 [!DNL Magento] 파일 구조
-* 설명 [!DNL Magento] CLI 명령
+* [!DNL Magento] 파일 구조 설명
+* [!DNL Magento] CLI 명령 설명
 * cron 기능 설명
 * 시나리오에 따라 di.xml 사용 설명
 * 시나리오가 주어지면 컨트롤러를 만듭니다.
@@ -95,7 +95,7 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 * 플러그인, 환경 설정, 이벤트 옵저버 및 인터셉터를 설명합니다.
 * 사용자 정의 모듈 경로 설명
 * URL 재작성 설명
-* 설명 [!DNL Magento] 캐싱 시스템
+* [!DNL Magento] 캐싱 시스템 설명
 * 스토어, 웹 사이트 및 스토어 조회수 설명(기본 이해)
 
 **섹션 3: EAV/데이터베이스(13%)**
@@ -131,17 +131,17 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 **섹션 7: Adobe [!DNL Commerce] 클라우드 아키텍처(12%)**
 
-* Adobe 정의 [!DNL Commerce] 아키텍처/환경 워크플로
+* Adobe [!DNL Commerce] 아키텍처/환경 워크플로 정의
 * 클라우드 프로젝트 파일, 권한 및 구조 설명
-* Adobe에서 사용할 수 있는 서비스 나열 [!DNL Commerce] 클라우드에서
+* 클라우드의 [!DNL Commerce] Adobe에서 사용할 수 있는 서비스 나열
 * 다양한 유형의 로그에 액세스하는 방법 설명
 * 패치 적용 단계 설명(패치를 넣을 폴더 식별)
 * ECE 도구 유지 관리 및 업그레이드 방법 설명
 * 지원 *Yaml 파일 및 제한 사항(DIY 및 지원 티켓) 호출 시점 식별
 
-**섹션 8: 설정/구성 Adobe [!DNL Commerce] 클라우드(4%)**
+**섹션 8: Adobe [!DNL Commerce] 클라우드 설정/구성(4%)**
 
-* Adobe 설정/구성 방법 확인 [!DNL Commerce] 클라우드
+* Adobe [!DNL Commerce] 클라우드를 설정/구성하는 방법 확인
 * 기본 클라우드 문제 해결 정의(웹 UI 및 변수의 계층 구조, 구성 우선)
 * 클라우드 사용자 관리 및 온보딩 UI에 대한 기본 지식 인식
 * UI를 사용한 환경 관리 설명
@@ -150,8 +150,8 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 **섹션 9: [!DNL Commerce] Cloud CLI 도구(관리 부분)(6%)**
 
-* Adobe의 전용 기능 설명 [!DNL Commerce] Cloud CLI 도구(CLI 전용 기능: 이메일 활성화, 환경 기준 재지정, 스냅샷, DB 덤프, 로컬 환경 설정)
-* Adobe을 사용하여 분기 설명 [!DNL Commerce] Cloud CLI 도구
+* [!DNL Commerce] Adobe Cloud CLI 도구의 전용 기능 설명(CLI 전용 기능: 이메일 활성화, 환경 기준 재지정, 스냅샷, DB 덤프, 로컬 환경 설정)
+* Adobe [!DNL Commerce] Cloud CLI 도구를 사용하여 분기 설명
 * 클라우드 서비스에 연결하는 방법을 식별하시겠습니까? (내 SQL, Redis, 터널:info)
 
 <br>
@@ -182,7 +182,7 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -204,11 +204,11 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 </span>
 </a>
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/136)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/136)
 
 +++
 
@@ -263,6 +263,6 @@ Adobe에서 일하는 것은 편해야 합니다 [!DNL Commerce] Adobe에 대한
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

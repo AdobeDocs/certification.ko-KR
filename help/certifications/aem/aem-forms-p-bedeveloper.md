@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Experience Manager Forms] 백엔드 개발자 전문가
+# Adobe [!DNL Experience Manager Forms] 백 엔드 개발자 전문가용 인증 여정
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의:** 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager 파운데이션 과정](https://app.rockinfo.com/courses/240) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
+>* **과정:** 처음 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager Foundations 과정](https://app.rockinfo.com/courses/240)을 통해 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스하십시오. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/123) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** [시험 준비 안내서](https://app.rockinfo.com/courses/123)는 이 자격증 취득에 필요한 자료를 포함하여 자격증 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
->_Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>_시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 백엔드 양식 개발자이고 다음이 있어야 합니다.
 
 * AEM Platform을 사용한 0~12개월 동안의 경험
-* Adobe Cloud Manager 사용 및 구성 12개월 경험
+* Cloud Manager Adobe 사용 및 구성 12개월 경험
 * 연속 통합/연속 배포 작업을 구성, 구현 및 관리한 경험이 최소 24개월 있음
 
 또한 Managed Services 및 Adobe Experience Manager as a Cloud Service Adobe에서 편안하게 작업할 수 있습니다. Adobe Experience Manager 환경 및 인프라를 설정할 수 있습니다.
@@ -92,7 +92,7 @@ ht-degree: 0%
 * 시나리오가 주어지면 AEM Forms을 빌드하는 데 필요한 단계를 식별합니다
 * Forms 데이터 모델 설명
 * AEM Forms을 사용자 지정하는 단계 식별
-* 시나리오가 주어지면 GuideBridge API를 활용하여 JavaScript ClientLib을 사용하는 단계를 식별합니다
+* 시나리오가 주어지면 GuideBridge API를 활용하는 JavaScript ClientLib을 사용하는 단계를 식별합니다
 
 **섹션 2: 프로세스 및 워크플로(34%)**
 
@@ -108,10 +108,10 @@ ht-degree: 0%
 * 로그 파일에서 생성된 문제 식별
 * 시나리오가 주어지면 관리 활동을 수행하는 단계를 식별합니다
 * AEM Forms의 서비스 팩 기능 확인
-* Forms용 AEM Dispatcher 설정에 대한 단계 설명
+* Forms용 AEM Dispatcher 설정 단계 설명
 * 다른 콘솔을 탐색하는 단계 설명
 
-**섹션 4: API 엔드포인트 및 통합(10%)**
+**섹션 4: API 끝점 및 통합(10%)**
 
 * 시나리오가 주어지면 AEM Form을 Adobe Experience Cloud과 통합하는 흐름을 설명하십시오
 * 다양한 엔드포인트 서비스를 생성하는 단계를 식별합니다
@@ -146,13 +146,13 @@ ht-degree: 0%
 
 [Adobe Experience Manager Foundations 교육 과정 수강](https://app.rockinfo.com/courses/240)
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/123)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/123)
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -209,8 +209,8 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 
 

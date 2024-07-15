@@ -1,6 +1,6 @@
 ---
 title: AEM Forms 백엔드 개발자 전문가 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager Forms] 백엔드 개발자 전문가.
+description: 인증된 Adobe [!DNL Experience Manager Forms] 백엔드 개발자 전문가가 되는 방법에 대해 알아봅니다.
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Experience Manager Forms] 개발자 전문가
+# Adobe [!DNL Experience Manager Forms] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/128) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/128)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -112,10 +112,10 @@ ht-degree: 0%
 * 로그 파일 문제 해결 및 차별화
 * 관리 활동 수행
 * 서비스 팩 적용
-* Forms에 대한 AEM Dispatcher 설정 수행
+* Forms용 AEM Dispatcher 설정 수행
 * 다른 콘솔 탐색
 
-**섹션 4: API 엔드포인트 및 통합(8%)**
+**섹션 4: API 끝점 및 통합(8%)**
 
 * Adobe Experience Cloud과 통합
 * 다양한 엔드포인트 서비스 생성 및 사용
@@ -152,15 +152,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/128)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/128)
 
 +++
 
@@ -215,6 +215,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

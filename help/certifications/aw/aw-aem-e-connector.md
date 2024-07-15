@@ -1,6 +1,6 @@
 ---
 title: Enhanced Connector Expert 인증
-description: Adobe에서 인증된 Adobe Certified Expert이 되는 방법 알아보기 [!DNL Workfront] 대상 [!DNL Experience Manager]
+description: Adobe [!DNL Workfront] for [!DNL Experience Manager]에서 인증된 Adobe Certified Expert이 되는 방법에 대해 알아봅니다.
 solution: Workfront
 role: Developer
 badge: label="시험 AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Workfront] 대상 [!DNL Experience Manager] 향상된 커넥터 전문가
+# 향상된 커넥터 전문가 [!DNL Experience Manager]의 Adobe [!DNL Workfront]에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/244) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/244)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 * 1년 이상 CMS 경험
 * 1년 이상 AEM 경험
-* 1년 이상 [!DNL Workfront] 경험
+* 1년 이상 [!DNL Workfront]년 경험
 * Java/J2EE 개발자 경험 2년 이상
 * 하나 이상의 AEM 기반 솔루션 공동 아키텍처 구축
 * 고객과 직접 협력하여 맞춤화된 솔루션 생성 경험
@@ -75,10 +75,10 @@ ht-degree: 0%
 
 **섹션 1: 기술 요구 사항(25%)**
 
-* 사용 [!DNL Workfront] 사용자 지정 Forms
+* [!DNL Workfront] 사용자 지정 Forms 사용
 * 주어진 시나리오에서 문서 관리 시연
 * 여러 환경에서 코드를 프로모션하는 방법에 대한 지식 입증
-* 시나리오에 따라 값이 전달되는 방법을 식별합니다. [!DNL Workfront] 사용자 정의 양식
+* 시나리오가 주어지면 값이 [!DNL Workfront] 사용자 정의 양식으로 전달되는 방법을 확인하십시오.
 * 서버측 코드 문제 해결
 
 **섹션 2: 구성(26%)**
@@ -88,13 +88,13 @@ ht-degree: 0%
 * 다양한 에셋 유형에 대해 메타데이터 스키마를 사용자 지정하는 데 필요한 의사 결정
 * OSGi 번들, 에셋, 메타데이터 스키마, 태깅 및 권한을 배포하는 데 필요한 절차적 AEM 개념 적용
 
-**섹션 3: 비즈니스 관행(21%)**
+**섹션 3: 비즈니스 사례(21%)**
 
 * 적절한 워크플로우 전략을 권장하기 위해 클라이언트 요구 사항 해석
-* 설정 방법 시연 [!DNL Workfront] 승인 및 증명 워크플로
+* [!DNL Workfront] 승인 및 증명 워크플로를 설정하는 방법 시연
 * 시나리오가 주어지면 증명 뷰어, 설정 및 마크업 기능 사용에 대한 모범 사례를 식별합니다
 * 캠페인 관리의 일부로 결과물 추적에 대한 이해 설명
-* 시나리오가 주어지면 다음에 대한 변경 관리의 주요 고려 사항을 식별합니다. [!DNL Workfront] 구현
+* 시나리오가 주어지면 [!DNL Workfront] 구현에 대한 변경 관리의 주요 고려 사항을 식별합니다
 
 **섹션 4: 커넥터 설치 및 구성(28%)**
 
@@ -121,11 +121,11 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/244)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/244)
 
 **샘플 질문**
 
@@ -186,6 +186,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

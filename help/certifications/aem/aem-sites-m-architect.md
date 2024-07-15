@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Experience Manager Sites] 설계자 기본
+# Adobe [!DNL Experience Manager Sites] Architect 기본에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/130) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/130)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 다음을 수행해야 합니다.
 
 * AEM Sites을 건축한 지 3년 이상
-* Managed Services 및 Adobe Adobe에서 작업 [!DNL Experience Manager as a Cloud Service]
-* Adobe 설정 기능 [!DNL Experience Manager] 환경 및 인프라
+* Managed Services Adobe 및 [!DNL Experience Manager as a Cloud Service] Adobe에서 작업할 수 있는 기능
+* Adobe [!DNL Experience Manager] 환경 및 인프라를 설정하는 기능
 
 또한 다음 작업을 수행할 수 있어야 합니다.
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 * 향후 요구 사항을 수용할 수 있는 컨텐츠/자산에 대한 컨텐츠 모델 정의
 * 비즈니스 요구 사항에 따라 필요한 템플릿 및 구성 요소 정의
 * 맞춤형 구성 요소와 비교하여 기본 제공/기능/핵심 구성 요소를 언제 사용해야 하는지 확인
-* 디자인 캐싱, 로드 밸런싱 및 보안 전략(Dispatcher, firewall, CDN)
+* 디자인 캐싱, 로드 밸런싱 및 보안 전략(Dispatcher, 방화벽, CDN)
 * 초기 설정 및 기능 제공에 대한 높은 수준의 작업량 예측 제공
 * 국제화의 기능 및 사용 사례 수립
 * 다중 사이트 및 다국어를 지원하는 전략 정의
@@ -93,7 +93,7 @@ ht-degree: 0%
 * 시나리오에 따라 아키텍처의 현재 상태를 평가합니다
 * 솔루션 설계를 위한 비기능 기술 요구 사항 결정
 
-**섹션 2: 솔루션 설계(44%)**
+**섹션 2: 솔루션 디자인(44%)**
 
 * 비즈니스 요구 사항을 고려하여 상세한 아키텍처 및 솔루션 설계
 * 시나리오가 주어지면 디자인에 적합한 보안 솔루션을 결정합니다
@@ -143,11 +143,11 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/130)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/130)
 
 +++
 
@@ -213,6 +213,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

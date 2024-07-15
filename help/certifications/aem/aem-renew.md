@@ -1,6 +1,6 @@
 ---
 title: 인증 갱신
-description: 갱신 방법 알아보기 [!DNL Experience Manager Sites] 만료되기 전의 인증.
+description: 만료되기 전에  [!DNL Experience Manager Sites] 인증을 갱신하는 방법을 알아봅니다.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User,Developer,Data Architect
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe 갱신 [!DNL Experience Manager] 인증
+# Adobe [!DNL Experience Manager] 인증 갱신
 
 Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
 
@@ -25,11 +25,11 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!IMPORTANT]
 >
->**먼저 로그인:** 다음 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>**먼저 로그인:** [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 **성공적으로 로그인**&#x200B;한 후에 다음 링크가 **전용**&#x200B;됩니다.
 >
 ><br>
 >
->**링크를 공유하려면:** 갱신 시험 또는 평가 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지로 연결하십시오.
+>**링크 공유:** 갱신 시험 또는 평가에 대한 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지에 연결하십시오.
 
 >[!BEGINTABS]
 
@@ -37,15 +37,15 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 +++Adobe [!DNL Experience Manager] 비즈니스 전문가
 
-## 다음 항목이 있어야 합니다. **활성** 인증:
+## 다음 **활성** 인증이 있어야 합니다.
 
 * Adobe [!DNL Experience Manager] 비즈니스 전문가
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ## 준비
 
@@ -96,67 +96,67 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 1**
 
-* [컨텐츠 조각 작성](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ko-KR){target="_blank"}
+* [콘텐츠 조각 작성](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ko-KR){target="_blank"}
 * [Adobe Experience Manager Assets as a DAM 솔루션 정보](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html){target="_blank"}
 * [Adobe Experience Manager Assets에서 지원되는 형식](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster){target="_blank"}
 * [개요](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html){target="_blank"}
 * [AEM Forms 소개](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html){target="_blank"}
-* [페이지 태깅](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html){target="_blank"}
+* [페이지에 태그 지정](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html){target="_blank"}
 
 **섹션 2**
 
 * [AEM as a Cloud Service에 대한 액세스 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.){target="_blank"}
 * [AEM 사용자, 그룹 및 권한](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html){target="_blank"}
-* [사이트맵](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html){target="_blank"}
-* [Adobe Experience Manager 및 Creative Cloud 통합 우수 사례](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html){target="_blank"}
+* [사이트 맵](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html){target="_blank"}
+* [Adobe Experience Manager 및 Creative Cloud 통합 모범 사례](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html){target="_blank"}
 * [AEM-CIF 핵심 구성 요소 및 Adobe Experience Platform 통합](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html){target="_blank"}
 * [사용자 관리 및 보안](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
 * [Admin Console 개요](https://helpx.adobe.com/enterprise/using/admin-console.html){target="_blank"}
-* [AEM 게시](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html){target="_blank"}
+* [AEM Publish](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html){target="_blank"}
 
 **섹션 3**
 
 * [AEM Screens 소개](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html){target="_blank"}
-* [AEM as a Cloud Service으로 디지털 경험 강화](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
-* [Adobe Experience Manager as a Headless CMS 소개](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html?lang=ko-KR){target="_blank"}
-* [제품 제작에서 게재에 이르기까지 제품, 도움말 및 지원 콘텐츠를 관리합니다.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
+* [AEM as a Cloud Service을 통해 디지털 환경 강화](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
+* [Headless CMS로서 Adobe Experience Manager 소개](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
+* [제품, 도움말 및 지원 콘텐츠를 만드는 것부터 배달까지 관리합니다.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
 * [Experience Manager Assets Brand Portal 개요](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
 * [프로젝트 역할 및 책임](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
 * [페이지 주석 추가](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html){target="_blank"}
 * [페이지 작성에 대한 빠른 시작 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
-* [AEM Assets에서 연결된 자산 사용](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
-* [계획 수립](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start){target="_blank"}
+* [AEM Assets에서 연결된 Assets 사용](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
+* [계획](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start){target="_blank"}
 * [테스트 사례 정의](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html){target="_blank"}
 
 **섹션 4**
 
-* [론치](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=ko-KR){target="_blank"}
-* [워크플로우 편집기 사용](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
-* [자산 관리자 검색 레일](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.){target="_blank"}
+* [시작](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=ko-KR){target="_blank"}
+* [워크플로 편집기 사용](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
+* [Assets 관리자 검색 레일](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
 
-[!BADGE Adobe 받기 [!DNL Experience Manager] 비즈니스 실무자 전문 갱신 시험 AD5-E843]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+[!BADGE Adobe 수강 [!DNL Experience Manager] 비즈니스 전문가 재계약 시험 AD5-E843]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
 +++Adobe [!DNL Experience Manager] Sites 개발자 전문가
 
-## 다음 항목이 있어야 합니다. **활성** 인증:
+## 다음 **활성** 인증이 있어야 합니다.
 
-* Adobe [!DNL Experience Manager] Sites 개발자 전문가
+* Adobe [!DNL Experience Manager] Sites Developer Professional
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ## 준비
 
@@ -177,7 +177,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * AEM Dispatcher 구성 및 캐싱의 목적 인식
 * AEM에서 다중 사이트를 구성하는 올바른 단계를 결정합니다.
 * OSGi 구성을 만들고 관리하는 방법 설명
-* 사용자 정의 OAK 인덱스를 관리하는 올바른 단계 결정
+* 사용자 지정 OAK 인덱스를 관리하는 올바른 단계 결정
 * OOTB SAML 또는 IMS 통합을 구성하는 올바른 단계 결정
 
 섹션 2: AEM 개발(40%)
@@ -197,7 +197,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * 시나리오가 주어지면 AEM 환경에서 문제를 디버깅하는 데 필요한 단계를 결정합니다
 * AEM 유지 관리 릴리스 설명
 * 여러 토폴로지에서 AEM을 구성하는 방법 식별
-* AEM as a Cloud Service으로 계획 및 마이그레이션에 필요한 단계 결정
+* 계획 수립 및 AEM as a Cloud Service으로의 마이그레이션에 필요한 단계 결정
 
 ## 준비 완료
 
@@ -209,30 +209,30 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 * [Dispatcher 구성](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html){target="_blank"}
 * [캐싱 이해](https://experienceleague.adobe.com/docs/experience-manager-learn/ams/dispatcher/understanding-cache.html){target="_blank"}
-* [콘텐츠 재사용: 다중 사이트 관리자 및 라이브 카피](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview.html){target="_blank"}
+* [콘텐츠 재사용: 다중 사이트 관리자 및 Live Copy](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview.html){target="_blank"}
 * [OSGi 구성](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html){target="_blank"}
 * [콘텐츠 검색 및 색인화](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html){target="_blank"}
-* [SAML 2.0 인증 핸들러](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/saml-2-0-authenticationhandler.html){target="_blank"}
+* [SAML 2.0 인증 처리기](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/saml-2-0-authenticationhandler.html){target="_blank"}
 
 **섹션 2**
 
 * [핵심 구성 요소 사용](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/using.html){target="_blank"}
 * [티저 구성 요소](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/teaser.html){target="_blank"}
-* [핵심 구성 요소 맞춤화](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/customizing.html){target="_blank"}
+* [핵심 구성 요소 사용자 지정](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/customizing.html){target="_blank"}
 * [HTL Java Use-API](https://experienceleague.adobe.com/docs/experience-manager-htl/content/java-use-api.html){target="_blank"}
 * [구성 요소 기본 사항](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
-* [Sling 모델](https://sling.apache.org/documentation/bundles/models.html){target="_blank"}
+* [슬링 모델](https://sling.apache.org/documentation/bundles/models.html){target="_blank"}
 * [OSGi 구성 요소 라이프사이클](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/osgi-services/lifecycle.html){target="_blank"}
 * [HTL 사양](https://experienceleague.adobe.com/docs/experience-manager-htl/content/specification.html){target="_blank"}
 * [워크플로우 개발 및 확장](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
-* [컨텐츠 조각 모델](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
+* [콘텐츠 조각 모델](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
 * [경험 조각](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
-* [컨텐츠 조각과 함께 사용하기 위한 AEM GraphQL API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html){target="_blank"}
+* [콘텐츠 조각과 함께 사용하기 위한 AEM GraphQL API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html){target="_blank"}
 
 **섹션 3**
 
 * [AEM 프로젝트 구조](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
-* [작업 영역 필터](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
+* [Workspace 필터](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
 * [AEM Project Archetype](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html){target="_blank"}
 
 **섹션 4**
@@ -241,32 +241,32 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [복제 큐 문제](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17467.html){target="_blank"}
 * [릴리스 정보](https://docs.mktossl.com/docs/experience-manager-cloud-service/content/release-notes/home.html){target="_blank"}
 * [권장 배포](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/recommended-deploys.html){target="_blank"}
-* [as a Cloud Service으로 마이그레이션 여정 AEM 시작](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
-* [Best Practice Analyzer 사용](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
+* [AEM as a Cloud Service으로 마이그레이션 여정 시작](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [모범 사례 분석기 사용](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
 
-[!BADGE Adobe 받기 [!DNL Experience Manager] 사이트 개발자 전문가 갱신 시험 AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
+[!BADGE Adobe 수강 [!DNL Experience Manager] 사이트 개발자 전문가 갱신 시험 AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
 +++Adobe [!DNL Experience Manager] Assets Developer Professional
 
-## 다음 항목이 있어야 합니다. **활성** 인증:
+## 다음 **활성** 인증이 있어야 합니다.
 
 * Adobe [!DNL Experience Manager] Assets Developer Professional
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ## 준비
 
@@ -292,8 +292,8 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 섹션 2: 자산 구성 및 Asset Console 24.46%
 
-* 컬렉션에서 에셋을 만들고 구성하는 방법 시연
-* 태그를 사용하여 에셋을 구성하는 방법 시연
+* 컬렉션에서 Assets을 만들고 구성하는 방법 시연
+* 태그를 사용하여 Assets을 구성하는 방법 시연
 * OOTB 검색 필터 및 패싯을 활용하는 방법 식별
 * AEM Asset Reports 구성 및 생성 방법 설명
 * 자산 폴더에 대한 사용자 권한을 관리하는 방법 설명
@@ -326,14 +326,14 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 **섹션 1**
 
 * [위치 - 워크플로 모델](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-best-practices.html#locations){target="_blank"}
-* [워크플로우 프로세스 참조](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows-process-ref.html){target="_blank"}
-* [워크플로우 인스턴스 관리](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-administering.html){target="_blank"}
+* [워크플로 프로세스 참조](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows-process-ref.html){target="_blank"}
+* [워크플로 인스턴스 관리](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-administering.html){target="_blank"}
 
 **섹션 2**
 
 * [저장된 검색](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-collections-touch-ui.html#saved-searches){target="_blank"}
-* [DAM 자산 업데이트 워크플로우에서 스마트 태그 지정 활성화(선택 사항)](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#enable-smart-tagging-in-the-update-asset-workflow-optional){target="_blank"}
-* [술어 추가](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#adding-a-predicate){target="_blank"}
+* [DAM 자산 업데이트 워크플로우에서 스마트 태그 지정 사용(선택 사항)](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#enable-smart-tagging-in-the-update-asset-workflow-optional){target="_blank"}
+* [조건자 추가](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#adding-a-predicate){target="_blank"}
 * [자산 보고서](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
 
 **섹션 3**
@@ -354,47 +354,47 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래 버튼을 클릭하십시오.
 
-[!BADGE Adobe 받기 [!DNL Experience Manager] 에셋 개발자 전문가 갱신 시험 AD5-E850]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
+[!BADGE Adobe 수강 [!DNL Experience Manager] Assets 개발자 전문가 갱신 시험 AD5-E850]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
 >[!TAB 전문가 및 기본]
 
-## 다음 중 하나 이상이 있어야 합니다. **활성** 갱신할 인증:
+## 갱신하려면 다음 **활성** 인증 중 하나 이상이 있어야 합니다.
 
 * Adobe [!DNL Experience Manager Sites] 개발자 전문가
 * Adobe [!DNL Experience Manager Sites] 비즈니스 전문가
-* Adobe [!DNL Experience Manager Sites] 설계자 기본
+* Adobe [!DNL Experience Manager Sites] Architect 기본
 * Adobe [!DNL Experience Manager] 개발/운영 엔지니어 전문가
 * Adobe [!DNL Experience Manager Forms] 개발자 전문가
 
-## Adobe 갱신 지침 [!DNL Experience Manager] 인증
+## Adobe [!DNL Experience Manager] 인증 갱신 지침
 
-* **1단계:** 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
-* **2단계:** Experience League의 교육 과정 학습
-* **3단계:** 아래 옵션 중에서 선택하여 갱신을 완료합니다.
+* **1단계:**&#x200B;이(가) [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 다음 이 페이지로 돌아갑니다.
+* **2단계:** Experience League에서 과정 학습
+* **3단계:** 갱신을 완료하려면 아래 옵션 중에서 선택하십시오.
 
   **옵션 A:**
-선택 **세 가지 과정** 80% 이상의 점수를 받아 각 과정 평가를 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
+**3개 과정**&#x200B;을 선택하여 80% 이상의 점수로 각 과정 평가를 완료하고 통과하십시오. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
   **옵션 B:**
-먼저 을(를) 선택합니다 **두 가지 과정** 80% 이상의 점수를 받아 각 과정 평가를 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
+먼저 **2개 과정**&#x200B;을 선택하여 각 과정 평가를 80% 이상 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-  두 번째, **고객 참조 양식 제출** Adobe Experience Cloud 구현 프로젝트에 대한 Adobe 인증 개인 리더, 관리 및/또는 참여로서의 지속적인 작업 확인. 이 양식은 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인합니다.
+  두 번째로, Adobe 인증 개인 리더, 관리 및/또는 Adobe Experience Cloud 구현 프로젝트에 참여하는 동안 계속 작업했는지 확인하는 **고객 참조 양식을 제출**&#x200B;합니다. 이 양식은 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인합니다.
 
-  [Adobe Experience Manager에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
+  [Adobe Experience Manager용 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
   고객 참조가 검토되면 Adobe 디지털 경험 인증 프로그램 으로부터 알림을 받게 됩니다. 참조가 수락되지 않으면 인증이 만료되기 전에 성공하기 전까지 다시 제출할 수 있습니다.
 
 >[!NOTE]
 >
->여러 개를 보유하는 경우 [!DNL Adobe Experience Manager] 전문가 및 기본 인증은 1개 인증만 받으면 갱신 요건을 완료하고 나머지는 자동 갱신한다.
+>[!DNL Adobe Experience Manager] Expert 및 기본 인증을 여러 개 보유하고 있는 경우 한 개 인증에 대한 갱신 요구 사항을 완료하고 나머지는 자동으로 갱신됩니다.
 
 ## Expert 및 기본 교육 과정 및 교육 과정 평가:
 
@@ -404,15 +404,15 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 | [Adobe으로 이동 계획 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA102){target="_blank"} |
 | [Adobe 소개 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=ko-KR){target="_blank"} | [ADR-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA103){target="_blank"} |
 | [GraphQL API를 사용한 헤드리스 콘텐츠 관리](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADR-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA104){target="_blank"} |
-| [Adobe을 사용하여 경험 개인화 [!DNL Experience Manager] 및 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA105){target="_blank"} |
-| [통합 [!DNL Experience Manager Forms Cloud Service] 포함 [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
+| [Adobe으로 경험 개인화 [!DNL Experience Manager] 및 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA105){target="_blank"} |
+| [통합 [!DNL Experience Manager Forms Cloud Service] 와 [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
 | [Adobe [!DNL Experience Manager Cloud Manager] 스킬 빌더](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA107){target="_blank"} |
-| [Adobe [!DNL Experience Manager Sites] 설계자용](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
+| 설계자용 [Adobe [!DNL Experience Manager Sites] ](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
 
 >[!ENDTABS]
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법에 대해 알아보십시오. [!DNL Marketo Engage].
+description: ' [!DNL Marketo Engage]에서 인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아봅니다.'
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Marketo Engage] 비즈니스 전문가
+# Adobe [!DNL Marketo Engage] 비즈니스 전문가 자격증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/144) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/144)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 * 마케팅 운영 관리자/전문가/전문가/분석가
 * 디지털 마케팅 관리자/전문가/전문가/분석가
 * 캠페인 관리자/전문가/전문가/분석가
-* [!DNL Marketo Engage] 컨설턴트
+* 컨설턴트 [!DNL Marketo Engage]명
 * Digital/marketing automation manager/specialist/expert/analyst
 * 마케팅 시스템 관리자
 * 수요 생성 관리자
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-* 약 18개월간의 Adobe 경험 [!DNL Marketo Engage] 마케팅 캠페인을 만들고 고객 행동 데이터를 활용하는 데 필요한 기능
+* 마케팅 캠페인을 만들고 고객 행동 데이터를 활용하는 데 필요한 [!DNL Marketo Engage] Adobe 기능에 대한 약 18개월 경험입니다.
 
 다음에 대한 경험이 있는 마케터여야 합니다.
 
@@ -103,14 +103,14 @@ ht-degree: 0%
 * 다양한 유형의 토큰에 대한 사용 예 제공
 * Marketo에서 Webhooks의 유틸리티와 사용 방법을 요약합니다.
 * PMCF의 적절한 사용 확인 및 적용
-* Global Assets의 이점 및 사용 방법 설명
+* 글로벌 Assets의 이점 및 사용 방법 설명
 * 양식의 기능 시연
 * A/B 테스트 전략 수행 및 분석
 * &#39;Used By&#39;를 통해 프로그램 또는 에셋을 참조한 위치 식별
 * 통신 제한 문제 해결
 * 이벤트 프로그램에서 웨비나 공급자 정보 사용
 
-**섹션 3: 리드 관리(12%)**
+**섹션 3: 잠재 고객 관리(12%)**
 
 * 라이프사이클 모델 정의의 주요 의사 결정 지점 개요
 * 리드 스코어에 대한 모범 사례 적용
@@ -130,7 +130,7 @@ ht-degree: 0%
 * 캠페인의 결과가 주어지면 최상의 보고를 제공하는 프로그램을 설정하는 방법을 결정합니다
 * 시나리오가 주어지면 적절한 획득 프로그램을 조사하고 할당할 수 있습니다.
 
-**섹션 6: 우수 사례(16%)**
+**섹션 6: 모범 사례(16%)**
 
 * 마케팅 및 영업 공동 작업에서 잠재 고객 점수의 관련성 시연
 * 폴더 구조 및 이름 지정 규칙의 이점 설명
@@ -166,15 +166,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/144)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/144)
 
 +++
 
@@ -240,7 +240,7 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 

@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법에 대해 알아보십시오. [!DNL Adobe Target].
+description: ' [!DNL Adobe Target]에서 인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아봅니다.'
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Target] 비즈니스 전문가
+# [!DNL Adobe Target] 비즈니스 전문가 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/236) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/236)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -55,13 +55,13 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* 다음을 포함한 최적화 플랫폼에 대한 2년 이상의 경험 [!DNL Adobe Target]
-* 을 사용한 실습 경험 [!DNL Adobe Target]
+* [!DNL Adobe Target]을(를) 포함하여 최적화 플랫폼에 대한 2년 이상의 경험
+* [!DNL Adobe Target]과(와)의 실습 경험
 * 최적화 프로그램에 대한 2년 이상의 경험
 * Target/Adobe Marketing Cloud 관리 작업(환경 설정, 사용자 역할 및 권한, 설정)에 대한 기본 사항 이해
 * 비즈니스 KPI를 이해하고 최적화 목표로 전환할 수 있는 기능
 * 요구 사항 평가에 따라 제안을 할 수 있는 기능
-* 적절한 항목을 결정하는 기능 [!DNL Adobe Target] 최적화 목표에 따른 활동 유형
+* 최적화 목표를 기반으로 적절한 [!DNL Adobe Target] 활동 유형을 결정하는 기능
 * HTML 및 CSS를 사용하여 사용자 경험을 최적화하는 방법에 대한 지식
 * 개념으로서의 JavaScript 이해
 * 최적화에 적용되는 통계 개념 및 데이터 분석에 대한 지식
@@ -79,8 +79,8 @@ ht-degree: 0%
 * 콘솔, 네트워크 탭과 같은 브라우저의 콘솔/브라우저 개발자 도구
 * 브라우저의 네트워크 도구
 * 기타 Adobe 도구에 대한 기본 이해
-* 개발자 콘솔 (모든 웹 브라우저)
-* [!DNL Adobe Target] 표본 계산기
+* Developer Console(모든 웹 브라우저)
+* [!DNL Adobe Target] 샘플 계산기
 * Adobe Audience Manager 기본 사항
 * Adobe Experience Cloud(Target의 대상 소스로)
 * Adobe Experience Manager
@@ -137,7 +137,7 @@ ht-degree: 0%
 **섹션 3: 분석 및 보고(17%)**
 
 * 보고서에 나타나는 요소를 설정하는 데 도움이 되도록 보고서 설정을 정의하고 평가합니다.
-* 평가 및 비교 [!DNL Adobe Target] Target 활동 계획 및 Target 활동 검증 보고서를 모두 작성할 경우의 샘플 크기 계산기 설정
+* Target 활동 계획 및 Target 활동 유효성 검사 보고서를 모두 실행할 때 [!DNL Adobe Target] 샘플 크기 계산기 설정을 평가하고 비교합니다.
 * A/B 테스트와 관련된 일반적인 문제 및 이를 방지하는 방법을 평가하고 식별합니다
 * Automated Personalization 요약 보고서가 다른 보고서와 어떻게 다른지 이해합니다
 * 경험 성과 보고서 평가(MVT)
@@ -169,15 +169,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/236)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/236)
 
 +++
 
@@ -243,6 +243,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

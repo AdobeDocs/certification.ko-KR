@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법에 대해 알아보십시오. [!DNL Campaign Classic].
+description: ' [!DNL Campaign Classic]에서 인증된 Adobe 비즈니스 전문가 자격을 취득하는 방법에 대해 알아봅니다.'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Campaign Classic] 비즈니스 전문가
+# Adobe [!DNL Campaign Classic] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
@@ -74,7 +74,7 @@ ht-degree: 1%
 
 **시험 목표 및 범위**
 
-**섹션 1: 캠페인 구축(29%)**
+**섹션 1: 캠페인 빌드(29%)**
 
 * 다양한 디지털 마케팅 개념 및 목표 인식
 * 인터페이스와 관련하여 주요 도구 기능 및 구조를 식별하고 정의합니다.
@@ -86,7 +86,7 @@ ht-degree: 1%
 * 게재 결과 또는 출력을 찾을 위치 인식
 * 다양한 오류 및 경고 유형(게재, 캠페인 및 워크플로우 수준)을 구분합니다.
 
-**섹션 2: 워크플로우 관리 및 플랫폼 기능(16%)**
+**섹션 2: 워크플로 관리 및 플랫폼 기능(16%)**
 
 * 시나리오가 주어지면 선택해야 하는 워크플로우 활동을 결정합니다.
 * 캠페인 및 기술 워크플로우 차별화
@@ -148,36 +148,36 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**섹션 1: 캠페인 구축**
+**섹션 1: 캠페인 빌드**
 
 * [Adobe Campaign 시작](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html){target="_blank"}
-* [소통 채널](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
+* [통신 채널](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [마케팅 캠페인 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ko){target="_blank"}
 * [개인화 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ko){target="_blank"}
 * [마케팅 캠페인 디자인 및 실행](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
-* [템플릿 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ko){target="_blank"}
+* [템플릿 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ko){target="_blank"}
 
-**섹션 2: 워크플로우 관리 및 플랫폼 기능**
+**섹션 2: 워크플로 관리 및 플랫폼 기능**
 
-* [워크플로우의 타겟팅 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [워크플로우에서 활동 타기팅](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
 * [워크플로우의 흐름 제어 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html){target="_blank"}
 * [워크플로우의 작업 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
-* [워크플로우 속성](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
+* [워크플로 속성](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
 * [워크플로우 시작](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html){target="_blank"}
 
 **섹션 3: 데이터 작업**
 
-* [Adobe Campaign 작업 영역](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=ko){target="_blank"}
+* [Adobe Campaign 작업 공간](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=ko){target="_blank"}
 * [워크플로우 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ko){target="_blank"}
-* [워크플로우의 타겟팅 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [워크플로우에서 활동 타기팅](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
 * [프로필 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html){target="_blank"}
 * [마케팅 캠페인 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ko){target="_blank"}
-* [소스 및 대상 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [원본 및 대상 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 
 **섹션 4: 게재 구성**
 
-* [이메일 게재 만들기 및 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=ko-KR){target="_blank"}
-* [소통 채널](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
+* [전자 메일 게재 만들기 및 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=ko-KR){target="_blank"}
+* [통신 채널](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [시드 주소 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html){target="_blank"}
 * [메시지 추적 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
 * [개인화 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ko){target="_blank"}
@@ -185,15 +185,15 @@ ht-degree: 1%
 
 **섹션 5: 관리 및 보고**
 
-* [게재 보고서 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
+* [게재 보고서 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [보고 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 * [게재 모니터링 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=ko){target="_blank"}
 * [설명 분석 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=ko){target="_blank"}
-* [권한 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
+* [사용 권한 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
 <br>
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -250,6 +250,6 @@ ht-degree: 1%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

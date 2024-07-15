@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
-user-guide-description: 다음에 대해 알아보기 [!DNL Experience Cloud] Adobe 시 인증 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
+user-guide-description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 33%
+ht-degree: 28%
 
 ---
 
@@ -89,7 +89,7 @@ ht-degree: 33%
       + 전문가 {#aem-professional}
          + [비즈니스 전문가](/help/certifications/aem/aem-p-business.md)
          + [개발자(사이트)](/help/certifications/aem/aem-sites-p-developer.md)
-         + [개발자(에셋)](/help/certifications/aem/aem-assets-p-developer.md)
+         + [개발자(Assets)](/help/certifications/aem/aem-assets-p-developer.md)
          + [백엔드 개발자(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md)
          + [기술 기초](/help/certifications/aem/aem-p-foundations.md)
       + 전문가 {#aem-expert}
@@ -143,9 +143,9 @@ ht-degree: 33%
          + [개발자(핵심)](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM 강화 커넥터](/help/certifications/aw/aw-aem-e-connector.md)
       + [갱신](/help/certifications/aw/aw-renew.md)
-   + [ADLS에서 제공하는 적격 시험](https://learning.adobe.com/certification/credentials)
+   + [ADLS에서 제공한 적격 시험](https://learning.adobe.com/certification/credentials)
 + [FAQ](faq.md)
-+ 숨김 {#hidden}
++ 숨겨진 {#hidden}
    + [인증 다시 시작 자격 검사](exam-eligibility-check.md)
    + [Experience Platform 개요](/help/certifications/aep/aep-overview.md)
    + [Developer)](/help/certifications/aep/aep-e-foundations.md)

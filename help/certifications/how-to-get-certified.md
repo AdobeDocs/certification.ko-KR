@@ -23,26 +23,26 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 **다음 단계에 따라 인증 시험에 등록하십시오.**
 
-* **1단계:** 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
-* **2단계:** 이 사이트로 돌아가 기술 인증을 클릭하십시오.
-* **3단계:** Adobe 애플리케이션, 인증 수준 및 역할 선택
-* **4단계:** 아래에 제공된 단계를 따릅니다. **인증 받기** 섹션.
+* **1단계:**&#x200B;이(가) [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인했습니다.
+* **2단계:** 이 사이트로 돌아가 기술 인증을 클릭합니다.
+* **3단계:** Adobe 응용 프로그램, 인증 수준 및 역할을 선택하십시오.
+* **4단계:** **인증 받기** 섹션에 제공된 단계를 따릅니다.
 
 **리소스**
 
 예:
 
-* [온라인 감독자 시험에 등록하는 방법](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
+* [온라인 Processed 시험에 등록하는 방법](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [시험을 시작하고 프록터에 연결하는 방법](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
-* [수험생 시스템 요구 사항 테스트](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [테스트 응시자 시스템 요구 사항 예시](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB 시험 보기]
 
 **내 Adobe ID**
 
-사용자 [프로필](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Adobe 자격 증명 관리 시스템의 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
+Adobe 자격 증명 관리 시스템의 [프로필](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} 이름은 정부 ID와 정확히 일치해야 합니다. 동일한 정보를 갖지 못하거나 불일치가 생기면 감독관이 시험을 종료하게 되며, 시험 비용을 추가로 지불하는 것 외에 약속을 다시 잡아야 합니다.
 
-**취소 및 일정 조정**
+**취소 및 다시 예약**
 
 예정된 시험 약속 48시간 전에 시작된 경우 일반적으로 취소 및 일정 조정이 가능합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
 
@@ -50,9 +50,9 @@ Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수
 
 시험 시작 48시간 이상 남았지만 시험 일정을 변경할 수 없는 경우, 이는 새로운 버전의 시험이 있기 때문일 수 있습니다. 만약 당신의 약속이 이전 버전의 시험이라면, 당신은 당신의 시험 약속을 다시 잡을 수 없을 것이다. 가능하면 시험 약속을 지키는 것이 좋습니다. 할 수 없는 경우, 시험을 취소하고 새 시험을 치르기 위해 새 약속을 잡아야 합니다.
 
-**시험 이후**
+**시험 후**
 
-일단 시험을 마치면 잠정적인 합격증을 받거나 불합격한다. 최종 점수는 채우는 데 최대 72시간이 소요될 수 있습니다. 결과 및 점수 보고서는 의 기록 탭 아래에서 찾을 수 있습니다. [Adobe 자격 증명 관리자](https://www.certmetrics.com/adobe){target="_blank"}.
+일단 시험을 마치면 잠정적인 합격증을 받거나 불합격한다. 최종 점수는 채우는 데 최대 72시간이 소요될 수 있습니다. 결과 및 점수 보고서는 [Adobe 자격 증명 관리자](https://www.certmetrics.com/adobe){target="_blank"}의 [기록] 탭에서 찾을 수 있습니다.
 
 첫 번째 시도에서 Adobe 인증 시험에 합격하지 못한 경우, 재시험 전까지 최소 24시간을 기다려야 합니다. 두 번째 또는 그 이후의 시도에서 시험에 합격하지 못하면 재시험 전까지 14일의 대기기간이 필요합니다. 각 시도는 별도의 시험 비용이 발생합니다.
 
@@ -68,23 +68,23 @@ Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수
 
 **갱신 가격**
 
-대부분의 인증 갱신은 **무료**. 무료 갱신 옵션이 없는 인증의 경우 전체 인증 시험에 재응시해야 인증을 갱신할 수 있습니다.
+대부분의 인증 갱신은 **무료입니다**. 무료 갱신 옵션이 없는 인증의 경우 전체 인증 시험에 재응시해야 인증을 갱신할 수 있습니다.
 
 **시험 비용 지불**
 
-자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
+자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}(으)로 이동하세요.
 
 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인 혜택이 있으면 체크아웃 시 적용됩니다.
 
 **파트너 할인**
 
-브론즈 이상의 파트너는 모든 Adobe 인증 시험 및 수업에 대해 할인을 받을 수 있습니다. 다음에서 이러한 할인과 파트너 혜택에 액세스하는 방법에 대해 자세히 알아볼 수 있습니다. [솔루션 파트너 포털](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
+브론즈 이상의 파트너는 모든 Adobe 인증 시험 및 수업에 대해 할인을 받을 수 있습니다. [솔루션 파트너 포털](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}에서 이러한 할인 및 파트너 혜택에 액세스하는 방법에 대해 자세히 알아보십시오.
 
 **기타 할인**
 
-또한 모든 응시자는 다음을 통해 구매할 경우 10회 이상의 대량 구매 시험에 대한 할인 혜택을 받을 수 있습니다. [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
+또한 모든 응시자는 [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}를 통해 구입하는 경우 10회 이상의 대량 구매 시험을 할인받을 수 있습니다.
 
-**일괄 할인 수준**
+**대량 할인 수준**
 
 참고: 일괄 할인은 다른 오퍼 또는 할인과 결합할 수 없습니다.
 
@@ -101,16 +101,16 @@ Adobe Digital Experience Certification Program은 공급업체와 협력하여 �
 | 공급업체 이름 | 설명 | 지원 페이지/이메일 |
 | ------- | ------- | ------- |
 | 신빙성 있게 | 배지 관리 시스템 | [지원](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| 예 | 납품 공급자 테스트(온라인 Proctoring만 해당) | [이메일](mailto:support@examity.com){target="_blank"} 또는 855-예(855-392-6489) |
-| Xvoucher - Adobe 인증 바우처 센터 | 개별 또는 일괄 바우처를 구매하는 바우처 센터 | [이메일](mailto:support@xvoucher.com){target="_blank"} 또는 [온라인 도움말](https://help.xvoucher.com/hc/en-us) |
+| 예 | 납품 공급자 테스트(온라인 Proctoring만 해당) | [전자 메일](mailto:support@examity.com){target="_blank"} 또는 855-예제(855-392-6489) |
+| Xvoucher - Adobe 인증 바우처 센터 | 개별 또는 일괄 바우처를 구매하는 바우처 센터 | [전자 메일](mailto:support@xvoucher.com){target="_blank"} 또는 [온라인 도움말](https://help.xvoucher.com/hc/en-us) |
 
 기타 공급업체 리소스:
 
 **예**
 
-* [Examity Online Proctoring 안내서](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
+* [예제 Online Proctoring 안내서](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
 * [FAQ](https://www.examity.com/faq/test-takers/){target="_blank"}
-* [수험생 시스템 요구 사항 테스트](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [테스트 응시자 시스템 요구 사항 예시](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
 >
@@ -118,11 +118,11 @@ Adobe Digital Experience Certification Program은 공급업체와 협력하여 �
 
 유용한 비디오:
 
-* [최초 응시자](https://vimeo.com/394506654){target="_blank"}
+* [처음 응시하는 사람](https://vimeo.com/394506654){target="_blank"}
 * [테스트 약속을 예약하는 방법](https://vimeo.com/394506786){target="_blank"}
 * [테스트 약속을 다시 예약하는 방법](https://vimeo.com/394507149){target="_blank"}
 * [테스트 약속을 취소하는 방법](https://vimeo.com/394507135){target="_blank"}
-* [온라인 테스트 수행 방법](https://vimeo.com/394506686){target="_blank"}
+* [온라인 테스트를 받는 방법](https://vimeo.com/394506686){target="_blank"}
 
 Adobe 인증 바우처 센터(Xvoucher) FAQ
 
@@ -134,7 +134,7 @@ Adobe 시험 바우처는 구매 후 12개월이 지나면 만료됩니다. �
 
 +++바우처는 크레딧이나 환불을 위해 반환될 수 있습니까?
 
-_모든 판매는 최종 판매입니다._ 반품과 환불은 안됩니다 Adobe 시험 바우처는 특정 시험이 아닌 시험 수준에서 구매되며, 이는 유연성을 제공합니다.
+_모든 판매가 최종적입니다._ 반환 및 환불은 허용되지 않습니다. Adobe 시험 바우처는 특정 시험이 아닌 시험 수준에서 구매되며, 이는 유연성을 제공합니다.
 
 * 예: Adobe Certified Expert 수준 시험 바우처 10개를 구입하여 배포할 때, 누가 어떤 전문가 시험에 응시할지 미리 알고 계획할 필요가 없습니다.
 * 관리자는 사용자에게 바우처를 할당하고 바우처가 열람되었는지, 상환되었는지 또는 테스트가 예약되었거나 진행되었는지 확인할 수 있습니다.
@@ -171,7 +171,7 @@ _모든 판매는 최종 판매입니다._ 반품과 환불은 안됩니다 Adob
 
 +++Xvoucher 계정에 액세스하려면 어떻게 해야 합니까?
 
-계정에 로그인하기만 하면 됩니다. [여기](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+[여기](https://www.xvoucher.com/Login.aspx){target="_blank"} 계정에 로그인하기만 하면 됩니다.
 
 +++
 
@@ -189,15 +189,15 @@ _모든 판매는 최종 판매입니다._ 반품과 환불은 안됩니다 Adob
 
 >[!TAB 인증 프로필 관리]
 
-다음 섹션 및 링크는 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+다음 섹션 및 링크는 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 성공적으로 로그인한 후에만 작동합니다.
 
 | 빠른 링크 | 설명 |
 | ------- | ------- | 
 | Adobe 자격 증명 관리 시스템 | [Adobe 자격 증명 관리에 대한 초기 로그인](https://www.certmetrics.com/adobe){target="_blank"} |
-| 프로필 | [계정 이름, 주소, 회사 등의 위치가 포함된 인구 통계 정보 페이지. 이름은 Adobe 관리자만 업데이트할 수 있습니다.](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
-| 식별 | [Adobe/로그인 ID 위치. 보통 ADB로 시작](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
-| 기록 | [점수 보고서 및 시험 기록 보기](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
-| 인증 | [현재 및 만료된 모든 인증 보기](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
+| 프로필 | [계정 이름, 주소, 회사 등의 위치가 있는 인구 통계 정보 페이지입니다. Adobe 관리자](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}의 이름만 업데이트할 수 있습니다. |
+| 식별 | [Adobe/로그인 ID 위치. 일반적으로 ADB로 시작](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
+| 내역 | [점수 보고서 및 시험 기록 보기](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
+| 인증 | [현재 인증 및 만료된 인증 모두 보기](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 
 >[!TAB 배지 관리]
 
@@ -207,14 +207,14 @@ _모든 판매는 최종 판매입니다._ 반품과 환불은 안됩니다 Adob
 
 **기존 사용자의 경우 Adobe 인증 배지를 수락하는 두 가지 방법이 있습니다.**
 
-* **1단계:** 로그인 [신빙성 있게](https://www.credly.com/users/sign_in){target="_blank"}. _(Adobe 자격 증명을 얻는 데 사용한 이메일과 동일한 이메일을 사용해야 합니다. 그렇지 않으면 배지가 표시되지 않습니다.)_
-* **2단계:** 또는 Credly에서 받은 이메일로 이동하여 배지를 수락합니다.
+* **1단계:** [Credly](https://www.credly.com/users/sign_in){target="_blank"}에 로그인합니다. _(Adobe 자격 증명을 얻는 데 사용한 전자 메일을 사용해야 합니다. 그렇지 않으면 배지가 표시되지 않습니다.)_
+* **2단계:** 또는 Credly에서 받은 전자 메일로 이동하여 배지를 수락합니다.
 * **3단계:** 배지를 수락하고 공유합니다.
 
-**신규 사용자의 경우 아래 지침에 따라 Adobe 인증 배지에 동의하십시오.**
+**새 사용자의 경우 아래 지침에 따라 Adobe 인증 배지를 수락하십시오.**
 
-* **1단계:** Credly에서 받은 이메일로 이동하여 배지를 수락합니다.
-* **2단계:** 계정을 만듭니다. _(Adobe 자격 증명을 얻는 데 사용한 이메일과 동일한 이메일을 사용해야 합니다. 그렇지 않으면 배지가 표시되지 않습니다.)_
+* **1단계:** Credly에서 받은 전자 메일로 이동하여 배지를 수락합니다.
+* **2단계:** 계정을 만듭니다. _(Adobe 자격 증명을 얻는 데 사용한 전자 메일을 사용해야 합니다. 그렇지 않으면 배지가 표시되지 않습니다.)_
 * **3단계:** 배지를 수락하고 공유합니다.
 
 [자세히 알아보기](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
@@ -223,6 +223,6 @@ _모든 판매는 최종 판매입니다._ 반품과 환불은 안됩니다 Adob
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

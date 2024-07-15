@@ -1,6 +1,6 @@
 ---
 title: Developer Professional 인증
-description: 다음으로 인증 받는 방법 알아보기 [!DNL Adobe Analytics] 개발자 전문가.
+description: ' [!DNL Adobe Analytics] 개발자 전문가 인증을 받는 방법을 알아봅니다.'
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Analytics] Developer Professional
+# [!DNL Adobe Analytics] 개발자 전문가용 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/217) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/217)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -53,22 +53,22 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* 에서 6~12개월 경험 [!DNL Adobe Analytics] 구현(웹 및 모바일 앱)
+* [!DNL Adobe Analytics] 구현(웹 및 모바일 앱)에서의 6~12개월 경험
 * Analytics 구현 팀을 지원하는 경험은 IT와 비즈니스 간의 브리징에서 비즈니스 요구 사항이 기술 솔루션(SDR)으로 번역되는 방식과 분석가가 제공한 요구 사항을 기반으로 합니다
 * 필요한 변수 유형, 데이터 수집 위치 및 방법, 데이터 모델(데이터 레이어) 디자인, 태그 관리 솔루션 구성 및 유지 관리 이해
 
 또한 다음 작업에 대한 경험이 있어야 합니다.
 
-* 솔루션 디자인 문서(SDR) 해석 및 모든 기능의 목적 이해 [!DNL Adobe Analytics] 변수 수집됨
+* 솔루션 디자인 문서(SDR) 해석 및 수집된 모든 [!DNL Adobe Analytics] 변수의 목적 이해
 * Adobe(Experience Platform) 실행 이해 및 작업
-* 기준 요소 구성 이해 [!DNL Adobe Analytics] 차원 및 이벤트 페이지 이름, 링크 이름, Activity Map 등이지만 더 많은 고객 구현을 위해 전문가 개발자와 협력합니다. - 변수 매핑은 여전히 전문가 수준 개발자가 소유합니다.
+* 기준선 [!DNL Adobe Analytics] 차원 및 이벤트 페이지 이름, 링크 이름, Activity Map 등의 구성을 이해하지만 더 많은 고객 구현을 위해 전문가 개발자와 협력할 것입니다. 변수 매핑은 여전히 전문가 수준 개발자가 소유합니다
 * AA 전문가가 제공한 디자인에 따라 Launch 내에서 규칙 생성 및 구성
 * 웹 콘솔 디버거 또는 charles logs와 같은 모바일 앱 시스템을 활용하여 실행되는 변수 및 이벤트에서 캡처되는 데이터 테스트 및 유효성 검사
-* 데이터 계층이 무엇인지 이해하고 JavaScript 개체를 읽는 방법을 알고 있습니다
+* 데이터 계층이 무엇이며 JavaScript 개체를 읽는 방법을 이해합니다.
 * 액세스 요청을 위해 보고서, 세그먼트 및 프로세스를 공유하지만 사용자 그룹, 거버넌스 프로토콜 및 SDR 관리 방법은 공유 안 함
 * 모바일/SDK 솔루션 제공 및 구성
 * 기술 자료 문서에서 비디오 추적(이벤트 기반)에 숨겨진 일반적인 프레임워크 이해
-* Analysis Workspace에서 기본 보고 수행 및 보고서에서 사용할 수 있는 데이터 출력 이해 [!DNL Adobe Analytics] Data Warehouse
+* Analysis Workspace에서 기본 보고를 수행하고 [!DNL Adobe Analytics] Data Warehouse에서 사용할 수 있는 데이터 출력을 이해합니다.
 * Adobe Experience Platform Launch의 기본 경험(Adobe 시작)
 
 <br>
@@ -77,23 +77,23 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**섹션 1: Adobe Experience Cloud Eco-system의 Analytics(14%)**
+**섹션 1: Adobe Experience Cloud Eco-System의 Analytics(14%)**
 
 * Adobe Experience Cloud ID의 기능 및 성능을 식별합니다.
 * Adobe 시작에 대한 사용을 식별합니다.
-* 활성화/지원 방법 확인 [!DNL Adobe Analytics] Adobe Experience Cloud Eco 시스템의 태그.
+* Adobe Experience Cloud Eco-system에서 [!DNL Adobe Analytics] 태그를 활성화/지원하는 방법을 식별합니다.
 
-**섹션 2: SDR 기반의 Analytics 전략 및 디자인(12%)**
+**섹션 2: SDR 기반의 분석 전략 및 디자인(12%)**
 
 * 솔루션 디자인 참조가 주어지면 채울 데이터 개체를 식별합니다.
 * 기술 사양 문서의 일부가 제공되면 데이터 캡처를 구현하는 방법을 식별합니다.
 
 **섹션 3: Analytics 구현 및 구성(30%)**
 
-* 배포할 단계 식별 [!DNL Adobe Analytics] 코드.
+* [!DNL Adobe Analytics] 코드를 배포하는 단계를 식별합니다.
 * Analytics 추적을 위한 최소 배포 코드의 함수를 식별합니다.
-* 내에서 다양한 구성 요소를 구성하는 단계를 식별합니다 [!DNL Adobe Analytics] UI.
-* 의 기능 식별 [!DNL Adobe Analytics] 보고서 세트 및 변수 설정.
+* [!DNL Adobe Analytics] UI 내에서 다양한 구성 요소를 구성하는 단계를 식별합니다.
+* [!DNL Adobe Analytics] 보고서 세트 및 변수 설정의 함수를 식별합니다.
 * 데이터 계층의 특성 및 데이터 계층 값을 식별합니다.
 * 링크 추적 및 전자 상거래 추적과 같은 추적 기능에 대한 앱 측정 기능을 식별합니다.
 
@@ -104,17 +104,17 @@ ht-degree: 0%
 * 시나리오가 주어지면 Adobe Launch에서 확장을 활성화, 수정 및 문제를 해결하는 방법을 식별합니다.
 * 규칙 및 데이터 요소를 만드는 방법을 식별합니다.
 
-**섹션 5: 의 구성 요소 [!DNL Adobe Analytics] (8%)**
+**섹션 5: [!DNL Adobe Analytics]의 구성 요소(8%)**
 
-* 의 기능 식별 [!DNL Adobe Analytics] API(데이터 피드, 웨어하우스, 데이터 소스, 보고서).
+* [!DNL Adobe Analytics] API(데이터 피드, 웨어하우스, 데이터 소스, 보고서)의 기능을 식별합니다.
 * 처리 규칙의 특성을 식별합니다.
 
-**섹션 6: 테스트, 검증 및 문제 해결(18%)**
+**섹션 6: 테스트, 유효성 검사 및 문제 해결(18%)**
 
 * 일반적인 JavaScript 오류의 의미를 식별합니다.
-* 공통점의 의미 파악 [!DNL Adobe Analytics] 변수 오류입니다.
+* 일반적인 [!DNL Adobe Analytics] 변수 오류의 의미를 식별합니다.
 * 시나리오가 주어지면 따라야 하는 테스트 및 디버깅 유효성 검사 모범 사례를 식별합니다.
-* 추적 방법 식별 [!DNL Adobe Analytics] 서버 호출 (즉, 비콘 요청에서 보고서에 표시까지.)
+* [!DNL Adobe Analytics] 서버 호출을 추적하는 방법을 식별합니다(예: 비콘 요청에서 보고서에 표시까지.)
 
 <br>
 
@@ -144,15 +144,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/217)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/217)
 
 +++
 
@@ -207,7 +207,7 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 

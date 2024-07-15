@@ -1,6 +1,6 @@
 ---
 title: Developer Professional 인증
-description: 에서 인증된 Adobe 비즈니스 전문가가 되는 방법에 대해 알아보십시오. [!DNL Experience Manager Sites].
+description: ' [!DNL Experience Manager Sites]에서 인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아봅니다.'
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Experience Manager Sites] Developer Professional
+# Adobe [!DNL Experience Manager Sites] Developer Professional의 인증 여정
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의:** 다음을 수행합니다. [개발자용 Adobe Experience Manager Sites - 전문 교육 과정](https://app.rockinfo.com/courses/105)주요 개념에 대한 설명, 실습 데모 및 지식 확인을 포함합니다. 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager 파운데이션 과정](https://app.rockinfo.com/courses/240): 인증 여정에서 빌드할 수 있는 지식의 기반을 제공합니다.
+>* **과정:** 주요 개념, 실습 데모 및 지식 검사에 대한 설명이 포함된 [개발자용 Adobe Experience Manager Sites - 전문가 과정](https://app.rockinfo.com/courses/105)을 수강하십시오. 처음 시작했거나 새로 고침이 필요한 경우 인증 여정에서 빌드할 수 있는 지식의 기초를 제공하는 [Adobe Experience Manager Foundations 교육 과정](https://app.rockinfo.com/courses/240)을(를) 수강하십시오.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/121) 에서는 시험에 성공하기 위해 필요한 자료를 비롯하여 시험 준비 과정에 대한 맞춤 경로를 제공합니다.
+>* **시험 준비 가이드:** [시험 준비 가이드](https://app.rockinfo.com/courses/121)는 시험에 성공하기 위해 필요한 자료를 포함하여 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
 >로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 애플리케이션 개발자이고 다음 권한이 있어야 합니다.
 
-* AEM 작업 경력 0~12개월 [!DNL Platform]
+* AEM [!DNL Platform] 작업 경험 0~12개월
 * 구성 요소 개발 수행 기능
 * AEM의 MVC 프레임워크, 라이프 사이클 프레임워크 및 라이브러리에 대한 기본 이해
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 * AEM Dispatcher 구성 및 캐싱의 목적 인식
 * AEM에서 다중 사이트를 구성하는 올바른 단계를 결정합니다.
 * OSGi 구성을 만들고 관리하는 방법 설명
-* 사용자 정의 Oak 인덱스를 관리하는 올바른 단계 결정
+* 사용자 지정 Oak 인덱스를 관리하는 올바른 단계 결정
 * OOTB SAML 또는 IMS 통합을 구성하는 올바른 단계 결정
 
 **섹션 2: AEM 개발(40%)**
@@ -93,7 +93,7 @@ ht-degree: 0%
 * 시나리오가 주어지면 AEM 환경에서 문제를 디버깅하는 데 필요한 단계를 결정합니다
 * AEM 유지 관리 릴리스 설명
 * 여러 토폴로지에서 AEM을 구성하는 방법 식별
-* AEM as a Cloud Service으로 계획 및 마이그레이션에 필요한 단계 결정
+* 계획 수립 및 AEM as a Cloud Service으로의 마이그레이션에 필요한 단계 결정
 
 <br>
 
@@ -121,13 +121,13 @@ ht-degree: 0%
 
 [Adobe Experience Manager Foundations 교육 과정 수강](https://app.rockinfo.com/courses/240)
 
-[Adobe Experience Manager Sites for Developers - Professional 교육 과정](https://app.rockinfo.com/courses/105)
+[개발자를 위한 Adobe Experience Manager Sites 교육 과정 - 전문가 교육 과정](https://app.rockinfo.com/courses/105)
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/121)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/121)
 
 **샘플 질문**
 
@@ -188,7 +188,7 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 

@@ -3,7 +3,7 @@ title: 연습 테스트 정보
 description: 제한된 수의 자격증에는 실기 시험이 있습니다
 source-git-commit: c550ec351b2926db895746457667474d69249c2c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 모의고사를 통과한다고 자격증 시험에 합격하는 것은 아님을 명심하시기 바랍니다.
 
-로 이동 [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 이제 연습 시험을 치르겠습니다.
+지금 [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"}(으)로 이동하여 연습 테스트를 받으십시오.

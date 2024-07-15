@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: 다음으로 인증 받는 방법 알아보기 [!DNL Adobe Analytics] 비즈니스 전문가.
+description: ' [!DNL Adobe Analytics] 비즈니스 전문가 자격증을 취득하는 방법에 대해 알아봅니다.'
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Analytics] 비즈니스 전문가
+# Adobe [!DNL Analytics] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/145) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/145)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-다음 기간 동안 최소 3개월의 경험을 보유해야 합니다. [!DNL Adobe Analytics] 및 다음 경험:
+[!DNL Adobe Analytics]에서 최소 3개월의 경험과 다음 경험이 있어야 합니다.
 
 * 마케팅 배경 또는 마케팅 역할에서 왔지만 다양한 작업 역할에서 나올 수 있습니다.
 * 디지털 분석 지표 및 차원에 대한 기본적인 지식입니다.
@@ -89,17 +89,17 @@ ht-degree: 0%
 * 시나리오가 주어지면 사용할 적절한 항목을 결정합니다
 * 마케팅 캠페인 성과 보고서
 
-**섹션 3: 세분화 및 계산된 지표 (19%)**
+**섹션 3: 세분화 및 계산된 지표(19%)**
 
 * 모범 사례를 사용하여 기본 세그먼트를 개발 및 구성하는 방법 결정
 * 조직의 다른 사용자와 세그먼트를 공유하는 프로세스 적용
 * 프로젝트 및 구성 요소에 세그먼트 적용
 * 기본 계산된 지표 및/또는 세그먼트화된 지표를 생성하도록 프로세스 적용
 
-**섹션 4: 일반 도구 지식 및 문제 해결(9%)**
+**섹션 4: 일반적인 도구 지식 및 문제 해결(9%)**
 
-* 에 있는 다양한 유형의 치수 및 매개변수 이해 [!DNL Adobe Analytics] (evar, prop 및 이벤트)
-* 에서 데이터를 내보내는 방법 결정 [!DNL Adobe Analytics]
+* [!DNL Adobe Analytics]에 있는 다양한 유형의 차원 및 매개 변수(evar, prop 및 이벤트) 이해
+* [!DNL Adobe Analytics]에서 데이터를 내보내는 방법 결정
 
 <br>
 
@@ -129,11 +129,11 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/145)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/145)
 
 **샘플 질문**
 
@@ -199,6 +199,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

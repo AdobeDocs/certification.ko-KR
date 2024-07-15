@@ -1,6 +1,6 @@
 ---
 title: 전문가 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 개발자 전문가.
+description: 인증된 Adobe [!DNL Journey Optimizer] 개발자 전문가가 되는 방법에 대해 알아봅니다.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -13,13 +13,13 @@ ht-degree: 1%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Journey Optimizer] 개발자 전문가
+# Adobe [!DNL Journey Optimizer] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험(AD0-E606). 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ajo-e-developer.md), 2023년 12월 22일까지 완료해야 합니다.
+>최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험입니다(AD0-E606). 이미 공부를 시작했거나 [이전 버전](ajo-e-developer.md)을 예약한 경우 2023년 12월 22일까지 완료해야 합니다.
 
 
 ## 시험 설명 {#exam-description}
@@ -77,7 +77,7 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 * 샌드박스의 개념과 비즈니스 단위 간에 데이터를 사용하는 방법을 설명합니다.
 * 채널 관리에 대한 이해 설명
 * 이벤트/작업/데이터 소스의 적절한 적용 결정
-* 조절, 제한, 억제, 개체 복사, 대화형 메시지 실행 등 AJO별 API를 사용해야 하는 시점을 식별합니다
+* 조절, 제한, 억제, 개체 복사, 대화형 메시지 실행 등 AJO 특정 API를 사용해야 하는 시점을 식별합니다
 
 **섹션 2: Journey Orchestration(22%)**
 
@@ -142,15 +142,15 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 * [AJO 안내서, 의사 결정 관리, API 참조](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
-**섹션 4: 컨텐츠 작성**
+**섹션 4: 콘텐츠 작성**
 
-* [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 컨텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
+* [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 콘텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 * [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR){target="_blank"}
 
 **섹션 5: 데이터 모델링**
 
 * [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
-* [Experience Platform, 데이터 세트, 소스 커넥터 안내서, API Tutorials, Platform Identity Service 안내서, 세그먼테이션 UI, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Experience Platform, 데이터 세트, Source 커넥터 안내서, API Tutorials, Platform Identity Service 안내서, 세그먼테이션 UI, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
 +++
 
@@ -180,7 +180,7 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 >[!NOTE]
 >
->최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험(AD0-E606). 이미 공부를 시작했거나 일정을 잡은 경우 [이전 버전](ajo-e-developer.md), 2023년 12월 22일까지 완료해야 합니다.
+>최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험입니다(AD0-E606). 이미 공부를 시작했거나 [이전 버전](ajo-e-developer.md)을 예약한 경우 2023년 12월 22일까지 완료해야 합니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -209,6 +209,6 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

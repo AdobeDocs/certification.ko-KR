@@ -1,6 +1,6 @@
 ---
 title: 개발자 전문가 인증
-description: 에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다. [!DNL Campaign Classic].
+description: ' [!DNL Campaign Classic]에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Campaign Classic] 개발자 전문가
+# Adobe [!DNL Campaign Classic] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/252) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/252)는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 다음을 수행해야 합니다.
 
 * Campaign 소프트웨어 경력 최소 2년
-* JavaScript 프로그래밍, ETL을 포함한 SQL 개발 및 웹 기술(XML, HTML 및 웹 서비스)에 3년 이상 종사한 경험이 있습니다.
+* JavaScript 프로그래밍, ETL을 비롯한 SQL 개발 및 웹 기술(XML, HTML 및 웹 서비스)에 3년 이상 종사한 경험이 있습니다.
 * 디지털 옴니채널을 사용하여 마케팅 캠페인 실행 경험
 * 데이터베이스 아키텍처에 대한 경험 및 데이터베이스 마케팅에 대한 지식
 * Campaign 기능에 요구 사항을 매핑하는 기능
@@ -74,14 +74,14 @@ ht-degree: 0%
 * 사용자 지정 구성 구현
 * Campaign Campaign 컨트롤 패널 구성 기능 식별
 
-**섹션 2: 사용자 정의(22%)**
+**섹션 2: 사용자 지정(22%)**
 
 * 요구 사항 세트가 주어지면 모범 사례를 적용하여 데이터 모델을 디자인합니다
 * Campaign의 API 구현 설명
-* Adobe Campaign에서 JavaScript를 사용하여 개발하는 모범 사례 설명
+* Adobe Campaign에서 JavaScript을 사용하여 개발하기 위한 모범 사례 설명
 * 워크플로우, SOAP 호출, 유형화 규칙 및 개인화 블록에 JavaScript 라이브러리 적용
-* Adobe에서 SQL 함수 사용에 대한 모범 사례 설명 [!DNL Campaign Classic]
-* 시나리오에 따라 Adobe에서 SQL 스크립트를 사용하는 방법을 이해합니다. [!DNL Campaign Classic]
+* [!DNL Campaign Classic] Adobe에서 SQL 함수를 사용하는 모범 사례 설명
+* 시나리오가 주어지면 [!DNL Campaign Classic] Adobe에서 SQL 스크립트를 사용하는 방법을 이해하십시오.
 * 일반적으로 사용되는 OOTB 함수 설명
 
 **섹션 3: 액세스 관리(8%)**
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 * 고급 개인화 기술 적용
 * 사용자 지정 대상 매핑 구성 및 적용
-* Campaign 워크플로우에서 적절한 JavaScript 사용 방법 및 그 이유 식별
+* Campaign 워크플로우에서 적절한 JavaScript 사용 및 그 이유를 식별합니다
 * 사용자 지정 코드를 적용하여 임시 테이블 및 워크플로 컨텍스트 조작
 * 워크플로우 로직의 유효성 검사 및 디버그
 * 고급 게재 설정 적용
@@ -146,15 +146,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/252)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/252)
 
 +++
 
@@ -209,6 +209,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

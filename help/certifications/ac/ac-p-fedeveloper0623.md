@@ -1,6 +1,6 @@
 ---
 title: 프론트엔드 개발자 전문가 신규 인증
-description: Adobe을 위해 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다 [!DNL Commerce].
+description: Adobe [!DNL Commerce]의 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Commerce] 프론트엔드 개발자 전문가
+# Adobe [!DNL Commerce] 프론트엔드 개발자 전문가용 인증 여정
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의**: 지금 시작했거나 새로 고침이 필요한 경우 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이렇게 하면 인증 여정에서 빌드할 수 있는 지식의 기반이 됩니다.
+>* **과정**: 처음 시작했거나 새로 고침이 필요한 경우 [Adobe Commerce Foundations 과정](https://app.rockinfo.com/courses/148)에서 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스하십시오. 이렇게 하면 인증 여정에서 빌드할 수 있는 지식의 기반이 됩니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/138) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** [시험 준비 안내서](https://app.rockinfo.com/courses/138)는 이 자격증 취득에 필요한 자료를 포함하여 자격증 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
->_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
+>_로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -86,9 +86,9 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 
 {{exam-objectives}}
 
-**섹션 1: 테마 관리 (테마 계층 구조, 이미지 구성, 번역) (14%)**
+**섹션 1: 테마 관리(테마 계층 구조, 이미지 구성, 번역)(14%)**
 
-* 설명 Adobe [!DNL Commerce] 테마 폴더 구조
+* Adobe [!DNL Commerce] 테마 폴더 구조 설명
 * 새 테마를 만들거나 기존 테마를 확장하는 기능 시연
 * 사용자 정의 번역 구문 추가 기능 시연
 
@@ -100,18 +100,18 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * 템플릿을 만들고 사용자 지정하는 기능 시연
 * 템플릿 보안 설명(출력 이스케이프 처리)
 
-**섹션 3: 스타일 (22%)**
+**섹션 3: 스타일(22%)**
 
 * styles-m.less, styles-l.less, print.less의 목적 설명
 * 특정 부분 파일(_extends.less,_extend.less,_theme.less,_widgets.less,_module.less) 간의 차이점 설명
-* 시나리오가 주어지면 재정의하거나 확장하는 기능을 보여 줍니다. [!DNL Magento] 간단히
+* 시나리오가 주어지면 [!DNL Magento] LESS를 재정의하거나 확장하는 기능을 보여 줍니다.
 * LESS의 기본 개념 설명
 * 스타일(라이브러리, 모듈, 테마)의 계층 구조 설명
 * 클라이언트측 및 서버측 컴파일 설명
 
 **섹션 4: JavaScript(18%)**
 
-* JavaScript 구성 요소를 초기화하고 호출하는 기능을 보여 줍니다.
+* JavaScript 구성 요소 초기화 및 호출 기능 시연
 * RequireJS 사용 시연
 * mixin 사용 설명
 * JS에서 번역을 추가하는 방법 설명
@@ -125,7 +125,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 * 관리자 구성을 사용하여 카테고리, 제품 및 CMS 페이지에 디자인 변경 사항 적용
 * 트랜잭션 이메일을 사용자 지정하는 단계 설명
 
-**섹션 6: 툴(CLI 및 성능)(8%)**
+**섹션 6: 도구(CLI 및 grunt)(8%)**
 
 * 기본 bin/Magento 명령의 사용 설명
 * Composer 명령 사용 설명(설치, 업데이트, 필요, 제거)
@@ -152,7 +152,7 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -167,11 +167,11 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 </span>
 </a>
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/138)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/138)
 
 +++
 
@@ -226,6 +226,6 @@ Adobe Commerce 프론트엔드 개발에 대한 0~12개월 실무 경험과 개�
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

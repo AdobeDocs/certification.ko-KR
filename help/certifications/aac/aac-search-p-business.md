@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: Adobe 인증을 받는 방법 알아보기 [!DNL Advertising Search] 비즈니스 전문가.
+description: Adobe 인증을 받는 방법 [!DNL Advertising Search] 비즈니스 전문가
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
@@ -11,11 +11,11 @@ exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
 source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Advertising Search] 비즈니스 전문가
+# [!DNL Adobe Advertising Search] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
@@ -50,8 +50,8 @@ ht-degree: 1%
 다음을 수행해야 합니다.
 
 * 12-24개월 유료 검색 성능 산업을 보유한 프로그램 관리자 경험
-* 최소 3~6개월 [!DNL Advertising Search] 플랫폼 경험
-* 에서 작업 중인 경험 [!DNL Advertising Search] 유료 검색 입찰 자동화, 캠페인 관리,
+* [!DNL Advertising Search] 플랫폼 경험 최소 3~6개월
+* [!DNL Advertising Search]에서 작업한 경험이 있으며 유료 검색 입찰 자동화, 캠페인 관리,
 * Portfolio 이론에 대한 이해
 
 또한 다음 기능을 사용한 경험이 있어야 합니다.
@@ -114,7 +114,7 @@ ht-degree: 1%
 
 {{readiness}}
 
-[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+[온라인 준비 질문서를 받으세요](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
 
 <br>
 
@@ -139,37 +139,37 @@ ht-degree: 1%
 **섹션 1: Portfolio 및 최적화**
 
 * [Adobe 소개 [!DNL Analytics] Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
-* [개요 [!DNL Analytics] 대상 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=ko-KR){target="_blank"}
+* [개요 [!DNL Analytics] 대상 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
 * [성능 최적화](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [향상된 Analytics의 KPI 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [스마트 목록 필터에 제한 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
+* [스마트 목록 필터에 제약 조건 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
 * [최적화 목표 및 사용 방법](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
 
-**섹션 2: 보고서, 통찰력 및 도구**
+**섹션 2: 보고서, 인사이트 및 도구**
 
-* [[!DNL Analytics] 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ko-KR){target="_blank"}
+* [[!DNL Analytics] 도구 안내서](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [시작 [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] 보고](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [만들기 [!DNL Analytics] Adobe 프로필 [!DNL Advertising] 활성화 및 보고](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
-* [다음에 대한 보고서 [!DNL Advertising] Adobe의 데이터 [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
-* [보고서 처리 시간](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=ko-KR){target="_blank"}
-* [Adobe [!DNL Analytics] 대시보드 스코어카드 빌더](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=ko-KR){target="_blank"}
+* [Adobe에 대한 프로필 만들기 [!DNL Analytics] 활성화 및 보고 [!DNL Advertising] 활성화 및 보고](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
+* [Adobe의  [!DNL Advertising] 데이터 보고 [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
+* [보고서 처리 시간](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html){target="_blank"}
+* [Adobe [!DNL Analytics] 대시보드 스코어카드 빌더](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html){target="_blank"}
 
 **섹션 3: 캠페인 관리**
 
-* [시작하기 [!DNL Campaign] 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
+* [시작 [!DNL Campaign] 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [작동 이유 확인](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
 * [검색 마케팅 스마트화](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
-* [단일 화면에서 전체 고객 여정 보기](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
+* [한 화면에서 전체 고객 여정 보기](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
 * [일괄 처리 및 트리거 스마트 캠페인 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
 **섹션 4: 측정**
 
-* [만들기 [!DNL Analytics] Adobe을 사용한 사용자 지정 지표 [!DNL Advertising] 데이터](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
+* [Adobe을 사용하여 사용자 지정 지표 만들기 [!DNL Analytics] 데이터](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"} [!DNL Advertising] 
 * [PDF의 격자, 안내선 및 측정](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [속성 및 측정](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Marketo Measure 도움말 설명서](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
-* [전환 변수 (eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
+* [전환 변수(eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
 +++
 
@@ -224,9 +224,9 @@ ht-degree: 1%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 
 
 

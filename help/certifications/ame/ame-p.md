@@ -1,6 +1,6 @@
 ---
 title: 전문 자격증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Marketo Engage] 프로페셔널
+description: 인증된 Adobe이 되는 방법 [!DNL Marketo Engage] Professional에 대해 알아보세요.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Marketo Engage] 전문가
+# Adobe [!DNL Marketo Engage] Professional에 대한 인증 여정
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의**: 지금 시작했거나 새로 고침이 필요한 경우 [Adobe Marketo Engage 파운데이션 과정](https://app.rockinfo.com/courses/261) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이렇게 하면 인증 여정에서 빌드할 수 있는 지식의 기반이 됩니다.
+>* **과정**: 처음 시작했거나 새로 고침이 필요한 경우 [Adobe Marketo Engage Foundations 과정](https://app.rockinfo.com/courses/261)에서 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스하십시오. 이렇게 하면 인증 여정에서 빌드할 수 있는 지식의 기반이 됩니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/247) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
+>* **시험 준비 가이드:** [시험 준비 가이드](https://app.rockinfo.com/courses/247)는 시험에 성공하기 위해 필요한 심화 학습 자료를 포함하여 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
->_Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>_시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**섹션 1: 프로그램 구축 및 관리(39%)**
+**섹션 1: 프로그램 빌드 및 관리(39%)**
 
 * 4가지 프로그램 유형 각각을 사용할 시기를 식별합니다.
 * 이벤트 프로그램을 사용해야 하는 이유/시기를 식별합니다.
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 고객 환경 설정 이해(구독, 커뮤니케이션).
 * 시작하기 전에 검토할 모범 사례를 적용합니다.
 
-**섹션 2: 자산 작성(19%)**
+**섹션 2: 에셋 빌드(19%)**
 
 * Design Studio에서 파일 조작(이미지 및 파일 업로드/바꾸기).
 * 양식 편집기를 사용하여 양식을 작성/수정합니다.
@@ -116,7 +116,7 @@ ht-degree: 0%
 * 초안과 승인된 에셋의 차이를 구별합니다.
 * 로컬 자산과 글로벌 자산의 차이를 구분합니다.
 
-**섹션 3: 대상자 정의 및 타겟팅(33%)**
+**섹션 3: 대상자 정의 및 타깃팅(33%)**
 
 * 스마트 목록을 생성/수정합니다.
 * 스마트 캠페인 흐름 단계를 이해합니다.
@@ -124,7 +124,7 @@ ht-degree: 0%
 * 스마트 캠페인 결과 해석
 * 세그먼테이션의 목적과 용도를 설명합니다.
 * 데이터베이스를 식별하고 탐색합니다.
-* Adobe에서 개인 정보 설정을 설정하는 방법 설명 [!DNL Marketo Engage].
+* [!DNL Marketo Engage] Adobe에서 개인 정보 설정을 설정하는 방법을 설명합니다.
 * 스마트 목록과 정적 목록을 구분합니다.
 * 시스템 스마트 목록을 정의합니다.
 * 다양한 유형의 스마트 캠페인을 비교하고 대조합니다.
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 **섹션 4: 보고서 분석 및 작성(9%)**
 
-* 표준 Adobe 설명 [!DNL Marketo Engage] 보고서 및 사용 시기(이메일 링크 성능, 이메일 성능, 랜딩 페이지 성능, 사람 성능, 프로그램 성능, 웹 페이지 활동 등)
+* 표준 Adobe [!DNL Marketo Engage] 보고서 및 사용 시기(전자 메일 링크 성능, 전자 메일 성능, 랜딩 페이지 성능, 사용자 성능, 프로그램 성능, 웹 페이지 활동 등)를 설명합니다.
 * 대시보드 정보 및 지표 이해(이메일 프로그램 대시보드, 참여 프로그램 대시보드)
 * 이메일 인사이트 지표 이해
 
@@ -165,7 +165,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -173,13 +173,13 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Marketo Engage 기초 과정 수강](https://app.rockinfo.com/courses/261)
+[Adobe Marketo Engage Foundations 교육 과정 수강](https://app.rockinfo.com/courses/261)
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/247)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/247)
 
 +++
 
@@ -245,6 +245,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

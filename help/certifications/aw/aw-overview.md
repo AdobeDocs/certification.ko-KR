@@ -12,7 +12,7 @@ ht-degree: 14%
 
 # Adobe [!DNL Workfront] 인증 개요
 
-## Adobe에 사용 가능한 모든 시험 [!DNL Workfront]
+## [!DNL Workfront] Adobe에 사용 가능한 모든 시험
 
 **전문가**
 
@@ -25,4 +25,4 @@ ht-degree: 14%
 * [개발자(핵심)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
 * [AEM 강화 커넥터](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-다음 방문: [인증 갱신](/help/certifications/renew.md) 이 제품에 대한 갱신 옵션을 사용할 수 있는지 확인하는 페이지입니다.
+이 제품에 대해 갱신 옵션을 사용할 수 있는지 확인하려면 [인증 갱신](/help/certifications/renew.md) 페이지를 방문하세요.

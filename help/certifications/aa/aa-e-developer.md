@@ -1,6 +1,6 @@
 ---
 title: 개발자 전문가 인증
-description: 다음으로 인증 받는 방법 알아보기 [!DNL Adobe Analytics] 개발자 전문가.
+description: ' [!DNL Adobe Analytics] 개발자 전문가 인증을 받는 방법을 알아봅니다.'
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Analytics] 개발자 전문가
+# Adobe [!DNL Analytics] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/221) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/221)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-에서 약 2년의 경험을 가진 하이브리드 역할의 구현 컨설턴트로서 경험이 있어야 합니다. [!DNL Adobe Analytics] 구현. IT와 비즈니스 간의 가교 역할을 수행하고, 비즈니스 요구 사항을 기술 솔루션(SDR)으로 번역하며, 분석가가 제공한 요구 사항을 기반으로 필요한 변수 유형, 데이터 수집 위치 및 방법, 데이터 모델(데이터 레이어) 디자인, 태그 관리 솔루션을 구성 및 유지 관리합니다.
+[!DNL Adobe Analytics] 구현에서 약 2년의 경험을 가진 하이브리드 역할의 구현 컨설턴트로 일한 경험이 있어야 합니다. IT와 비즈니스 간의 가교 역할을 수행하고, 비즈니스 요구 사항을 기술 솔루션(SDR)으로 번역하며, 분석가가 제공한 요구 사항을 기반으로 필요한 변수 유형, 데이터 수집 위치 및 방법, 데이터 모델(데이터 레이어) 디자인, 태그 관리 솔루션을 구성 및 유지 관리합니다.
 
 사용자는 Analytics 개발자로서 페이지에서 태그를 구현하는 경우가 거의 없습니다. 대신 IT 또는 시스템 통합자에 의해 구현됩니다.
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 도구:
 
 * Adobe Experience Platform Launch(Adobe 시작)
-* 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe Debugger, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
-* [!DNL Adobe Analytics] 보고서 세트 설정 Admin Console
-* 기본 작업 영역 지식
+* [!DNL Adobe Analytics]과(와) 관련된 디버깅 도구(Adobe Debugger, 브라우저 개발자 도구, Charles 등의 패킷 모니터)
+* [!DNL Adobe Analytics] Admin Console 보고서 세트 설정
+* 기본 Workspace 지식
 * 웹 개발 도구, 코드 편집기 및 모바일 디버깅 도구
 * Adobe 감사기
 * 처리 규칙
 * 분류 규칙 - 정규 표현식 기반 분류 규칙
 * JavaScript 오류
-* 사용 가능한 항목에 대한 기본 이해 [!DNL Adobe Analytics] 관련 API
+* 사용 가능한 [!DNL Adobe Analytics] 관련 API에 대한 기본 이해
 * Adobe I/O 통합
 
 환경:
@@ -90,23 +90,23 @@ ht-degree: 0%
 * Adobe 실행에 대한 이해 증명
 * Adobe Experience Cloud 에코시스템 전반의 일반적인 통합에 대한 이해 시연
 
-**섹션 2: 솔루션 디자인 참조(SDR)에 기반한 전략 및 디자인(6%)**
+**섹션 2: 솔루션 디자인 참조(SDR)를 기반으로 한 전략 및 디자인(6%)**
 
 * 솔루션 디자인 참조 를 해석하여 데이터 캡처를 위한 효율적인 코드 개발
 * 데이터 개체를 채우는 데 기술 사양 사용
 
 **섹션 3: Analytics 구현 및 구성(36%)**
 
-* 배포할 환경 결정 [!DNL Adobe Analytics] 코드
+* [!DNL Adobe Analytics] 코드를 배포할 환경 결정
 * Analytics 추적을 위한 최소 배포 코드 실행
-* 내에서 다양한 구성 요소 구성 [!DNL Adobe Analytics] UI
-* 구성 [!DNL Adobe Analytics] 보고서 세트 및 변수 설정
+* [!DNL Adobe Analytics] UI 내에서 다양한 구성 요소 구성
+* [!DNL Adobe Analytics] 보고서 세트 및 변수 설정 구성
 * 배포 내에서 데이터 계층 활용
 * 링크 추적 및 제품 문자열과 같은 고급 추적 기능 실행
 
 **섹션 4: 태그 관리 시스템(20%)**
 
-* Adobe Experience Platform Launch을 배포하기 위한 요구 사항 열거 [!DNL Adobe Analytics]
+* [!DNL Adobe Analytics]에서 Adobe Experience Platform Launch을 배포하기 위한 요구 사항 열거
 * 프로세스를 적용하여 Adobe 실행으로 웹 사이트 태깅 구성
 * 확장 및 Launch Adobe을 사용하도록 설정하기 위한 요구 사항 열거
 * 규칙 및 데이터 요소 만들기
@@ -119,9 +119,9 @@ ht-degree: 0%
 **섹션 6: 테스트, 유효성 검사 및 문제 해결(20%)**
 
 * JavaScript 오류 문제 해결
-* 문제 해결 [!DNL Adobe Analytics] 변수
+* [!DNL Adobe Analytics] 변수 문제 해결
 * 테스트 및 디버깅 모범 사례 추천
-* 문제 해결 [!DNL Adobe Analytics] 라이프사이클 간 서버 호출(즉, beacon 요청에서 보고서에 표시되기까지)
+* 해당 라이프사이클(즉, 비콘 요청에서 보고서에 표시되기까지)에서 [!DNL Adobe Analytics] 서버 호출 문제 해결
 
 <br>
 
@@ -151,15 +151,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/221)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/221)
 
 <br>
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -228,6 +228,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: Adobe에서 인증된 Adobe 비즈니스 실무자가 되는 방법에 대해 알아보십시오 [!DNL Commerce].
+description: Adobe [!DNL Commerce]에서 인증된 Adobe 비즈니스 전문가 자격을 취득하는 방법에 대해 알아봅니다.
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Commerce] 비즈니스 전문가
+# Adobe [!DNL Commerce] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **교육 과정**: 다음 작업 수행 [Adobe Commerce 비즈니스 실무자 전문 교육 과정](https://app.rockinfo.com/courses/219) 주요 개념에 대한 설명, 실습 시연 및 지식 확인을 위한 자료입니다. 지금 막 시작하는 거라면 [Adobe Commerce 파운데이션 과정](https://app.rockinfo.com/courses/148) 는 인증 여정에서 빌드할 수 있는 지식의 기반을 제공합니다.
+>* **강의**: 주요 개념, 실습 데모 및 지식 검사에 대한 설명은 [Adobe Commerce 비즈니스 전문가 강의](https://app.rockinfo.com/courses/219)를 수강하십시오. 처음 시작하는 경우 [Adobe Commerce 기초 과정](https://app.rockinfo.com/courses/148)에서 인증 여정에서 기초를 다질 수 있는 지식을 제공합니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/137) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** [시험 준비 안내서](https://app.rockinfo.com/courses/137)는 이 자격증 취득에 필요한 자료를 포함하여 자격증 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
->_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
+>_로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 * 프로젝트 관리자
 * 제품 소유자
 * 컨설턴트
-* [!DNL Adobe Commerce] 전략가
+* [!DNL Adobe Commerce]명의 전략가
 * eCommerce 관리자/Director/관리자/컨설턴트
 * Digital Marketing Director/관리자/개발자
 * 솔루션 전문가
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-을(를) 사용하여 최소 0~12개월 실습 경험을 쌓아야 합니다 [!DNL Magento Open Source] LUMA 또는 BLANK 테마를 사용한 버전 2.4.3 및 Adobe에 대한 기본 이해 [!DNL Commerce] 버전 2.4.3.
+LUMA 또는 BLANK 테마를 사용하고 Adobe [!DNL Commerce] 버전 2.4.3에 대한 기본 이해를 사용하여 [!DNL Magento Open Source] 버전 2.4.3을 사용하여 최소 0~12개월 실습 경험이 있어야 합니다.
 
 또한 eCommerce 경험에 대한 기본적인 이해를 하고 다음 개념에 익숙해야 합니다.
 
-* 디지털 마케팅(SEO, CMS, 이메일 마케팅, 영업 기법) [크로스셀, 업셀], 분석, 보고 및 모니터링)
+* 디지털 마케팅(SEO, CMS, 이메일 마케팅, 영업 기법 [교차 판매, 상향 판매], 분석, 보고 및 모니터링)
 * 전자 상거래 용어(옴니채널 및 멀티채널 등 판매/마케팅 전략)
 * 가격 책정 및 프로모션
 * 고객 구매 여정
@@ -83,10 +83,10 @@ ht-degree: 0%
 
 **섹션 1: [!DNL Magento Open Source] 핵심 기능(49%)**
 
-* 의 기능 식별 [!DNL Magento Open Source]
+* [!DNL Magento Open Source]의 기능 식별
 * 올바른 범위와 각 항목을 사용할 시기를 구분합니다.
 * 카탈로그 관리에 대한 지식 입증
-* 다음을 사용하여 가격 조정 [!DNL Magento Open Source] 기능
+* [!DNL Magento Open Source] 기능을 사용하여 가격 조정
 * 표준 고객 여정 설명
 * 표준 주문 수명 주기 설명
 * 스토어 유지 관리와 관련된 일상적인 작업 설명
@@ -94,11 +94,11 @@ ht-degree: 0%
 
 **섹션 2: Adobe [!DNL Commerce] 기본 사항(14%)**
 
-* Adobe에서 사용할 수 있는 주요 기능 식별 [!DNL Commerce]
-* Adobe에서 서비스 추가 기능 식별 [!DNL Commerce]
-* Adobe을 위한 호스팅 옵션 식별 [!DNL Commerce]
+* [!DNL Commerce] Adobe에서 사용할 수 있는 주요 기능 식별
+* [!DNL Commerce] Adobe에서 서비스 추가 기능 확인
+* [!DNL Commerce] Adobe에 대한 호스팅 옵션 식별
 
-**섹션 3: 디지털 마케팅 및 eCommerce 기본 사항(24%)**
+**섹션 3: 디지털 마케팅 및 전자 상거래 기본 사항(24%)**
 
 * 디지털 마케팅 도구(Google Analytics/Adobe Analytics, Google 태그 관리자, 이메일 마케팅, 세그먼테이션, 소셜 플러그인)의 기본 사용 식별
 * SEO의 기본 원칙 설명
@@ -109,7 +109,7 @@ ht-degree: 0%
 **섹션 4: 규정 준수/보안 기본 사항(13%)**
 
 * 개인 정보 보호 법률 및 지불 보안에 대한 규정 준수의 기본 사항 이해
-* Adobe의 일반적인 보안 측면 식별 [!DNL Commerce] 프로젝트
+* Adobe [!DNL Commerce] 프로젝트의 일반적인 보안 측면 식별
 * 접근성 규정 준수에 대한 Best Practice 및 법적 요구 사항 파악
 
 <br>
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
@@ -148,15 +148,15 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Commerce 기초 과정 수강](https://app.rockinfo.com/courses/148)
+[Adobe Commerce Foundations 교육 과정 수강](https://app.rockinfo.com/courses/148)
 
 [Adobe Commerce 비즈니스 실무자 전문 교육 과정 수강](https://app.rockinfo.com/courses/219)
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/137)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/137)
 
 +++
 
@@ -211,6 +211,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

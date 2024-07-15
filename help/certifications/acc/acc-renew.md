@@ -1,6 +1,6 @@
 ---
 title: 인증 갱신
-description: 갱신 방법 알아보기 [!DNL Campaign Classic] 만료되기 전의 인증.
+description: 만료되기 전에  [!DNL Campaign Classic] 인증을 갱신하는 방법을 알아봅니다.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User,Developer,Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe 갱신 [!DNL Campaign Classic] 인증
+# Adobe [!DNL Campaign Classic] 인증 갱신
 
 Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
 
@@ -26,27 +26,27 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!IMPORTANT]
 >
->**먼저 로그인:** 다음 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>**먼저 로그인:** [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 **성공적으로 로그인**&#x200B;한 후에 다음 링크가 **전용**&#x200B;됩니다.
 >
 ><br>
 >
->**링크를 공유하려면:** 갱신 시험 또는 평가 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지로 연결하십시오.
+>**링크 공유:** 갱신 시험 또는 평가에 대한 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지에 연결하십시오.
 
 >[!BEGINTABS]
 
 >[!TAB 전문가]
 
-+++Adobe [!DNL Campaign Classic] 비즈니스 실무자 전문 갱신 시험
++++Adobe [!DNL Campaign Classic] 비즈니스 전문가 갱신 시험
 
-## 다음 항목이 있어야 합니다. **활성** 갱신할 인증:
+## 갱신하려면 다음 **활성** 인증이 있어야 합니다.
 
 Adobe [!DNL Campaign Classic] 비즈니스 전문가
 
 ## 인증 갱신 방법:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ## 준비
 
@@ -116,17 +116,17 @@ Adobe [!DNL Campaign Classic] 비즈니스 전문가
 **섹션 1**
 
 * [Adobe Campaign Standard 보고](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
-* [KPI란 무엇입니까? 정의 및 예](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
+* [KPI란? 정의 및 예](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
 * [마케팅 캠페인 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ko){target="_blank"}
 * [템플릿 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
-* [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
+* [다이내믹 콘텐츠 블록을 사용하여 전자 메일 개인화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
 * [쿼리](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
 * [게재 보고서](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/delivery-reports.html?lang=ko){target="_blank"}
 * [캠페인에서 승인 관리](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=ko-KR){target="_blank"}
 * [표준 시간대 관리](https://experienceleague.adobe.com/docs/campaign/automation/workflows/advanced-management/managing-time-zones.html?lang=en#:~:text=Adobe%20Campaign%20lets%20you%20manage,or%20to%20the%20entire%20workflow.){target="_blank"}
 * [반복 및 정기 캠페인](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html?lang=ko){target="_blank"}
 * [게재 대시보드](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
-* [게재 실패 이해](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-delivery-failures.html?lang=ko){target="_blank"}
+* [게재 오류 이해](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-delivery-failures.html?lang=ko){target="_blank"}
 
 **섹션 2**
 
@@ -139,7 +139,7 @@ Adobe [!DNL Campaign Classic] 비즈니스 전문가
 **섹션 3**
 
 * [워크플로우 데이터 사용](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html){target="_blank"}
-* [워크플로우의 타겟팅 활동](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
+* [워크플로우에서 활동 타기팅](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
 * [데이터 조정](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
 * [데이터 가져오기 및 내보내기 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=ko){target="_blank"}
 * [셀](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/cells.html){target="_blank"}
@@ -153,41 +153,41 @@ Adobe [!DNL Campaign Classic] 비즈니스 전문가
 * [DM 게재](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
 * [개인화 블록](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=ko){target="_blank"}
 * [게재 구성 및 보내기](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html){target="_blank"}
-* [캠페인 유형화 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ko){target="_blank"}
+* [캠페인 유형화 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ko){target="_blank"}
 * [게재 대시보드](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
-* [이메일 미리 보기 및 테스트](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"}
+* [전자 메일 미리 보기 및 테스트](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"}
 
 **섹션 5**
 
 * [보고 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 * [지표 계산](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
 * [설명 분석 마법사 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
-* [Adobe Campaign Classic 메뉴 권한](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
-* [명명된 권한을 사용하여 사용 권한 설정](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+* [Adobe Campaign Classic 메뉴 승인](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
+* [명명된 권한을 사용하여 사용 권한을 설정합니다](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 **Adobe [!DNL Campaign Classic] 비즈니스 전문가 재계약 시험 - AD5-E841** 아래 링크.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 **Adobe [!DNL Campaign Classic] 비즈니스 전문가 갱신 시험 - AD5-E841** 링크를 클릭하십시오.
 
-[Adobe 받기 [!DNL Campaign Classic] 비즈니스 전문가 재계약 시험 - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
+[Adobe 수강 [!DNL Campaign Classic] 비즈니스 전문가 갱신 시험 - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
 +++Adobe [!DNL Campaign Classic] 개발자 전문가 갱신
 
-## 다음 항목이 있어야 합니다. **활성** 갱신할 인증:
+## 갱신하려면 다음 **활성** 인증이 있어야 합니다.
 
 Adobe [!DNL Campaign Classic] Developer Professional
 
 ## 인증 갱신 방법:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ## 준비
 
@@ -275,12 +275,12 @@ Adobe [!DNL Campaign Classic] Developer Professional
 **섹션 1**
 
 * [캠페인 설정 FAQ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
-* [사용자 지정 수신자 테이블 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [사용자 지정 받는 사람 테이블 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 * [대상자 가져오기 및 내보내기](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
 * [SOAP 메서드 구현](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
-* [데이터 패키지를 사용한 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [데이터 패키지를 사용하여 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
 * [데이터베이스 매핑](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
-* [Campaign을 솔루션과 연결](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
+* [솔루션과 Campaign 연결](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
 * [캠페인별 외부 계정](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
 * [게재에 유형화 적용](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
 
@@ -294,8 +294,8 @@ Adobe [!DNL Campaign Classic] Developer Professional
 
 **섹션 3**
 
-* [운영자 만들기 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
-* [명명된 권한을 사용하여 사용 권한 설정](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+* [연산자 만들기 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [명명된 권한을 사용하여 사용 권한을 설정합니다](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
 **섹션 4**
 
@@ -325,13 +325,13 @@ Adobe [!DNL Campaign Classic] Developer Professional
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 **Adobe [!DNL Campaign Classic] 개발자 전문가 갱신 시험 - AD5-E851** 아래 링크.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 **Adobe [!DNL Campaign Classic] 개발자 전문가 갱신 시험 - AD5-E851** 링크를 클릭하십시오.
 
-[Adobe 받기 [!DNL Campaign Classic] 개발자 전문가 갱신 시험 - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
+[Adobe 수강 [!DNL Campaign Classic] 개발자 전문가 갱신 시험 - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
@@ -341,13 +341,13 @@ Adobe [!DNL Campaign Classic] Developer Professional
 
 * Adobe [!DNL Campaign Classic] 개발자 전문가
 * Adobe [!DNL Campaign Classic] 비즈니스 전문가
-* Adobe [!DNL Campaign Classic] 설계자 기본
+* Adobe [!DNL Campaign Classic] Architect 기본
 
 ## 인증 갱신 방법:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ## 준비
 
@@ -368,7 +368,7 @@ Adobe [!DNL Campaign Classic] Developer Professional
 * 시나리오가 주어지면 어떤 옵션을 사용해야 하는지 결정합니다(즉, 사물을 단계에서 프로덕션으로 이동)
 * 패키지를 사용하여 인스턴스 간에 마이그레이션하는 기능
 * 배포 마법사 설정이 전달성에 미치는 영향 설명
-* Adobe에 사용할 수 있는 호스팅 모델의 기본 인프라 개요 [!DNL Campaign Classic] v8
+* Adobe [!DNL Campaign Classic] v8에 사용할 수 있는 호스팅 모델의 기본 인프라 개요
 * 일반적으로 사용되는 OOTB 함수 설명
 * 다른 Adobe Experience Cloud 제품과의 통합 설명
 * 표준 외부 계정을 사용한 통합 설명
@@ -376,7 +376,7 @@ Adobe [!DNL Campaign Classic] Developer Professional
 섹션 2: 사용자 정의(18%)
 
 * Adobe Campaign에서 SQL 함수를 사용하는 모범 사례 설명
-* Adobe Campaign에서 JavaScript를 사용하여 개발하는 모범 사례 설명
+* Adobe Campaign에서 JavaScript을 사용하여 개발하기 위한 모범 사례 설명
 * 요구 사항 세트가 주어지면 데이터 모델에 대한 모범 사례를 적용합니다
 * 액세스 관리에 대한 요구 사항 및 프로세스 설명
 * 폴더 구조 관리 설명
@@ -413,7 +413,7 @@ Adobe [!DNL Campaign Classic] Developer Professional
 **섹션 1: 설치 및 시스템 구성**
 
 * [패키지 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [데이터 패키지를 사용한 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [데이터 패키지를 사용하여 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
 * [인스턴스 배포](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
 * [Adobe과 통합 [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
@@ -421,14 +421,14 @@ Adobe [!DNL Campaign Classic] Developer Professional
 
 * [JavaScript 스크립트 및 템플릿](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [데이터 모델 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [운영자 만들기 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [연산자 만들기 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
 * [폴더에 대한 액세스 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **섹션 3: 데이터 아키텍처**
 
-* [전환 위치 [!DNL Campaign Classic] v7에서 Campaign v8로](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ko){target="_blank"}
-* [소스 및 대상 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
-* [특정 FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [Campaign v7에서  [!DNL Campaign Classic] v8로 전환](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ko){target="_blank"}
+* [원본 및 대상 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [특정 FFDA 캠페인 API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
 * [Adobe ID 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
 **섹션 4: 캠페인, 워크플로우, 게재 및 보고**
@@ -440,18 +440,18 @@ Adobe [!DNL Campaign Classic] Developer Professional
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 Campaign Classic 갱신 - AD5-823 링크를 클릭하십시오.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 Campaign Classic 갱신 - AD5-823 링크를 클릭하십시오.
 
-[Adobe 받기 [!DNL Campaign Classic] 비즈니스 실무자, 개발자 및 건축가를 위한 갱신 지금 - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+[Adobe 수강 [!DNL Campaign Classic] 비즈니스 전문가, 개발자 및 설계자 시험에 대한 갱신 - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 >[!ENDTABS]
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

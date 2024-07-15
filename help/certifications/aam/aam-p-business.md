@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: Adobe 인증을 받는 방법 알아보기 [!DNL Audience Manager] 비즈니스 전문가.
+description: Adobe 인증을 받는 방법 [!DNL Audience Manager] 비즈니스 전문가
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Audience Manager] 비즈니스 전문가
+# Adobe [!DNL Audience Manager] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/245) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/245)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**섹션 1: 세그먼트 생성 및 신디케이션(32%)**
+**섹션 1: 세그먼트 만들기 및 신디케이션(32%)**
 
 * 타겟팅 및 분석 목적으로 퍼스트, 세컨드 및 서드파티 데이터를 활용하는 방법 확인
 * 비즈니스 또는 캠페인 목표 활성화를 위한 기본 프로세스 설명
@@ -71,7 +71,7 @@ ht-degree: 0%
 * 다양한 대상 유형 식별
 * 다양한 소스 유형 식별
 
-**섹션 2: 트레이트 생성(16%)**
+**섹션 2: 특성 생성(16%)**
 
 * 시나리오가 주어지면 신호, 트레이트, 세그먼트 및 대상을 식별합니다
 * 다양한 유형의 트레이트 사용 파악
@@ -116,11 +116,11 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/245)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/245)
 
 +++
 
@@ -175,7 +175,7 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 

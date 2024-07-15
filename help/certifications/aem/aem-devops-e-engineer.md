@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/126) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/126)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* Adobe Cloud Manager 사용 및 구성 경력 1~3년 이상
+* Adobe Cloud Manager 사용 및 구성 경력 최소 1~3년
 * 연속 통합/연속 배포 작업을 구성, 구현 및 관리한 경력 2년 이상
 
 Managed Services 및 Adobe Experience Manager as a Cloud Service Adobe에서 편안하게 작업하고 Adobe Experience Manager 환경 및 인프라를 설정할 수 있어야 합니다.
@@ -141,11 +141,11 @@ Managed Services 및 Adobe Experience Manager as a Cloud Service Adobe에서 편
 
 {{study-materials-intro}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/126)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/126)
 
 +++
 
@@ -211,6 +211,6 @@ Managed Services 및 Adobe Experience Manager as a Cloud Service Adobe에서 편
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

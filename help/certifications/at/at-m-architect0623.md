@@ -1,6 +1,6 @@
 ---
 title: 설계자 기본 신규 인증
-description: 자격증을 취득하는 방법 알아보기 [!DNL Adobe Target] 기본 설계.
+description: 공인 [!DNL Adobe Target] 건축가가 기본으로 되는 방법을 알아봅니다.
 solution: Target
 product: Target
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Target] 설계자 기본
+# [!DNL Adobe Target] Architect 기본에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/237) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/237)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 이 인증의 대상 후보에는 다음 팀/조직의 멤버가 포함됩니다.
 
 * 전환율 최적화 엔지니어/설계자
-* 개인화 엔지니어/설계자
+* Personalization 엔지니어/아키텍트
 * 디지털 솔루션 설계자
 * 디지털 전환 컨설턴트
 * 경험 최적화 리드
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 * 여러 Adobe Experience Cloud 프로그램(Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target API)
 * JavaScript(Ajax, JQuery 등)
-* Target의 디버깅 응답에 대한 브라우저 기반 디버깅 도구(Chrome 개발자 도구, VEC Helper) JSON
+* Target의 디버깅 응답에 대한 JSON, 브라우저 기반 디버깅 도구(Chrome 개발자 도구, VEC Helper)
 * 네이티브 앱용 디버깅 도구(Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, XML 구성
 * 기본 모바일 개발 IDE, iOS 개발 기본 사항, Android 개발 기본 사항
@@ -95,37 +95,38 @@ ht-degree: 0%
 
 **섹션 1: [!DNL Adobe Target] 기본 사항(13%)**
 
-* 적절한 항목 식별 [!DNL Adobe Target] 주어진 시나리오에 대한 사용
-* 의 기본 기술 설명 [!DNL Adobe Target] 구현
+* 특정 시나리오에 적절한 [!DNL Adobe Target] 사용 식별
+* [!DNL Adobe Target] 구현의 기본 기술 설명
 
-**섹션 2: 와 통합 [!DNL Adobe Target] (18%)**
+**섹션 2: [!DNL Adobe Target](18%)과 통합**
 
-* 통합할 프로세스 적용 [!DNL Adobe Target] Adobe Analytics(A4T) 사용
-* 통합할 프로세스 적용 [!DNL Adobe Target] Adobe Experience Manager으로
+* [!DNL Adobe Target]을(를) Adobe Analytics(A4T)와 통합하는 프로세스 적용
+* [!DNL Adobe Target]을(를) Adobe Experience Manager에 통합하는 프로세스 적용
 * Adobe Experience Cloud 솔루션 및 Adobe Experience Platform 솔루션과의 통합 설명
 * Adobe Experience Cloud 대상과의 통합 설명
 
-**섹션 3: [!DNL Adobe Target] 관리 및 거버넌스 (6%)**
+**섹션 3: [!DNL Adobe Target] 관리 및 거버넌스(6%)**
 
-* 진행 중인 작업 정의 [!DNL Adobe Target] 구현 전략 및 시스템 거버넌스
+* 진행 중인 [!DNL Adobe Target] 구현 전략 및 시스템 거버넌스 정의
 * 프로세스 및 모범 사례를 적용하여 사용자 관리
 * 구현 설정의 관리 측면 설명
 
-**섹션 4: [!DNL Adobe Target] 및 지원되는 터치 포인트(6%)**
+**섹션 4: [!DNL Adobe Target] 및 지원되는 터치포인트(6%)**
 
 * 클라이언트측 전달 구현 설명
 * 서버측 전달 구현 설명
 * 모바일, 이메일 타겟팅 및 API에 대한 구현 요구 사항 설명
 
-**섹션 5: 활용 [!DNL Adobe Target] 권장 사항(11%)**
+**섹션 5: [!DNL Adobe Target] 권장 사항 활용(11%)**
 
 * 권장 사항, 카탈로그 및 기준에 대한 이해 실증
 * 프로세스를 적용하여 Target 권장 사항 구성
 
-**섹션 6: 설계, 설계 및 구현 [!DNL Adobe Target] (18%)**
+**섹션 6: [!DNL Adobe Target] 설계, 디자인 및 구현(18%)**
 
-* 올바른 Target 요청 구현(전역, 주문 확인, 하이브리드)을 선택하고 [!DNL Adobe Target] 구현
-* 구현 설명 [!DNL Adobe Target] 기본 모바일 앱에서
+* 올바른 Target 요청 구현(전역, 주문 확인, 하이브리드)을 선택합니다.
+[!DNL Adobe Target] 구현 평가 및 디자인
+* 기본 모바일 앱에서의 [!DNL Adobe Target] 구현 설명
 
 **섹션 7: 문제 해결(28%)**
 
@@ -133,7 +134,7 @@ ht-degree: 0%
 * Target 요청 및 응답 오류 문제 해결
 * 활동 설정 오류 문제 해결
 * 통합 오류 이해
-* 문제 해결 [!DNL Adobe Target] Recommendations 오류
+* [!DNL Adobe Target] Recommendations 오류 문제 해결
 
 <br>
 
@@ -155,15 +156,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/237)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/237)
 
 +++
 
@@ -218,6 +219,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

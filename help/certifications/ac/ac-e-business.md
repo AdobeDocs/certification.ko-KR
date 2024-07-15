@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: Adobe 분야의 Adobe 비즈니스 전문가 자격증을 취득하는 방법에 대해 알아봅니다. [!DNL Commerce].
+description: ' [!DNL Commerce] Adobe에서 Adobe 비즈니스 실무자 전문가 인증을 받는 방법을 알아봅니다.'
 solution: Commerce
 product: Magento
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Commerce] 비즈니스 전문가
+# [!DNL Adobe Commerce] 비즈니스 전문가 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/140) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/140)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-약 1-3년 정도의 실습기간을 가지고 있어야 합니다 [!DNL Commerce] 전자 상거래 경험에 대한 광범위한 이해와 경험.
+약 1~3년간의 실습 [!DNL Commerce] 경험이 있어야 하며 전자 상거래 경험을 폭넓게 이해하고 있어야 합니다.
 
 다음에 대한 경험이 있어야 합니다.
 
@@ -82,15 +82,15 @@ ht-degree: 0%
 
 **섹션 1: 핵심 기능/일반 구성(46%)**
 
-* Adobe의 기능 식별 [!DNL Commerce] 오픈 소스 에디션 및 [!DNL Commerce] 에디션
-* Adobe의 모든 에디션 간 차이점 구분 [!DNL Commerce] products
+* [!DNL Commerce] Open Source Edition 및 [!DNL Commerce] Edition Adobe의 기능을 식별합니다
+* [!DNL Commerce] Adobe 제품의 모든 버전 간의 차이점 구분
 * 고객 요구 사항을 충족하기 위해 제품 유형 및 해당 기능을 활용하는 방법 결정
 * 요구 사항 해석 및 모의 실행을 통해 기본 기능을 충족할 수 있는지 확인
 * 관리 패널 및 공통 기능의 위치에 대한 지식 시연
-* Adobe 가져오기/내보내기 기능 시연 [!DNL Commerce] 엔티티
+* Adobe [!DNL Commerce] 엔터티를 가져오거나 내보내는 기능을 보여 줍니다.
 * 장바구니 및 체크아웃을 기본적으로 구성하는 방법 이해
-* Adobe에서 기본 사용 가능한 배송 방법 평가 [!DNL Commerce] 일반적인 사용 사례에 적용되는 방식
-* Adobe을 사용하여 양식화된 콘텐츠를 만들고 게시하는 방법 이해 [!DNL Commerce] Page Builder를 포함한 CMS 기능
+* [!DNL Commerce] Adobe에서 사용 가능한 기본 배송 방법과 일반적인 사용 사례에 적용되는 방법을 평가합니다.
+* 페이지 빌더를 포함한 Adobe [!DNL Commerce] CMS 기능을 사용하여 양식화된 콘텐츠를 만들고 게시하는 방법 이해
 * 기본 도구를 사용하여 주문 수명 주기 관리
 * 다양한 선물 옵션(기프트 카드, 선물 포장, 메시지 제공)을 구성하는 기능을 보여 줍니다.
 * 트랜잭션 이메일 구성 및 수정
@@ -102,33 +102,33 @@ ht-degree: 0%
 * 범주 및 제품 관리 기능 시연
 * 다양한 가격 구성과 이것이 최종 가격에 미치는 영향 이해
 
-**섹션 3: 디지털 마케팅 (4%)**
+**섹션 3: 디지털 마케팅(4%)**
 
 * 기본 기능을 사용하는 SEO에 대한 모범 사례 추천
 * Google Analytics 및 BI의 일반적인 지표 평가
 
-**섹션 4: 추가 모듈 및 추가 제품(18%)**
+**섹션 4: 추가 기능 모듈 및 추가 제품(18%)**
 
 * B2B 기능 및 일반적인 B2B 시나리오와 어떻게 관련되는지 설명합니다.
 * MSI를 사용하여 솔루션을 제안하려면 비즈니스 요구 사항 적용
-* Adobe에 BI를 사용하는 방법과 장점에 대해 설명합니다 [!DNL Commerce] 솔루션
+* Adobe [!DNL Commerce] 솔루션에 BI를 사용하는 방법 및 이점 설명
 * 네이티브 검색과 LiveSearch 간의 차이점 구분
 * B2B 환경에서 세금, 관세 및 면제를 적용하는 방법을 결정하기 위해 비즈니스 요구 사항 적용
 * B2B 고객에게 맞춤 가격을 적용하는 방법 이해
-* Adobe 간의 차이점 이해 [!DNL Commerce] 기본 제품 및 Adobe Sensei 제품 권장 사항
+* Adobe [!DNL Commerce] 기본 제품과 Adobe Sensei 제품 권장 사항의 차이점을 이해합니다.
 
 **섹션 5: 시스템 아키텍처(10%)**
 
 * 요구 사항을 평가하여 필요한 웹 사이트, 스토어 및 스토어 보기 확인
 * 성능 지표를 식별하고 분석하여 개선 작업 수행
-* 외부 시스템을 Adobe과 통합하는 데 사용할 수 있는 방법 이해 [!DNL Commerce]
+* 외부 시스템을 Adobe [!DNL Commerce]과(와) 통합하는 데 사용할 수 있는 방법을 이해합니다.
 * Headless 접근 방식과 기존 방식 간의 차별화
 
 **섹션 6: 규정 준수/보안(12%)**
 
-* Adobe 보안 방법 시연 [!DNL Commerce] 역할 및 권한이 있는 데이터 액세스
+* 역할 및 권한을 사용하여 Adobe [!DNL Commerce] 데이터 액세스를 보호하는 방법을 보여 줍니다.
 * 개인 정보 보호 법률 및 지불 보안에 대한 규정 준수의 기본 사항 이해
-* Adobe의 일반적인 보안 측면 설명 [!DNL Commerce] 프로젝트
+* Adobe [!DNL Commerce] 프로젝트의 일반적인 보안 측면 설명
 * 세법의 기본 사항과 구성 방법을 이해할 수 있습니다.
 
 <br>
@@ -159,15 +159,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/140)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/140)
 
 +++
 
@@ -222,6 +222,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

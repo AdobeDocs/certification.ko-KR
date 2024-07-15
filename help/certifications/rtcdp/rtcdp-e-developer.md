@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Real-Time Customer Data Platform] 개발자 전문가
+# Adobe [!DNL Real-Time Customer Data Platform] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/246) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/246)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 다음과 같은 환경에서는 편안해야 합니다.
 
 * AEP
-* 에지 네트워크
+* Edge 네트워크
 
 <br>
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 **데이터 아키텍처(19%)**
 
-* 시나리오를 기반으로 RDBMS를 Adobe으로 번역 [!DNL RT-CDP]의 NoSQL 데이터 모델
+* 시나리오를 기반으로 RDBMS를 Adobe [!DNL RT-CDP]의 NoSQL 데이터 모델로 변환합니다.
 * 실시간 고객 프로필 모델링을 위한 모범 사례 시연
 * 모델링을 위한 ID 전략 및 관계 설계
 
@@ -102,7 +102,7 @@ ht-degree: 0%
 * 프로필 구성 설명
 * Edge와 Hub 프로필 구분
 
-**데이터 수집 (13%)**
+**데이터 수집(13%)**
 
 * CDP를 통한 데이터 수집 기능 설명
 * Edge 수집의 기능 설명
@@ -120,17 +120,17 @@ ht-degree: 0%
 * 활성화 관련 보호 기능 설명
 * 사이트 개인화에 대해 설명
 
-**거버넌스 (9%)**
+**거버넌스(9%)**
 
-* Adobe에서 거버넌스에 대한 모범 사례 적용 [!DNL RT-CDP] 구현
+* Adobe [!DNL RT-CDP] 구현에서 거버넌스에 대한 모범 사례 적용
 * 다양한 서비스에서 데이터를 관리하는 방법 설명
 
-**투여(15%)**
+**관리(15%)**
 
 * 모니터링 기능 이해
 * 경고 설명
 * 다양한 라이선스 사용 설명
-* Adobe 내 ABAC 활성화를 위한 사용 사례 설명 [!DNL RT-CDP]
+* [!DNL RT-CDP] Adobe 내 ABAC 사용 사례 설명
 
 <br>
 
@@ -152,15 +152,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/246)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/246)
 
 +++
 
@@ -215,6 +215,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

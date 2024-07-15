@@ -1,6 +1,6 @@
 ---
 title: Core Developer Professional 인증
-description: Adobe에서 인증된 Adobe Developer Professional이 되는 방법 알아보기 [!DNL Workfront].
+description: Adobe [!DNL Workfront]에서 인증된 Adobe Developer Professional이 되는 방법에 대해 알아봅니다.
 solution: Workfront
 role: Developer
 badge: label="시험 AD0-E905" type="neutral"
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Workfront] Core Developer Professional
+# Adobe [!DNL Workfront] Core Developer Professional의 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->이 시험, Adobe [!DNL Workfront] 코어 개발자 전문가(AD0-E905)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2024년 2월 26일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전(AD0-E908)](aw-core-p-developer-23-12.md). 일정을 다시 잡으려면 새 시험을 봐야 한다.
+>Adobe [!DNL Workfront] Core Developer Professional(AD0-E905)이 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2024년 2월 26일 이전에 완료하시기 바랍니다. 처음 시작하는 경우에는 이 시험의 [최신 버전(AD0-E908)](aw-core-p-developer-23-12.md)을 선택하는 것이 좋습니다. 일정을 다시 잡으려면 새 시험을 봐야 한다.
 
 ## 시험 설명 {#exam-description}
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 * 리소스 관리자
 * 분석가
 * IT 전문가
-* [!DNL Workfront] 구현 컨설턴트/리드
+* [!DNL Workfront] 구현 컨설턴트/잠재 고객
 
 <br>
 
@@ -58,19 +58,19 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* Adobe을 사용한 최소 3~6개월 실습 경험 [!DNL Workfront]
-* Adobe 관련 경험 [!DNL Workfront] 접수, 승인, 계획, 실행 및 보고를 통한 기능 및 연결
-* Adobe에 대한 심층적인 이해 [!DNL Workfront] 사용자 정의 양식 및 승인 워크플로, 템플릿, 기간, 작업 노력/계획된 시간을 포함한 오브젝트 유형
-* Adobe에 대한 심층적인 이해 [!DNL Workfront] 액세스 수준, 레이아웃 템플릿, 프로젝트 환경 설정 및 기타 방법을 포함한 설정을 통해 최종 사용자 설계의 간소화 실현
+* Adobe [!DNL Workfront]을(를) 사용하여 최소 3~6개월 실습 경험
+* 접수, 승인, 계획, 실행 및 보고를 통해 Adobe [!DNL Workfront] 기능 및 연결을 사용하는 경험
+* 사용자 지정 양식 및 승인 워크플로, 템플릿, 기간, 작업 노력/계획된 시간을 포함한 Adobe [!DNL Workfront] 개체 유형에 대한 심층적인 이해
+* 액세스 수준, 레이아웃 템플릿, 프로젝트 환경 설정 및 최종 사용자 디자인을 단순화하기 위한 기타 방법을 포함하여 Adobe [!DNL Workfront] 설정에 대한 심층적인 이해
 * 프로세스 매핑에 대한 이해 및 경험
-* 다양한 Adobe에 대한 이해 [!DNL Workfront] 담당자 및 지원 참여 방법
+* 다양한 Adobe [!DNL Workfront] 가상 사용자에 대한 이해 및 지원 참여 방법
 
 그리고 다음을 수행해야 합니다.
 
-* 다음에 대한 친숙도 [!DNL Workfront] API 및 API 탐색기(API 호출에 능숙할 필요는 없음)
-* 작업을위한 사용자 지정 API 호출을 사용하는 기능 [!DNL Workfront] 및 기타 API
-* Adobe 친숙도 [!DNL Workfront]
-* 기본 커넥터 및 기타 Adobe에 대한 친숙도 [!DNL Workfront] 제품 및 서비스
+* [!DNL Workfront] API 및 API 탐색기에 익숙하지만 API 호출에 능숙하지는 않습니다.
+* [!DNL Workfront] 및 기타 API로 작업하기 위해 사용자 지정 API 호출을 사용하는 기능
+* Adobe [!DNL Workfront]에 익숙함
+* 기본 커넥터 및 기타 Adobe [!DNL Workfront] 제품 및 서비스에 대한 익숙함
 * 애자일 및 폭포를 포함한 프로젝트 관리 및 리소스 관리 개념에 대한 숙지
 
 <br>
@@ -110,9 +110,9 @@ ht-degree: 0%
 * 승인 및 증명 워크플로를 설정하는 방법 시연
 * 프로젝트에 대한 문제 생성 목적 인식
 * 그룹 수준 프로젝트 상태를 사용자 지정하는 방법 시연
-* 에서 애자일을 활성화하는 데 필요한 속성 식별 [!DNL Workfront]
-* 시간을 입력하는 방법 식별 [!DNL Workfront]
-* 에서 재무 추적 요소 식별 [!DNL Workfront]
+* [!DNL Workfront]에서 애자일을 활성화하는 데 필요한 특성을 식별합니다.
+* [!DNL Workfront]에 시간을 입력하는 방법 식별
+* [!DNL Workfront]에서 재무 추적 요소 식별
 
 <br>
 
@@ -144,9 +144,9 @@ ht-degree: 0%
 
 **섹션 1: 전략 및 접수**
 
-* [우수 사례 - Portfolio 및 프로그램](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
+* [모범 사례 - Portfolio 및 프로그램](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
 * [Adobe의 Portfolio 개요 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
-* [요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
+* [요청 큐 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [요청 대기열 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [사용자 정의 양식 개요](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
@@ -166,19 +166,19 @@ ht-degree: 0%
 * [개별 사용자 프로필 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [시스템 설정: 그룹 및 사용자](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
 * [프로젝트 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
-* [액세스 수준 및 권한이 함께 작동하는 방식](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
+* [액세스 수준과 사용 권한이 함께 작동하는 방식](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Adobe으로 데이터 가져오기 [!DNL Workfront] 킥스타트 템플릿 사용](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **섹션 4: 지표 및 보고**
 
 * [사용자 지정 보고서 만들기](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [보고서 보내기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
-* [모범 사례 - 사용자 정의 보고서](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
+* [모범 사례 - 사용자 지정 보고서](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
 
 **섹션 5: 실행**
 
-* [워크플로우 관리](https://business.adobe.com/products/workfront/workflow-management.html){target="_blank"}
+* [워크플로 관리](https://business.adobe.com/products/workfront/workflow-management.html){target="_blank"}
 * [프로젝트 진행 상태 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html){target="_blank"}
 * [애자일 팀 만들기](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [비용 추적](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
@@ -219,7 +219,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 시험, Adobe [!DNL Workfront] 코어 개발자 전문가(AD0-E905)가 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2024년 2월 26일 이전에 완료하시기 바랍니다. 지금 시작하는 경우 다음을 수행하는 것이 좋습니다. [이 시험의 최신 버전(AD0-E908)](aw-core-p-developer-23-12.md).
+>Adobe [!DNL Workfront] Core Developer Professional(AD0-E905)이 업데이트되었습니다. 이미 공부를 시작했거나 이 버전을 수강할 예정인 경우 2024년 2월 26일 이전에 완료하시기 바랍니다. 처음 시작하는 경우에는 이 시험의 [최신 버전(AD0-E908)](aw-core-p-developer-23-12.md)을 선택하는 것이 좋습니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -248,6 +248,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

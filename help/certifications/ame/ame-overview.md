@@ -6,7 +6,7 @@ exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 32%
+ht-degree: 20%
 
 ---
 
@@ -14,14 +14,14 @@ ht-degree: 32%
 
 **전문가**
 
-* [공인 전문가](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
+* [Certified Professional](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
 
 **전문가**
 
 * [비즈니스 전문가](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
 
-**마스터**
+**기본**
 
-* [아키텍트](/help/certifications/ame/ame-m-architect-23-08.md) <!--AD0-E560-->
+* [설계자](/help/certifications/ame/ame-m-architect-23-08.md) <!--AD0-E560-->
 
-다음 방문: [인증 갱신](/help/certifications/renew.md) 이 제품에 대한 갱신 옵션을 사용할 수 있는지 확인하는 페이지입니다.
+이 제품에 대해 갱신 옵션을 사용할 수 있는지 확인하려면 [인증 갱신](/help/certifications/renew.md) 페이지를 방문하세요.

@@ -1,6 +1,6 @@
 ---
 title: 인증 갱신
-description: Adobe 갱신 방법 알아보기 [!DNL Workfront] 만료되기 전의 인증.
+description: Adobe [!DNL Workfront] 인증이 만료되기 전에 갱신되는 방법을 알아보세요.
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe 갱신 [!DNL Workfront] 인증
+# Adobe [!DNL Workfront] 인증 갱신
 
 Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
 
@@ -25,11 +25,11 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!IMPORTANT]
 >
->**먼저 로그인:** 다음 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>**먼저 로그인:** [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 **성공적으로 로그인**&#x200B;한 후에 다음 링크가 **전용**&#x200B;됩니다.
 >
 ><br>
 >
->**링크를 공유하려면:** 갱신 시험 또는 평가 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지로 연결하십시오.
+>**링크 공유:** 갱신 시험 또는 평가에 대한 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지에 연결하십시오.
 
 >[!BEGINTABS]
 
@@ -39,9 +39,9 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ### 준비
 
@@ -71,7 +71,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * 상황이 주어지면 시나리오를 통해 데이터 흐름을 줄일 수 있는 기회를 식별합니다.
 * 검색 모듈 및 다음 집계기에 표시되는 번들 수의 예를 고려할 때 번들 관리자에서 처리 및 표시하는 작업 수의 변경 사항을 설명합니다.
 * 오류 403:forbidden의 예제가 주어지면 오류 메시지의 출처를 올바르게 선택하고 원인을 확인합니다
-* 에서 참조 및 컬렉션의 적절한 사용 확인 [!DNL Workfront] 검색 및 읽기 모듈.
+* [!DNL Workfront] 검색 및 읽기 모듈에서 참조 및 컬렉션의 적절한 사용을 식별하십시오.
 
 섹션 3: 테스트 및 오류 처리(15%)
 
@@ -91,41 +91,41 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 1: 핵심 시스템 관리 및 설정**
 
-* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe의 함수 [!DNL Workfront] Fusion, Adobe 내 조직 [!DNL Workfront] Fusion, Adobe의 모듈 [!DNL Workfront] Fusion, Adobe 시나리오 [!DNL Workfront] Fusion
+* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - [!DNL Workfront] Adobe의 함수, [!DNL Workfront] Adobe의 조직, [!DNL Workfront] Adobe의 모듈, [!DNL Workfront] Adobe의 시나리오
 
-**섹션 2: 시나리오 설계 및 아키텍처**
+**섹션 2: 시나리오 디자인 및 아키텍처**
 
-* [[!DNL Workfront] 퓨전 시나리오 최적화](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - 자습서
-* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe의 모듈 [!DNL Workfront] Fusion
+* [[!DNL Workfront] Fusion 시나리오 최적화](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - 자습서
+* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe [!DNL Workfront] Fusion의 모듈
 
 **섹션 3: 테스트 및 오류 처리**
 
-* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe의 시나리오 설정 패널 [!DNL Workfront] Fusion, Adobe 오류 [!DNL Workfront] Fusion, Adobe의 함수 [!DNL Workfront] Fusion
+* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - [!DNL Workfront] Adobe의 시나리오 설정 패널, [!DNL Workfront] Adobe의 오류, [!DNL Workfront] Adobe의 함수
 
 **섹션 4: API 작업**
 
-* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP 모듈, Adobe의 연결 [!DNL Workfront] Fusion, Adobe의 모듈 [!DNL Workfront] Fusion
+* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP 모듈, [!DNL Workfront] Adobe의 연결, [!DNL Workfront] Adobe의 모듈
 * [Adobe [!DNL Workfront] API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 [!DNL Workfront] Fusion 개발자 갱신 - 아래 AD5-830 링크.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 [!DNL Workfront] Fusion Developer 갱신 - AD5-830 링크를 클릭하십시오.
 
 * [[!DNL Workfront] Fusion 개발자 갱신 - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
-+++Adobe [!DNL Workfront] 프로젝트 관리자 전문가
++++Adobe [!DNL Workfront] Project Manager Professional
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ### 준비
 
@@ -136,7 +136,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * 비용: 무료/비관리됨
 * 배달: 온디맨드
 * 사용 가능한 언어: 영어
-* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Workfront] 프로젝트 관리자 전문가 인증
+* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Workfront] Project Manager Professional 인증
 * 시험 ID: AD5-E833
 
 **범위 및 목표**
@@ -146,12 +146,12 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * 요청이 주어지면 사용자 지정 데이터를 검토하여 적절한 작업을 결정합니다. (첨부 문서, 승인 필요, 데이터 완료 방법, 우선 순위 등을 고려)
 * 시나리오가 주어지면 활동에 필요한 공유 권한을 결정합니다. (대시보드/보고서 공유, 작업 또는 요청에 대한 작업, 가시성, 상속된 권한, 애자일 등을 고려하십시오.)
 * 시나리오가 주어지면 특정 시간대에 작업 실행을 계획할 적절한 작업 설정을 결정합니다. (기간, 계획된 시간, 제한 및 작업 또는 프로젝트 간 전임 작업, 전임 작업에 대한 리드 및 지연, 작업 할당 및 휴가를 고려하십시오.)
-* 에서 객체의 올바른 계층 식별 [!DNL Workfront]. 포트폴리오, 프로그램, 프로젝트, 작업 및 문제를 고려하십시오.
+* [!DNL Workfront]에서 개체의 올바른 계층 구조를 식별합니다. 포트폴리오, 프로그램, 프로젝트, 작업 및 문제를 고려하십시오.
 * 담당자의 경우 프로젝트/작업 프로세스의 작업 접수 또는 계획 단계 동안 담당자에게 도움이 되는 접수 또는 계획 보고서/대시보드를 결정합니다. (프로젝트 소유자, 임원/스폰서, 작업 담당자, 요청자 등을 고려하십시오.)
 
 섹션 2: 실행(59%)
 
-* 만들기 [!DNL Workfront] 단일 사용 승인 및 승인이 사용되는 시기 (프로젝트 및 작업 승인, 다중 경로 승인 및 다중 단계 승인을 고려하십시오.)
+* [!DNL Workfront] 일회성 승인을 만들고 승인이 사용되는 시기를 확인합니다. (프로젝트 및 작업 승인, 다중 경로 승인 및 다중 단계 승인을 고려하십시오.)
 * 시나리오가 주어지면 날짜 유형이 프로젝트 관리자에게 전달하는 정보를 식별합니다. (계획된 일자, 실제 일자, 커밋 일자, 예상 일자 고려)
 * 시나리오가 주어지면 서로 다른 작업 제한 조건이 사용 시 프로젝트 타임라인에 어떤 영향을 미치는지 결정합니다. (서로 다른 작업 제한 사항이 무엇을 하는지, 서로 다른 작업 제한 사항이 무엇인지, 언제 서로 다른 작업 제한 사항을 사용해야 하는지 이해합니다.)
 * 시나리오가 주어지면 프로젝트 팀을 찾는 방법과 작업 할당, 업데이트 또는 작업 항목 완료를 알리는 방법을 보여 줍니다. (알림 유형, 프로젝트 팀 알림, 사람 탭, 프로젝트/작업 업데이트, 작업 오브젝트 구독 시기 및 이유, 개별 이메일 알림 수정 방법 고려)
@@ -173,7 +173,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
 
-**섹션 1: 접수 및 계획**
+**섹션 1: Intake 및 Planning**
 
 * [요청 대기열 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [작업 승인](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
@@ -182,7 +182,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [프로젝트 계획에서 작업 할당](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
 * [작업 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
 * [기간 유형 개요: 계산된 작업](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
-* [Adobe의 오브젝트 이해 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
+* [Adobe의 개체 이해 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
 * [문제를 다른 작업 항목으로 변환](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
 * [Adobe에서 프로젝트 공유 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
 * [프로젝트 또는 템플릿에 대한 리소스 관리자 지정](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html){target="_blank"}
@@ -191,43 +191,43 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 **섹션 2: 실행**
 
 * [승인 프로세스 개요](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
-* [작업 항목에 대한 승인 프로세스 만들기](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
+* [작업 항목에 대한 승인 프로세스를 만듭니다](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [Adobe에서 문제를 작업으로 전환 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
 * [문제 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
 * [계획되지 않은 작업 처리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html){target="_blank"}
 * [간단한 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html){target="_blank"}
 * [커밋 일자 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html){target="_blank"}
-* [작업 제한](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html){target="_blank"}
-* [Adobe의 그룹과 팀 비교 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html){target="_blank"}
+* [작업 제약 조건](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html){target="_blank"}
+* [Adobe의 그룹과 팀 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html){target="_blank"}
 * [프로젝트 편집](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [애자일 팀 만들기](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [반복 페이지 사용](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html){target="_blank"}
-* [프로젝트 커뮤니케이션 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html){target="_blank"}
+* [프로젝트 통신 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html){target="_blank"}
 * [자동 보고서 배달 예약](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html){target="_blank"}
-* [프로젝트 상태 및 상태 유형 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html){target="_blank"}
+* [프로젝트 상태 및 조건 형식 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html){target="_blank"}
 * [날짜 유형 및 진행 상태 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html){target="_blank"}
-* [대시보드를 사용하여 팀의 작업 관리](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
-* [Adobe 사용 [!DNL Workfront] 기본 제공 보고서](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
+* [대시보드를 사용하여 팀 작업 관리](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
+* [Adobe 사용 [!DNL Workfront] 기본 제공 보고서 사용](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
-**섹션 3: 종료**
+**섹션 3: 닫기**
 
 * [프로젝트 상태 변경](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
 * [시스템 프로젝트 상태](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [마일스톤 보기 사용](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
 * [비즈니스 사례 재무 필드 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
 * [프로젝트 기준선에 포함된 프로젝트 재무](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
-* [프로젝트 지표를 사용하여 작업 진행 추적](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
+* [프로젝트 지표로 작업 진행 상황 추적](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 Workfront Project Manager Professional 갱신 - AD5-833 링크를 클릭하십시오.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 Workfront Project Manager Professional 갱신 - AD5-833 링크를 클릭하십시오.
 
 * [Adobe [!DNL Workfront] 프로젝트 관리자 전문가 갱신 - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
@@ -235,9 +235,9 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ### 준비
 
@@ -292,59 +292,59 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 1: 전략 및 접수**
 
-* [Portfolio 최적화 프로그램 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
-* [요청 대기열 생성 및 관리](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html){target="_blank"}
+* [Portfolio 최적화 도구 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
+* [요청 큐 만들기 및 관리](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html){target="_blank"}
 * [요청 대기열에 대한 액세스 권한 제공](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html){target="_blank"}
 * [사용자 정의 양식 개요](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 
 **섹션 2: 예산 및 계획**
 
 * [업무 균형자 찾기](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html){target="_blank"}
-* [업무 균형자 를 사용하여 일괄 작업 할당](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [업무 균형자를 사용하여 작업을 일괄 할당](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
 * [업무 균형자에서 사용자 할당 관리](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html){target="_blank"}
 
 **섹션 3: 사용자 경험**
 
-* [사용자 비활성화 또는 삭제 시기 및 방법](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
+* [사용자를 비활성화하거나 삭제하는 시기와 방법](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
 * [프로젝트 템플릿 공유](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
-* [블루프린트 설치 후 수행할 작업](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html){target="_blank"}
+* [블루프린트를 설치한 후 수행할 작업](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html){target="_blank"}
 * [일회용 타임시트 만들기](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html){target="_blank"}
 
 **섹션 4: 지표 및 보고**
 
 * [Adobe [!DNL Workfront] 통합](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html){target="_blank"}
-* [Adobe 사용 [!DNL Workfront] Creative Cloud 플러그인](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html){target="_blank"}
+* [Adobe 사용 [!DNL Workfront] Creative Cloud에 플러그인 사용](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html){target="_blank"}
 * [보고서 보내기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
 
 **섹션 5: 실행**
 
-* [Adobe에서 문제를 프로젝트로 전환 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
+* [Adobe의 프로젝트로 문제 전환 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
 * [보드 만들기 또는 편집](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html){target="_blank"}
 * [보드에서 구성원 추가 또는 제거](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
 * [타임시트 레이아웃 이해](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 [!DNL Workfront] 코어 개발자 전문가 갱신 - 아래 AD5-E835 링크.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 [!DNL Workfront] Core Developer Professional 갱신 - AD5-E835 링크를 클릭하십시오.
 
-* [Adobe [!DNL Workfront] 코어 개발자 전문가 갱신 - AD5-E835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
+* [Adobe [!DNL Workfront] 핵심 개발자 전문가 갱신 - AD5-E835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
 >[!TAB 전문가]
 
-+++Adobe [!DNL Workfront] Adobe [!DNL Experience Manager] 향상된 커넥터 전문가
+Adobe [!DNL Experience Manager]의 향상된 커넥터 전문가에 대한 +++Adobe [!DNL Workfront]
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ### 준비
 
@@ -355,17 +355,17 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * 비용: 무료/비관리됨
 * 배달: 온디맨드
 * 사용 가능한 언어: 영어
-* 전제 조건: Adobe [!DNL Workfront] Adobe [!DNL Experience Manager] Enhanced Connector Expert 인증
-* 시험 ID: AD5-E849 Adobe [!DNL Workfront] Adobe [!DNL Experience Manager] 향상된 커넥터 전문가
+* 사전 요구 사항: [!DNL Experience Manager] Adobe 강화 커넥터 전문가 인증에 대한 [!DNL Workfront] Adobe
+* 시험 ID: Adobe [!DNL Experience Manager] Enhanced Connector Expert에 대한 AD5-E849 Adobe [!DNL Workfront]
 
 **범위 및 목표**
 
 섹션 1: 기술 요구 사항 25%
 
-* 사용 [!DNL Workfront] 사용자 지정 Forms
+* [!DNL Workfront] 사용자 지정 Forms 사용
 * 주어진 시나리오에서 문서 관리 시연
 * 여러 환경에서 코드를 프로모션하는 방법에 대한 지식 입증
-* 시나리오에 따라 값이 전달되는 방법을 식별합니다. [!DNL Workfront] 사용자 정의 양식
+* 시나리오가 주어지면 값이 [!DNL Workfront] 사용자 정의 양식으로 전달되는 방법을 확인하십시오.
 * 서버측 코드 문제 해결
 
 섹션 2: 구성 26.25%
@@ -378,10 +378,10 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 섹션 3: 비즈니스 사례 21.25%
 
 * 적절한 워크플로우 전략을 권장하기 위해 클라이언트 요구 사항 해석
-* 설정 방법 시연 [!DNL Workfront] 승인 및 증명 워크플로
+* [!DNL Workfront] 승인 및 증명 워크플로를 설정하는 방법 시연
 * 시나리오가 주어지면 증명 뷰어, 설정 및 마크업 기능 사용에 대한 모범 사례를 식별합니다
 * 캠페인 관리의 일부로 결과물 추적에 대한 이해 설명
-* 시나리오가 주어지면 다음에 대한 변경 관리의 주요 고려 사항을 식별합니다. [!DNL Workfront] 구현
+* 시나리오가 주어지면 [!DNL Workfront] 구현에 대한 변경 관리의 주요 고려 사항을 식별합니다
 
 섹션 4: 커넥터 설치 및 구성 27.5%
 
@@ -397,8 +397,8 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 * [인터페이스 자산](https://www.adobe.io/experience-manager/reference-materials/6-5/javadoc/com/adobe/granite/asset/api/Asset.html){target="_blank"}
 * [워크플로우 시작](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-starting.html){target="_blank"}
-* [AEM 워크플로우의 변수](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/using-variables-in-aem-workflows.html){target="_blank"}
-* [워크플로우 단계 참조](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-step-ref.html){target="_blank"}
+* AEM 워크플로의 [변수](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/using-variables-in-aem-workflows.html){target="_blank"}
+* [워크플로 단계 참조](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-step-ref.html){target="_blank"}
 * [Experience Manager Assets에서 메타데이터 추가 또는 편집](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html#applying-a-metadata-profile-to-folders){target="_blank"}
 
 **섹션 3**
@@ -406,34 +406,34 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [증명 뷰어 설정 구성](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReview_and_approve_work%2FProofing%2FReviewing_Proofs_within_Workfront%2Fconfigure-proofing-viewer-settings.html){target="_blank"}
 * [[!DNL Workfront] 설명서](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReview_and_approve_work%2FProofing%2FCreating_Proofs_within_Workfront%2Fconfigure-proof.html){target="_blank"}
 * [마일스톤 경로 만들기](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2Fcreate-milestone-path.html){target="_blank"}
-* [기존 양식 빌더로 사용자 정의 양식 만들기 또는 편집](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreate_manage_Custom_Forms%2Fcreate-or-edit-a-custom-form.html){target="_blank"}
-* [7 변경 관리 커뮤니케이션의 모범 사례](https://whatfix.com/blog/best-practices-change-management-communication/){target="_blank"}
+* [기존 양식 빌더로 사용자 정의 양식을 만들거나 편집합니다](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreate_manage_Custom_Forms%2Fcreate-or-edit-a-custom-form.html){target="_blank"}
+* [변경 관리 통신의 모범 사례](https://whatfix.com/blog/best-practices-change-management-communication/){target="_blank"}
 
 **섹션 4**
 
-* [설치 [!DNL Workfront] Experience Manager 강화 커넥터용](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html){target="_blank"}
-* [허용 목록에 추가하다 방화벽 구성](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-your-firewall.html){target="_blank"}
+* Experience Manager 강화 커넥터용 [설치 [!DNL Workfront] 2}{target="_blank"}](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=ko-KR)
+* 허용 목록에 추가하다 [방화벽 구성](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-your-firewall.html){target="_blank"}
 * [시스템에 대한 기본 정보 구성](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-basic-info.html){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 Adobe을 클릭합니다 [!DNL Workfront] Adobe [!DNL Experience Manager] 향상된 커넥터 전문가 - 아래 AD5-E849 링크.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래 [!DNL Experience Manager] Adobe Enhanced Connector Expert - AD5-E849 링크에 대한 [!DNL Workfront] Adobe을 클릭하십시오.
 
-* [Adobe [!DNL Workfront] Adobe [!DNL Experience Manager] 향상된 커넥터 전문가 - AD5-E849](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E849){target="_blank"}
+* [Adobe [!DNL Workfront] Adobe용 [!DNL Experience Manager] 향상된 커넥터 전문가 - AD5-E849](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E849){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
-+++Adobe [!DNL Workfront] Core Developer Expert 인증
++++Adobe [!DNL Workfront] 코어 개발자 전문가 인증
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ### 준비
 
@@ -444,7 +444,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * 비용: 무료/비관리됨
 * 배달: 온디맨드
 * 사용 가능한 언어: 영어
-* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Workfront] Core Developer Expert 인증
+* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Workfront] 핵심 개발자 전문가 인증
 * 시험 ID: AD5-E829
 
 **범위 및 목표**
@@ -473,14 +473,14 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 섹션 5: 보고(11%)
 
 * 시나리오가 주어지면 보고서에서 필드 유형을 렌더링하는 방법을 결정합니다. (필드 유형에는 리치 텍스트, 이미지, 다중 선택 등이 포함됩니다.)
-* Adobe 식별 [!DNL Workfront] 사용자 채택 모니터링 및 개선을 지원하는 기능.
+* 사용자 채택 모니터링 및 개선을 지원하는 Adobe [!DNL Workfront] 기능을 식별합니다.
 
 섹션 6: 방법론/모범 사례/사용 사례(29%)
 
-* 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront]에서는 단일 캠페인에 포함된 결과물 추적을 설정하는 기능을 보여 줍니다. 마케팅 사용 사례를 고려하십시오.
-* 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront], 재무, 활용도, 예측, 청구 요금/기록 관련 기능 시연(전문 서비스)
-* 다음 범위 내에 시나리오가 주어지면 [!DNL Workfront]은 워크플로우 및 승인 설정과 관련된 기능을 보여줍니다. (규제/규정 준수 상황을 고려하십시오.)
-* 주어진 시나리오 [!DNL Workfront] 게시판, 진행률을 보여 주는 기본 기능을 식별합니다.
+* [!DNL Workfront] 내의 시나리오가 주어지면 단일 캠페인에 포함된 결과물 추적을 설정하는 기능을 보여 줍니다. 마케팅 사용 사례를 고려하십시오.
+* [!DNL Workfront] 내의 시나리오가 주어지면 재무, 활용도, 예측, 청구 요금/기록(전문 서비스)과 관련된 기능을 보여 줍니다.
+* [!DNL Workfront] 내의 시나리오가 주어지면 워크플로우 및 승인 설정과 관련된 기능을 보여 줍니다. (규제/규정 준수 상황을 고려하십시오.)
+* [!DNL Workfront] 보드를 사용하는 시나리오가 주어지면 진행률을 표시할 네이티브 기능을 식별하십시오.
 * 시나리오가 주어지면 시스템 및 그룹 관리를 중심으로 거버넌스를 위한 프레임워크를 추천한다.
 
 ## 준비 완료
@@ -496,24 +496,24 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [그룹별 승인 프로세스 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html){target="_blank"}
 * [그룹이 상태를 상속하는 방법](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html){target="_blank"}
 * [그룹의 팀 만들기 및 수정](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html){target="_blank"}
-* [지정 사용자 라이선스 | 배포 안내서](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
+* [명명된 사용자 라이선스 | 배포 안내서](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
 * [카드 폴오프 구성](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
-* [보드에서 연결된 카드 사용](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
+* [보드에 연결된 카드 사용](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
 * [보드에서 구성원 추가 또는 제거](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
 
-**섹션 2: 접수, 사용자 정의 Forms 및 프로젝트 관리**
+**섹션 2: Intake, 사용자 지정 Forms 및 프로젝트 관리**
 
 * [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (관리 및 설정, 사용자 지정 Forms, 보고서, 보고 요소)
-* [기존 양식 빌더로 사용자 정의 양식에 섹션 구분 추가](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
+* [기존 양식 빌더를 사용하여 사용자 정의 양식에 섹션 나누기를 추가합니다](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
 * [와일드카드 필터 변수](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
-**섹션 3: 전략적 기능(Portfolio 및 프로그램 관리, 리소스 관리)**
+**섹션 3: 전략 기능(Portfolio 및 프로그램 관리, 리소스 관리)**
 
-* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Adobe의 업무 균형자, 리소스 계획 [!DNL Workfront], 작업 할당)
-* [업무 균형자 를 사용하여 일괄 작업 할당](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
-* [프로젝트 및 역할 보기를 사용하여 리소스 플래너의 예산 리소스](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
+* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (업무 균형자, Adobe [!DNL Workfront]의 리소스 계획, 작업 할당)
+* [업무 균형자를 사용하여 작업을 일괄 할당](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [프로젝트 및 역할 보기를 사용하여 리소스 플래너의 리소스 예산](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
 * [업무 균형자에서 정보 필터링](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html){target="_blank"}
-* [업무 균형자 를 사용하여 일괄 작업 할당](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [업무 균형자를 사용하여 작업을 일괄 할당](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
 * [스마트 할당 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html){target="_blank"}
 
 **섹션 4: 문서 관리 및 증명**
@@ -529,29 +529,29 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 * [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (작업 검토 및 승인, 증명 구성, 통합 구성)
 * [프로젝트 템플릿 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
-* [기존 양식 빌더를 사용하여 사용자 정의 양식의 이미지 또는 기타 에셋 위젯 추가 또는 편집](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
-* [다중 선택 사용자 정의 필드로 보고서 차트 작성](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
+* [기존 양식 빌더를 사용하여 사용자 지정 양식에 이미지 또는 기타 에셋 위젯을 추가하거나 편집합니다](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
+* [다중 선택 사용자 지정 필드로 보고서 차트 만들기](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
 * [블루프린트 개요](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html){target="_blank"}
 
-**섹션 6: 방법론/우수 사례/사용 사례**
+**섹션 6: 방법론/모범 사례/사용 사례**
 
-* [Experience Manager as a Cloud Service 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"} - (Adobe과 통합 [!DNL Workfront])
-* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (보고 요소, 프로젝트 재무, 리소스 활용, 보드에서 애자일 계획 도구 사용, 증명 기능 구성)
-* [System Admin Essentials 웨비나: 소개 [!DNL Workfront] 거버넌스?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
-* [Adobe 간 에셋 메타데이터 매핑 구성 [!DNL Workfront] 및 Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
-* [메타데이터](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
+* [Experience Manager as a Cloud Service 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"} - (Adobe [!DNL Workfront]과(와) 통합)
+* [[!DNL Workfront] 설명서](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"}(보고 요소, 프로젝트 재무, 리소스 사용률, 보드에서 애자일 계획 도구 사용, 증명 기능 구성)
+* [System Admin Essentials 웨비나:  [!DNL Workfront] Governance란?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
+* [Adobe과 Experience Manager Assets 간의 에셋 메타데이터 매핑 구성 [!DNL Workfront] 2}{target="_blank"}](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html)
+* [메타데이터 정보](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
 * [마일스톤 보기 사용](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
 * [비용 추적](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 [!DNL Workfront] 코어 개발자 갱신 - 아래 AD5-829 링크.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 [!DNL Workfront] 핵심 개발자 갱신 - AD5-829 링크를 클릭하십시오.
 
-* [Adobe [!DNL Workfront] 코어 개발자 전문가 갱신 - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
+* [Adobe [!DNL Workfront] 핵심 개발자 전문가 갱신 - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
@@ -559,6 +559,6 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

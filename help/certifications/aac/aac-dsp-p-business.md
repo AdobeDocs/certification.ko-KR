@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: Adobe 인증을 받는 방법 알아보기 [!DNL Advertising DSP] 비즈니스 전문가.
+description: Adobe 인증을 받는 방법 [!DNL Advertising DSP] 비즈니스 전문가
 solution: Advertising
 product: Advertising Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Advertising DSP] 비즈니스 전문가
+# Adobe [!DNL Advertising DSP] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* 을 사용한 6개월 이상의 경험 [!DNL Adobe Advertising]
+* [!DNL Adobe Advertising]을(를) 통한 6개월 이상의 경험
 * 미디어 구매 소프트웨어의 주요 성능 지표를 계획 및/또는 측정하는 경험
 
 또한 다음 도구 및 기술에 익숙해야 합니다.
 
 * 광고 테스트/디버깅 소프트웨어(VAST INSPECTOR, Chrome 개발자 도구)
-* Analytics 도구 ([!DNL Adobe Analytics], Google Analytics)
+* Analytics 도구([!DNL Adobe Analytics], Google Analytics)
 * 서드파티 태깅 소프트웨어(Sizmek, Google 태그 관리자)
 * 타사 미디어 품질 도구(IAS, MOAT)
 * 주요 브라우저
@@ -120,27 +120,27 @@ ht-degree: 0%
 
 **섹션 1: 캠페인 설정**
 
-* [의 대상자 관리 정보 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
-* [의 인벤토리 기능 개요 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [대상 관리 정보 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
+* [재고 기능 개요 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
 * [[!DNL Campaign] 설정](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
 * [배치 설정](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
 **섹션 2: 캠페인 실행 및 최적화**
 
-* [방법 [!DNL Advertising DSP] 캠페인 최적화](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
-* [사용자 정의 목표 정보](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
+* [방법 [!DNL Advertising DSP] 캠페인을 최적화하는 방법](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [사용자 지정 목표 정보](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
 * [성과 캠페인 설정에 대한 우수 사례](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
-* [온디맨드 프리미엄 재고 정보](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
-* [보고 방법 [!DNL Advertising] 마케팅 채널](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
+* [온디맨드 프리미엄 인벤토리 정보](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
+* [마케팅 채널 [!DNL Advertising] 보고](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
 
 **섹션 3: 보고 및 분석**
 
 * [웹 콘솔](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
-**제4절 캠페인에 대한 추천 제공**
+**섹션 4: 캠페인에 대한 권장 사항 제공**
 
-* [방법 [!DNL Advertising] DSP이 캠페인을 최적화합니다.](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
-* [의 광고 관리 정보 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
+* [DSP이 캠페인을 최적화하는 방법 [!DNL Advertising] 2}{target="_blank"}](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html)
+* [광고 관리 정보 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
 +++
 
@@ -195,6 +195,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

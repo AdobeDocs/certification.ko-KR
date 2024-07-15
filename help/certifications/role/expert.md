@@ -4,7 +4,7 @@ description: Expert 사용자를 위한 인증 옵션 개요
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 53%
+ht-degree: 19%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 53%
 **Analytics**
 
 * [비즈니스 전문가](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
-* [Developer](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
+* [개발자](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
 
 **Audience Manager**
 
@@ -22,22 +22,22 @@ ht-degree: 53%
 **Campaign Classic**
 
 * [비즈니스 전문가](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
-* [Developer](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
+* [개발자](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
 **Campaign Standard**
 
 * [비즈니스 전문가](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
-* [Developer](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
+* [개발자](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
 **상거래**
 
 * [비즈니스 전문가](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
-* [Developer](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
-* [Developer](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
+* [개발자](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
+* [개발자](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
 
 **Customer Journey Analytics**
 
-* [Developer](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
+* [개발자](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
 **Experience Manager**
 

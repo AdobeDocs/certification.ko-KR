@@ -1,6 +1,6 @@
 ---
 title: 전문가 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 전문가.
+description: 인증된 Adobe [!DNL Experience Manager] 전문가가 되는 방법에 대해 알아보세요.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Experience Manager] as a Cloud Service 마이그레이션 전문가
+# 인증 여정 [!DNL Experience Manager] Adobe as a Cloud Service 마이그레이션 전문가
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/129) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/129)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ### 의도한 대상 {#intended-audience}
 
-* Adobe 경험이 있는 개발자 [!DNL Experience Manager]
+* Adobe [!DNL Experience Manager]에 대한 경험이 있는 개발자
 * 하나 이상의 클라우드 마이그레이션에 참여한 개발자
 * Adobe [!DNL Experience Manager] 사이트 개발자
 * Adobe [!DNL Experience Manager] 사이트 설계자
 * Adobe [!DNL Experience Manager] Assets 개발자
 * Adobe [!DNL Experience Manager] Forms 개발자
-* Adobe을 사용한 웹 애플리케이션 개발 경험이 2~3년 이상인 여러 AEM 배포에 참여한 개발자/DevOps/리드/설계자 [!DNL Experience Manager]
+* Adobe [!DNL Experience Manager]을(를) 사용하여 최소 2~3년의 웹 애플리케이션 개발 경험으로 여러 AEM 배포에 참여한 개발자/DevOps/리드/설계자
 
 <br>
 
@@ -56,8 +56,8 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* AEM AEM 서비스(자체 관리, AMS 또는 타사 클라우드)에서 as a Cloud Service으로 이동할 때 아키텍처 및 기능의 전반적인 변경 사항에 대해 이해합니다.
-* Adobe을 사용한 웹 애플리케이션 개발 경험 1-3년 [!DNL Experience Manager]
+* AEM 서비스(자체 관리, AMS 또는 타사 클라우드)에서 AEM as a Cloud Service으로 이동할 때 아키텍처 및 기능의 전반적인 변경 사항에 대해 이해합니다.
+* [!DNL Experience Manager] Adobe을 사용한 1-3년간의 웹 응용 프로그램 개발 경험
 * AEM Forms, Assets 및 Sites를 사용한 실습
 * AEM 프로젝트의 모든 단계에 대한 권고 및 참여로 마이그레이션 프로세스를 안내하는 기능
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 * 모범 사례 분석기
 * AEM 현대화
 * 저장소 브라우저
-* 개발자 콘솔
+* Developer Console
 * IMS Adobe을 위한 사용자 매핑 도구
 * I/O cmd 도구
 * New Relic
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 **섹션 3: 배포(16%)**
 
-* Cloud Manager 파이프라인 구성 및 환경 연결
+* Cloud Manager 파이프라인 구성 및 환경에 연결
 * AEMaaCS 환경 프로비저닝(개발, 단계, 프로덕션 - 작성자, 게시, 미리보기)
 * Adobe IO CLI를 통해 배포 프로세스 관리
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 * Adobe 파이프라인을 통해 배포할 여러 프로젝트를 단일 프로젝트에 병합
 * 사용자/그룹 권한에 대한 권한 부여 스크립트 관리
 * 로컬 SDK 설정
-* AEM에서 as a Cloud Service으로 사용할 수 있는 실행 모드를 기반으로 구성 업데이트
+* AEM as a Cloud Service에서 사용할 수 있는 실행 모드를 기반으로 구성 업데이트
 
 <br>
 
@@ -144,15 +144,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/129)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/129)
 
 +++
 
@@ -207,6 +207,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

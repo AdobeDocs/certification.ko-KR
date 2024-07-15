@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->2023년 8월 1일부터 시험 일정이 더 이상 PSI에서 제공되지 않습니다. 이미 PSI 시험 일정을 잡았다면 2023년 8월 1일 이전에 응시해야 합니다. 2023년 8월 1일 이후에 PSI로 시험을 예약한 경우 해당 날짜 이전에 시험을 치르도록 다시 예약하십시오. 2023년 8월 1일 이전에 시험에 응시할 수 없거나 시험 준비가 되지 않았다면 이메일을 보내주십시오 <certif@adobe.com> 따라서 귀하가 Examity로 시험을 이전하는 것을 지원할 수 있습니다. 여기에는 일본어 시험이 포함됩니다.
+>2023년 8월 1일부터 시험 일정이 더 이상 PSI에서 제공되지 않습니다. 이미 PSI 시험 일정을 잡았다면 2023년 8월 1일 이전에 응시해야 합니다. 2023년 8월 1일 이후에 PSI로 시험을 예약한 경우 해당 날짜 이전에 시험을 치르도록 다시 예약하십시오. 2023년 8월 1일 이전에 시험을 치를 수 없거나 시험 준비가 되지 않은 경우 <certif@adobe.com>에게 전자 메일을 보내 시험을 Examity로 이전하는 것을 지원하세요. 여기에는 일본어 시험이 포함됩니다.
 
 <!--divider-->
 
@@ -49,13 +49,13 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
-> **정부 ID 필요:** 유효한 신분증으로 정부에서 발급한 사진 ID를 사용해야 합니다. 소프트 카피나 디지털 ID는 허용되지 않습니다. <br><br> **Adobe ID 계정 이름:** Adobe ID 계정 이름은 정부 ID의 이름과 일치해야 합니다. Adobe ID 계정 이름을 업데이트하려면 전자 메일 <certif@adobe.com>. 이 수정을 요청하십시오. **72시간 전**. 시험 당시에 이름이 일치하지 않을 경우 추가 비용을 지불하고 신규 시험에 등록해야 합니다.
+> **정부 ID 필요:** 정부에서 발급한 사진 ID를 올바른 형식의 ID로 사용해야 합니다. 소프트 카피나 디지털 ID는 허용되지 않습니다. <br><br> **Adobe ID 계정 이름:** Adobe ID 계정 이름은 정부 ID의 이름과 일치해야 합니다. Adobe ID 계정 이름을 업데이트하려면 <certif@adobe.com>(으)로 전자 메일을 보내십시오. 이 수정을 **72시간 전에 요청하십시오**. 시험 당시에 이름이 일치하지 않을 경우 추가 비용을 지불하고 신규 시험에 등록해야 합니다.
 
-시험을 예약하고 치르려면 Adobe ID이 있어야 합니다. Adobe ID이 없는 경우 만들 수 있습니다 [여기](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+시험을 예약하고 치르려면 Adobe ID이 있어야 합니다. Adobe ID이 없는 경우 [여기](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)에서 만들 수 있습니다.
 
 다음 세 가지 이유로 Adobe ID이 필요합니다.
 
-* 을(를) 만들고 로그인하려면 Adobe ID이 필요합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 계정입니다. 여기에서 인증, 시험 기록, 시험 점수 및 추가 정보를 볼 수 있습니다.
+* [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 계정을 만들고 로그인하려면 Adobe ID이 필요합니다. 여기에서 인증, 시험 기록, 시험 점수 및 추가 정보를 볼 수 있습니다.
 * Examity 계정을 만들고 로그인하려면 Adobe 자격 증명 관리 시스템에 로그인해야 합니다. 여기에서 테스트를 예약하고 비용을 지불하고 수행합니다.
 * Adobe 인증 시험 준비 포털에서 연습 테스트를 수행하려면 Adobe 자격 증명 관리 시스템에 로그인해야 합니다.
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 섹션의 일부 링크는 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}. 잠시 로그인을 해 주십시오.
+>이 섹션의 일부 링크는 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후에만 작동합니다. 잠시 로그인을 해 주십시오.
 
 <!--divider-->
 
@@ -89,9 +89,9 @@ ht-degree: 0%
 
 연습 테스트를 수행하려면 다음을 수행합니다.
 
-1. 먼저, [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} Adobe ID 사용.
+1. 먼저 Adobe ID을 사용하여 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인합니다.
 
-2. 그런 다음 로 이동합니다. [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 연습 테스트를 찾습니다.
+2. 그런 다음 [Adobe 인증 시험 준비 포털](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"}로 이동하여 연습 시험을 찾습니다.
 
 <!--divider-->
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 섹션의 일부는 로 로그인한 후에만 작동합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}. 잠시 로그인을 해 주십시오.
+>이 섹션의 일부는 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후에만 작동합니다. 잠시 로그인을 해 주십시오.
 
 **시험 게재**
 
@@ -109,11 +109,11 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 
 시험을 스케줄 지정, 스케줄 조정 또는 취소하려면
 
-1. 먼저, [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} Adobe ID 사용.
+1. 먼저 Adobe ID을 사용하여 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인합니다.
 
-2. 그런 다음 로 이동합니다. [예제 포털](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} 화면에 제공된 지침을 따르십시오.
+2. 그런 다음 [예제 포털](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"}(으)로 이동하여 화면에 제공된 지침을 따르십시오.
 
-취소 및 스케줄 조정을 시작해야 합니다. **48시간 전** 예정된 시험 약속입니다. 후보자는 스스로 이 약속을 수정해야 합니다. Adobe 지원이나 시험 공급업체는 스케줄 조정 및 취소 요청을 처리할 수 없습니다. 48시간 이내 취소 시에는 시험 수수료 외에 일정 조정 수수료가 부과됩니다.
+취소 및 일정 조정은 예약된 시험 약속 **48시간 전**&#x200B;에 시작해야 합니다. 후보자는 스스로 이 약속을 수정해야 합니다. Adobe 지원이나 시험 공급업체는 스케줄 조정 및 취소 요청을 처리할 수 없습니다. 48시간 이내 취소 시에는 시험 수수료 외에 일정 조정 수수료가 부과됩니다.
 
 **결제 방법**
 
@@ -123,13 +123,13 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 
 **바우처 구매**
 
-시험 비용은 바우처로 지불하시면 됩니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}.
+시험 비용은 바우처로 지불하시면 됩니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}로 이동하세요.
 
 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 바우처 할인 정보는 아래를 참조하십시오.
 
 모든 지원자는 Adobe 인증 바우처 센터를 통해 구매 시 10회 이상 대량 구매 시 할인 혜택을 받을 수 있다.
 
-바우처에 대한 자세한 내용은 다음을 참조하십시오. [FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+바우처에 대한 자세한 내용은 [FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}를 참조하세요.
 
 **할인**
 
@@ -160,9 +160,9 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 
 >[!IMPORTANT]
 >
-> **정부 ID 필요:** 유효한 신분증으로 정부에서 발급한 사진 ID를 사용해야 합니다. 소프트 카피나 디지털 ID는 허용되지 않습니다. <br><br> **Adobe ID 계정 이름:** Adobe ID 계정 이름은 정부 ID의 이름과 일치해야 합니다. Adobe ID 계정 이름을 업데이트하려면 전자 메일 <certif@adobe.com>. 이 수정을 요청하십시오. **72시간 전**. 시험 당시에 이름이 일치하지 않을 경우 추가 비용을 지불하고 신규 시험에 등록해야 합니다.
+> **정부 ID 필요:** 정부에서 발급한 사진 ID를 올바른 형식의 ID로 사용해야 합니다. 소프트 카피나 디지털 ID는 허용되지 않습니다. <br><br> **Adobe ID 계정 이름:** Adobe ID 계정 이름은 정부 ID의 이름과 일치해야 합니다. Adobe ID 계정 이름을 업데이트하려면 <certif@adobe.com>(으)로 전자 메일을 보내십시오. 이 수정을 **72시간 전에 요청하십시오**. 시험 당시에 이름이 일치하지 않을 경우 추가 비용을 지불하고 신규 시험에 등록해야 합니다.
 
-**시험 날짜**
+**시험일**
 
 * 일찍 와! 담당 감독관은 약속 시작 시간에 정확하게 세션을 시작하므로 약속 전에 예제에 로그인할 수 있습니다.
 * 책상 공간을 준비하세요 추가 모니터, 전자 제품, 책, 노트북, 종이 등을 제거합니다. 데스크탑에서.
@@ -170,7 +170,7 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 * 화면 공유 및 브라우저를 제외한 모든 응용 프로그램을 닫습니다. 감독자가 작업 관리자를 열어 다른 응용 프로그램이 실행되고 있지 않음을 보여 줍니다.
 * 참고: 연결이 끊긴 경우 Example Support에서 이메일 알림을 수신하여 다시 연결할 수 있습니다. Examity 지원팀에 직접 연락하여 다시 연결할 수도 있습니다.
 
-**시험 이후**
+**시험 후**
 
 * 시험이 끝나면 잠정적으로 합격하거나 불합격하게 됩니다. 그러나 최종 점수는 최대 72시간이 소요될 수 있습니다. 시험을 검토하고 완료되면 &quot;기록&quot; 탭 아래의 Adobe 자격 증명 관리에서 점수 카드를 확인할 수 있습니다.
 * 첫 번째 시도에서 Adobe 인증 시험에 실패하는 경우, 재시험 전까지 최소 24시간을 기다려야 합니다. 두 번째 또는 그 이후의 시도에서 실패한 성적은 시험을 다시 보기 전에 14일의 대기 기간이 필요하다. 각 시도는 별도의 시험 비용이 발생합니다.
@@ -181,15 +181,15 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 
 Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니다. 예제 포털에서 다음 작업을 수행할 수 있습니다.
 
-* **시험을 예약, 예약 또는 취소하세요.** 취소 및 일정 조정은 예정된 시험 약속 48시간 전에 시작해야 합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
+* **시험을 예약하거나 다시 예약하거나 취소합니다.** 취소 및 일정 조정은 예정된 시험 약속 48시간 전에 시작해야 합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
 
-* **시험값을 지불하세요.** Examity 포털에서 바우처 또는 신용 카드로 인증 시험에 대한 비용을 지불합니다. 시험 바우처를 구매하려면 다음 위치로 이동하십시오. [Adobe 인증 바우처 시스템](https://market.xvoucher.com/adobe/global){target="_blank"}. 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
+* **시험 비용을 지불하세요.** Examity 포털에서 바우처나 신용 카드로 인증 시험에 대한 비용을 지불합니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 시스템](https://market.xvoucher.com/adobe/global){target="_blank"}(으)로 이동하십시오. 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
 
 * **시험을 보세요.**
 
 >[!NOTE]
 >
->에 로그인해야 합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 아래의 예제 버튼을 클릭하기 전에
+>아래의 예제 단추를 클릭하기 전에 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인해야 합니다.
 
 <!--divider-->
 
@@ -201,13 +201,13 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 **기존 사용자의 경우 Adobe 인증 배지를 수락하는 두 가지 방법이 있습니다.**
 
-* **1단계:** 로그인 [신빙성 있게](https://www.credly.com/users/sign_in){target="_blank"}. (Adobe 자격 증명을 얻는 데 사용한 이메일과 동일한 이메일을 사용해야 합니다. 그렇지 않으면 배지가 표시되지 않습니다.)
-* **2단계:** 또는 Credly에서 받은 이메일로 이동하여 배지를 수락합니다.
+* **1단계:** [Credly](https://www.credly.com/users/sign_in){target="_blank"}에 로그인합니다. (Adobe 자격 증명을 얻는 데 사용한 이메일과 동일한 이메일을 사용해야 합니다. 그렇지 않으면 배지가 표시되지 않습니다.)
+* **2단계:** 또는 Credly에서 받은 전자 메일로 이동하여 배지를 수락합니다.
 * **3단계:** 배지를 수락하고 공유합니다.
 
-**신규 사용자의 경우 아래 지침에 따라 Adobe 인증 배지에 동의하십시오.**
+**새 사용자의 경우 아래 지침에 따라 Adobe 인증 배지를 수락하십시오.**
 
-* **1단계:** Credly에서 받은 이메일로 이동하여 배지를 수락합니다.
+* **1단계:** Credly에서 받은 전자 메일로 이동하여 배지를 수락합니다.
 * **2단계:** 계정을 만듭니다. (Adobe 자격 증명을 얻는 데 사용한 이메일과 동일한 이메일을 사용해야 합니다. 그렇지 않으면 배지가 표시되지 않습니다.)
 * **3단계:** 배지를 수락하고 공유합니다.
 
@@ -217,7 +217,7 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 ## 인증 갱신 {#renewing-intro}
 
-인증은 2년 후에 만료됩니다. 인증을 유지하려면 만료되기 전에 갱신해야 합니다. 다음 방문: [인증 갱신](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} 페이지 를 참조하십시오.
+인증은 2년 후에 만료됩니다. 인증을 유지하려면 만료되기 전에 갱신해야 합니다. 자세한 내용은 [인증 갱신](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} 페이지를 참조하십시오.
 
 <!--divider-->
 

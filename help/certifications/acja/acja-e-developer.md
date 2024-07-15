@@ -1,6 +1,6 @@
 ---
 title: 전문가 인증
-description: Adobe 분야의 공인 전문가가 되는 방법 알아보기 [!DNL Customer Journey Analytics]
+description: Adobe  [!DNL Customer Journey Analytics]에서 인증된 전문가가 되는 방법에 대해 알아봅니다.
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Customer Journey Analytics] 개발자 전문가
+# Adobe [!DNL Customer Journey Analytics] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/132) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/132)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics]을 클릭하고 다음 작업을 수행할 수 있습니다.
+[!DNL Customer Journey Analytics] Adobe에서 12~24개월 동안 작업한 경험이 있어야 하며 다음 작업을 수행할 수 있습니다.
 
 * XDM 스키마(클래스) 읽기 및 이해
 * 플랫폼 인터페이스에 대한 친숙도 입증
@@ -66,9 +66,9 @@ Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics
 * 기본 ID(개인 ID)로 연결 구성
 * 여러 데이터 세트로 연결 구성
 * 데이터 보기 구성(지표/차원 구성)
-* 구성 Adobe [!DNL Customer Journey Analytics]
+* [!DNL Customer Journey Analytics] Adobe 구성
 * 차원 및 지표 내 데이터 변환
-* Workspace 분석 기본 사항(시각화, 속성 설정, 필터, 계산된 지표)
+* Workspace 기본 사항 분석(시각화, 속성 설정, 필터, 계산된 지표)
 * CJA(DULE)의 데이터 거버넌스 이해
 * 채널 지표 또는 사용자 기반 필터 간 구축
 * AEP의 샌드박스 구분/이해
@@ -85,7 +85,7 @@ Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics
 * 적절한 설정을 사용하여 CJA 연결 디자인
 * 샌드박스별로 AEP에서 사용할 수 있는 XDM 데이터 세트에서 CJA 연결 만들기
 
-**섹션 2: 데이터 보기(30%)**
+**섹션 2: 데이터 보기 수(30%)**
 
 * 보고 및 분석을 위한 데이터 보기 구성
 * 데이터 보기 내에서 구성 요소 수정
@@ -123,15 +123,15 @@ Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/132)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/132)
 
 +++
 
@@ -186,6 +186,6 @@ Adobe 경력이 12~24개월이어야 합니다. [!DNL Customer Journey Analytics
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

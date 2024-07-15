@@ -1,6 +1,6 @@
 ---
 title: 개발자 전문가 인증
-description: 인증된 Adobe Developer Expert Adobe이 되는 방법 알아보기 [!DNL Campaign Standard].
+description: 인증된 Adobe Developer Expert Adobe이 되는 방법  [!DNL Campaign Standard]에 대해 알아보세요.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Campaign Standard] 개발자 전문가
+# Adobe [!DNL Campaign Standard] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/256) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/256)는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* 최소 2년간의 Adobe [!DNL Campaign Standard] 소프트웨어 경험
+* Adobe [!DNL Campaign Standard] 소프트웨어 경험 최소 2년
 * 멀티채널 디지털 마케팅 캠페인 및 웹 개발(예: REST API)에서 2년 이상 관련 경험
 * 템플릿 개발, 기술 워크플로우, 스키마 개발 및 통합을 포함하여 Adobe Campaign에서 작업을 수행하고 컨트롤 패널을 사용하여 인스턴스를 모니터링할 수 있습니다
 * 채널 게재 환경(이메일, DM, 모바일 및 소셜)에서 일한 경험
@@ -138,15 +138,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서](https://app.rockinfo.com/courses/256)
+[시험 준비 가이드](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -201,6 +201,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

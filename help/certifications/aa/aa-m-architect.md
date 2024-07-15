@@ -1,6 +1,6 @@
 ---
 title: 설계자 기본 인증
-description: 다음으로 인증 받는 방법 알아보기 [!DNL Adobe Analytics] 기본 설계.
+description: ' [!DNL Adobe Analytics] 설계자 기본으로 인증을 받는 방법에 대해 알아봅니다.'
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Analytics] 설계자 기본
+# [!DNL Adobe Analytics] Architect 기본에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/223) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/223)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-설계 경력이 최소 3~4년이어야 합니다. [!DNL Adobe Analytics] 아키텍처, 데이터 레이어 사양 및 태그 관리와 JavaScript 코드에 대한 기본적인 이해
+[!DNL Adobe Analytics] 아키텍처, 데이터 레이어 사양 및 태그 관리를 디자인하고 JavaScript 코드를 기본적으로 이해한 경력이 최소 3~4년 이상이어야 합니다.
 
-또한 비즈니스 요구 사항을 추적 사양 및 [!DNL Adobe Analytics] 변수를 사용하는 사용자는 다음 기술 및 환경에 익숙할 것입니다.
+또한 비즈니스 요구 사항을 추적 사양 및 [!DNL Adobe Analytics] 변수로 변환해야 하며, 다음 기술 및 환경에 익숙합니다.
 
 * 웹 분석 애플리케이션
 * Adobe Experience Cloud
@@ -78,7 +78,7 @@ ht-degree: 0%
 * 비즈니스 요구 사항을 구축하기 위한 클라이언트 요구 사항 조사
 * 시나리오가 주어지면 측정 프레임워크를 만듭니다
 
-**섹션 2: 솔루션 설계(54%)**
+**섹션 2: 솔루션 디자인(54%)**
 
 * 비즈니스 요구 사항을 변수 및 지표로 변환
 * 보고서 세트 설정 관리 기능 시연
@@ -87,7 +87,7 @@ ht-degree: 0%
 * 사이트 개발자를 위한 기술 사양 작성
 * Experience Cloud 사용자/그룹 만들기
 
-**섹션 3: 구현 후 (28%)**
+**섹션 3: Post 구현(28%)**
 
 * 요구 사항 세트가 주어지면 브라우저 개발자 도구 및 Adobe 보고서를 통해 추적의 유효성을 확인합니다
 * 절차 개념을 적용하여 데이터 추출 및 관계 관리
@@ -115,15 +115,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/223)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/223)
 
 +++
 
@@ -178,7 +178,7 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 

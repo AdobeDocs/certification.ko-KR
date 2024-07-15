@@ -1,6 +1,6 @@
 ---
 title: 설계자 기본 인증
-description: Adobe에서 기본으로 Adobe 설계자가 되는 방법에 대해 알아봅니다. [!DNL Marketo Engage].
+description: Adobe [!DNL Marketo Engage]에서 기본으로 인증된 Adobe 설계자가 되는 방법에 대해 알아봅니다.
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Marketo Engage] 설계자 기본
+# Adobe [!DNL Marketo Engage] Architect 기본에 대한 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/248) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/248)는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->이 인증에는 전제 조건이 있습니다. 활성(만료되지 않음) Adobe이 있어야 합니다. [!DNL Marketo Engage] 비즈니스 전문가 **전문가** Adobe을 수락하기 위한 인증 [!DNL Marketo Engage] 건축가 기본 시험.
+>이 인증에는 전제 조건이 있습니다. Adobe [!DNL Marketo Engage] 기본 시험을 보려면 활성(만료되지 않음) Adobe [!DNL Marketo Engage] 비즈니스 전문가 **전문가** 인증이 있어야 합니다.
 
 * 전제 조건: 활성(만료되지 않음) Adobe [!DNL Marketo Engage] 비즈니스 전문가 인증
 * 레벨: 기본(3~5년 경력)
@@ -96,7 +96,7 @@ ht-degree: 0%
 * 수정된 프로세스가 주어지면 지원 및 효율적인 지원 롤아웃 계획이 필요한 사용자를 결정합니다.
 * 감사 평가 및 우선 순위 및 타임라인 추천
 
-**섹션 2: Marketo Engage 아키텍처 설계(48%)**
+**섹션 2: Marketo Engage 아키텍처 디자인(48%)**
 
 * 요구 사항/요구 사항 수집 및 리드 관리 및 라이프사이클 설계 권장
 * 기존 구현 검토 및 결과 제공
@@ -118,7 +118,7 @@ ht-degree: 0%
 * 다양한 속성 모델의 장단점을 식별하고 설명합니다
 * 비즈니스 요구 사항이 주어지면, 보고에 설정된 채널의 효과를 설명하십시오
 
-**섹션 4: 고급 운영(16%)**
+**섹션 4: 고급 작업(16%)**
 
 * 시나리오가 주어지면 관리 또는 거버넌스를 개선하기 위한 적절한 단계를 식별합니다
 * 요구 사항 세트가 있는 경우 효율적인 데이터 스키마를 추천하십시오
@@ -155,15 +155,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서](https://app.rockinfo.com/courses/248)
+[시험 준비 가이드](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->이 인증에는 전제 조건이 있습니다. 활성(만료되지 않음) Adobe이 있어야 합니다. [!DNL Marketo Engage] 비즈니스 전문가 **전문가** Adobe을 받기 위한 인증 [!DNL Marketo Engage] 건축가 기본 시험.
+>이 인증에는 전제 조건이 있습니다. Adobe [!DNL Marketo Engage] 기본 시험을 보려면 활성(만료되지 않음) Adobe [!DNL Marketo Engage] 비즈니스 전문가 **전문가** 인증이 있어야 합니다.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

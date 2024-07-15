@@ -1,6 +1,6 @@
 ---
 title: 설계자 기본 인증
-description: Adobe 인증을 받는 방법 알아보기 [!DNL Audience Manager] 기본 설계.
+description: Adobe 인증을 받는 방법에 대해 알아보세요 [!DNL Audience Manager] 건축가 기본.
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -11,11 +11,11 @@ exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# 인증 여정 [!DNL Adobe Audience Manager] 설계자 기본
+# [!DNL Adobe Audience Manager] Architect 기본에 대한 인증 여정
 
 {{intro}}
 
@@ -60,10 +60,10 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 
 * 비즈니스 요구 사항을 분석하여 기존 데이터와 필요한 추가 데이터를 파악합니다
 * 고객 요구 사항을 충족하는 특정 구현 설계 및 개발
-* 구현 Adobe [!DNL Audience Manager] 다양한 방법론 사용
+* 다양한 방법을 사용하여 [!DNL Audience Manager] Adobe 구현
 * 세그먼트 만들기
 * 다양한 Adobe 및 비 Adobe 클라우드 솔루션에서 대상 세그먼트 활성화
-* 내에서 다양한 보고서 생성 및 분석 [!DNL Audience Manager]
+* [!DNL Audience Manager] 내에서 다른 보고서 생성 및 분석
 * 데이터 수집 전략 이해
 
 <br>
@@ -91,16 +91,16 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 
 **섹션 3: 세분화 및 활성화(30%)**
 
-* 절차적 개념을 적용하여에서 대상 만들기 [!DNL Audience Manager]
+* [!DNL Audience Manager]에서 대상을 만드는 데 절차 개념 적용
 * 신호를 식별하여 규칙 기반, 온보딩 및 알고리즘 트레이트 만들기
 * 빈도/최신성을 사용하여 세그먼트를 만들려면 절차 개념 적용
 * 프로필 병합 규칙을 사용하여 세그먼트를 만드는 방법 결정
 * 절차 개념을 적용하여 알고리즘 또는 예측 모델을 생성합니다.
 * 사용 사례에 따라 세그먼테이션 논리 결정
 
-**섹션 4: 개인정보 보호 및 데이터 거버넌스(8%)**
+**섹션 4: 개인 정보 보호 및 데이터 거버넌스(8%)**
 
-* 추천 [!DNL Audience Manager] 거버넌스, 개인 정보 보호 및 보안과 관련된 기능
+* 거버넌스, 개인 정보 및 보안과 관련된 [!DNL Audience Manager] 기능 권장
 * 정부 규정에 부합하는 고객 데이터 정책 파악
 
 **섹션 5: 성능 및 보고(18%)**
@@ -113,7 +113,7 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 
 {{readiness}}
 
-[온라인 준비 설문지 작성](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+[온라인 준비 질문서를 받으세요](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
 
 <br>
 
@@ -138,7 +138,7 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 **섹션 1: 구현 분석**
 
 * [[!DNL Audience Manager] 안내서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Analytics 통합](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=ko-KR){target="_blank"}
+* [Analytics 통합](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Adobe Experience Cloud ID 서비스](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **섹션 2: 솔루션 디자인 및 Recommendations**
@@ -152,11 +152,11 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
 * [[!DNL Audience Manager] 튜토리얼](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
-**섹션 4: 개인정보 보호 및 데이터 거버넌스**
+**섹션 4: 개인 정보 보호 및 데이터 거버넌스**
 
 * [[!DNL Audience Manager] 안내서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [[!DNL Audience Manager] 나머지 API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Analytics 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR){target="_blank"}
+* [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
+* [Analytics 관리 안내서](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **섹션 5: 성능 및 보고**
 
@@ -215,6 +215,6 @@ Adobe 및 Adobe 외 마케팅 플랫폼 전반에 걸친 데이터 수집 방법
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

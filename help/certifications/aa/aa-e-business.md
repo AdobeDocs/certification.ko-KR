@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: 다음으로 인증 받는 방법 알아보기 [!DNL Adobe Analytics] 비즈니스 전문가
+description: ' [!DNL Adobe Analytics] 비즈니스 전문가 인증을 받는 방법에 대해 알아봅니다.'
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Analytics] 비즈니스 전문가
+# [!DNL Adobe Analytics] 비즈니스 전문가 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/220) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/220)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 * 결과 전달 기능 및 보고서 분석을 기반으로 한 조치 과정을 제안할 수 있음
 * 고객이 원하는 정보를 추출/가져오는 방법을 이해할 수 있도록 지원(예: 비즈니스 질문을 정의하는 데 도움)
 * 기술이 작동하는 방식을 이해하고, 기능적 관점에서 클라이언트의 구현(예: 데이터의 위치, 수집 방법, 추적 방법)을 이해합니다
-* 최소 1년 [!DNL Adobe Analytics] 실습 경험
+* 실습 경험 [!DNL Adobe Analytics]개 중 최소 1년
 * Digital Analytics가 데이터를 필터링/구조화하는 방법에 대한 기본 이해
-* 의 통합에 대한 인식 [!DNL Adobe Analytics] 다른 Adobe 솔루션 사용
+* [!DNL Adobe Analytics]과(와) 다른 Adobe 솔루션의 통합에 대한 인식
 
 또한 다음 기술 및 환경에 익숙해야 합니다.
 
 * FTP 클라이언트
-* 현재 [!DNL Adobe Analytics] 작업 영역 기능 및 작업 영역 외부의 기타 보고 옵션(예: 프로젝트 및 일정 보고서)
-* 관련 디버깅 도구 [!DNL Adobe Analytics] (Adobe Debugger, 브라우저 개발자 도구, Charles와 같은 패킷 모니터)
+* 현재 [!DNL Adobe Analytics]개의 Workspace 기능 및 Workspace 외부의 다른 보고 옵션(예: 프로젝트 및 일정 보고서)
+* [!DNL Adobe Analytics]과(와) 관련된 디버깅 도구(Adobe Debugger, 브라우저 개발자 도구, Charles 등의 패킷 모니터)
 * Admin Console(Analytics Reports Suite Admin Console 및 Experience Cloud Admin Console)
 * Adobe Launch 기본 사항/기본 사항
 * 앱, SPA, 기본 웹 사이트 이해
@@ -107,7 +107,7 @@ ht-degree: 0%
 * 시나리오가 주어지면 사용할 적절한 항목을 결정합니다
 * 모바일 스코어카드를 생성, 구성 및 사용하기 위한 프로세스 적용
 
-**섹션 3: 세분화 및 계산된 지표 (22%)**
+**섹션 3: 세분화 및 계산된 지표(22%)**
 
 * 세그먼트 개발 및 구성 방법 결정
 * 조직의 다른 사용자와 세그먼트를 공유하는 프로세스 적용
@@ -118,16 +118,16 @@ ht-degree: 0%
 **섹션 4: 일반적인 도구 지식 및 문제 해결(12%)**
 
 * 보고서 분석 및 데이터 품질 문제 식별
-* 에 있는 다양한 유형의 치수 및 매개변수 정의 [!DNL Adobe Analytics] (eVar, prop 및 이벤트)
-* 데이터 입출력을 확인하는 방법 결정 [!DNL Adobe Analytics]
+* [!DNL Adobe Analytics]에 있는 다른 유형의 차원 및 매개 변수 정의(eVar, prop 및 이벤트)
+* [!DNL Adobe Analytics]에서 데이터를 가져오는 방법 결정
 * 마케팅 URL에서 정보 식별
 
 **섹션 5: 관리(10%)**
 
-* 프로세스를 적용하여 구성 [!UICONTROL 마케팅 채널] 다음을 포함하는 보고서: [!UICONTROL 마케팅 채널] 처리 규칙
+* [!UICONTROL 마케팅 채널] 처리 규칙을 사용하여 [!UICONTROL 마케팅 채널] 보고서를 구성하는 프로세스를 적용합니다
 * 프로세스를 적용하여 분류 가져오기 및 규칙 빌더를 구성합니다
 * 기존 세그먼트를 기반으로 가상 보고서 세트를 구성하는 프로세스를 적용합니다
-* 사용 [!UICONTROL 데이터 피드] 관리자 관리 UI
+* [!UICONTROL 데이터 피드 사용] 관리자 관리 UI
 * 데이터 거버넌스 이해
 
 <br>
@@ -158,15 +158,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/220)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/220)
 
 +++
 
@@ -232,7 +232,7 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 

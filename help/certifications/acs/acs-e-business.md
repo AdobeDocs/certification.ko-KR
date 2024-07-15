@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: Adobe 분야의 공인 Adobe 비즈니스 전문가가 되는 방법에 대해 알아보십시오. [!DNL Campaign Standard]
+description: Adobe [!DNL Campaign Standard]에서 인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아봅니다.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Campaign Standard] 비즈니스 전문가
+# Adobe [!DNL Campaign Standard] 비즈니스 전문가 자격증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/255) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/255)는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 또한 다음을 수행해야 합니다.
 
-* Adobe을 사용한 현장 경험 [!DNL Campaign Standard] 규칙적인 빈도로
+* 정기적인 빈도로 [!DNL Campaign Standard] Adobe을 사용하여 작업하는 필드 경험
 * 데이터 파일을 처리하는 기능
 * 관계형 데이터베이스, 트리거, API 및 기술 워크플로우의 개념에 대한 이해
 * 마케팅 워크플로우를 구축하고 기본 데이터로 작업하여 마케팅 워크플로우를 시작하는 방법에 대한 이해
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 * 게재 설정 및 배포에 모범 사례 적용
 * 올바른 게재 구성 결정
-* 적절한 시나리오에 이메일 디자이너 기능 적용
+* 적절한 시나리오에 이메일 Designer 기능 적용
 
 **섹션 2: 캠페인 관리(25%)**
 
@@ -104,7 +104,7 @@ ht-degree: 0%
 **섹션 6: 데이터 관리 및 관리(15%)**
 
 * 데이터 모델 리소스 설명
-* 수행 [!DNL Campaign Standard] 관리
+* [!DNL Campaign Standard] 관리 수행
 * 타깃팅된 대상을 빌드하도록 프로세스 적용
 
 <br>
@@ -135,15 +135,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/255)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/255)
 
 +++
 
@@ -198,7 +198,7 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
 

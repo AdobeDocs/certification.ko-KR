@@ -1,6 +1,6 @@
 ---
 title: 인증 갱신
-description: 갱신 방법 알아보기 [!DNL Adobe Analytics] 만료되기 전의 인증.
+description: 만료되기 전에  [!DNL Adobe Analytics] 인증을 갱신하는 방법을 알아봅니다.
 solution: Analytics
 product: Analytics
 role: User,Developer, Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe 갱신 [!DNL Analytics] 인증
+# Adobe [!DNL Analytics] 인증 갱신
 
 Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
 
@@ -26,11 +26,11 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 >[!IMPORTANT]
 >
->**먼저 로그인:** 다음 링크가 작동합니다 **전용** 다음 이후 **로그인 성공** (으)로 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}.
+>**먼저 로그인:** [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 **성공적으로 로그인**&#x200B;한 후에 다음 링크가 **전용**&#x200B;됩니다.
 >
 ><br>
 >
->**링크를 공유하려면:** 갱신 시험 또는 평가 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지로 연결하십시오.
+>**링크 공유:** 갱신 시험 또는 평가에 대한 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지에 연결하십시오.
 
 >[!BEGINTABS]
 
@@ -44,9 +44,9 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ### 준비
 
@@ -117,7 +117,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 * [Launch에서 전역 페이지 로드 규칙 확인](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
 * [위성 개체 참조](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
-* [linkTrackevents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
+* [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
 
 **섹션 3**
 
@@ -128,44 +128,44 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 **섹션 4**
 
 * [포함 코드 추가](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
-* [Adobe Experience Cloud Identity Service 확장 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=ko-KR){target="_blank"}
+* [Adobe Experience Cloud ID 서비스 확장 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=ko-KR){target="_blank"}
 * [옵트인 참조](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
 **섹션 5**
 
 * [Analytics 내보내기 안내서](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [처리 규칙 작동 방식](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-* [ADOBE ANALYTICS API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [Adobe Analytics API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
 **섹션 6**
 
 * [JavaScript 구현 문제 해결](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
-* [Experience Cloud Debugger을 사용하여 태그 환경 전환](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
+* [Experience Cloud Debugger으로 태그 환경 전환](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
 * [데이터 수집 쿼리 매개 변수](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=ko-KR){target="_blank"}
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 Adobe Analytics 개발자 전문가 갱신 시험 - AD5-E831 링크를 클릭하십시오.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 Adobe Analytics 개발자 전문가 갱신 시험 - AD5-E831 링크를 클릭하십시오.
 
 * [Adobe Analytics 개발자 전문가 갱신 시험 - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
 +++Adobe [!DNL Analytics] 비즈니스 전문가
 
-## 다음 항목이 있어야 합니다. **활성** 이 방법을 사용하여 갱신할 인증:
+## 이 메서드를 사용하여 갱신하려면 다음 **active** 인증이 있어야 합니다.
 
 * Adobe [!DNL Analytics] 비즈니스 전문가
 
 ## 인증 갱신 지침:
 
-* **1단계**: (으)로 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
+* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
 * **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시 및 통과
+* **3단계**: 시험 응시
 
 ## 준비
 
@@ -250,7 +250,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 * [세그먼트 비교](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
 * [지표 작성](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
 * [Analysis Workspace에서 드롭다운 필터 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
-* [세그먼트 태깅](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+* [세그먼트에 태깅](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **섹션 4**
 
@@ -261,26 +261,26 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 **섹션 5**
 
-* [마케팅 채널의 처리 규칙](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [마케팅 채널에 대한 처리 규칙](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
 * [분류 개요](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 * [가상 보고서 세트 만들기](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [개인 정보 보호 규정 FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## 인증 갱신
 
-위의 1단계를 따라에 성공적으로 로그인했는지 확인합니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"} 첫 번째. 그런 다음 인증을 갱신하려면 아래의 AD5-E832 Adobe Analytics 비즈니스 실무자 전문가 갱신 시험(AD5-E832) 링크를 클릭하십시오.
+위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 AD5-E832 Adobe Analytics 비즈니스 실무자 전문가 갱신 시험(AD5-E832) 링크를 클릭하십시오.
 
 * [AD5-E832 Adobe Analytics 비즈니스 실무자 전문 갱신 시험](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 성공하지 못하면 기다려야 합니다 **30일** 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
 
 +++
 
 >[!TAB 전문가 및 기본]
 
-## 다음 중 하나 이상이 있어야 합니다. **활성** 이 방법을 사용하여 갱신할 인증:
+## 이 메서드를 사용하여 갱신하려면 다음 **active** 인증 중 하나 이상이 있어야 합니다.
 
 * Adobe Analytics 개발자 전문가
 * Adobe Analytics 비즈니스 실무자 전문가
@@ -288,19 +288,19 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 ## Adobe Analytics 인증 갱신 지침
 
-* **1단계:** 에 로그인했습니다. [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}을 클릭한 다음 이 페이지로 돌아갑니다
-* **2단계:** Experience League의 교육 과정 학습
-* **3단계:** 아래 옵션 중에서 선택하여 갱신을 완료합니다.
+* **1단계:**&#x200B;이(가) [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 다음 이 페이지로 돌아갑니다.
+* **2단계:** Experience League에서 과정 학습
+* **3단계:** 갱신을 완료하려면 아래 옵션 중에서 선택하십시오.
 
   **옵션 A:**
-선택 **세 가지 과정** 80% 이상의 점수를 받아 각 과정 평가를 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
+**3개 과정**&#x200B;을 선택하여 80% 이상의 점수로 각 과정 평가를 완료하고 통과하십시오. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
   **옵션 B:**
-먼저 을(를) 선택합니다 **두 가지 과정** 80% 이상의 점수를 받아 각 과정 평가를 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
+먼저 **2개 과정**&#x200B;을 선택하여 각 과정 평가를 80% 이상 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
 
-  두 번째, **고객 참조 양식 제출** Adobe Experience Cloud 구현 프로젝트에 대한 Adobe 인증 개인 리더, 관리 및/또는 참여로서의 지속적인 작업 확인. 이 양식은 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인합니다.
+  두 번째로, Adobe 인증 개인 리더, 관리 및/또는 Adobe Experience Cloud 구현 프로젝트에 참여하는 동안 계속 작업했는지 확인하는 **고객 참조 양식을 제출**&#x200B;합니다. 이 양식은 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인합니다.
 
-  [Adobe Analytics에 대한 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+  [Adobe Analytics용 고객 참조 양식](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
   고객 참조가 검토되면 Adobe 디지털 경험 인증 프로그램 으로부터 알림을 받게 됩니다. 참조가 수락되지 않으면 인증이 만료되기 전에 성공하기 전까지 다시 제출할 수 있습니다.
 
@@ -312,17 +312,17 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 
 | 전문가 및 기본 교육 과정 | 강의 평가 |
 | ------- | ------- |
-| [Adobe Analytics 고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
+| [고객 여정의 디지털 터치 포인트에 대한 Adobe Analytics 속성 값](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
 | [Adobe Analytics 데이터 내보내기 및 대중화 - 단원 5 및 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
-| [사용자 정의 세분화 및 날짜를 통해 데이터 필터링 - 단원 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
+| [사용자 지정 세분화 및 날짜를 사용하여 데이터 필터링 - 단원 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [안내식 Analytics 구현 - 단원 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
-| [내부 사이트 검색 구현 및 측정 - 3과 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [ADOBE ANALYTICS API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [내부 사이트 검색 구현 및 측정 - 단원 3 및 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
+| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
 >[!ENDTABS]
 
 ### 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: 프론트엔드 개발자 전문가 신규 인증
-description: Adobe에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다 [!DNL Commerce].
+description: Adobe [!DNL Commerce]에서 인증된 Adobe Developer 전문가가 되는 방법에 대해 알아봅니다.
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 인증 여정 [!DNL Adobe Commerce] 프론트엔드 개발자 전문가
+# [!DNL Adobe Commerce] 프론트엔드 개발자 전문가용 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/139) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/139)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -77,7 +77,7 @@ Adobe Commerce 프론트엔드 개발을 1~3년 이상 직접 경험해야 합�
 
 {{exam-objectives}}
 
-**섹션 1: 테마 관리 (테마 계층 구조, 이미지 구성, 번역) (16%)**
+**섹션 1: 테마 관리(테마 계층 구조, 이미지 구성, 번역)(16%)**
 
 * Adobe Commerce 테마 폴더 구조 및 폴더 기반 테마와 관련되는 방법을 설명합니다.
 * 새 테마(상속/폴백, 디자인 예외, 테마 속성)를 만드는 기능을 보여 줍니다.
@@ -108,7 +108,7 @@ Adobe Commerce 프론트엔드 개발을 1~3년 이상 직접 경험해야 합�
 
 **섹션 4: JavaScript(이미지 위젯, 이미지 라이브러리, 고객 데이터 모듈, 녹아웃 템플릿)(22%)**
 
-* JavaScript 구성 요소를 초기화하고 호출하는 기능을 보여 줍니다.
+* JavaScript 구성 요소 초기화 및 호출 기능 시연
 * 다양한 JavaScript 구성 요소에 대한 사용 사례 구분
 * RequireJS 사용 시연
 * 다양한 유형의 mixin 구현 기능 시연
@@ -125,7 +125,7 @@ Adobe Commerce 프론트엔드 개발을 1~3년 이상 직접 경험해야 합�
 * 트랜잭션 이메일 사용자 지정
 * 관리 개발 도구 사용 시연
 
-**섹션 6: 툴(CLI 및 성능)(10%)**
+**섹션 6: 도구(CLI 및 grunt)(10%)**
 
 * 기본 bin/Magento 명령 사용 시연
 * Composer 명령 사용 설명(설치, 업데이트, 필요, 제거)
@@ -161,15 +161,15 @@ Adobe Commerce 프론트엔드 개발을 1~3년 이상 직접 경험해야 합�
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/139)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/139)
 
 +++
 
@@ -224,6 +224,6 @@ Adobe Commerce 프론트엔드 개발을 1~3년 이상 직접 경험해야 합�
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

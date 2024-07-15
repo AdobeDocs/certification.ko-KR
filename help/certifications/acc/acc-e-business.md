@@ -1,6 +1,6 @@
 ---
 title: 비즈니스 전문가 인증
-description: 다음을 통해 인증된 Adobe 비즈니스 전문가가 되는 방법에 대해 알아보십시오. [!DNL Campaign Classic].
+description: ' [!DNL Campaign Classic]을(를) 통해 인증된 Adobe 비즈니스 실무자 전문가가 되는 방법에 대해 알아봅니다.'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Campaign Classic] 비즈니스 전문가
+# Adobe [!DNL Campaign Classic] 비즈니스 전문가 자격증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/253) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/253)는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* 최소 2년간의 광범위한 Adobe [!DNL Campaign Classic] 소프트웨어 경험
+* 2년 이상의 광범위한 Adobe [!DNL Campaign Classic] 소프트웨어 경험
 * 디지털 옴니채널을 사용한 마케팅 캠페인 및 전술 개발 다년간 경험
 * 비즈니스 요구 사항을 실행 가능한 캠페인 결과물로 해석/번역한 경험
 * ROI, 클릭스루 비율 및 전환율과 같은 마케팅 지표에 대한 경험
@@ -132,15 +132,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/253)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/253)
 
 +++
 
@@ -195,6 +195,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

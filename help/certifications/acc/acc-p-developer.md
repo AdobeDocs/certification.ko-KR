@@ -1,6 +1,6 @@
 ---
 title: Developer Professional 인증
-description: 에서 인증된 Adobe Developer Professional이 되는 방법에 대해 알아봅니다. [!DNL Campaign Classic].
+description: ' [!DNL Campaign Classic]에서 인증된 Adobe Developer Professional이 되는 방법에 대해 알아봅니다.'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Campaign Classic] Developer Professional
+# Adobe [!DNL Campaign Classic] Developer Professional의 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->**사용 가능한 새로운 연구 자료:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/250) 에서는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/250)는 이 인증을 성공적으로 취득하기 위해 필요한 심층적인 학습 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 다음을 수행해야 합니다.
 
-* 최소 1년 Adobe [!DNL Campaign Classic] 소프트웨어 경험
-* JavaScript 프로그래밍, ETL을 포함한 SQL 개발 및 웹 기술(XML, HTML 및 웹 서비스)에 1년 이상 통합된 경험
+* Adobe [!DNL Campaign Classic] 소프트웨어 경험 1년 이상
+* JavaScript 프로그래밍, ETL을 포함한 SQL 개발 및 웹 기술(XML, HTML 및 웹 서비스)에 대한 통합 경험이 1년 이상 축적된 경험
 * 마케팅 자동화에 대한 기본 이해
 * 관계형 데이터베이스 개념에 대한 이해
 
@@ -75,12 +75,12 @@ ht-degree: 0%
 * 열기 및 닫힘 열거형에 대한 구성 설정 식별
 * 유형화 규칙 유형 차별화
 * 사용자 지정 Target 맵을 활용하기 위한 요구 사항과 OOTB 기능에 대한 영향을 식별합니다
-* Adobe에서 다른 Adobe Experience Cloud 솔루션의 외부에서 생성된 대상자에 액세스하는 방법을 설명합니다 [!DNL Campaign Classic]
+* [!DNL Campaign Classic] Adobe에서 다른 Adobe Experience Cloud 솔루션의 외부에서 생성된 대상자에 액세스하는 방법을 설명합니다.
 * 상호 작용 및 오퍼에 대한 비즈니스 사용 사례 설명
 * 메시지 센터의 비즈니스 사용 사례 설명
 * V8 API 데이터 가져오기 기능 식별
 
-**섹션 2: 사용자 정의(16%)**
+**섹션 2: 사용자 지정(16%)**
 
 * Campaign 스키마를 편집하려면 프로세스 적용
 * 설정을 식별하여 스키마 확장이 올바른지 확인하거나 사용자 지정 스키마를 구성하십시오
@@ -156,15 +156,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/250)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/250)
 
 +++
 
@@ -219,6 +219,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: 전문 자격증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Experience Manager] 프로페셔널
+description: 인증된 Adobe이 되는 방법 [!DNL Experience Manager] Professional에 대해 알아보세요.
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Experience Manager] Assets Developer Professional
+# Adobe [!DNL Experience Manager] Assets Developer Professional에 대한 인증 여정
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의:** 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager 파운데이션 과정](https://app.rockinfo.com/courses/240) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
+>* **과정:** 처음 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Manager Foundations 과정](https://app.rockinfo.com/courses/240)을 통해 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스하십시오. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/120) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** [시험 준비 안내서](https://app.rockinfo.com/courses/120)는 이 자격증 취득에 필요한 자료를 포함하여 자격증 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
->_Exam Prep Guide에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>_시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 최소 경험 {#minimum-experience}
 
-Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. [!DNL Experience Manager as a Cloud Service]및 을 설정하고 Adobe을 설정할 수 있습니다 [!DNL Experience Manager] 환경 및 인프라.
+Managed Services Adobe 및 [!DNL Experience Manager as a Cloud Service] AdobeAdobe 에서 편안하게 작업하고 [!DNL Experience Manager] 환경 및 인프라를 설정할 수 있어야 합니다.
 
 다음을 수행해야 합니다.
 
@@ -96,15 +96,15 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. 
 * 클라우드 및 온프레미스 워크플로 구분
 * 워크플로우 콘솔을 사용하여 상태 및 진행 상황을 모니터링하는 방법 설명
 
-**섹션 2: 자산 구성 및 자산 콘솔 (22%)**
+**섹션 2: 자산 조직 및 자산 콘솔(22%)**
 
-* 컬렉션에서 에셋을 만들고 구성하는 방법 시연
-* 태그를 사용하여 에셋을 구성하는 방법 시연
+* 컬렉션에서 Assets을 만들고 구성하는 방법 시연
+* 태그를 사용하여 Assets을 구성하는 방법 시연
 * OOTB 검색 필터 및 패싯을 활용하는 방법 식별
 * AEM Asset Reports 구성 및 생성 방법 설명
 * 자산 폴더에 대한 사용자 권한을 관리하는 방법 설명
 
-**섹션 3: 에셋 메타데이터(24%)**
+**섹션 3: 자산 메타데이터(24%)**
 
 * 메타데이터 스키마 정의
 * 시나리오가 주어지면 적절한 메타데이터 스키마를 조정하는 방법을 결정합니다
@@ -117,7 +117,7 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. 
 * 콘텐츠 조각 및 콘텐츠 조각 모델 설명
 * 콘텐츠 조각 변형을 사용하는 방법과 시기를 보여 줍니다.
 
-**섹션 5: 자산 기능 세트 및 기능(12%)**
+**섹션 5: 자산 기능 집합 및 기능(12%)**
 
 * Brand Portal 사용의 일반적인 사용 사례 및 이점 설명
 * Dynamic Media 사용의 일반적인 사용 사례 및 이점 설명
@@ -153,15 +153,15 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. 
 
 [Adobe Experience Manager Foundations 교육 과정 수강](https://app.rockinfo.com/courses/240)
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/120)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/120)
 
 
 +++
@@ -217,6 +217,6 @@ Managed Services 및 Adobe Adobe에서 편안하게 작업할 수 있습니다. 
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

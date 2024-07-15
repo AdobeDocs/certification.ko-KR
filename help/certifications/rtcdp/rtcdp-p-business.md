@@ -1,6 +1,6 @@
 ---
 title: 전문 자격증
-description: 자격증을 취득하는 방법 알아보기 [!DNL Experience Platform] 의 전문가 [!DNL Real-Time Customer Data Platform]
+description: ' [!DNL Real-Time Customer Data Platform]에서 자격 증명 [!DNL Experience Platform] Professional이 되는 방법 알아보기'
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Real-Time CDP] 비즈니스 전문가
+# Adobe [!DNL Real-Time CDP] 비즈니스 전문가를 위한 인증 여정
 
 {{intro}}
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의:** 지금 막 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Platform 파운데이션 과정](https://app.rockinfo.com/courses/216) 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스합니다. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
+>* **과정:** 처음 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Platform 기초 과정](https://app.rockinfo.com/courses/216)을 통해 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스하십시오. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/133) 은 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다.
+>* **시험 준비 안내서:** [시험 준비 안내서](https://app.rockinfo.com/courses/133)는 이 자격증 취득에 필요한 자료를 포함하여 자격증 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
->_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
+>_로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 * 대상의 타겟 ID에 필요한 개념 적용
 * 속성 매핑 및 대상에 대한 세그먼트 일정 확인
 
-**섹션 2: 개인 정보 보호 및 데이터 거버넌스 (20%)**
+**섹션 2: 개인 정보 보호 및 데이터 거버넌스(20%)**
 
 * DULE 정책 및 대상 데이터 가용성에 미치는 영향에 대한 이해
 * 개인 정보 및 데이터 규정 준수 조치 준수 보장
@@ -105,9 +105,9 @@ ht-degree: 0%
 * 플랫폼의 고객 세그먼트에 대한 데이터 분석 수행
 * 데이터 흐름 개념에 대한 이해 실증
 
-**섹션 4: 스키마 및 프로필 (18%)**
+**섹션 4: 스키마 및 프로필(18%)**
 
-* Adobe에 대한 이해 실증 [!DNL Experience Platform] 개념
+* Adobe [!DNL Experience Platform] 개념을 이해했음을 보여 줍니다.
 * 프로필 기능 사용
 
 <br>
@@ -141,15 +141,15 @@ ht-degree: 0%
 </span>
 </a>
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/133)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/133)
 
 
 +++
@@ -205,6 +205,6 @@ ht-degree: 0%
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: 전문가 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Journey Optimizer] 개발자 전문가.
+description: 인증된 Adobe [!DNL Journey Optimizer] 개발자 전문가가 되는 방법에 대해 알아봅니다.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe을 위한 인증 여정 [!DNL Journey Optimizer] 개발자 전문가
+# Adobe [!DNL Journey Optimizer] 개발자 전문가에 대한 인증 여정
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
 >
->* **강의:** 무료, 온디맨드 [Adobe Journey Optimizer 개발자 전문가 과정](https://app.rockinfo.com/courses/147) 주요 개념에 대한 설명, 실습 시연, 지식 점검 등이 수록되어 있다.
+>* **과정:** 무료 온디맨드 [Adobe Journey Optimizer 개발자 전문가 과정](https://app.rockinfo.com/courses/147)에는 주요 개념 설명, 실습 데모 및 지식 확인이 포함되어 있습니다.
 >
->* **시험 준비 안내서:** 다음 [시험 준비 안내서](https://app.rockinfo.com/courses/143) 에서는 시험에 성공하기 위해 필요한 심화 학습 자료를 비롯하여 시험 준비 과정을 거치며 맞춤 경로를 제공합니다.
+>* **시험 준비 가이드:** [시험 준비 가이드](https://app.rockinfo.com/courses/143)는 시험에 성공하기 위해 필요한 심화 학습 자료를 포함하여 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
 >
->_로그인하라는 메시지가 표시되면 Adobe ID을 사용합니다._
+>_로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -82,7 +82,7 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 * 샌드박스의 개념과 비즈니스 단위 간에 데이터를 사용하는 방법을 설명합니다.
 * 채널 관리에 대한 이해 설명
 * 이벤트/작업/데이터 소스의 적절한 적용 결정
-* 조절, 제한, 억제, 개체 복사, 대화형 메시지 실행 등 AJO별 API를 사용해야 하는 시점을 식별합니다
+* 조절, 제한, 억제, 개체 복사, 대화형 메시지 실행 등 AJO 특정 API를 사용해야 하는 시점을 식별합니다
 
 **섹션 2: Journey Orchestration(22%)**
 
@@ -139,15 +139,15 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 [Adobe Journey Optimizer 개발자 전문가 과정 수강](https://app.rockinfo.com/courses/147)
 
-**연습 테스트 수행**
+**연습 테스트 실시**
 
 {{practice-test}}
 
-**시험 준비 안내서**
+**시험 준비 가이드**
 
 {{exam-prep-guide}}
 
-[시험 준비 안내서 보기](https://app.rockinfo.com/courses/143)
+[시험 준비 가이드 보기](https://app.rockinfo.com/courses/143)
 
 +++
 
@@ -202,6 +202,6 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.

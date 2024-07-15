@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Adobe 인증을 유지하려면 2년마다 갱신해야 합니다. 인증서가 만료되기 전에 인증서를 갱신하지 않으면 전체 인증 시험에 다시 응시해야 다시 인증을 받을 수 있습니다.
 
-현재 인증 및 만료된 인증 조회 **인증** 탭, [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+[Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}의 **인증** 탭에서 현재 및 만료된 인증을 봅니다.
 
 ## 인증을 어떻게 갱신합니까?
 
@@ -34,7 +34,7 @@ Adobe은 다음과 같은 다양한 리소스 및 도구를 제공하여 인증�
 
 ## 비용이 얼마나 들죠?
 
-대부분의 인증 갱신 가능 **무료**. 일부 인증서는 아직 무료 갱신 옵션이 없다. 이러한 인증을 갱신하려면 전체 인증 시험에 다시 응시해야 합니다.
+대부분의 인증은 **무료로**&#x200B;갱신할 수 있습니다. 일부 인증서는 아직 무료 갱신 옵션이 없다. 이러한 인증을 갱신하려면 전체 인증 시험에 다시 응시해야 합니다.
 
 ## 무료 갱신 옵션
 
@@ -57,6 +57,6 @@ Adobe은 다음과 같은 다양한 리소스 및 도구를 제공하여 인증�
 
 ## 질문
 
-인증 보기 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [연락처](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
