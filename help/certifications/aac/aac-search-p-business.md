@@ -8,7 +8,7 @@ role: User
 badge: label="시험 AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b553b0d2e70535480d1c0826b6f24a0925830dc3
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -227,6 +227,4 @@ ht-degree: 0%
 인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
 추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
-
-
 
