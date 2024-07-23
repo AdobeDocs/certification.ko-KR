@@ -1,7 +1,7 @@
 ---
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1842'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 <!--divider-->
 
 ## 소개 {#intro}
+
+>[!WARNING]
+>
+>일부 사용자가 Adobe 자격 증명 관리 시스템에 로그인하려고 할 때 오류가 발생하여 시험을 볼 수 없다고 보고했습니다. 이 문제를 해결하기 위해 노력하고 있습니다. 영향을 받는 사용자에게 추가 정보를 문의합니다.
 
 이 페이지에서는 이 인증을 획득하는 방법에 대해 설명합니다. 시험에 대한 설명, 학습자료, 자격증 과정에 대한 단계별 지침, 자격증 갱신 방법 등이 포함된다.
 

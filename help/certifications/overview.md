@@ -4,10 +4,10 @@ description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 6%
+source-wordcount: '477'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,11 @@ ht-degree: 6%
 Adobe에서 Experience Cloud 인증에 대해 알아보고 인증을 받는 것이 어떤 도움이 되는지 알아보십시오.
 
 ![배너](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!WARNING]
+>
+>일부 사용자가 Adobe 자격 증명 관리 시스템에 로그인하려고 할 때 오류가 발생하여 시험을 볼 수 없다고 보고했습니다. 이 문제를 해결하기 위해 노력하고 있습니다. 영향을 받는 사용자에게 추가 정보를 문의합니다.
+
 
 Adobe 디지털 경험 인증 프로그램은 Adobe [!DNL Experience Cloud] 제품에서 실력을 입증하는 데 도움이 되도록 만들어졌습니다. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
 
