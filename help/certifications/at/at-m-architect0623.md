@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="시험 AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -125,7 +125,7 @@ ht-degree: 0%
 **섹션 6: [!DNL Adobe Target] 설계, 디자인 및 구현(18%)**
 
 * 올바른 Target 요청 구현(전역, 주문 확인, 하이브리드)을 선택합니다.
-[!DNL Adobe Target] 구현 평가 및 디자인
+* [!DNL Adobe Target] 구현 평가 및 디자인
 * 기본 모바일 앱에서의 [!DNL Adobe Target] 구현 설명
 
 **섹션 7: 문제 해결(28%)**
