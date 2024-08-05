@@ -8,9 +8,9 @@ role: User
 badge: label="시험 AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: b553b0d2e70535480d1c0826b6f24a0925830dc3
+source-git-commit: 5673c232251041578d0fbcdd87e5e5a1cbcafd1f
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 0%
 * 최적화할 데이터가 충분하도록 포트폴리오 준비
 * 보고서 만들기/가져오기
 * ROAS 입찰 전략
+* 하이브리드 입찰 및 최적화 전술
 * 전환 추적 설정
 * 목표 설정
 * 대상에 맞게 포트폴리오 관리
@@ -226,5 +227,5 @@ ht-degree: 0%
 
 인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com).
 
