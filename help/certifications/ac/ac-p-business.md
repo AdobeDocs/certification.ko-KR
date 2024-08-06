@@ -7,7 +7,7 @@ role: User
 badge: label="시험 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -66,7 +66,7 @@ LUMA 또는 BLANK 테마를 사용하고 Adobe [!DNL Commerce] 버전 2.4.3에 �
 
 또한 eCommerce 경험에 대한 기본적인 이해를 하고 다음 개념에 익숙해야 합니다.
 
-* 디지털 마케팅(SEO, CMS, 이메일 마케팅, 영업 기법 [교차 판매, 상향 판매], 분석, 보고 및 모니터링)
+* 디지털 마케팅(SEO, CMS, 이메일 마케팅, 영업 기법 [크로스셀, 업셀], 분석, 보고 및 모니터링)
 * 전자 상거래 용어(옴니채널 및 멀티채널 등 판매/마케팅 전략)
 * 가격 책정 및 프로모션
 * 고객 구매 여정
@@ -213,4 +213,4 @@ LUMA 또는 BLANK 테마를 사용하고 Adobe [!DNL Commerce] 버전 2.4.3에 �
 
 인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com).

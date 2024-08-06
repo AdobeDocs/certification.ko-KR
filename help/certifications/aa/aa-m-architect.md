@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="시험 AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -87,7 +87,7 @@ ht-degree: 0%
 * 사이트 개발자를 위한 기술 사양 작성
 * Experience Cloud 사용자/그룹 만들기
 
-**섹션 3: Post 구현(28%)**
+**섹션 3: 구현 후(28%)**
 
 * 요구 사항 세트가 주어지면 브라우저 개발자 도구 및 Adobe 보고서를 통해 추적의 유효성을 확인합니다
 * 절차 개념을 적용하여 데이터 추출 및 관계 관리
@@ -180,5 +180,5 @@ ht-degree: 0%
 
 인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com).
 

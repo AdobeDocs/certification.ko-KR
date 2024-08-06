@@ -7,7 +7,7 @@ role: Developer
 badge: label="시험 AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: d0bf65a667035e122f9731c23d207dd35e68487f
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -218,4 +218,4 @@ Adobe Commerce 프론트엔드 개발을 1~3년 이상 직접 경험해야 합�
 
 인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com).

@@ -7,7 +7,7 @@ recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 hidefromtoc: true
-source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '4542'
 ht-degree: 1%
@@ -492,7 +492,7 @@ Adobe Audience Manager Architect 기본 Restart exam ADS-E825는 무료이며, �
 * [사용자 지정 리소스 내보내기/가져오기](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html)
 * [외부 계정](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html)
 * [실행 옵션 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=ko)
-* [워크플로우 실행 모니터링](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html)
+* [워크플로 실행 모니터링](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html)
 * [새 브랜드 만들기](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html)
 * [채널 구성 기본 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html)
 * [소통 채널 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html)
@@ -828,4 +828,4 @@ Adobe Marketo Engage 비즈니스 실무자 전문가 재시작 시험 ADS-E824�
 
 인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com).

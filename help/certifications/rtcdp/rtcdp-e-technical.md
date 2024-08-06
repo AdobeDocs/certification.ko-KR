@@ -9,7 +9,7 @@ badge: label="시험 AD0-E600 및 AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 0%
@@ -74,7 +74,7 @@ ht-degree: 0%
 >
 ><br>
 >
->**이미 시험 AD0-E600**&#x200B;을 예약한 경우, Examity Portal에서 약속을 취소하고(아래 3단계 참조) 새 시험이 출시될 때 다시 예약하는 것이 좋습니다. 질문이 있는 경우 [인증 지원](mailto:certif@adobe.com){target="_blank"}에 문의하십시오.
+>**이미 시험 AD0-E600**&#x200B;을 예약한 경우, Examity Portal에서 약속을 취소하고(아래 3단계 참조) 새 시험이 출시될 때 다시 예약하는 것이 좋습니다. 질문이 있는 경우 [인증 지원](mailto:certif@adobe.com)에 문의하십시오.
 
 AD0-E600 시험은 전문가 수준에서 [!DNL Experience Platform] Adobe의 기본 기능과 자주 수행하는 작업을 다루는 기술과 지식을 검증합니다.
 
@@ -183,7 +183,7 @@ AD0-E600 시험은 전문가 수준에서 [!DNL Experience Platform] Adobe의 �
 >
 ><br>
 >
->**이미 AD0-E600** 시험을 예약한 경우, Examity 포털에서 약속을 취소하고 새 시험이 출시될 때 다시 예약하는 것이 좋습니다. 질문이 있는 경우 [인증 지원](mailto:certif@adobe.com){target="_blank"}에 문의하십시오.
+>**이미 AD0-E600** 시험을 예약한 경우, Examity 포털에서 약속을 취소하고 새 시험이 출시될 때 다시 예약하는 것이 좋습니다. 질문이 있는 경우 [인증 지원](mailto:certif@adobe.com)에 문의하십시오.
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ AD0-E600 시험은 전문가 수준에서 [!DNL Experience Platform] Adobe의 �
 >
 ><br>
 >
->**이미 AD0-E600** 시험을 예약한 경우, Examity 포털에서 약속을 취소하고 새 시험이 출시될 때 다시 예약하는 것이 좋습니다. 질문이 있는 경우 [인증 지원](mailto:certif@adobe.com){target="_blank"}에 문의하십시오.
+>**이미 AD0-E600** 시험을 예약한 경우, Examity 포털에서 약속을 취소하고 새 시험이 출시될 때 다시 예약하는 것이 좋습니다. 질문이 있는 경우 [인증 지원](mailto:certif@adobe.com)에 문의하십시오.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ AD0-E600 시험은 전문가 수준에서 [!DNL Experience Platform] Adobe의 �
 >
 ><br>
 >
->**이미 AD0-E600 Adobe [!DNL Experience Platform] 기술 기초 시험에 합격하고 AD7-E601 시험을 준비하고 있는 경우**, AD7-E601 시험에 합격하면 Adobe [!DNL Real-Time Customer Data Platform] 전문가 자격증이 부여되므로 약속을 유지하는 것이 좋습니다. 질문이 있는 경우 [인증 지원](mailto:certif@adobe.com){target="_blank"}에 문의하십시오.
+>**이미 AD0-E600 Adobe [!DNL Experience Platform] 기술 기초 시험에 합격하고 AD7-E601 시험을 준비하고 있는 경우**, AD7-E601 시험에 합격하면 Adobe [!DNL Real-Time Customer Data Platform] 전문가 자격증이 부여되므로 약속을 유지하는 것이 좋습니다. 질문이 있는 경우 [인증 지원](mailto:certif@adobe.com)에 문의하십시오.
 
 AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항목의 생성, 관리 및 이해를 다룹니다. 이 시험은 데이터 및 개인 정보 보호 규정을 준수하는 통합 프로필에 대한 대상 세분화, 대상 내보내기 및 활성화를 위해 실시간 CDP를 사용하는 데 필요한 기본 기술과 지식을 확인합니다. 지원자는 CDP(고객 데이터 플랫폼)에 대한 경험과 [!DNL Experience Platform] Adobe에 대한 지식이 있어야 합니다.
 
@@ -431,4 +431,4 @@ AD7-E601 시험은 고객 프로필, 세분화, 소스 간 대상 및 기타 항
 
 인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com).

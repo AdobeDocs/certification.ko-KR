@@ -8,7 +8,7 @@ level: Experienced
 badge: label="시험 AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 다음에 대한 경험이 있어야 합니다.
 
-* 디지털 마케팅: SEO, CMS, 교차 판매 및 상향 판매와 같은 영업 기법, Google Analytics 이해, 이메일 템플릿
+* 디지털 마케팅: SEO, CMS, 크로스셀링 및 업셀링과 같은 영업 기법, Google Analytics 이해, 이메일 템플릿
 * PCI, GDPR, ADA, CAN-SPAM, PSD2 등 보안, 규정 준수 및 개인정보 보호법
 * 옴니채널 및 멀티채널 등 영업/마케팅 전략
 * 프로젝트 관리, 요구 사항 수집, 통합 흐름, 일반 전자 상거래 법률, 소프트웨어 개발 방법론 및 모니터링 관련 경험
@@ -90,7 +90,7 @@ ht-degree: 0%
 * Adobe [!DNL Commerce] 엔터티를 가져오거나 내보내는 기능을 보여 줍니다.
 * 장바구니 및 체크아웃을 기본적으로 구성하는 방법 이해
 * [!DNL Commerce] Adobe에서 사용 가능한 기본 배송 방법과 일반적인 사용 사례에 적용되는 방법을 평가합니다.
-* 페이지 빌더를 포함한 Adobe [!DNL Commerce] CMS 기능을 사용하여 양식화된 콘텐츠를 만들고 게시하는 방법 이해
+* Page Builder를 비롯한 Adobe [!DNL Commerce] CMS 기능을 사용하여 양식화된 콘텐츠를 만들고 게시하는 방법 이해
 * 기본 도구를 사용하여 주문 수명 주기 관리
 * 다양한 선물 옵션(기프트 카드, 선물 포장, 메시지 제공)을 구성하는 기능을 보여 줍니다.
 * 트랜잭션 이메일 구성 및 수정
@@ -224,4 +224,4 @@ ht-degree: 0%
 
 인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
-추가 질문? [문의하기](mailto:certif@adobe.com){target="_blank"}.
+추가 질문? [문의하기](mailto:certif@adobe.com).
