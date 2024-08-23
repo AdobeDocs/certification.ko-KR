@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 >[!NOTE]
 >
 >아래의 예제 단추를 클릭하기 전에 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인해야 합니다.
+
+>[!WARNING]
+>
+>Adobe 디지털 경험 인증 프로그램은 업그레이드를 준비하고 있습니다. 이 때문에 응시자는 현재 2024년 9월 26일 이후에 실시되는 시험 예약을 예약할 수 없습니다. 업그레이드가 완료되면 일정이 정상으로 돌아갑니다.
 
 <!--divider-->
 
