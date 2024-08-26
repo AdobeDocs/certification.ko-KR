@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="시험 AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: ef8afa56b9e78e616f7949f302526e258721518b
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 ### 시험 세부 정보 {#exam-details}
 
 * 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 28/50
+* 합격 점수: 33/50
 * 시간: 100분
 * 게재: 온라인 처리됨(카메라 액세스 필요)
 * 사용 가능한 언어: 영어
