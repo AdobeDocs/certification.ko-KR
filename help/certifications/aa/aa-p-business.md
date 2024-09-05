@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**새로운 학습 리소스 사용 가능:** [시험 준비 가이드](https://app.rockinfo.com/courses/145)는 이 인증을 성공적으로 취득하기 위해 필요한 자료를 포함하여 인증 시험 준비 프로세스를 통해 맞춤 경로를 제공합니다. _시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
+>이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
+>
+>* **과정:** 처음 시작했거나 새로 고침이 필요한 경우 [Adobe Analytics Foundations 과정](https://app.rockinfo.com/courses/263)을 통해 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스하십시오. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
+>
+>* **시험 준비 가이드:** [시험 준비 가이드](https://app.rockinfo.com/courses/145)는 시험에 성공하기 위해 필요한 심화 학습 자료를 포함하여 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
+>
+>_시험 준비 가이드에 로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
 
 ## 시험 설명 {#exam-description}
 
@@ -128,6 +134,12 @@ ht-degree: 0%
 **학습 자료**
 
 {{study-materials-intro}}
+
+**강의 수강**
+
+{{take-course}}
+
+[Adobe Analytics 기초 과정](https://app.rockinfo.com/courses/263)
 
 **시험 준비 가이드**
 
