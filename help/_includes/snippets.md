@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 
 **바우처 구매**
 
-시험 비용은 바우처로 지불하시면 됩니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}로 이동하세요.
+시험 비용은 바우처로 지불하시면 됩니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://certification.adobe.com/certifications/vouchers){target="_blank"}로 이동하세요.
 
 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 바우처 할인 정보는 아래를 참조하십시오.
 
 모든 지원자는 Adobe 인증 바우처 센터를 통해 구매 시 10회 이상 대량 구매 시 할인 혜택을 받을 수 있다.
 
-바우처에 대한 자세한 내용은 [FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}를 참조하세요.
+바우처에 대한 자세한 내용은 [FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}를 참조하세요.
 
 **할인**
 
@@ -143,7 +143,7 @@ Adobe은 Examity라는 공급업체를 사용하여 예정된, 감독된 시험�
 
 파트너 할인: 브론즈 레벨 이상의 파트너는 모든 Adobe 인증 시험 및 클래스에 대해 할인을 받을 수 있습니다. 이러한 할인 및 파트너 혜택에 액세스하는 방법에 대한 자세한 내용은 솔루션 파트너 포털에서 확인할 수 있습니다.
 
-바우처 할인: 모든 응시자는 Adobe 인증 바우처 센터를 통해 구매 시 10회 이상 대량 구매 시 할인 혜택을 받을 수 있습니다.
+바우처 할인: 모든 응시자는 [Adobe 인증 바우처 센터](https://certification.adobe.com/certifications/vouchers){target="_blank"}를 통해 구매할 경우 10회 이상의 시험 대량 구매 시 할인을 받을 수 있습니다.
 
 참고: 일괄 할인은 다른 오퍼 또는 할인과 결합할 수 없습니다.
 
@@ -183,7 +183,7 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 * **시험을 예약하거나 다시 예약하거나 취소합니다.** 취소 및 일정 조정은 예정된 시험 약속 48시간 전에 시작해야 합니다. 후보자는 스스로 이 약속을 수정해야 합니다.
 
-* **시험 비용을 지불하세요.** Examity 포털에서 바우처나 신용 카드로 인증 시험에 대한 비용을 지불합니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 시스템](https://market.xvoucher.com/adobe/global){target="_blank"}(으)로 이동하십시오. 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
+* **시험 비용을 지불하세요.** Examity 포털에서 바우처나 신용 카드로 인증 시험에 대한 비용을 지불합니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://certification.adobe.com/certifications/vouchers){target="_blank"}(으)로 이동하세요. 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인이 되면 체크아웃 시 적용됩니다.
 
 * **시험을 보세요.**
 
