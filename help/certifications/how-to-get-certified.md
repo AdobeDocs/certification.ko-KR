@@ -4,9 +4,9 @@ description: Adobe에서 인증을 받는 방법을 알아봅니다. 인증을 �
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수
 
 **시험 비용 지불**
 
-자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}(으)로 이동하세요.
+자격증 시험 비용은 바우처나 신용카드로 결제하실 수 있습니다. 시험 바우처를 구매하려면 [Adobe 인증 바우처 센터](https://certification.adobe.com/certifications/vouchers){target="_blank"}(으)로 이동하세요.
 
 시험 일정을 잡을 때 바우처 코드를 적용할 수 있습니다. 할인 혜택이 있으면 체크아웃 시 적용됩니다.
 
@@ -82,7 +82,7 @@ Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수
 
 **기타 할인**
 
-또한 모든 응시자는 [Adobe 인증 바우처 센터](https://market.xvoucher.com/adobe/global){target="_blank"}를 통해 구입하는 경우 10회 이상의 대량 구매 시험을 할인받을 수 있습니다.
+또한 모든 응시자는 [Adobe 인증 바우처 센터](https://certification.adobe.com/certifications/vouchers)를 통해 구입하는 경우 10회 이상의 시험 대량 구매 시 할인 혜택을 받을 수 있습니다.
 
 **대량 할인 수준**
 
@@ -94,6 +94,68 @@ Adobe 지원이나 예제는 스케줄 조정 및 취소 요청을 처리할 수
 | 25-49 | 25% |
 | 50+ | 33% |
 
+>[!TAB 바우처]
+
+Adobe 디지털 경험 인증 프로그램 이 올 가을 새로운 플랫폼으로 이전할 예정입니다. 새로운 Adobe 인증 포털에서는 인증 후보자를 위한 향상된 사용자 경험은 물론 기술 교육을 제공할 예정입니다.
+
+포털의 일부로 2024년 9월 23일에 시작되는 새 [Adobe 바우처 센터](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}를 디자인했습니다. 바우처 구매 및 관리를 위한 이 새로운 시스템은 보다 강력하고 쉽게 탐색할 수 있으며 관리자에게 향상된 보고 옵션을 제공합니다.
+
+Xvoucher를 통해 이미 구입한 모든 바우처는 이 전환 후 72시간 이내에 Adobe 인증 포털에서 사용할 수 있습니다. 로그인한 후 [Adobe 바우처 센터](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}로 이동하여 활성 바우처 및 바우처 기록을 보고 새 바우처를 구입하십시오.
+
+**중요 날짜 기억:**
+
+**2024년 9월 23일, 오전 12:01 ET**
+* 바우처는 Xvoucher에서 더 이상 구입할 수 없습니다.
+* 바우처를 구매하는 방법은 [Adobe 바우처 센터](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}에서 사용할 수 있습니다.
+* [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe/){target="_blank"}에서 시험을 예약할 수 있습니다.
+
+**2024년 9월 25일 오전 8시(ET)**
+* Xvoucher 계정의 바우처가 [Adobe 바우처 센터](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}에 표시됩니다.
+
+**개요 FAQ**
+
++++기존 바우처는 어떻게 됩니까?
+
+Xvoucher를 통해 이미 구입한 모든 바우처는 2024년 9월 25일 오전 8시(ET 기준) Adobe 인증 포털에서 사용할 수 있습니다. 이 바우처는 시험 일정 잡기에 계속 사용할 수 있습니다. Xvoucher에서 전환한 후에도 숫자는 변경되지 않습니다.
+
++++
+
++++Adobe 인증 포털에서 바우처를 구매하려면 어떻게 해야 합니까?
+
+[Adobe 바우처 센터](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}(으)로 이동하여 원하는 수의 바우처를 장바구니에 추가하십시오. 파트너 이메일로 로그인하는 한 파트너 할인이 적용됩니다.
+
+바우처 구매에 대한 데모 버전을 보려면 이 [비디오](https://video.tv.adobe.com/v/3434122){target="_blank"}를 보세요.
+
++++
+
++++내 팀에 대한 바우처를 할당하고 관리하려면 어떻게 해야 합니까?
+
+이 [비디오](https://video.tv.adobe.com/v/3434581){target="_blank"}에서는 Adobe 바우처 센터의 관리 기능에 대한 자세한 개요를 제공합니다.
+
++++
+
++++팀 바우처는 어디에서 볼 수 있습니까?
+
+팀의 바우처는 [Adobe 바우처 센터](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}에 표시됩니다.
+
++++
+
++++내 팀원은 할당된 바우처를 어디에서 볼 수 있습니까?
+
+개인 사용자는 Adobe 인증 포털의 [계정](https://certification.adobe.com/user/purchases){target="_blank"}에서 할당된 바우처를 볼 수 있습니다.
+
++++
+
++++새 시스템에서 구매 주문 온보딩을 시작하려면 어떻게 해야 합니까?
+
+[바우처 FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}의 마지막 질문을 참조하십시오. &quot;구매 주문으로 결제하는 프로세스는 무엇입니까?&quot;
+
++++
+
+**질문?**
+
+웹 사이트에서 자세한 [바우처 FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}를 참조하세요.
+
 >[!TAB 인증 공급업체]
 
 Adobe Digital Experience Certification Program은 공급업체와 협력하여 프로그램의 이니셔티브와 목표를 지원합니다. 다음은 공급업체와 해당 연락처 정보입니다.
@@ -102,7 +164,6 @@ Adobe Digital Experience Certification Program은 공급업체와 협력하여 �
 | ------- | ------- | ------- |
 | 신빙성 있게 | 배지 관리 시스템 | [지원](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | 예 | 납품 공급자 테스트(온라인 Proctoring만 해당) | [전자 메일](mailto:support@examity.com){target="_blank"} 또는 855-예제(855-392-6489) |
-| Xvoucher - Adobe 인증 바우처 센터 | 개별 또는 일괄 바우처를 구매하는 바우처 센터 | [전자 메일](mailto:support@xvoucher.com){target="_blank"} 또는 [온라인 도움말](https://help.xvoucher.com/hc/en-us) |
 
 기타 공급업체 리소스:
 
@@ -123,69 +184,6 @@ Adobe Digital Experience Certification Program은 공급업체와 협력하여 �
 * [테스트 약속을 다시 예약하는 방법](https://vimeo.com/394507149){target="_blank"}
 * [테스트 약속을 취소하는 방법](https://vimeo.com/394507135){target="_blank"}
 * [온라인 테스트를 받는 방법](https://vimeo.com/394506686){target="_blank"}
-
-Adobe 인증 바우처 센터(Xvoucher) FAQ
-
-+++시험 바우처는 언제 만료됩니까? 얼마 동안 쓸 수 있나요?
-
-Adobe 시험 바우처는 구매 후 12개월이 지나면 만료됩니다. 바우처는 만료 날짜가 지나면 연장할 수 없습니다. 시험 등록은 시험 바우처 만료일 이전에 예약, 지불 및 수강해야 합니다.
-
-+++
-
-+++바우처는 크레딧이나 환불을 위해 반환될 수 있습니까?
-
-_모든 판매가 최종적입니다._ 반환 및 환불은 허용되지 않습니다. Adobe 시험 바우처는 특정 시험이 아닌 시험 수준에서 구매되며, 이는 유연성을 제공합니다.
-
-* 예: Adobe Certified Expert 수준 시험 바우처 10개를 구입하여 배포할 때, 누가 어떤 전문가 시험에 응시할지 미리 알고 계획할 필요가 없습니다.
-* 관리자는 사용자에게 바우처를 할당하고 바우처가 열람되었는지, 상환되었는지 또는 테스트가 예약되었거나 진행되었는지 확인할 수 있습니다.
-
-+++
-
-+++어떤 종류의 지불이 허용됩니까?
-
-결제는 (모든 주요) 신용 카드로 이루어질 수 있습니다. 신용 카드를 통한 지불은 온라인 클릭랩 계약에 동의해야 합니다. 다양한 결제 옵션은 다음과 같습니다.
-
-* 유선, 구매 발주 또는 ACH: 인쇄하여 AP 부서로 보낼 수 있는 Xvoucher 시스템에서 구매 발주를 생성합니다. 그 주문은 송금 또는 수표를 받는 즉시 승인될 것이다.
-* 신용 카드: 모든 주요 신용 카드가 허용됩니다.
-* Xwallet: Xwallet 풀에서 주문 금액을 뺍니다.
-
-+++
-
-+++구매할 수 있는 바우처의 최소 또는 최대 수가 있습니까?
-
-아니요, 최소값 또는 최대값은 없습니다. 고객 구매는 신용 카드 한도 또는 송금 시 은행 계좌 잔고와 같은 가용 자금을 기준으로만 제한됩니다.
-
-+++
-
-+++주문 후 바우처를 이용하려면 얼마나 걸리나요?
-
-바우처는 구매 후 신용카드나 Xwallet으로 결제할 경우 즉시 사용이 가능하다.
-
-* 직접 구매하는 경우, 바우처 코드가 화면과 이메일에 제공됩니다.
-* 다른 사용자를 위해 구매하는 경우 Xvoucher 계정에 로그인한 다음 해당 위치에서 최종 사용자에게 바우처를 배포합니다.
-* 유선으로 결제하거나 주문서 등을 통해 결제하면 Xvoucher가 자금을 수령한 시점에 바우처 주문이 나온다.
-
-[온라인 도움말](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++Xvoucher 계정에 액세스하려면 어떻게 해야 합니까?
-
-[여기](https://www.xvoucher.com/Login.aspx){target="_blank"} 계정에 로그인하기만 하면 됩니다.
-
-+++
-
-+++내 Adobe 바우처에 액세스하려면 어떻게 합니까?
-
-바우처가 할당되면 support@xvoucher.com에서 바우처 코드와 바우처 상환 방법이 포함된 이메일을 받게 됩니다. 이메일을 받지 못한 경우 스팸 폴더를 확인하십시오. 이메일을 여전히 찾을 수 없는 경우 Xvoucher 계정에 로그인할 수 있습니다.
-
-+++
-
-+++바우처는 크레딧이나 환불을 위해 반환될 수 있습니까?
-
-모든 판매는 최종 판매입니다. 반품과 환불은 안됩니다 Adobe 시험 바우처는 특정 시험이 아닌 시험 수준에서 구매하므로 높은 유연성을 제공합니다.
-
-+++
 
 >[!TAB 인증 프로필 관리]
 
