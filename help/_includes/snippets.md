@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 * **시험을 보세요.**
 
->[!NOTE]
->
->아래의 예제 단추를 클릭하기 전에 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인해야 합니다.
+**참고:** 아래의 예제 단추를 클릭하기 전에 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인해야 합니다.
 
 >[!WARNING]
 >
