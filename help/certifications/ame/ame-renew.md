@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '2421'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # Adobe [!DNL Marketo Engage] 인증 갱신
+
+{{renewals-hold}}
 
 Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
 
@@ -271,7 +273,7 @@ Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다�
 **섹션 1: 관리 및 유지 관리**
 
 * [Experience League - [!DNL Marketo Engage] 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko-KR){target="_blank"}(필드 관리, CRM 동기화, 감사 추적, 사용자 관리, 작업 공간 및 파티션, 스마트 목록, 사용자 지정 필드)
-* [Marketo 국가 Adobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"}(Salesforce, CRM 통합과 동기화)
+* [Marketo 국가 Adobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"}(Salesforce과 동기화, CRM 통합)
 
 **섹션 2: 마케팅 활동/캠페인 관리**
 

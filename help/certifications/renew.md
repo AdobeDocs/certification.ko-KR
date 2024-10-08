@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,6 +13,8 @@ ht-degree: 0%
 ---
 
 # 인증 갱신 {#renew}
+
+{{renewals-hold}}
 
 Adobe 인증을 유지하려면 2년마다 갱신해야 합니다. 인증서가 만료되기 전에 인증서를 갱신하지 않으면 전체 인증 시험에 다시 응시해야 다시 인증을 받을 수 있습니다.
 

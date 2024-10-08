@@ -4,10 +4,10 @@ description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 6%
+source-wordcount: '552'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,16 @@ ht-degree: 6%
 Adobe에서 Experience Cloud 인증에 대해 알아보고 인증을 받는 것이 어떤 도움이 되는지 알아보십시오.
 
 ![배너](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!NOTE]
+>Adobe 디지털 경험 인증 프로그램 업데이트
+>
+>**Adobe 디지털 환경 인증 프로그램이 진행 중입니다!** 새 Adobe 인증 포털은 2024년 10월 22일에 시작됩니다. 다음 **중요 날짜:**&#x200B;을(를) 기록해 두십시오.
+>
+>* **2024년 10월 14일:** 데이터를 새 포털로 마이그레이션하는 동안에는 시험 일정, 연습 테스트 및 Adobe 자격 증명 관리 시스템에 대한 액세스를 사용할 수 없습니다.
+>* **2024년 10월 22일:** Adobe 인증 포털이 시작됩니다! 모든 시험 정보, 학습 리소스 및 일정 관리 기능과 함께 인증 기록을 새 포털에서 사용할 수 있습니다. 2021년 1월 1일에 거슬러 올라가는 연습 테스트 점수와 코칭 보고서 또한 귀하의 계정에서 사용할 수 있습니다.
+>
+>새 Adobe 인증 포털에 로그인하는 방법에 대한 자세한 내용은 10월 22일에 여기에서 다시 확인하십시오!
 
 Adobe 디지털 경험 인증 프로그램은 Adobe [!DNL Experience Cloud] 제품에서 실력을 입증하는 데 도움이 되도록 만들어졌습니다. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
 
