@@ -1,7 +1,7 @@
 ---
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
 workflow-type: tm+mt
-source-wordcount: '1989'
+source-wordcount: '1983'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 0%
 이 페이지에서는 이 인증을 획득하는 방법에 대해 설명합니다. 시험에 대한 설명, 학습자료, 자격증 과정에 대한 단계별 지침, 자격증 갱신 방법 등이 포함된다.
 
 >[!NOTE]
->Adobe 디지털 경험 인증 프로그램 업데이트
 >
 >**Adobe 디지털 환경 인증 프로그램이 진행 중입니다!** 새 Adobe 인증 포털은 2024년 10월 22일에 시작됩니다. 다음 **중요 날짜:**&#x200B;을(를) 기록해 두십시오.
 >
