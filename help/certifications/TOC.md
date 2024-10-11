@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
-user-guide-description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
+user-guide-description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다. 인증을 받으면 무엇을 할 수 있는지 알아봅니다.
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
