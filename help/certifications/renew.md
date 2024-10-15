@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
+source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ Adobe은 다음과 같은 다양한 리소스 및 도구를 제공하여 인증�
 
 대부분의 인증은 **무료로**&#x200B;갱신할 수 있습니다. 일부 인증서는 아직 무료 갱신 옵션이 없다. 이러한 인증을 갱신하려면 전체 인증 시험에 다시 응시해야 합니다.
 
-## 무료 갱신 옵션
-
-아래 링크에서 발견되는 인증은 지속적인 학습을 통해 또는 온디맨드 갱신 시험을 통해 무료로 갱신할 수 있습니다. 여기에서 인증을 찾지 못한 경우 전체 인증 시험에 재도전하여 갱신해야 합니다.
-
 <!-- 
+
+## Free renewal options
+
+The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
 
 >[!NOTE]
 >
