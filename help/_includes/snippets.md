@@ -1,7 +1,7 @@
 ---
-source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
+source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
 workflow-type: tm+mt
-source-wordcount: '1983'
+source-wordcount: '1970'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 소개 {#intro}
 
-이 페이지에서는 이 인증을 획득하는 방법에 대해 설명합니다. 시험에 대한 설명, 학습자료, 자격증 과정에 대한 단계별 지침, 자격증 갱신 방법 등이 포함된다.
+이 페이지는 이전에 이 인증을 획득하는 방법에 대한 정보를 제공했습니다. 업데이트된 정보는 참고 사항을 참조하십시오.
 
 >[!NOTE]
 >
