@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '2295'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -18,466 +18,472 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
+<!--
 
-먼저 아래 탭에서 적절한 수준(Professional, Expert 또는 기본)을 선택합니다. 그런 다음 인증을 갱신하기 위해 수행해야 할 작업을 신중하게 검토하십시오.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-인증이 만료되기 전에 모든 요구 사항을 완료할 충분한 시간을 제공해야 합니다.
-
-인증이 만료되면 무료로 제공되지 않는 인증 시험을 다시 치러야 한다는 점을 참고하십시오.
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**먼저 로그인:** [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 **성공적으로 로그인**&#x200B;한 후에 다음 링크가 **전용**&#x200B;됩니다.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**링크 공유:** 갱신 시험 또는 평가에 대한 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지에 연결하십시오.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB 전문가]
+>[!TAB Professional]
 
-+++Adobe [!DNL Commerce] 비즈니스 전문가
++++Adobe [!DNL Commerce] Business Practitioner Professional
 
-## 이 메서드를 사용하여 갱신하려면 다음 **active** 인증이 있어야 합니다.
+## You must have the following **active** certification to renew using this method:
 
-* Adobe [!DNL Commerce] 비즈니스 전문가
+* Adobe [!DNL Commerce] Business Practitioner Professional
 
-## 인증 갱신 지침:
+## Instructions for renewing your certification:
 
-* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
-* **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 준비
+## Get ready
 
-**시험 세부 정보:**
+**Exam details:**
 
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 27/35
-* 시간: 70분
-* 게재: 온디맨드/비포장됨
-* 사용 가능한 언어: 영어
-* 비용: 무료
-* 시험 ID: AD5-E840 Adobe [!DNL Commerce] 비즈니스 실무자 전문 갱신 시험
+* Level: Professional (0-12 months' experience)
+* Passing Score: 27/35
+* Time: 70 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E840 Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam
 
-**범위 및 목표:**
+**Scope and objectives:**
 
-섹션 1: Magento Open Source 핵심 기능(54%)
+Section 1: Magento Open Source Core Features (54%)
 
-* Magento Open Source의 기능 식별
-* 올바른 범위와 각 항목을 사용할 시기를 구분합니다.
-* 카탈로그 관리에 대한 지식 입증
-* Magento Open Source 기능을 사용하여 가격 조정
-* 표준 고객 여정 설명
-* 표준 주문 수명 주기 설명
-* 스토어 유지 관리와 관련된 일상적인 작업 설명
-* 다양한 유형의 콘텐츠 요소 및 사용 시기 설명
+* Identify the features of Magento Open Source
+* Distinguish the correct scope and when to use each
+* Demonstrate knowledge of Catalog Management
+* Manipulate pricing by using Magento Open Source features
+* Describe the standard customer journey
+* Describe the standard order life cycle
+* Describe the day-to-day tasks involved in Store maintenance
+* Explain the different types of content elements and when to use
 
-섹션 2: Adobe Commerce 기본 사항(14%)
+Section 2: Adobe Commerce Basics (14%)
 
-* Adobe Commerce에서 사용할 수 있는 주요 기능 식별
-* Adobe Commerce에서 서비스 추가 기능 식별
-* Adobe Commerce에 대한 호스팅 옵션 식별
+* Identify the key features available in Adobe Commerce
+* Identify service Add-ons in Adobe Commerce
+* Identify hosting options for Adobe Commerce
 
-섹션 3: 디지털 마케팅 및 전자 상거래 기본 사항(22%)
+Section 3: Digital Marketing and eCommerce Fundamentals (22%)
 
-* Adobe Commerce에서 사용할 수 있는 주요 기능 식별
-* Adobe Commerce에서 서비스 추가 기능 식별
-* Adobe Commerce에 대한 호스팅 옵션 식별
-* eCommerce 웹 사이트의 주요 기능 식별
-* 기본 eCommerce 개념 확인
+* Identify the key features available in Adobe Commerce
+* Identify service Add-ons in Adobe Commerce
+* Identify hosting options for Adobe Commerce
+* Identify the key features of an eCommerce website
+* Identify the basic eCommerce concepts
 
-섹션 4: 규정 준수/보안 기본 사항(10%)
+Section 4: Compliance/Security Basics (10%)
 
-* 개인 정보 보호 법률 및 지불 보안에 대한 규정 준수의 기본 사항 이해
-* Adobe Commerce 프로젝트의 일반적인 보안 측면 식별
-* 접근성 규정 준수에 대한 Best Practice 및 법적 요구 사항 파악
+* Understand basics of compliance for privacy laws and payment security
+* Identify common security aspects of an Adobe Commerce project
+* Identify best practices and legal requirements of accessibility compliance
 
-### 준비 완료
+### Get prepped
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+Here are some suggested resources to help you prepare:
 
-**섹션 1**
+**Section 1**
 
-* [Adobe [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
-* [위젯](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
-* [Adobe [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"}
-* [Adobe [!DNL Commerce] 경험 가이드 저장 및 구매](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
-* [상점 브랜딩](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
-* [고객 변수 추가](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
-* [장바구니 가격 규칙](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
-* [새 고객 계정 옵션](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
-* [주문 상태](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
-* [Business Intelligence 도구](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
+* [Adobe [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
+* [Widgets](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
+* [Adobe [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"} 
+* [Adobe [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"} 
+* [Storefront Branding](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
+* [Add Customer Variables](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
+* [Cart price rules](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
+* [New customer account options](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
+* [Order status](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
+* [Business Intelligence tools](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
 
-**섹션 2**
+**Section 2**
 
-* [페이지 빌더 개요](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html)
-* [전자 메일 템플릿](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
-* [쇼핑객 지원 제공](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
-* [콘텐츠 스테이징](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [설치 및 구성](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
-* [Pro 아키텍처](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [보안](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
+* [Page Builder overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html) 
+* [Email templates](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
+* [Provide shopper assistance](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
+* [Content staging](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+* [Install and Configure](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
+* [Pro architecture](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
+* [Security](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**섹션3**
+**Section3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
-* [SEO 개요](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
-* [향상된 상점 환경](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
-* [PCI 규격 준수](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
-* [옴니채널과 멀티채널 마케팅의 차이점 알아보기](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
+* [SEO Overview](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
+* [Enhanced storefront experiences](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
+* [PCI compliance](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
+* [Learn the difference between omnichannel and multichannel marketing](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
-**섹션 4**
+**Section 4**
 
 * [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
-* [Adobe [!DNL Commerce] 보안 모범 사례](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
-* [Ecommerce 웹 사이트 ADA를 준수하는 방법](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
+* [Adobe [!DNL Commerce] Security Best Practices](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
+* [How to Make Your Ecommerce Website ADA Compliant](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 
-## 인증 갱신
+## Renew your certification
 
-Adobe [!DNL Commerce] 비즈니스 전문가 인증을 갱신하려면:
+To renew your Adobe [!DNL Commerce] Business Practitioner Professional certification:
 
-위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 Adobe [!DNL Commerce] 비즈니스 전문가 갱신 시험(AD5-E840) 링크를 클릭하십시오.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840) link below.
 
-[!BADGE Adobe 수강 [!DNL Commerce] 비즈니스 전문가 재계약 시험(AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
-
->[!NOTE]
->
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
-
-+++
-
-+++Adobe [!DNL Commerce] Developer Professional
-
-## 이 메서드를 사용하여 갱신하려면 다음 **active** 인증이 있어야 합니다.
-
-Adobe [!DNL Commerce] Developer Professional
-
-## 인증 갱신 지침:
-
-* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
-* **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시
-
-## 준비
-
-**시험 세부 정보:**
-
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 28/37
-* 시간: 74분
-* 게재: 온디맨드/비포장됨
-* 사용 가능한 언어: 영어
-* 비용: 무료
-* 시험 ID: AD5-E839 Adobe [!DNL Commerce] Developer Professional
-
-**범위 및 목표:**
-
-**섹션 1: 관리자 작업(7%)**
-
-* ACL이 역할 및 리소스와 함께 작동하는 방식 설명
-* 관리 그리드/양식을 만들거나 수정할 때 사용할 구성 요소를 식별합니다
-* 저장소/관리자 구성 및 메뉴 항목을 만들 때 사용할 파일을 식별합니다
-
-**섹션 2: 아키텍처(36%)**
-
-* Magento 파일 구조 설명
-* Magento CLI 명령 설명
-* cron 기능 설명
-* 시나리오에 따라 di.xml 사용 설명
-* 시나리오가 주어지면 컨트롤러를 만듭니다.
-* 모듈 구조 설명
-* 색인 기능 설명
-* 현지화 설명
-* 플러그인, 환경 설정, 이벤트 옵저버 및 인터셉터를 설명합니다.
-* 사용자 정의 모듈 경로 설명
-* URL 재작성 설명
-* Magento 캐싱 시스템 설명
-* 스토어, 웹 사이트 및 스토어 조회수 설명(기본 이해)
-
-**섹션 3: EAV/데이터베이스(17%)**
-
-* 주어진 시나리오에서 속성 세트 및/또는 속성을 변경/추가/제거합니다.
-* 다양한 유형의 속성 설명
-* 시나리오가 주어지면 DB 스키마를 사용하여 데이터베이스 테이블을 변경합니다
-* 모델, 리소스 모델 및 컬렉션 설명
-* EAV(엔티티 속성 값)의 기본 사항 설명
-
-**섹션 4: 레이아웃/UI(18%)**
-
-* CMS 페이지 및 블록 사용 설명
-* 주어진 시나리오에서 레이아웃을 수정합니다.
-* 시나리오가 주어지면 페이지 스타일을 수정합니다.
-* 테마 구조 설명
-* 시나리오가 주어지면 JavaScript 파일 작업(기본)
-* 고객 데이터의 프론트엔드 사용 설명
-
-**섹션 5: 체크아웃 및 판매(12%)**
-
-* 장바구니 구성 요소 설명
-* 장바구니 프로모션 규칙 설명
-* 시나리오에 따라 기본적인 체크아웃 수정 사항을 설명합니다
-* 시나리오에 따라 견적 데이터의 기본 사용 설명
-* 시나리오가 주어지면 결제 및 배송 방법을 구성하십시오
-* 시나리오가 주어지면 세금 규칙, 통화, 장바구니 및/또는 체크아웃을 구성합니다.
-
-**섹션 6: 카탈로그(10%)**
-
-* 범주 관리 및 제품 관리의 기본 사항 파악
-* 제품 유형 설명
-* 가격 규칙 설명
-* 가격 유형 설명
-
-## 준비 완료
-
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
-
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
-
-**섹션 1**
-
-* [ACL(액세스 제어 목록) 규칙 만들기](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-* [관리 표 추가](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
-* [system.xml 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
-
-**섹션 2**
-
-* [라우팅](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
-* [URL 재작성](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
-* [캐시 형식 구성](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-* [사이트, 스토어 및 보기 범위](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
-* [명령줄 도구](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-* [종속성 삽입 구성](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-* [모듈 만들기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
-* [인덱싱](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-* [번역](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-* [플러그인](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
-
-**섹션 3**
-
-* [특성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
-* [EAV 및 확장 특성](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-* [선언 스키마 구성](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
-* [구성 요소 파일 구조 만들기](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
-
-**섹션 4**
-
-* [콘텐츠 블록](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
-* [모델 보기](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
-* [레이아웃 지침](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
-* [테마 구조](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-* [JavaScript 호출 및 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-* [비공개 콘텐츠](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
-
-**섹션 5**
-
-* [장바구니 구성](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-* [장바구니 가격 규칙 만들기](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-* [다른 체크아웃 필드에 영향을 주는 사용자 지정 필드 추가](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
-* [견적 테이블](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
-* [배송 방법 목록 사용자 지정](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-* [세금 구성 설정](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
-
-**섹션 6**
-
-* [카탈로그 수정](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
-* [제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
-* [카탈로그 가격 규칙](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
-* [그룹 가격](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
-
-## 인증 갱신
-
-Adobe [!DNL Commerce] Developer Professional 인증을 갱신하려면:
-
-위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 Adobe [!DNL Commerce] 개발자 전문가 갱신 시험(AD5-E839) 링크를 클릭하십시오.
-
-[!BADGE Adobe 수강 [!DNL Commerce] 개발자 전문가 갱신 시험(AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
+[!BADGE Take the Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E840 newtab=true"} 
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-+++Adobe [!DNL Commerce] 프론트엔드 Developer Professional
++++Adobe [!DNL Commerce] Developer Professional 
 
-## 이 메서드를 사용하여 갱신하려면 다음 **active** 인증이 있어야 합니다.
+## You must have the following **active** certification to renew using this method:
 
-Adobe [!DNL Commerce] 프론트엔드 Developer Professional
+Adobe [!DNL Commerce] Developer Professional 
 
-## 인증 갱신 지침:
+## Instructions for renewing your certification:
 
-* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
-* **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 준비
+## Get ready
 
-**시험 세부 정보:**
+**Exam details:**
 
-* 레벨: 전문가(0~12개월 경력)
-* 합격 점수: 26/34
-* 시간: 68분
-* 게재: 온디맨드/비포장됨
-* 사용 가능한 언어: 영어
-* 비용: 무료
-* 시험 ID: AD5-E844 Adobe [!DNL Commerce] 프론트엔드 개발자 전문가 갱신
+* Level: Professional (0-12 months' experience)
+* Passing Score: 28/37
+* Time: 74 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E839 Adobe [!DNL Commerce] Developer Professional
 
-**범위 및 목표:**
+**Scope and objectives:**
 
-**섹션 1: 테마 관리(테마 계층 구조, 이미지 구성, 번역)(14%)**
+**Section 1: Working with Admin (7%)**
 
-* Adobe [!DNL Commerce] 테마 폴더 구조 설명
-* 새 테마를 만들거나 기존 테마를 확장하는 기능 시연
-* 사용자 정의 번역 구문 추가 기능 시연
+* Describe how the ACL works with roles and resources
+* Identify the components to use when creating or modifying the admin grid/form
+* Identify the files to use when creating a store/admin config and menu items
 
-**섹션 2: 레이아웃 XML 및 템플릿(30%)**
+**Section 2: Architecture (36%)**
 
-* 기본 레이아웃 XML 지침 작업 기능 시연
-* 기존 페이지 레이아웃을 사용할 수 있는 기능 시연
-* XML 확장 및 재정의 단계 설명
-* 템플릿을 만들고 사용자 지정하는 기능 시연
-* 템플릿 보안 설명(출력 이스케이프 처리)
+* Describe Magento file structure
+* Describe Magento CLI commands
+* Describe cron functionality
+* Given a scenario, describe usage of the di.xml
+* Given a scenario, create controllers
+* Describe module structure
+* Describe index functionality
+* Describe localization
+* Describe plugin, preference, event observers, and interceptors
+* Describe custom module routes
+* Describe URL rewrites
+* Describe the Magento caching system
+* Describe stores, websites, and store views (basic understanding)
 
-**섹션 3: 스타일(22%)**
+**Section 3: EAV/Database (17%)**
 
-* styles-m.less, styles-l.less, print.less의 목적 설명
-* 특정 부분 파일(_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,) 간의 차이점 설명
-* 시나리오가 주어지면 Magento LESS를 재정의하거나 확장하는 기능을 보여 줍니다.
-* LESS의 기본 개념 설명
-* 스타일(라이브러리, 모듈, 테마)의 계층 구조 설명
-* 클라이언트측 및 서버측 컴파일 설명
+* Given a scenario, change/add/remove attribute sets and/or attributes
+* Describe different types of attributes
+* Given a scenario, use a DB schema to alter a database table
+* Describe models, resource models, and collections
+* Describe basics of Entity Attribute Value (EAV)
 
-**섹션 4: JavaScript(18%)**
+**Section 4: Layout/UI (18%)**
 
-* JavaScript 구성 요소 초기화 및 호출 기능 시연
-* RequireJS 사용 시연
-* mixin 사용 설명
-* JS에서 번역을 추가하는 방법 설명
-* 녹아웃 JS 사용 설명
-* jQuery 위젯의 사용 설명
+* Describe usage of CMS pages and blocks
+* Given a scenario, modify layout
+* Given a scenario, modify page style
+* Describe theme structure
+* Given a scenario, work with JavaScript files (basic)
+* Describe front-end usage of customer data
 
-**섹션 5: 관리자 구성 및 PageBuilder(8%)**
+**Section 5: Checkout and Sales (12%)**
 
-* 페이지 빌더 및 CMS 콘텐츠를 사용자 지정하는 기능 시연
-* 트랜잭션 이메일을 사용자 지정하는 단계 설명
+* Describe cart components
+* Describe a cart promo rule
+* Given a scenario, describe basic checkout modifications
+* Given a scenario, describe basic usage of quote data
+* Given a scenario, configure the payment and shipping methods
+* Given a scenario, configure tax rules, currencies, cart, and/or checkout
 
-**섹션 6: 도구(CLI 및 grunt)(8%)**
+**Section 6: Catalog (10%)**
 
-* 기본 bin/Magento 명령의 사용 설명
-* Composer 명령 사용 설명(설치, 업데이트, 필요, 제거)
-* 배포 모드에 대한 적절한 사용 사례 차별화
-* 클라우드가 제공하는 추가 도구 설명(Fastly, 데이터베이스 다운로드, 콘텐츠 배포)
+* Identify the basics of category management and products managent
+* Describe product types
+* Describe price rules
+* Describe price types
 
-## 준비 완료
+## Get prepped
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+Here are some suggested resources to help you prepare:
 
-**섹션 1**
+**Section 1**
 
-* [테마 번역 사전 예제](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
-* [테마 구조](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
-* [테마 속성 구성](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
-* [사전을 사용하여 문자열 사용자 지정](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+* [Create an access control list (ACL) rule](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [Add an Admin grid](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [system.xml reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
-**섹션 2**
+**Section 2**
 
-* [referenceBlock 및 referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
-* [레이아웃 지침](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
-* [레이아웃 재정의](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
-* [인수](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
-* [새 레이아웃 만들기](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
-* [레이아웃을 재정의하는 방법](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
-* [템플릿 사용자 지정 연습](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [Routing](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [URL rewrites](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+* [Cache type configuration](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+* [Site, store, and view scope](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [Command-line tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Dependency injection configuration](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+* [Create a module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
+* [Indexing](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [Translations](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+
+**Section 3**
+
+* [Attribute sets](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+* [EAV and extension attributes](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+* [Configure declarative schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [Create your component file structure](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+
+**Section 4**
+
+* [Content blocks](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [View models](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+* [Layout instructions](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+* [Theme structure](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+* [Call and initialize JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Private content](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+
+**Section 5**
+
+* [Cart configuration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [Create a cart price rule](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Add custom fields that influence other checkout fields](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+* [Quote table](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+* [Customize the list of shipping methods](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+* [Tax configuration settings](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+
+**Section 6**
+
+* [Modify a catalog](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+* [Create a product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+* [Catalog price rules](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+* [Group pricing](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+
+## Renew your certification
+
+To renew your Adobe [!DNL Commerce] Developer Professional certification:
+
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839) link below.
+
+[!BADGE Take the Adobe [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E839 newtab=true"}
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
++++
+
++++Adobe [!DNL Commerce] Front-End Developer Professional
+
+## You must have the following **active** certification to renew using this method:
+
+Adobe [!DNL Commerce] Front-End Developer Professional
+
+## Instructions for renewing your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
+## Get ready
+
+**Exam details:**
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 26/34
+* Time: 68 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E844 Adobe [!DNL Commerce] Front-End Developer Professional Renewal
+
+**Scope and objectives:**
+
+**Section 1: Theme management (Theme hierarchy, image configuration, translations) (14%)**
+
+* Describe Adobe [!DNL Commerce] theme folder structure
+* Demonstrate ability to create new or extend existing themes
+* Demonstrate ability to add custom translation phrases
+
+**Section 2: Layout XML & Templates (30%)**
+
+* Demonstrate the ability to work with basic layout XML instructions
+* Demonstrate the ability to use existing page layouts
+* Describe the steps for extending and overriding XML
+* Demonstrate ability to create and customize templates
+* Describe template security (escaping output)
+
+**Section 3: Styles (22%)**
+
+* Describe the purpose of styles-m.less, styles-l.less, print.less
+* Describe the difference between specific partial files (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
+* Given a scenario, demonstrate the ability to override or extend Magento LESS
+* Describe the basic concepts of LESS
+* Explain the hierarchy of styles (lib, modules, themes)
+* Explain client-side and server-side compilation
+
+**Section 4: JavaScript (18%)**
+
+* Demonstrate the ability to initialize and call JavaScript components
+* Demonstrate the usage of RequireJS
+* Describe the usage of mixins
+* Describe how to add a translation in JS
+* Describe the usage of Knockout JS
+* Describe the usage of jQuery widgets
+
+**Section 5: Admin Configuration and PageBuilder (8%)**
+
+* Demonstrate the ability to customize Page Builder and CMS content
+* Describe steps to customize transactional emails
+
+**Section 6: Tools (CLI and Grunt) (8%)**
+
+* Describe the usage of basic bin/Magento commands
+* Describe the usage of Composer commands (install, update, require, remove)
+* Differentiate the appropriate use case for deploy modes
+* Describe additional tools that cloud provides (Fastly, downloading database, content deployment)
+
+## Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Section 1**
+
+* [Theme translation dictionary example](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [Theme structure](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [Configure theme properties](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [Use a dictionary to customize strings](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+ 
+**Section 2**
+
+* [referenceBlock and referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [Layout instructions](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [Override a layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [argument](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [Create a new layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [How to override a layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [Template customization walkthrough](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
 * [magento2/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
-* [테마 상속](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
-* [XSS(교차 사이트 스크립팅)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+* [Theme inheritance](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [Cross-site scripting (XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+ 
+**Section 3**
 
-**섹션 3**
-
-* 반응형 디자인의 [CSS](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
-* [테마 스타일 사용자 지정](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
-* [상위 스타일 확장](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
-* [상위 스타일 재정의](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
-* [컴파일 모드](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
-
-**섹션 4**
-
-* [JavaScript 호출 및 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [CSS in responsive design](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [Customize theme styles](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [Extend parent styles](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [Override parent styles](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [Compilation mode](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+ 
+**Section 4**
+ 
+* [Call and initialize JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
 * [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
-* [Mixin 범위](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
-* [테마 문자열](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
-* [바인딩 맵](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
-* [아코디언 위젯 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+* [Mixin scope](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope) 
+* [Theme strings](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [Binding map](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [Initialize the accordion widget](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
 
-## 인증 갱신
+## Renew your certification
 
-Adobe [!DNL Commerce] 프론트엔드 개발자 전문가 인증을 갱신하려면:
+To renew your Adobe [!DNL Commerce] Front-End Developer Professional certification:
 
-위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래 Adobe [!DNL Commerce] 프론트엔드 개발자 전문가 갱신 시험(AD5-E844) 링크를 클릭하십시오.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844) link below.
 
-[!BADGE Adobe [!DNL Commerce] 프론트엔드 개발자 전문가 갱신 시험 응시(AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
+[!BADGE Take the Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB 전문가 및 기본]
+>[!TAB Expert and Master]
 
-## 갱신하려면 다음 **활성** 인증 중 하나 이상이 있어야 합니다.
+## You must have at least one of the following **active** certifications to renew:
 
-* [!DNL Adobe Commerce] 비즈니스 전문가
-* [!DNL Adobe Commerce] 개발자 전문가
-* [!DNL Adobe Commerce] Architect 기본
-* [!DNL Adobe Commerce] 프론트엔드 개발자 전문가
+* [!DNL Adobe Commerce] Business Practitioner Expert
+* [!DNL Adobe Commerce] Developer Expert
+* [!DNL Adobe Commerce] Architect Master
+* [!DNL Adobe Commerce] Front End Developer Expert
 
-## [!DNL Adobe Commerce] 인증 갱신 지침
+## Instructions for renewing your [!DNL Adobe Commerce] certification
 
-**3개의 활동**&#x200B;을 선택하여 각 활동에 연결된 과정 평가를 완료하고 통과하십시오.
+Select **three activities** to complete and pass the course assessments associated with each.
 
-* **1단계:**&#x200B;이(가) [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 다음 이 페이지로 돌아갑니다.
-* **2단계:** Experience League에서 과정 학습
-* **3단계:** 갱신을 완료하려면 아래 옵션 중에서 선택하십시오.
+* **Step 1:** Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2:** Study the courses in Experience League
+* **Step 3:** Choose from the options below to complete your renewal.
 
-  **옵션 A:**
-**3개 과정**&#x200B;을 선택하여 80% 이상의 점수로 각 과정 평가를 완료하고 통과하십시오. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
+   **Option A:**
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  **옵션 B:**
-먼저 **2개 과정**&#x200B;을 선택하여 각 과정 평가를 80% 이상 완료하고 통과합니다. 과정 평가는 무료, 주문형, 비프로덕션, 오픈 북입니다. 80%의 평가를 성공적으로 통과할 때까지 과정을 반복할 수 있습니다.
+   **Option B:**
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  두 번째로, Adobe 인증 개인 리더, 관리 및/또는 Adobe Experience Cloud 구현 프로젝트에 참여하는 동안 계속 작업했는지 확인하는 **고객 참조 양식을 제출**&#x200B;합니다. 이 양식은 인증 갱신 2년 간격 동안 최소 100시간의 시연 프로젝트 참여에 참여했음을 확인합니다.
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval. 
 
-   [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}에 대한 [고객 참조 양식
+   [Customer Reference Form for [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA700){target="_blank"}
 
-  고객 참조가 검토되면 Adobe 디지털 경험 인증 프로그램 으로부터 알림을 받게 됩니다. 참조가 수락되지 않으면 인증이 만료되기 전에 성공하기 전까지 다시 제출할 수 있습니다.
+   You will be notified by the Adobe Digital Experience Certification Program when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 >[!NOTE]
 >
->[!DNL Adobe Commerce] Expert 및 기본 인증을 여러 개 보유하고 있는 경우 한 개 인증에 대한 갱신 요구 사항을 완료하고 나머지는 자동으로 갱신됩니다.
+>If you hold multiple [!DNL Adobe Commerce] Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
-### 전문가 및 기본 교육 과정 평가:
+### Courses and Course Assessments for Expert and Master:
 
-| 전문가 및 기본 교육 과정 | 강의 평가 |
+| Courses for Expert and Master | Course Assessment |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce 트렌드](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
-| [Adobe [!DNL Commerce] AI 자동화](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
-| [[!DNL Commerce]: Experience Platform 및 그 이상에 데이터 통합](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
-| [[!DNL Commerce]: Adobe의 합성 가능한 Commerce [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA704){target="_blank"} |
+| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA705){target="_blank"} |
+| [[!DNL Commerce]: Data Integrations to Experience Platform & Beyond](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA709){target="_blank"} |
+| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA710){target="_blank"} |
 
 >[!ENDTABS]
 
-## 질문
+## Questions
 
-인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-추가 질문? [문의하기](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

@@ -4,7 +4,7 @@ description: Adobe에서 인증 프로그램을 다시 시작하기 위한 시�
 recommendations: disable, exclude
 hidefromtoc: true
 exl-id: 23d948de-7d3d-4ccf-a55f-51bf117a41c8
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 4%

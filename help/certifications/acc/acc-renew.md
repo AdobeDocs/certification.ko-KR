@@ -7,9 +7,9 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '2391'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
@@ -18,442 +18,448 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Adobe 인증은 2년 동안 유효합니다. 이 2년 마감이 가까워졌다면 인증을 갱신하여 인증을 지속적으로 유지해야 할 때입니다.
+<!--
 
-먼저 아래 탭에서 적절한 수준(Professional, Expert 또는 기본)을 선택합니다. 그런 다음 인증을 갱신하기 위해 수행해야 할 작업을 신중하게 검토하십시오.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-인증이 만료되기 전에 모든 요구 사항을 완료할 충분한 시간을 제공해야 합니다.
-
-인증이 만료되면 무료로 제공되지 않는 인증 시험을 다시 치러야 한다는 점을 참고하십시오.
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**먼저 로그인:** [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 **성공적으로 로그인**&#x200B;한 후에 다음 링크가 **전용**&#x200B;됩니다.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**링크 공유:** 갱신 시험 또는 평가에 대한 링크를 동료와 공유하려면 로그인 문제를 방지하기 위해 시험 자체의 URL이 아닌 전체 시험 갱신 페이지에 연결하십시오.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB 전문가]
+>[!TAB Professional]
 
-+++Adobe [!DNL Campaign Classic] 비즈니스 전문가 갱신 시험
++++Adobe [!DNL Campaign Classic] Business Practitioner Professional Renewal Exam
 
-## 갱신하려면 다음 **활성** 인증이 있어야 합니다.
+## You must have the following **active** certifications to renew:
 
-Adobe [!DNL Campaign Classic] 비즈니스 전문가
+Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
-## 인증 갱신 방법:
+## How to renew your certification:
 
-* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
-* **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 준비
+## Get ready
 
-**시험 세부 정보**
+**Exam details**
+  
+* Passing Score: 27/35
+* Time: 70 minutes
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Exam ID: AD5-E841 - Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
-* 합격 점수: 27/35
-* 시간: 70분
-* 비용: 무료/비관리됨
-* 배달: 온디맨드
-* 사용 가능한 언어: 영어
-* 시험 ID: AD5-E841 - Adobe [!DNL Campaign Classic] 비즈니스 전문가
+**Scope and objectives**
 
-**범위 및 목표**
+Section 1: Build a Campaign 31.4%
 
-섹션 1: 캠페인 구축 31.4%
+* Recognize the different Digital Marketing concepts and objectives
+* Identify and define key tool features and structure, in relation to the interface
+* Determine the appropriate delivery template with subdomain to use given Business Requirements
+* Identify the appropriate delivery preparation or personalization requirements given Business Requirements
+* Determine the correct target audience among profiles and analyze the results of the expected outcomes
+* Recommend and apply the correct campaign approval settings
+* Determine scheduling based on campaign requirements
+* Recognize where to locate delivery results or output
+* Differentiate between different error and warning types (delivery, campaign, and workflow level)
 
-* 다양한 디지털 마케팅 개념 및 목표 인식
-* 인터페이스와 관련하여 주요 도구 기능 및 구조를 식별하고 정의합니다.
-* 주어진 비즈니스 요구 사항을 사용할 하위 도메인이 있는 적절한 게재 템플릿을 결정합니다.
-* 비즈니스 요구 사항을 고려하여 적절한 게재 준비 또는 개인화 요구 사항 확인
-* 프로필에서 올바른 타겟 대상자를 결정하고 예상 결과의 결과를 분석합니다
-* 올바른 캠페인 승인 설정 추천 및 적용
-* 캠페인 요구 사항을 기반으로 일정 조정 결정
-* 게재 결과 또는 출력을 찾을 위치 인식
-* 다양한 오류 및 경고 유형(게재, 캠페인 및 워크플로우 수준)을 구분합니다.
+Section 2: Workflow Management and Platform Capabilities 11.4%
 
-섹션 2: 워크플로우 관리 및 플랫폼 기능 11.4%
+* Given a scenario, determine which workflow activities should be selected
+* Differentiate between campaign and technical workflows
+* Given a scenario, determine which workflow solution is optimal for continuous, waits, recurring, aborts situations
+* Identify the new capabilities and features of Campaign V8 compared to previous versions
 
-* 시나리오가 주어지면 선택해야 하는 워크플로우 활동을 결정합니다.
-* 캠페인 및 기술 워크플로우 차별화
-* 시나리오가 주어지면 지속적, 대기, 반복, 중단 상황에 가장 적합한 워크플로우 솔루션을 결정합니다.
-* 이전 버전과 비교한 Campaign V8의 새로운 기능 및 특징 식별
+Section 3: Data Operations 22.9%
 
-섹션 3: 데이터 작업 22.9%
+* Determine how to modify columns within a view in order to test data/output
+* Describe the purposes of the union, intersection, exclusion, and split workflow targeting activities
+* Determine appropriate method to reconcile data, generate a complement, deduplicate, and import data
+* Given a scenario, identify which data enrichment rule should be used
+* Given a scenario, determine how to segment an audience and store as a list and cells
+* Given a scenario, determine the best method to export data to destinations by configuring them
 
-* 데이터/출력을 테스트하기 위해 보기 내에서 열을 수정하는 방법을 결정합니다.
-* 결합, 교차, 제외 및 분할 워크플로우 타기팅 활동의 목적을 설명합니다
-* 적절한 데이터 조정 방법 결정, 보완, 중복 제거 및 데이터 가져오기
-* 시나리오가 주어지면 어떤 데이터 보강 규칙을 사용해야 하는지 식별합니다
-* 시나리오가 주어지면 대상을 세그먼트화하고 목록 및 셀로 저장하는 방법을 결정합니다
-* 시나리오가 주어지면 이를 구성하여 대상으로 데이터를 내보내는 최상의 방법을 결정합니다
+Section 4: Delivery Configuration 22.9%
 
-섹션 4: 게재 구성 22.9%
+* Given a scenario, determine the correct delivery type
+* Given business requirements, determine how to create templates
+* Given business requirements, determine the correct delivery properties
+* Identify and apply OOTB personalization options available for a delivery (link to mirror page, greeting, un-sub link)
+* Given a scenario, determine the appropriate typology rule (control, filtering, pressure, capacity)
+* Identify the cause of a recipients' exclusion of a delivery in the log and check delivery diagnostics
+* Indicate where/how to test delivery content and personalization
+* Differentiate among the various delivery states that occur during processing and apply actions
 
-* 시나리오가 주어지면 올바른 게재 유형을 결정합니다
-* 비즈니스 요구 사항이 주어지면 템플릿을 만드는 방법을 결정합니다
-* 비즈니스 요구 사항이 있는 경우 올바른 게재 속성을 결정하십시오
-* 게재에 사용할 수 있는 OOTB 개인화 옵션 식별 및 적용(미러 페이지, 인사말, 하위 링크 해제)
-* 시나리오가 주어지면 적절한 유형화 규칙(제어, 필터링, 압력, 용량)을 결정합니다
-* 수신자가 게재를 제외하는 원인을 로그에서 식별하고 게재 진단을 확인합니다
-* 게재 콘텐츠 및 개인화를 테스트할 위치/방법을 지정합니다.
-* 처리 및 적용 작업 중에 발생하는 다양한 게재 상태를 구분합니다
+Section 5: Reporting 11.4%
 
-섹션 5: 보고 11.4%
+* Identify common OOTB reports and where to access them
+* Determine which OOTB report is needed based on reporting requirements
+* Identify the Descriptive Analysis functionality inside Adobe Campaign
+* Given a scenario, apply the right authorizations to limit/allow access to Campaign objects
 
-* 일반적인 OOTB 보고서 및 이에 액세스할 수 있는 위치 식별
-* 보고 요구 사항에 따라 필요한 OOTB 보고서 결정
-* Adobe Campaign 내의 설명 분석 기능 식별
-* 시나리오가 주어지면 Campaign 객체에 대한 액세스를 제한/허용하도록 올바른 권한을 적용합니다
+## Get prepped
 
-## 준비 완료
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+Here are some suggested resources to help you prepare:
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+**Section 1**
 
-**섹션 1**
+* [Adobe Campaign Standard reporting](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
+* [What Is A KPI? Definition & Examples](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
+* [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html){target="_blank"}
+* [Use templates](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
+* [Personalize emails using dynamic content blocks](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
+* [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
+* [Delivery reports](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/delivery-reports.html){target="_blank"}
+* [Managing approvals in a campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html){target="_blank"}
+* [Manage time zones](https://experienceleague.adobe.com/docs/campaign/automation/workflows/advanced-management/managing-time-zones.html?lang=en#:~:text=Adobe%20Campaign%20lets%20you%20manage,or%20to%20the%20entire%20workflow.){target="_blank"}
+* [Recurring and periodic campaigns](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html){target="_blank"}
+* [Delivery dashboard](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
+* [Understand delivery failures](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-delivery-failures.html){target="_blank"}
 
-* [Adobe Campaign Standard 보고](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
-* [KPI란? 정의 및 예](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
-* [마케팅 캠페인 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ko){target="_blank"}
-* [템플릿 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
-* [다이내믹 콘텐츠 블록을 사용하여 전자 메일 개인화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
-* [쿼리](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
-* [게재 보고서](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/delivery-reports.html?lang=ko){target="_blank"}
-* [캠페인에서 승인 관리](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=ko-KR){target="_blank"}
-* [표준 시간대 관리](https://experienceleague.adobe.com/docs/campaign/automation/workflows/advanced-management/managing-time-zones.html?lang=en#:~:text=Adobe%20Campaign%20lets%20you%20manage,or%20to%20the%20entire%20workflow.){target="_blank"}
-* [반복 및 정기 캠페인](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html?lang=ko){target="_blank"}
-* [게재 대시보드](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
-* [게재 오류 이해](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-delivery-failures.html?lang=ko){target="_blank"}
+**Section 2**
 
-**섹션 2**
+* [Workflow activities](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-activities.html){target="_blank"}
+* [Technical workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html){target="_blank"}
+* [Default groups](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=en#default-groups){target="_blank"}
+* [Wait](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/execution-activities/wait.html?lang=en#:~:text=Wait-,Description,executes%20the%20activities%20placed%20afterwards.){target="_blank"}
+* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html){target="_blank"}
 
-* [워크플로우 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-activities.html){target="_blank"}
-* [기술 워크플로우](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=ko){target="_blank"}
-* [기본 그룹](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=en#default-groups){target="_blank"}
-* [대기](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/execution-activities/wait.html?lang=en#:~:text=Wait-,Description,executes%20the%20activities%20placed%20afterwards.){target="_blank"}
-* [Campaign Classic v7에서 Campaign v8로 전환](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ko){target="_blank"}
+**Section 3**
 
-**섹션 3**
+* [Use workflow data](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html){target="_blank"}
+* [Targeting activities in workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
+* [Data reconciliation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
+* [Get started with data import and export](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html){target="_blank"}
+* [Cells](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/cells.html){target="_blank"}
+* [List update](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html){target="_blank"}
+* [Get started with data import and export](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html){target="_blank"}
+* [Import and export data using workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/import-export-workflows.html){target="_blank"}
+* [Data extraction (file)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/extraction--file-.html){target="_blank"}
 
-* [워크플로우 데이터 사용](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html){target="_blank"}
-* [워크플로우에서 활동 타기팅](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
-* [데이터 조정](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
-* [데이터 가져오기 및 내보내기 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=ko){target="_blank"}
-* [셀](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/cells.html){target="_blank"}
-* [목록 업데이트](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html){target="_blank"}
-* [데이터 가져오기 및 내보내기 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=ko){target="_blank"}
-* [워크플로우를 사용하여 데이터 가져오기 및 내보내기](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/import-export-workflows.html?lang=ko){target="_blank"}
-* [데이터 추출(파일)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/extraction--file-.html){target="_blank"}
+**Section 4**
 
-**섹션 4**
+* [Direct mail delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
+* [Personalization blocks](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html){target="_blank"}
+* [Configure and send the delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html){target="_blank"}
+* [About campaign typologies](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html){target="_blank"}
+* [Delivery dashboard](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
+* [Preview and test your email](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"} 
 
-* [DM 게재](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
-* [개인화 블록](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=ko){target="_blank"}
-* [게재 구성 및 보내기](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html){target="_blank"}
-* [캠페인 유형화 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ko){target="_blank"}
-* [게재 대시보드](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
-* [전자 메일 미리 보기 및 테스트](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"}
+**Section 5**
 
-**섹션 5**
+* [Get started with reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
+* [Indicator calculation](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
+* [Use the descriptive analysis wizard](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
+* [Adobe Campaign Classic Menus Authorizations](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
+* [Use named rights to set up permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
-* [보고 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
-* [지표 계산](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
-* [설명 분석 마법사 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
-* [Adobe Campaign Classic 메뉴 승인](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
-* [명명된 권한을 사용하여 사용 권한을 설정합니다](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+## Renew your certification
 
-## 인증 갱신
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the **Adobe [!DNL Campaign Classic] Business Practitioner Professional Renewal Exam - AD5-E841** link below.
 
-위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 **Adobe [!DNL Campaign Classic] 비즈니스 전문가 갱신 시험 - AD5-E841** 링크를 클릭하십시오.
-
-[Adobe 수강 [!DNL Campaign Classic] 비즈니스 전문가 갱신 시험 - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
+[Take the Adobe [!DNL Campaign Classic] Business Practitioner Professional Renewal Exam - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E841){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-+++Adobe [!DNL Campaign Classic] 개발자 전문가 갱신
++++Adobe [!DNL Campaign Classic] Developer Professional Renewal
 
-## 갱신하려면 다음 **활성** 인증이 있어야 합니다.
+## You must have the following **active** certifications to renew:
 
 Adobe [!DNL Campaign Classic] Developer Professional
 
-## 인증 갱신 방법:
+## How to renew your certification:
 
-* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
-* **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 준비
+## Get ready
 
-**시험 세부 정보**
+**Exam details**
+  
+* Passing Score: 31/41
+* Time: 82 minutes
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Exam ID: AD5-E851 - Adobe [!DNL Campaign Classic] Developer Professional
 
-* 합격 점수: 31/41
-* 시간: 82분
-* 비용: 무료/비관리됨
-* 배달: 온디맨드
-* 사용 가능한 언어: 영어
-* 시험 ID: AD5-E851 - Adobe [!DNL Campaign Classic] Developer Professional
+**Scope and objectives**
 
-**범위 및 목표**
+Section 1: System Configuration 26%
 
-섹션 1: 시스템 구성 26%
+* Demonstrate system-wide configuration of settings in the Administration node
+* Apply the process to extend the OOTB Recipient schema
+* Define schema details (primary keys, auto primary keys, database indexes)
+* Distinguish the applicable uses of Form Renderings
+* Distinguish system-wide configuration settings that affect the workspace/project level
+* Identify configuration settings for SFTP external accounts
+* Identify the configuration settings for Open and Closed enumerations
+* Differentiate Typology Rule Types
+* Identify requirements to utilize a custom Target Map and its effects to OOTB functionality
+* Describe how externally-generated audiences from other Adobe Experience Cloud solutions are accessed in Adobe Campaign
+* Describe the business use case for interactions and offers
+* Describe the business use case for Message Center
+* Identify V8 API data import functionality
 
-* 관리 노드에서 시스템 전체 설정 구성 시연
-* OOTB 수신자 스키마를 확장하는 프로세스 적용
-* 스키마 세부 정보 정의(기본 키, 자동 기본 키, 데이터베이스 인덱스)
-* 양식 렌더링의 적용 가능한 사용 구분
-* 작업 영역/프로젝트 수준에 영향을 주는 시스템 전체 구성 설정 구분
-* SFTP 외부 계정에 대한 구성 설정 식별
-* 열기 및 닫힘 열거형에 대한 구성 설정 식별
-* 유형화 규칙 유형 차별화
-* 사용자 지정 Target 맵을 활용하기 위한 요구 사항과 OOTB 기능에 대한 영향을 식별합니다
-* Adobe Campaign에서 다른 Adobe Experience Cloud 솔루션의 외부에서 생성된 대상자에 액세스하는 방법을 설명합니다
-* 상호 작용 및 오퍼에 대한 비즈니스 사용 사례 설명
-* 메시지 센터의 비즈니스 사용 사례 설명
-* V8 API 데이터 가져오기 기능 식별
+Section 2: Customization 16%
 
-섹션 2: 사용자 정의 16%
+* Apply the process to edit Campaign schemas
+* Identify the settings to ensure correct schema extension or configure custom schemas
+* Describe the use case for customized Options 
+* Describe the use case for Seedlists 
+* Modify the OOTB opt-out / Unsubscribe web app 
+* Apply the process to create Content Management components
+* Identify the use cases to use Content Management
+* Apply to process to update the OOTB forms 
 
-* Campaign 스키마를 편집하려면 프로세스 적용
-* 설정을 식별하여 스키마 확장이 올바른지 확인하거나 사용자 지정 스키마를 구성하십시오
-* 사용자 지정된 옵션의 사용 사례 설명
-* 시드 목록의 사용 사례 설명
-* OOTB 옵트아웃/구독 취소 웹 앱 수정
-* 컨텐츠 관리 구성 요소를 만드는 프로세스 적용
-* 콘텐츠 관리 사용을 위한 사용 사례 식별
-* 프로세스에 적용하여 OOTB 양식 업데이트
+Section 3: Operational Security 10%
 
-섹션 3: 운영 보안 10%
+* Describe the process for adding user groups and roles
+* Apply the process to translate the user management matrix with correct user rights and hierarchy
+* Identify and define the correct permissions
+* Identify the security zone for a user group 
 
-* 사용자 그룹 및 역할 추가 프로세스 설명
-* 프로세스를 적용하여 올바른 사용자 권한 및 계층으로 사용자 관리 매트릭스 번역
-* 올바른 권한 식별 및 정의
-* 사용자 그룹에 대한 보안 영역 식별
+Section 4: Technical Workflows 30%
 
-섹션 4: 기술 워크플로우 30%
+* Apply the process to import/export 
+* Identify the different sources of data that a workflow can access
+* Apply the process to transform data and manipulate the work table 
+* Enumerate applicable workflow activities and their features/properties 
+* Apply the process to configure workflow properties 
+* Extend activity functionality using the Expression Editor 
+* Distinguish the difference between the OOTB workflows and user-created workflows 
+* Explain the purpose of the OOTB workflows 
+* Troubleshoot custom workflows 
+* Differentiate between variable types and their scope and usage 
+* Identify the OOTB variables and their use 
+* Apply the process to configure alerts and approvals 
+* Identify type of campaign databases
 
-* 가져오기/내보내기에 프로세스 적용
-* 워크플로우가 액세스할 수 있는 다양한 데이터 소스 식별
-* 프로세스를 적용하여 데이터를 변환하고 작업 테이블을 조작합니다.
-* 적용 가능한 워크플로우 활동 및 해당 기능/속성을 열거합니다.
-* 워크플로우 속성을 구성하는 프로세스 적용
-* 표현식 편집기를 사용하여 활동 기능 확장
-* OOTB 워크플로우와 사용자가 만든 워크플로우의 차이점 구별
-* OOTB 워크플로우의 목적 설명
-* 사용자 지정 워크플로우 문제 해결
-* 변수 유형과 해당 범위 및 사용을 구분합니다.
-* OOTB 변수 및 그 사용 식별
-* 프로세스를 적용하여 경고 및 승인 구성
-* 캠페인 데이터베이스 유형 식별
+Section 5: Instance Maintenance 4%
 
-섹션 5: 인스턴스 유지 관리 4%
+* Identify errors from different service logs
+* Explain Workflow Heatmap readings
 
-* 다른 서비스 로그에서 오류 식별
-* 워크플로우 히트맵 읽기 설명
+Section 6: Campaign Configuration 14%
 
-섹션 6: 캠페인 구성 14%
+* Apply the process to create campaigns using Campaign templates 
+* Describe the process to create approvals 
+* Identify errors by analyzing audit logs 
+* Identify the usage of different deliveries, given a campaign scenario
+* Define the process to create the advanced process in workflows
+* Describe workflow execution methods
 
-* 캠페인 템플릿을 사용하여 캠페인을 만드는 프로세스 적용
-* 승인 생성 프로세스 설명
-* 감사 로그를 분석하여 오류 식별
-* 캠페인 시나리오가 주어지면 다른 게재의 사용을 식별합니다
-* 워크플로우에서 고급 프로세스를 만들기 위한 프로세스 정의
-* 워크플로우 실행 방법 설명
+## Get prepped
 
-## 준비 완료
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+Here are some suggested resources to help you prepare:
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+**Section 1**
 
-**섹션 1**
+* [Campaign Settings FAQ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
+* [Use a custom recipient table](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [Importing and exporting audiences](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
+* [Implement SOAP methods](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
+* [Work with data packages](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Database mapping](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [Connect Campaign with your solutions](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
+* [Campaign-specific External Accounts](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
+* [Apply a typology to a delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
 
-* [캠페인 설정 FAQ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
-* [사용자 지정 받는 사람 테이블 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
-* [대상자 가져오기 및 내보내기](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
-* [SOAP 메서드 구현](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
-* [데이터 패키지를 사용하여 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
-* [데이터베이스 매핑](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
-* [솔루션과 Campaign 연결](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
-* [캠페인별 외부 계정](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
-* [게재에 유형화 적용](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
+**Section 2**
 
-**섹션 2**
+* [Schema structure](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
+* [Seed addresses](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
+* [Publication templates](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
+* [Use data schemas in Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/data-schemas.html){target="_blank"}
+* [Edit forms](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/editing-forms.html){target="_blank"}
 
-* [스키마 구조](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
-* [시드 주소](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
-* [게시 템플릿](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
-* [Campaign에서 데이터 스키마 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/data-schemas.html){target="_blank"}
-* [양식 편집](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/editing-forms.html){target="_blank"}
+**Section 3**
 
-**섹션 3**
+* [Create and manage operators](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Use named rights to set up permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
-* [연산자 만들기 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
-* [명명된 권한을 사용하여 사용 권한을 설정합니다](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+**Section 4**
 
-**섹션 4**
+* [Adobe Campaign Classic v7 & Campaign v8](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Classic/Generate-a-file-and-download-it-in-local-PC-in-a-Campaign/td-p/307934){target="_blank"}
+* [Unzip or decrypt a file](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/managing-data-encryption-compression/unzip-decrypt.html){target="_blank"}
+* [Advanced capabilities](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/creating-new-reports/advanced-functionalities.html){target="_blank"}
+* [Delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html){target="_blank"}
+* [Alert](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/alert.html){target="_blank"}
+* [Database mapping](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [Use aggregates](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html){target="_blank"}
+* [File transfer](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html){target="_blank"}
+* [Error management](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
+* [Dates](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
 
-* [Adobe Campaign Classic v7 및 Campaign v8](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Classic/Generate-a-file-and-download-it-in-local-PC-in-a-Campaign/td-p/307934){target="_blank"}
-* [파일 압축 풀기 또는 암호 해독](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/managing-data-encryption-compression/unzip-decrypt.html?lang=ko){target="_blank"}
-* [고급 기능](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/creating-new-reports/advanced-functionalities.html){target="_blank"}
-* [게재](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=ko){target="_blank"}
-* [경고](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/alert.html){target="_blank"}
-* [데이터베이스 매핑](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
-* [집계 사용](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html){target="_blank"}
-* [파일 전송](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html){target="_blank"}
-* [오류 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
-* [날짜](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
+**Section 5**
 
-**섹션 5**
+* [Workflow Heatmap](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/monitoring/workflow-heatmap.html){target="_blank"}
 
-* [워크플로우 Heatmap](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/monitoring/workflow-heatmap.html){target="_blank"}
+**Section 6**
 
-**섹션 6**
-
-* [컨트롤 그룹 사용](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
-* [승인 정의](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
-* [워크플로우 실행 모니터링](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=ko){target="_blank"}
-* [반복 게재](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
+* [Use control groups](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
+* [Define approvals](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
+* [Monitor workflow execution](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html){target="_blank"}
+* [Recurring delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
 * [Adobe Campaign Standard](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Standard/Issue-with-Mobile-App-Integration-in-Adobe-Campaign/qaq-p/330913/comment-id/8286){target="_blank"}
-* [워크플로우 시작](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html?lang=ko){target="_blank"}
+* [Start a workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html){target="_blank"}
 
-## 인증 갱신
+## Renew your certification
 
-위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 **Adobe [!DNL Campaign Classic] 개발자 전문가 갱신 시험 - AD5-E851** 링크를 클릭하십시오.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the **Adobe [!DNL Campaign Classic] Developer Professional Renewal Exam - AD5-E851** link below.
 
-[Adobe 수강 [!DNL Campaign Classic] 개발자 전문가 갱신 시험 - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
+[Take the Adobe [!DNL Campaign Classic] Developer Professional Renewal Exam - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E851){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB 전문가 및 기본]
+>[!TAB Expert and Master]
 
-## 다음 위치에서 현재 인증(만료되지 않음)을 받아야 합니다.
+## You should be currently certified (not expired) in:
 
-* Adobe [!DNL Campaign Classic] 개발자 전문가
-* Adobe [!DNL Campaign Classic] 비즈니스 전문가
-* Adobe [!DNL Campaign Classic] Architect 기본
+* Adobe [!DNL Campaign Classic] Developer Expert
+* Adobe [!DNL Campaign Classic] Business Practitioner Expert
+* Adobe [!DNL Campaign Classic] Architect Master
 
-## 인증 갱신 방법:
+## How to renew your certification:
 
-* **1단계**: [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 로그인한 후 이 페이지로 돌아가기
-* **2단계**: 시험 목표 및 리소스 검토
-* **3단계**: 시험 응시
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 준비
+## Get ready
 
-**시험 세부 정보**
+**Exam details**
+  
+* Passing Score: 42/55
+* Time: 110 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Campaign Classic] expert and/or master certification
+* Exam ID: AD5-E823
 
-* 합격 점수: 42/55
-* 시간: 110분
-* 비용: 무료/비관리됨
-* 배달: 온디맨드
-* 사용 가능한 언어: 영어
-* 전제 조건: 현재(만료되지 않음) Adobe [!DNL Campaign Classic] 전문가 및/또는 마스터 인증
-* 시험 ID: AD5-E823
+**Scope and objectives**
 
-**범위 및 목표**
+Section 1: Installation and system configuration (23%)
 
-섹션 1: 설치 및 시스템 구성(23%)
+* Given a scenario, determine which options should be used (i.e., moving things from stage to production)
+* Ability to use Packages to migrate between instances
+* Explain how deployment Wizard settings impact deliverability
+* Outline the underlying infrastructure of the hosting model available for Adobe [!DNL Campaign Classic] v8
+* Describe commonly used OOTB functions
+* Explain integration with other Adobe Experience Cloud products
+* Explain integration using standard external accounts
 
-* 시나리오가 주어지면 어떤 옵션을 사용해야 하는지 결정합니다(즉, 사물을 단계에서 프로덕션으로 이동)
-* 패키지를 사용하여 인스턴스 간에 마이그레이션하는 기능
-* 배포 마법사 설정이 전달성에 미치는 영향 설명
-* Adobe [!DNL Campaign Classic] v8에 사용할 수 있는 호스팅 모델의 기본 인프라 개요
-* 일반적으로 사용되는 OOTB 함수 설명
-* 다른 Adobe Experience Cloud 제품과의 통합 설명
-* 표준 외부 계정을 사용한 통합 설명
+Section 2: Customization (18%)
 
-섹션 2: 사용자 정의(18%)
+* Describe best practices for using SQL functions in Adobe Campaign
+* Describe best practices for developing with JavaScript in Adobe Campaign
+* Given a set of requirements, apply best practices around a data model
+* Describe the requirements and processes for access management
+* Describe folder structure management
 
-* Adobe Campaign에서 SQL 함수를 사용하는 모범 사례 설명
-* Adobe Campaign에서 JavaScript을 사용하여 개발하기 위한 모범 사례 설명
-* 요구 사항 세트가 주어지면 데이터 모델에 대한 모범 사례를 적용합니다
-* 액세스 관리에 대한 요구 사항 및 프로세스 설명
-* 폴더 구조 관리 설명
+Section 3: Data architecture (22%)
 
-섹션 3: 데이터 아키텍처(22%)
+* Identify the data storage differences in v8
+* Identify the built-in workflows that synchronize local data to Snowflake
+* Explain when to use staging tables vs direct writes to Snowflake
+* Identify the new API commands in Batch processing and when/how to use
+* Given a scenario, explain how to create custom schemas (how to use other schemas as template, sys filters, locking down data, links)
+* Explain the integration between different solutions and Campaign such as Adobe Experience Platform and Journey Optimizer
 
-* v8의 데이터 스토리지 차이점 식별
-* 로컬 데이터를 Snowflake에 동기화하는 내장 워크플로우를 식별합니다
-* 스테이징 테이블과 Snowflake에 직접 쓰기 사용 시기 설명
-* 일괄 처리에서 새로운 API 명령 식별 및 사용 시기/방법
-* 시나리오가 주어지면 사용자 지정 스키마를 만드는 방법(다른 스키마를 템플릿, 시스템 필터, 데이터 잠금, 링크로 사용하는 방법)을 설명합니다.
-* Adobe Experience Platform 및 Journey Optimizer과 같은 다양한 솔루션과 Campaign 간의 통합 설명
+Section 4: Campaign, workflow, delivery, and reporting (37%)
 
-섹션 4: 캠페인, 워크플로우, 게재 및 보고(37%)
+* Apply best practices to build a campaign
+* Given a scenario, analyze workflow errors
+* Given a scenario, analyze delivery errors around target mapping
+* Describe workflow practices that have a negative impact on performance
+* Given a use case, recommend targeting workflow design
+* Apply delivery and approval settings
+* Given a scenario, determine the appropriate report(s) to generate
+* Given a scenario, select the best approach to integrate with external data sources
+* Apply data integration techniques within a workflow
+* Describe functionality in the workflow activity palette
+* Troubleshoot or configure an instance using Control Panel
 
-* 모범 사례를 적용하여 캠페인 구축
-* 시나리오가 주어지면 워크플로우 오류 분석
-* 시나리오가 주어지면 대상 매핑에 대한 게재 오류를 분석합니다
-* 성능에 부정적인 영향을 미치는 워크플로우 사례 설명
-* 사용 사례가 주어지면 타겟팅 워크플로우 설계를 권장합니다
-* 게재 및 승인 설정 적용
-* 시나리오가 주어지면 생성할 적절한 보고서를 결정합니다
-* 시나리오가 주어지면 외부 데이터 소스와 통합하는 가장 좋은 방법을 선택합니다
-* 워크플로우 내에서 데이터 통합 기법 적용
-* 워크플로우 활동 팔레트의 기능 설명
-* Campaign 컨트롤 패널을 사용하여 인스턴스 문제 해결 또는 구성
+## Get prepped
 
-## 준비 완료
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-시험에 응시하기 전에 훈련을 이수할 필요가 없으며, 훈련만으로는 시험에 합격하는 데 필요한 지식과 기술을 제공할 수 없습니다. 교육과 성공적인 현장 경험을 결합하여 시험의 합격에 필요한 저장소를 제공하는 것은 매우 중요합니다.
+Here are some suggested resources to help you prepare:
 
-다음은 준비하는 데 도움이 되는 몇 가지 권장 리소스입니다.
+**Section 1: Installation and system configuration**
 
-**섹션 1: 설치 및 시스템 구성**
+* [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [Work with data packages](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Deploying an instance](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
+* [Integrating with Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
-* [패키지 관리](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [데이터 패키지를 사용하여 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
-* [인스턴스 배포](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
-* [Adobe과 통합 [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
+**Section 2: Customization**
 
-**섹션 2: 사용자 지정**
+* [JavaScript scripts and templates](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
+* [Data model best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
+* [Create and manage operators](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Manage access to folders](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
-* [JavaScript 스크립트 및 템플릿](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [데이터 모델 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [연산자 만들기 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
-* [폴더에 대한 액세스 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
+**Section 3: Data architecture**
 
-**섹션 3: 데이터 아키텍처**
+* [Transition from [!DNL Campaign Classic] v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html){target="_blank"}
+* [Work with Sources and Destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [About Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
-* [Campaign v7에서  [!DNL Campaign Classic] v8로 전환](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ko){target="_blank"}
-* [원본 및 대상 작업](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
-* [특정 FFDA 캠페인 API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
-* [Adobe ID 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
+**Section 4: Campaign, workflow, delivery, and reporting**
 
-**섹션 4: 캠페인, 워크플로우, 게재 및 보고**
+* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+* [Set up and manage the approval process](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [Enrichment](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
+* [Import and export best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 
-* [워크플로우 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
-* [승인 프로세스 설정 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
-* [데이터 보강](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
-* [가져오기 및 내보내기 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+## Renew your certification
 
-## 인증 갱신
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Campaign Classic renewal - AD5-823 link below.
 
-위의 1단계를 따라 [Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe){target="_blank"}에 먼저 로그인했는지 확인하십시오. 그런 다음 인증을 갱신하려면 아래의 Campaign Classic 갱신 - AD5-823 링크를 클릭하십시오.
-
-[Adobe 수강 [!DNL Campaign Classic] 비즈니스 전문가, 개발자 및 설계자 시험에 대한 갱신 - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+[Take the Adobe [!DNL Campaign Classic] renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
->이 시험은 자유롭고, 책을 펴놓고, 감독하지 않는다. 3번까지 시험을 볼 수 있습니다. 세 번째 시도 후 실패한 경우 **30일**&#x200B;을(를) 기다린 후 다시 시도하십시오. 이를 준수하지 않으면 인증이 취소될 수 있습니다.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 >[!ENDTABS]
 
-## 질문
+## Questions
 
-인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-추가 질문? [문의하기](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

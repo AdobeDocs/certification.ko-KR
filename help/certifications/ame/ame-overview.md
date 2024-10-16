@@ -4,10 +4,10 @@ description: Adobe Marketo Engage의 인증 옵션 개요
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 9cdd882f1946ed46fb403ae3040e1184a8ed822e
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 20%
+source-wordcount: '23'
+ht-degree: 34%
 
 ---
 
@@ -25,4 +25,5 @@ ht-degree: 20%
 
 * [설계자](/help/certifications/ame/ame-m-architect-23-08.md) <!--AD0-E560-->
 
-이 제품에 대해 갱신 옵션을 사용할 수 있는지 확인하려면 [인증 갱신](/help/certifications/renew.md) 페이지를 방문하세요.
+{{questions}}
+

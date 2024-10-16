@@ -4,10 +4,10 @@ description: Adobe Commerce의 인증 옵션 개요
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 15%
+source-wordcount: '27'
+ht-degree: 25%
 
 ---
 
@@ -29,4 +29,5 @@ ht-degree: 15%
 
 * [설계자](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
-이 제품에 대해 갱신 옵션을 사용할 수 있는지 확인하려면 [인증 갱신](/help/certifications/renew.md) 페이지를 방문하세요.
+{{questions}}
+

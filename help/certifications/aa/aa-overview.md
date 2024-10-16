@@ -4,10 +4,10 @@ description: Adobe Analytics의 인증 옵션 개요
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 17%
+source-wordcount: '24'
+ht-degree: 29%
 
 ---
 
@@ -27,4 +27,5 @@ ht-degree: 17%
 
 * [설계자](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-이 제품에 대해 갱신 옵션을 사용할 수 있는지 확인하려면 [인증 갱신](/help/certifications/renew.md) 페이지를 방문하세요.
+{{questions}}
+

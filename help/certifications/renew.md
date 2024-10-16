@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -16,27 +16,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Adobe 인증을 유지하려면 2년마다 갱신해야 합니다. 인증서가 만료되기 전에 인증서를 갱신하지 않으면 전체 인증 시험에 다시 응시해야 다시 인증을 받을 수 있습니다.
+<!--
 
-[Adobe 자격 증명 관리 시스템](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}의 **인증** 탭에서 현재 및 만료된 인증을 봅니다.
+To maintain your Adobe certification, you must renew it every 2 years. If you do not renew your certification before it expires, you will need to take the full certification exam again to become re-certified.
 
-## 인증을 어떻게 갱신합니까?
+View your current and expired certifications under the **Certifications** tab, in the [Adobe Credential Management system](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
-Adobe 인증 갱신은 간단합니다! 보유하고 있는 자격증에 따라, 지속적인 학습 활동 및 평가 합격을 통해 업무를 수행하거나 비관리 온디맨드 직무 역할 시험에 합격하여 재계약을 완료합니다.
+## How do I renew my certification?
 
-## 학습 리소스
+Renewing your Adobe certification is easy! Depending on which certification you hold, you will complete your renewal by working through continuous learning activities and passing assessments, or by passing a non-proctored, on-demand job role exam. 
 
-Adobe의 지원을 통해 Adobe Experience Cloud 인증 갱신은 전문 지식을 유지하고 디지털 시장에서 경쟁력을 유지할 수 있는 간단한 프로세스입니다.
+## Study resources
 
-Adobe은 다음과 같은 다양한 리소스 및 도구를 제공하여 인증을 갱신할 수 있습니다.
+With Adobe's support, renewing an Adobe Experience Cloud Certification is a straightforward process that enables you to maintain your expertise and stay competitive in the digital marketplace.
 
-* 온라인 교육 과정 액세스
-* 튜토리얼
-* 학습 자료
+Adobe offers various resources and tools to help you renew your certification, including:
 
-## 비용이 얼마나 들죠?
+* Access to online courses
+* Tutorials
+* Study materials
 
-대부분의 인증은 **무료로**&#x200B;갱신할 수 있습니다. 일부 인증서는 아직 무료 갱신 옵션이 없다. 이러한 인증을 갱신하려면 전체 인증 시험에 다시 응시해야 합니다.
+## How much does it cost?
+
+Most certifications can be renewed **free of charge**. Some certifications do not yet have a free renewal option. To renew those certifications, you will need to retake the full certification exam.
 
 <!-- 
 
@@ -61,8 +63,4 @@ The certifications found under the links below can be renewed for free, either t
 
 -->
 
-## 질문
-
-인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
-
-추가 질문? [문의하기](mailto:certif@adobe.com).
+{{questions}}

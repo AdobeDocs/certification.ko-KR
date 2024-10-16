@@ -7,9 +7,9 @@ role: User
 badge: label="시험 AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -18,23 +18,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->이제 시험을 준비하는 데 도움이 되는 무료 온디맨드 리소스를 사용할 수 있습니다.
->
->* **과정:** 처음 시작했거나 새로 고침이 필요한 경우 [Adobe Experience Platform 기초 과정](https://app.rockinfo.com/courses/216)을 통해 주요 개념, 제품 둘러보기 및 지식 검사에 대한 설명에 액세스하십시오. 이 교육 과정은 인증 여정에서 기반으로 삼을 수 있는 지식의 기반을 제공합니다.
->
->* **시험 준비 안내서:** [시험 준비 안내서](https://app.rockinfo.com/courses/131)는 이 자격증 취득에 필요한 자료를 포함하여 자격증 시험 준비 과정을 통해 맞춤 경로를 제공합니다.
->
->_로그인하라는 메시지가 표시되면 Adobe ID을 사용하십시오._
-
-## 시험 설명 {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### 시험 세부 정보 {#exam-details}
+## 시험 세부 정보 {#exam-details}
 
 * 레벨: 전문가(0~12개월 경력)
 * 합격 점수: 36/50
@@ -44,149 +28,4 @@ ht-degree: 0%
 * 비용: 125달러(전세계) / 95달러(인도)
 * 시험 ID: AD0-E608
 
-<br>
-
-### 의도한 대상 {#intended-audience}
-
-* 비즈니스 분석가
-* 비즈니스 컨설턴트
-* 데이터 분석가
-* 웹 분석가
-* 디지털 분석가
-* 미디어/마케팅 분석가
-* 제품 소유자 및 관리자
-* 전환/최적화 전문가
-
-<br>
-
-### 최소 경험 {#minimum-experience}
-
-최소 자격을 갖춘 이상적인 후보자는 Adobe [!DNL Customer Journey Analytics]에서 최소 6개월 이상의 경험을 가지고 있고 [!DNL Adobe Experience Platform]과(와) 함께 작동하는 방식에 대한 기본 지식을 갖춘 분석가입니다. 후보는 적절한 보고 및 시각화 옵션을 사용하여 주어진 비즈니스 요구에 대한 기본 및 고급 분석을 수행할 수 있습니다.
-
-<br>
-
-### 시험 목표 및 범위 {#exam-objectives}
-
-{{exam-objectives}}
-
-**섹션 1: 구성 요소(30%)**
-
-* 비즈니스 질문을 관련 구성 요소로 번역
-* 적절한 구성 요소 및 필터를 사용하여 데이터 하위 집합 만들기
-* 비즈니스 관련 질문에 답변할 수 있는 비관리 구성 요소 구축
-
-**섹션 2: 보고(32%)**
-
-* 비즈니스 관련 질문에 적합한 시각화 또는 표 결정
-* 데이터 소스, ID 및 날짜 범위를 기반으로 사용할 데이터 보기 결정
-* 날짜 범위 사용 및 적용 방법 결정
-
-**섹션 3: 배포(12%)**
-
-* 주요 관련자와 보고서 예약 및 공유
-* 특정 보고서 또는 대시보드에서 사용할 수 있는 필드 조정
-* 프로젝트를 논리적인 방식으로 구성
-
-**섹션 4: 데이터 분석(26%)**
-
-* 탐색적 분석을 수행하고 결과를 해석하여 통찰력 제공
-* 다른 AEP 도구와 공유할 대상 평가
-* 분석을 위한 올바른 구성 요소 선택
-
-<br>
-
-## 인증 받는 방법 {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++1단계: 계정 만들기
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++2단계: 이 무료 학습 자료로 시험 준비
-
-**학습 자료**
-
-{{study-materials-intro}}
-
-**연습 테스트 실시**
-
-{{practice-test}}
-
-**강의 수강**
-
-{{take-course}}
-
-<a href="https://app.rockinfo.com/courses/216" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Adobe Experience Platform 기초 과정 수강
-</span>
-</a>
-
-**시험 준비 가이드**
-
-{{exam-prep-guide}}
-
-[시험 준비 가이드 보기](https://app.rockinfo.com/courses/131)
-
-+++
-
-<br>
-
-+++3단계: 시험 일정 및 지불
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++4단계: 시험 전후에
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++5단계: 시험 응시
-
-{{about-certification-exam}}
-
-## AD0-E608 시험 예약 또는 시험 응시
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   예제 포털로 이동
-</span>
-</a>
-
-+++
-
-<br>
-
-+++6단계: 배지 관리
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## 인증 갱신
-
-{{renewing-intro}}
-
-<br>
-
-## 질문
-
-인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
-
-추가 질문? [문의하기](mailto:certif@adobe.com).
+{{questions}}

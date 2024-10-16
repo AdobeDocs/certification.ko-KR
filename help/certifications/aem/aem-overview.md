@@ -3,10 +3,10 @@ title: Experience Manager 인증 개요
 description: Adobe Experience Manager의 인증 옵션 개요
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 7%
+source-wordcount: '84'
+ht-degree: 9%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 7%
 
 * [Architect(사이트)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-이 제품에 대해 갱신 옵션을 사용할 수 있는지 확인하려면 [인증 갱신](/help/certifications/renew.md) 페이지를 방문하세요.
+{{questions}}

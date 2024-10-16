@@ -1,12 +1,12 @@
 ---
 title: 인증 홈
-description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다. 인증을 받으면 무엇을 할 수 있는지 알아보십시오.
+description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다. 인증을 받으면 무엇을 할 수 있는지 알아봅니다.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '542'
 ht-degree: 5%
 
 ---
@@ -75,8 +75,4 @@ Adobe 디지털 경험 인증 프로그램에 대해 학습하여 전문가의 �
 
 Adobe [!DNL Creative Cloud] 인증을 찾고 계십니까? Creative Cloud 프로그램에서 인증을 받는 방법에 대해 알아보려면 [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} 웹 사이트를 방문하십시오.
 
-## 질문
-
-인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
-
-추가 질문? [문의하기](mailto:certif@adobe.com).
+{{questions}}

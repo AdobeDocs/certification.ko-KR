@@ -3,10 +3,10 @@ title: Workfront 인증 개요
 description: Adobe Workfront의 인증 옵션 개요
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 14%
+source-wordcount: '31'
+ht-degree: 22%
 
 ---
 
@@ -25,4 +25,5 @@ ht-degree: 14%
 * [개발자(핵심)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
 * [AEM 강화 커넥터](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-이 제품에 대해 갱신 옵션을 사용할 수 있는지 확인하려면 [인증 갱신](/help/certifications/renew.md) 페이지를 방문하세요.
+{{questions}}
+
