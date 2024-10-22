@@ -4,75 +4,75 @@ description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+source-git-commit: 9838d4a95fe41718059ffd5bc6f374eaabf3a8e1
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 5%
+source-wordcount: '377'
+ht-degree: 3%
 
 ---
 
-# Adobe의 인증에 오신 것을 환영합니다!
-
-Adobe에서 Experience Cloud 인증에 대해 알아보고 인증을 받는 것이 어떤 도움이 되는지 알아보십시오.
-
 ![배너](/help/certifications/assets/home_banner_smallwide.png)
 
->[!NOTE]
->Adobe 디지털 경험 인증 프로그램 업데이트
->
->**Adobe 디지털 환경 인증 프로그램이 진행 중입니다!** 새 Adobe 인증 포털은 2024년 10월 22일에 시작됩니다. 다음 **중요 날짜:**&#x200B;을(를) 기록해 두십시오.
->
->* **2024년 10월 14일:** 데이터를 새 포털로 마이그레이션하는 동안에는 시험 일정, 연습 테스트 및 Adobe 자격 증명 관리 시스템에 대한 액세스를 사용할 수 없습니다.
->* **2024년 10월 22일:** Adobe 인증 포털이 시작됩니다! 모든 시험 정보, 학습 리소스 및 일정 관리 기능과 함께 인증 기록을 새 포털에서 사용할 수 있습니다. 2021년 1월 1일에 거슬러 올라가는 연습 테스트 점수와 코칭 보고서 또한 귀하의 계정에서 사용할 수 있습니다.
->
->새 Adobe 인증 포털에 로그인하는 방법에 대한 자세한 내용은 10월 22일에 여기에서 다시 확인하십시오!
+# Adobe 디지털 경험 인증 프로그램이 이동되었습니다!
 
-Adobe 디지털 경험 인증 프로그램은 Adobe [!DNL Experience Cloud] 제품에서 실력을 입증하는 데 도움이 되도록 만들어졌습니다. Adobe 인증을 획득하면 전문성을 발휘하고 고객과 고용주 모두에게 깊은 인상을 줄 수 있습니다.
+새 [Adobe 인증 포털](https://certification.adobe.com/){target="_blank"}에서 찾을 수 있습니다. 포털의 기능에 대해 알아보고 아래에서 시작하는 방법을 알아보십시오.
 
-Adobe [!DNL Experience Cloud]은(는) 기업이 웹, 모바일, 이메일 및 소셜 미디어를 비롯한 여러 채널에서 개인화된 고객 경험을 제공할 수 있도록 하는 디지털 마케팅 솔루션 제품군입니다. Adobe [!DNL Experience Cloud]에는 Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], Adobe [!DNL Commerce], Adobe [!DNL Journey Optimizer], Adobe [!DNL Customer Analytics] 등과 같은 다양한 제품이 포함되어 있습니다.
+## 새로운 Adobe 인증 포털에는 어떤 기능이 있습니까?
 
-귀하의 숙련도를 증명하고 Adobe 인증을 받아 경력을 한 단계 더 높이십시오.
+이 페이지에서 찾던 모든 항목 및 기타!
 
-[**프로그램별 인증 목록 보기**](#view-all-certifications)
+* 시험 일정 조정
+* 시험 세부 정보
+* 학습 리소스
+* 연습 테스트
+* 배지 확인 및 공유
+* 새로운 기술 교육 과정
+* 새로운 Adobe Digital Experience 커뮤니티
+* 강의 및 인증 활동을 추적하고 공유할 수 있는 새로운 대화형 대시보드
 
-## 인증을 받아야 하는 이유
+## FAQ
 
-Adobe [!DNL Experience Cloud] 인증을 받는 경우 많은 이점이 있습니다.
+### 어디서부터 시작합니까?
 
-* **기술 유효성 검사:** Adobe 인증은 잠재 고객 또는 고용주가 [!DNL Experience Cloud] 솔루션을 효과적으로 사용하는 데 필요한 기술과 지식을 보유하고 있음을 보여 줍니다.
-* **경력 향상:** Adobe 인증을 통해 복잡한 구직 시장에서 두각을 나타내고 채용 또는 승진 가능성을 높일 수 있습니다.
-* **수익 잠재력 향상:** Adobe 자격 증명이 자신의 전문 지식을 증명하므로 인증된 개인이 인증되지 않은 상대보다 더 많은 수익을 얻습니다.
-* **독점 리소스에 대한 액세스:** Adobe 인증을 받으면 교육 자료, Beta 소프트웨어 릴리스 및 지원 포럼과 같은 독점 리소스에 대한 액세스 권한을 얻어서 업계의 최신 소프트웨어 개발 및 트렌드를 최신 상태로 유지할 수 있습니다.
-* **무료 연습 테스트:** Adobe에서 무료 연습 테스트를 제공하여 인증 시험에 대한 완벽한 준비를 보장합니다.
-* **무료 인증 갱신:** Adobe 인증은 2년 동안 유효하며, 대부분의 인증은 주문형 비관리형 시험을 치르거나 지속적인 학습 활동을 완료하여 무료로 갱신할 수 있습니다.
+[오늘 로그인](https://certification.adobe.com/){target="_blank"} 및 프로필 데이터를 확인합니다.
 
-Adobe 디지털 인증 프로그램은 개발자, 비즈니스 실무자, 설계자 등 다양한 분야의 전문가를 위해 설계되었습니다. 숙련된 전문가든 막 시작하는 전문가든 자격증은 경력을 향상시키고 경쟁에서 앞서가는 데 도움이 됩니다.
+그런 다음 [과정](https://certification.adobe.com/courses/?/courses){target="_blank"}, [인증](https://certification.adobe.com/certifications){target="_blank"}, [커뮤니티](https://certification.adobe.com/community/){target="_blank"} 및 [사용자 지정 대시보드](https://certification.adobe.com/user/dashboard){target="_blank"}를 살펴보십시오.
 
-## 시작하기
+### 시험 일정은 어떻게 정합니까?
 
-Adobe 디지털 경험 인증 프로그램에 대해 학습하여 전문가의 잠재력을 발휘하십시오.
+이제 Adobe 인증 포털에서 시험을 예약할 수 있습니다.
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">시작</span></a>
+1. [인증 카탈로그](https://certification.adobe.com/certifications){target="_blank"}(으)로 이동합니다.
+2. 시험 찾기
+3. **일정 또는 시험 보기** 탭으로 이동합니다.
+4. **시험 예약 및 결제** 섹션에서 시험 페이지 링크를 찾을 수 있습니다.
+5. **시험 예약** 단추를 클릭합니다.
 
-## 모든 인증 보기 {#view-all-certifications}
+### 인증 기록은 어디에서 찾을 수 있습니까?
 
-사용 가능한 각 제품 인증에 대한 모든 세부 사항은 왼쪽 목차와 아래 목록에 나열되어 있습니다.
+Adobe 인증 포털에서 활성 인증이 [계정](https://certification.adobe.com/user/certifications){target="_blank"}(으)로 이미 마이그레이션되었습니다. 나머지 사용자 데이터를 마이그레이션하는 동안 계정의 일부 측면이 아직 완전히 채워지지 않을 수 있습니다. 기다려 주셔서 감사합니다!
 
-* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
-* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
-* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
-* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
-* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
-* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
-* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
-* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
-* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
-* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
-* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
-* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
+### 바우처는 어디에서 찾을 수 있습니까?
 
-Adobe [!DNL Creative Cloud] 인증을 찾고 계십니까? Creative Cloud 프로그램에서 인증을 받는 방법에 대해 알아보려면 [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} 웹 사이트를 방문하십시오.
+바우처(Xvoucher에서 전송된 바우처 포함)는 Adobe 인증 포털의 [계정](https://certification.adobe.com/user/purchases){target="_blank"}에 표시됩니다.
 
-{{questions}}
+### 내 인증 배지는 어디에 있습니까?
+
+이제 Adobe 인증 포털에서 배지를 사용할 수 있습니다.
+
+1. **내 계정** > [도전 과제](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}(으)로 이동합니다.
+2. **활성 인증** 위젯을 찾으십시오.
+
+* 배지 확인 페이지를 보려면 **공유** 단추를 클릭하십시오. 해당 페이지에서 소셜 미디어에 공유할 수 있습니다.
+
+* 배지를 다운로드하려면 **배지 썸네일 이미지**&#x200B;를 클릭하십시오.
+
+### Adobe Creative Cloud 인증은 어디에서 찾을 수 있습니까?
+
+Creative Cloud 프로그램에서 인증을 받는 방법에 대해 알아보려면 [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} 웹 사이트를 방문하십시오.
+
+### 질문?
+
+홈 페이지 하단에 있는 [방법 비디오](https://certification.adobe.com/#){target="_blank"}를 보고 [FAQ](https://certification.adobe.com/support/faq){target="_blank"}를 방문하거나 [문의하기](https://certification.adobe.com/support/contactus){target="_blank"}를 참조하세요.
+
+Adobe 디지털 경험 인증 프로그램의 새로운 홈을 살펴보고 새로운 기능을 살펴보게 되어 기쁘게 생각합니다!
