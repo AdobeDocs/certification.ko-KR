@@ -1,7 +1,7 @@
 ---
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 623b5ac3fe79543a23f7ac0f79a688ad4a3c98ec
 workflow-type: tm+mt
-source-wordcount: '2228'
+source-wordcount: '2229'
 ht-degree: 0%
 
 ---
@@ -316,4 +316,4 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 ## 질문 {#questions}
 
-**개 질문?** [문의하기](mailto:certif@adobe.com)
+**개 질문?** [문의하기](https://certification.adobe.com/support/contactus){target="_blank"}
