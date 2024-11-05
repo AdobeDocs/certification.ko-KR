@@ -4,18 +4,20 @@ description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 1c4e5dd4c7955fee989e99c1683734beea7bb6d1
+source-git-commit: 8e6929bf11e7e122e54035c05310e6fa730f1760
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
 
 ---
 
-![배너](/help/certifications/assets/home_banner_smallwide.png)
+
 
 # Adobe 디지털 경험 인증 프로그램이 이동되었습니다!
 
 새 [Adobe 인증 포털](https://certification.adobe.com/){target="_blank"}에서 찾을 수 있습니다. 포털의 기능에 대해 알아보고 아래에서 시작하는 방법을 알아보십시오.
+
+![배너](/help/certifications/assets/home_banner_smallwide.png)
 
 ## 새로운 Adobe 인증 포털에는 어떤 기능이 있습니까?
 
