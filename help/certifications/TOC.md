@@ -2,7 +2,7 @@
 user-guide-title: Adobe에서의 인증
 breadcrumb-title: Adobe에서의 인증
 user-guide-description: Adobe 시  [!DNL Experience Cloud] 인증에 대해 알아봅니다. 인증을 받으면 무엇을 할 수 있는지 알아봅니다.
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -34,12 +34,6 @@ ht-degree: 28%
       + 기본 {#aa-master}
          + [아키텍트](/help/certifications/aa/aa-m-architect.md)
       + [갱신](/help/certifications/aa/aa-renew.md)
-   + Adobe [!DNL Customer Journey Analytics] {#acja}
-      + [Customer Journey Analytics 개요](/help/certifications/acja/acja-overview.md)
-      + 전문가 {#acja-professional}
-         + [비즈니스 전문가](/help/certifications/acja/acja-p-business.md)
-      + 전문가 {#acja-expert}
-         + [Developer](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
       + [Audience Manager 개요](/help/certifications/aam/aam-overview.md)
       + 전문가 {#aam-professional}
@@ -79,6 +73,12 @@ ht-degree: 28%
       + 기본 {#ac-master}
          + [아키텍트](/help/certifications/ac/ac-m-architect.md)
       + [갱신](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Customer Journey Analytics] {#acja}
+      + [Customer Journey Analytics 개요](/help/certifications/acja/acja-overview.md)
+      + 전문가 {#acja-professional}
+         + [비즈니스 전문가](/help/certifications/acja/acja-p-business.md)
+      + 전문가 {#acja-expert}
+         + [Developer](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Document Cloud] {#adc}
       + [Document Cloud 개요](/help/certifications/adc/adc-overview.md)
       + 전문가 {#adc-professional}
@@ -101,6 +101,13 @@ ht-degree: 28%
       + 기본 {#aem-master}
          + [설계자(사이트)](/help/certifications/aem/aem-sites-m-architect.md)
       + [갱신](/help/certifications/aem/aem-renew.md)
+   + Adobe [!DNL Journey Optimizer] {#ajo}
+      + [Journey Optimizer 개요](/help/certifications/ajo/ajo-overview.md)
+      + 전문가 {#ajo-professional}
+         + [비즈니스 전문가](/help/certifications/ajo/ajo-p-business.md)
+      + 전문가 {#ajo-expert}
+         + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
+      + [갱신](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
       + [Marketo Engage 개요](/help/certifications/ame/ame-overview.md)
       + 전문가 {#ame-professional}
@@ -117,13 +124,6 @@ ht-degree: 28%
       + 전문가 {#rtcdp-expert}
          + [Developer](/help/certifications/rtcdp/rtcdp-e-developer.md)
       + [갱신](/help/certifications/rtcdp/rtcdp-renew.md)
-   + Adobe [!DNL Journey Optimizer] {#ajo}
-      + [Journey Optimizer 개요](/help/certifications/ajo/ajo-overview.md)
-      + 전문가 {#ajo-professional}
-         + [비즈니스 전문가](/help/certifications/ajo/ajo-p-business.md)
-      + 전문가 {#ajo-expert}
-         + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
-      + [갱신](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
       + [Target 개요](/help/certifications/at/at-overview.md)
       + 전문가 {#at-professional}
