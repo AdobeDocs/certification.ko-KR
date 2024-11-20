@@ -3,7 +3,7 @@ title: Experience Manager 인증 개요
 description: Adobe Experience Manager의 인증 옵션 개요
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: cbb6e2db5709cee2b2183dffe359079c9697ba22
+source-git-commit: 19e2a9d5c40fa94ab5be60fddb6fae488205233a
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 10%
@@ -26,7 +26,7 @@ ht-degree: 10%
 
 * [비즈니스 전문가(사이트)](https://certification.adobe.com/certification/sites-business-practitioner-expert){target="_blank"} <!--AD0-E121-->
 * [개발자(사이트) - 신규](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
-* [개발자(사이트) - 만료 날짜: 2025년 1월 10일](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
+* [개발자(사이트) - 만료 날짜: 2025년 1월 19일](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
 * [개발자(Forms)](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} <!--AD0-E125-->
 * [Cloud Service 마이그레이션](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
