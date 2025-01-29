@@ -3,16 +3,16 @@ title: Workfront 인증 개요
 description: Adobe Workfront의 인증 옵션 개요
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 19%
+source-wordcount: '65'
+ht-degree: 10%
 
 ---
 
 # Adobe [!DNL Workfront] 인증 개요
 
-## [!DNL Workfront] Adobe에 사용 가능한 모든 시험
+레벨 및 Job 역할을 선택하여 인증 시험 세부 정보를 찾고, 학습 리소스에 액세스하고, 시험을 예약합니다. [전체 인증 카탈로그](https://certification.adobe.com/certifications){target="_blank"}와 [기술 교육 과정](https://certification.adobe.com/courses/?/courses){target="_blank"}도 살펴볼 수 있습니다.
 
 **전문가**
 
