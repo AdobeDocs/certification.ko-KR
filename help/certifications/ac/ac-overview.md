@@ -4,10 +4,10 @@ description: Adobe Commerce의 인증 옵션 개요
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: 077b8ee1a5f6420ce393dac8074e2abe375e2710
+source-git-commit: f4c6dcf6ae1fb7eba58a0823130b3021481a2d6d
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 8%
+source-wordcount: '74'
+ht-degree: 9%
 
 ---
 
@@ -18,15 +18,13 @@ ht-degree: 8%
 **전문가**
 
 * [비즈니스 전문가](https://certification.adobe.com/certification/business-practitioner-professional){target="_blank"} <!--AD0-E712-->
-* [개발자 - 신규](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
-* [개발자 - 2025년 2월 17일 만료](https://certification.adobe.com/certification/commerce-developer-professional){target="_blank"} <!--AD0-E717-->
+* [개발자](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
 * [프론트엔드 개발자](https://certification.adobe.com/certification/front-end-developer-professional){target="_blank"} <!--AD0-E721-->
 
 **전문가**
 
 * [비즈니스 전문가](https://certification.adobe.com/certification/adobe-commerce-business-practitioner-expert){target="_blank"} <!--AD0-E708-->
-* [개발자 - 신규](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
-* [개발자 - 2025년 2월 17일 만료](https://certification.adobe.com/certification/adobe-commerce-developer-expert){target="_blank"} <!--AD0-E716-->
+* [개발자](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
 * [프론트엔드 개발자 - 신규](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
 * [프론트엔드 개발자 - 만료 날짜: 2025년 3월 30일](https://certification.adobe.com/certification/front-end-developer-expert){target="_blank"} <!--AD0-E720-->
 
