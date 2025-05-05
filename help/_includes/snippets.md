@@ -110,7 +110,7 @@ Adobe 디지털 경험 인증 프로그램의 새로운 홈을 살펴보고 새�
 >
 > **정부 ID 필요:** 정부에서 발급한 사진 ID를 올바른 형식의 ID로 사용해야 합니다. 소프트 카피나 디지털 ID는 허용되지 않습니다. <br><br> **Adobe ID 계정 이름:** Adobe ID 계정 이름은 정부 ID의 이름과 일치해야 합니다. Adobe ID 계정 이름을 업데이트하려면 <certif@adobe.com>(으)로 전자 메일을 보내십시오. 이 수정을 **72시간 전에 요청하십시오**. 시험 당시에 이름이 일치하지 않을 경우 추가 비용을 지불하고 신규 시험에 등록해야 합니다.
 
-시험을 예약하고 치르려면 Adobe ID이 있어야 합니다. Adobe ID이 없는 경우 [여기](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)에서 만들 수 있습니다.
+시험을 예약하고 치르려면 Adobe ID이 있어야 합니다. Adobe ID이 없는 경우 [여기](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html)에서 만들 수 있습니다.
 
 다음 세 가지 이유로 Adobe ID이 필요합니다.
 
@@ -278,7 +278,7 @@ Adobe은 예제를 사용하여 온라인으로 감독자 시험을 관리합니
 
 ## 인증 갱신 {#renewing-intro}
 
-인증은 2년 후에 만료됩니다. 인증을 유지하려면 만료되기 전에 갱신해야 합니다. 자세한 내용은 [인증 갱신](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} 페이지를 참조하십시오.
+인증은 2년 후에 만료됩니다. 인증을 유지하려면 만료되기 전에 갱신해야 합니다. 자세한 내용은 [인증 갱신](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=ko){target="_blank"} 페이지를 참조하십시오.
 
 <!--divider-->
 
