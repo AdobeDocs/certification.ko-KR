@@ -3,10 +3,10 @@ title: Target 인증 개요
 description: Adobe Target의 인증 옵션 개요
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 12%
+source-wordcount: '61'
+ht-degree: 11%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 12%
 **전문가**
 
 * [비즈니스 전문가](https://certification.adobe.com/certification/target-business-practitioner-expert){target="_blank"} <!--AD0-E406-->
+* [비즈니스 전문가 - 일본어](https://certification.adobe.com/certification/target-business-practitioner-expert){target="_blank"} <!--AD0-E406-J-->
 
 **기본**
 

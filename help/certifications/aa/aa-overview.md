@@ -4,10 +4,10 @@ description: Adobe Analytics의 인증 옵션 개요
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 11%
+source-wordcount: '70'
+ht-degree: 10%
 
 ---
 
@@ -23,7 +23,9 @@ ht-degree: 11%
 **전문가**
 
 * [비즈니스 전문가](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [비즈니스 전문가 - 일본어](https://certification.adobe.com/certification/analytics-business-practitioner-expert)<!--AD0-E208-J-->
 * [개발자](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
+* [개발자 - 일본어](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-J-->
 
 **기본**
 
