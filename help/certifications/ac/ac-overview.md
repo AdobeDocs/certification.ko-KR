@@ -4,10 +4,10 @@ description: Adobe Commerce의 인증 옵션 개요
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
+source-git-commit: 6c33aabd08ab72f3f1f902a1f85b459f97ad1751
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 10%
+source-wordcount: '74'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,8 @@ ht-degree: 10%
 
 * [비즈니스 전문가](https://certification.adobe.com/certification/business-practitioner-professional){target="_blank"} <!--AD0-E712-->
 * [개발자](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
-* [프론트엔드 개발자](https://certification.adobe.com/certification/front-end-developer-professional){target="_blank"} <!--AD0-E721-->
+* [프론트엔드 개발자 - 신규](https://certification.adobe.com/certification/front-end-developer-professional-new-v2){target="_blank"} <!--AD0-E726-->
+* [프론트엔드 개발자 - 만료 날짜: 2026년 1월 10일](https://certification.adobe.com/certification/front-end-developer-professional){target="_blank"} <!--AD0-E721-->
 
 **전문가**
 
