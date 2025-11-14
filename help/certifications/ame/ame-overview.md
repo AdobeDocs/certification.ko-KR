@@ -4,9 +4,9 @@ description: Adobe Marketo Engage의 인증 옵션 개요
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
+source-git-commit: 9865a312cd2941538ae9596ede241fb722824181
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '82'
 ht-degree: 9%
 
 ---
@@ -28,8 +28,7 @@ ht-degree: 9%
 
 **기본**
 
-* [설계자 - 신규](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
-* [설계자 - 2025년 11월 15일 만료](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
+* [설계자](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
 
 {{questions}}
 
