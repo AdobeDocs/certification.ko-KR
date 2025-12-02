@@ -3,10 +3,10 @@ title: Workfront 인증 개요
 description: Adobe Workfront의 인증 옵션 개요
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: f6e091c196be679b3643aa7df87981812564dd11
+source-git-commit: f2f470a40056cbcf5052262de12cd5f490514ab7
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 8%
+source-wordcount: '91'
+ht-degree: 7%
 
 ---
 
@@ -24,7 +24,8 @@ _자격 증명은 인증이 아닙니다._
 * [개발자(Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
 * [프로젝트 관리자 - 신규](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
 * [프로젝트 관리자 - 만료 날짜: 2026년 1월 17일](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
-* [개발자(핵심)](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
+* [개발자(핵심) - 신규](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
+* [개발자(핵심) - 만료 날짜: 2026년 1월 31일](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
 
 **전문가**
 
