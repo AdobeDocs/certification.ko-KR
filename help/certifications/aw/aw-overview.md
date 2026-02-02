@@ -3,9 +3,9 @@ title: Workfront 인증 개요
 description: Adobe Workfront의 인증 옵션 개요
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 5a731d7198970cc5857ad0a7342a82178511094a
+source-git-commit: ad703f6a21a7e5ee807418b9e5b9cc9ba659d268
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '79'
 ht-degree: 8%
 
 ---
@@ -23,8 +23,7 @@ _자격 증명은 인증이 아닙니다._
 
 * [개발자(Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
 * [프로젝트 관리자](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
-* [개발자(핵심) - 신규](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
-* [개발자(핵심) - 만료 날짜: 2026년 1월 31일](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
+* [개발자(핵심)](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
 
 **전문가**
 
