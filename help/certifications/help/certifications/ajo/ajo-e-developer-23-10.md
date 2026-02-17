@@ -151,7 +151,7 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 **섹션 5: 데이터 모델링**
 
 * [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
-* [Experience Platform, 데이터 세트, Source Connectors 안내서, API 자습서, Platform Identity Service 안내서, 세그먼테이션 UI, UI 자습서](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Experience Platform, 데이터 세트, Source Connectors 안내서, API 자습서, Platform Identity Service 안내서, 세그먼테이션 UI, UI 자습서](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ko){target="_blank"}
 
 +++ 
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 ## 질문
 
-인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ko){target="_blank"}을(를) 봅니다.
 
 추가 질문? [문의하기](mailto:certif@adobe.com).
