@@ -4,12 +4,12 @@ description: ' [!DNL Adobe Analytics] 설계자 기본으로 인증을 받는 �
 solution: Analytics
 product: Analytics
 level: Experienced
-role: Data Architect,Developer
+role: Developer
 badge: label="시험 AD0-E207" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Adobe 디지털 환경 인증 프로그램이 새 [Adobe 인증 포털](https://certification.adobe.com/){target="_blank"}(으)로 이동했습니다.** 새로운 기능 및 시작 방법에 대해 읽어 보십시오.
+>**Adobe Digital Experience Certification 프로그램이 새 [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}(으)로 이동했습니다.** 새로운 기능 및 시작 방법에 대해 읽어 보십시오.
 
-## 새로운 Adobe 인증 포털에는 어떤 기능이 있습니까?
+## 새로운 Adobe 인증 포털의 기능은 무엇입니까?
 
 이 페이지에서 찾던 모든 항목 및 기타!
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ### 어디서부터 시작합니까?
 
-[오늘 로그인](https://certification.adobe.com/){target="_blank"} 및 프로필 데이터를 확인합니다.
+[오늘 로그인](https://certification.adobe.com/){target="_blank"}하고 프로필 데이터를 확인하세요.
 
-그런 다음 [과정](https://certification.adobe.com/courses/?/courses){target="_blank"}, [인증](https://certification.adobe.com/certifications){target="_blank"}, [커뮤니티](https://certification.adobe.com/community/){target="_blank"} 및 [사용자 지정 대시보드](https://certification.adobe.com/user/dashboard){target="_blank"}를 살펴보십시오.
+그런 다음 [과정](https://certification.adobe.com/courses/?/courses){target="_blank"}, [인증](https://certification.adobe.com/certifications){target="_blank"}, [커뮤니티](https://certification.adobe.com/community/){target="_blank"} 및 [사용자 지정 가능한 대시보드](https://certification.adobe.com/user/dashboard){target="_blank"}를 살펴보세요.
 
 ### 시험 일정은 어떻게 정합니까?
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### 인증 기록은 어디에서 찾을 수 있습니까?
 
-Adobe 인증 포털에서 활성 인증이 [계정](https://certification.adobe.com/user/certifications){target="_blank"}(으)로 이미 마이그레이션되었습니다. 나머지 사용자 데이터를 마이그레이션하는 동안 계정의 일부 측면이 아직 완전히 채워지지 않을 수 있습니다. 기다려 주셔서 감사합니다!
+활성 인증이 이미 Adobe 인증 포털에서 [계정](https://certification.adobe.com/user/certifications){target="_blank"}(으)로 마이그레이션되었습니다. 나머지 사용자 데이터를 마이그레이션하는 동안 계정의 일부 측면이 아직 완전히 채워지지 않을 수 있습니다. 기다려 주셔서 감사합니다!
 
 ### 바우처는 어디에서 찾을 수 있습니까?
 
@@ -74,6 +74,6 @@ Adobe 인증 포털에서 활성 인증이 [계정](https://certification.adobe.
 
 ### 질문?
 
-홈 페이지 하단에 있는 [방법 비디오](https://certification.adobe.com/#){target="_blank"}를 보고 [FAQ](https://certification.adobe.com/support/faq){target="_blank"}를 방문하거나 [문의하기](https://certification.adobe.com/support/contactus){target="_blank"}를 참조하세요.
+홈페이지 하단의 [방법 비디오](https://certification.adobe.com/#){target="_blank"}를 보고 [FAQ](https://certification.adobe.com/support/faq){target="_blank"}를 방문하거나 [문의하기](https://certification.adobe.com/support/contactus){target="_blank"}를 참조하십시오.
 
 Adobe 디지털 경험 인증 프로그램의 새로운 홈을 살펴보고 새로운 기능을 살펴보게 되어 기쁘게 생각합니다!

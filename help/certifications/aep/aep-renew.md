@@ -1,12 +1,12 @@
 ---
 title: 인증 갱신
-description: Adobe [!DNL Experience Platform] 인증이 만료되기 전에 갱신되는 방법을 알아보세요.
+description: 만료되기 전에 Adobe [!DNL Experience Platform] 인증을 갱신하는 방법을 알아봅니다.
 solution: Experience Platform
 product: Experience Platform
-role: User,Developer,Data Architect
+role: User,Developer
 badge: label="Adobe Journey Optimizer 갱신" type="neutral"
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '20'
 ht-degree: 0%
@@ -36,7 +36,7 @@ We're happy to announce that you are now able to renew your certification via a 
 
 ## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ko){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
 
