@@ -7,20 +7,20 @@ role: Developer
 badge: label="시험 AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Journey Optimizer] 개발자 전문가에 대한 인증 여정
+# Adobe [!DNL Journey Optimizer] 개발자 전문가용 인증 여정
 
 {{intro}}
 
 >[!NOTE]
 >
->최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험입니다(AD0-E606). 이미 공부를 시작했거나 [이전 버전](ajo-e-developer.md)을 예약한 경우 2023년 12월 22일까지 완료해야 합니다.
+>최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험입니다(AD0-E606).
 
 
 ## 시험 설명 {#exam-description}
@@ -87,7 +87,7 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 * 시나리오가 주어지면 여정 유형에 적절한 사용 사례를 결정합니다
 * 테스트 사례 준비(예: 실험 또는 다중 채널 여정)
 
-**섹션 3: Offer decisioning(16%)**
+**섹션 3: Offer Decisioning(16%)**
 
 * 오퍼 및 구성 요소 생성 및 관리에 대한 이해 설명
 * 테스트 프로필을 사용하여 오퍼 시뮬레이션을 실행하는 방법 시연
@@ -132,32 +132,32 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 **섹션 1: 관리 및 구성**
 
 * [Experience Platform, 액세스 제어, 샌드박스 안내서](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ko){target="_blank"}
-* [AJO 안내서, 구성, SMS 채널, 여정](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
+* [AJO 안내서, 구성, SMS 채널, 여정](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **섹션 2: Journey Orchestration**
 
-* [AJO 안내서, 여정, 표현식, 추적 및 모니터링](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
+* [AJO 안내서, 여정, 표현식, 추적 및 모니터링](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
 
-**섹션 3: Offer decisioning**
+**섹션 3: Offer Decisioning**
 
-* [AJO 안내서, 의사 결정 관리, API 참조](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
+* [AJO 안내서, 의사 결정 관리, API 참조](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
 
 **섹션 4: 콘텐츠 작성**
 
-* [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 콘텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
-* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR){target="_blank"}
+* [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 콘텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
+* [Journey Optimizer 자습서](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko){target="_blank"}
 
 **섹션 5: 데이터 모델링**
 
-* [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
-* [Experience Platform, 데이터 세트, Source 커넥터 안내서, API Tutorials, Platform Identity Service 안내서, 세그먼테이션 UI, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ko){target="_blank"}
+* [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
+* [Experience Platform, 데이터 세트, Source Connectors 안내서, API 자습서, Platform Identity Service 안내서, 세그먼테이션 UI, UI 자습서](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
-+++
++++ 
 
 <br>
 
-+++3단계: 시험 일정 및 지불
++++3단계: 시험 일정 예약 및 지불
 
 {{schedule-and-pay}}
 
@@ -181,7 +181,7 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 >[!NOTE]
 >
->최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험입니다(AD0-E606). 이미 공부를 시작했거나 [이전 버전](ajo-e-developer.md)을 예약한 경우 2023년 12월 22일까지 완료해야 합니다.
+>최신 Adobe [!DNL Journey Optimizer] 개발자 전문가 시험입니다(AD0-E606).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 ## 질문
 
-인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ko){target="_blank"}을(를) 봅니다.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
 추가 질문? [문의하기](mailto:certif@adobe.com).
