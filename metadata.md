@@ -1,23 +1,24 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 product: experience cloud
 level: Experienced
 type: Certification
 topic: Certification
 mini-toc-levels: 1
-git-repo: https://github.com/AdobeDocs/certification.ko-KR
+git-repo: https://github.com/AdobeDocs/certification.en
 index: true
-source-git-commit: c0af4d9398bfa258627c367faf64de35185f8985
+source-git-commit: dc60f80736f78d8909f78e9fa0081fc9fe6002f9
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 0%
+source-wordcount: 68
+ht-degree: 76%
 
 ---
 
 
-# 내부 사용을 위한 메타데이터
+# 내부용 메타데이터
 
-metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 사용 안내서의 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행합니다.
+metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 사용 안내서의 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행해야 합니다.
 
-**솔루션**, **제품** 및 **유형**&#x200B;에 대한 올바른 값 목록은 [메타데이터](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)를 참조하십시오.
+**솔루션**, **제품**, **유형**&#x200B;에 대한 올바른 값 목록은 [메타데이터](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)를 참조하십시오.
