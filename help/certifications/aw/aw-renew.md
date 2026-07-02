@@ -1,6 +1,6 @@
 ---
 title: 인증 갱신
-description: Adobe [!DNL Workfront] 인증이 만료되기 전에 갱신되는 방법을 알아보세요.
+description: 만료되기 전에 Adobe [!DNL Workfront] 인증을 갱신하는 방법을 알아봅니다.
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
