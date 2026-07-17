@@ -1,6 +1,6 @@
 ---
 title: 인증 갱신
-description: Adobe [!DNL Campaign Standard] 인증이 만료되기 전에 갱신되는 방법을 알아보세요.
+description: 만료되기 전에 Adobe [!DNL Campaign Standard] 인증을 갱신하는 방법을 알아봅니다.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
@@ -9,7 +9,7 @@ hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
