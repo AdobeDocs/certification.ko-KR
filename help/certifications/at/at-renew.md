@@ -1,19 +1,17 @@
 ---
 title: 인증 갱신
-description: 만료되기 전에  [!DNL Adobe Target] 인증을 갱신하는 방법을 알아봅니다.
+description: 만료되기 전에 [!DNL Adobe Target] 인증을 갱신하는 방법을 알아봅니다.
 solution: Target
 product: Target
 role: Developer
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: yes
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
 source-wordcount: '14'
 ht-degree: 0%
-
 ---
-
 # [!DNL Adobe Target] 인증 갱신
 
 {{renewals-hold}}
