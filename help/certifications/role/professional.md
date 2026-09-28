@@ -3,11 +3,9 @@ title: 전문 기술 인증
 description: 전문 사용자를 위한 인증 옵션 개요
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 13%
-
+source-wordcount: '77'
+ht-degree: 12%
 ---
-
 # 전문 기술 인증
 
 **Advertising**
