@@ -1,25 +1,32 @@
 ---
 title: 전문가 인증
-description: 인증된 Adobe이 되는 방법 알아보기 [!DNL Real-Time Customer Data Platform] 개발자 전문가
+description: 인증된 Adobe [!DNL Real-Time Customer Data Platform] 개발자 전문가가 되는 방법 알아보기
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer
 badge: label="시험 AD0-E605" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Real-Time Customer Data Platform] 개발자 전문가용 인증 여정
 
 >[!NOTE]
 >
->**Adobe Digital Experience Certification 프로그램이 새 [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}(으)로 이동했습니다.** 새로운 기능 및 시작 방법에 대해 읽어 보십시오.
+>**Adobe 디지털 환경 인증 프로그램이 새 [Adobe 인증 포털](https://certification.adobe.com/){target="_blank"}!**(으)로 이동했습니다. 아래의 새로운 기능과 시작 방법에 대해 알아보십시오.
 
 ## 새로운 Adobe 인증 포털의 기능은 무엇입니까?
 

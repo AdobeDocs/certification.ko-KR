@@ -1,25 +1,32 @@
 ---
 title: 설계자 기본 신규 인증
-description: 공인 [!DNL Adobe Target] 건축가가 기본으로 되는 방법을 알아봅니다.
+description: 인증된 [!DNL Adobe Target] 설계자가 기본으로 되는 방법에 대해 알아봅니다.
 solution: Target
 product: Target
 role: Developer
 badge: label="시험 AD0-E409" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # [!DNL Adobe Target] Architect 기본에 대한 인증 여정
 
 >[!NOTE]
 >
->**Adobe Digital Experience Certification 프로그램이 새 [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}(으)로 이동했습니다.** 새로운 기능 및 시작 방법에 대해 읽어 보십시오.
+>**Adobe 디지털 환경 인증 프로그램이 새 [Adobe 인증 포털](https://certification.adobe.com/){target="_blank"}!**(으)로 이동했습니다. 아래의 새로운 기능과 시작 방법에 대해 알아보십시오.
 
 ## 새로운 Adobe 인증 포털의 기능은 무엇입니까?
 

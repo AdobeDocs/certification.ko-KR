@@ -3,13 +3,17 @@ title: Experience Manager 인증 개요
 description: Adobe Experience Manager의 인증 옵션 개요
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 716bc7ce8e1b1f3ca5b71056bccac926bf5b8039
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 6%
-
+source-wordcount: '224'
+ht-degree: 3%
 ---
-
 # Adobe [!DNL Experience Manager] 인증 개요
 
 레벨 및 Job 역할을 선택하여 인증 시험 세부 정보를 찾고, 학습 리소스에 액세스하고, 시험을 예약합니다. [전체 인증 카탈로그](https://certification.adobe.com/certifications){target="_blank"}와 [기술 교육 과정](https://certification.adobe.com/courses/?/courses){target="_blank"}도 살펴볼 수 있습니다.

@@ -1,19 +1,26 @@
 ---
 title: 인증 갱신
-description: Adobe [!DNL Document Cloud] 인증이 만료되기 전에 갱신되는 방법을 알아보세요.
+description: 만료되기 전에 Adobe [!DNL Document Cloud] 인증을 갱신하는 방법을 알아봅니다.
 solution: Document Cloud
 product: Document Cloud
 role: User
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+product_v2:
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Document Cloud] 인증 갱신
 
 {{renewals-hold}}

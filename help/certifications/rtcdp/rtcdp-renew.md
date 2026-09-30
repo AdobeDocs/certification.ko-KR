@@ -1,20 +1,27 @@
 ---
 title: 인증 갱신
-description: ' [!DNL Real-Time Customer Data Platform]에서  [!DNL Experience Platform] 인증을 갱신하는 방법을 알아보세요.'
+description: '[!DNL Real-Time Customer Data Platform]에서 [!DNL Experience Platform] 인증을 갱신하는 방법을 알아봅니다.'
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '12'
+source-wordcount: '13'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Real-Time CDP] 인증 갱신
 
 {{renewals-hold}}
