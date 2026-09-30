@@ -5,15 +5,22 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="시험 AD0-E606" type="neutral"
-hidefromtoc: true
-exl-id: null
-source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
+hidefromtoc: 'yes'
+exl-id:
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 1%
-
+source-wordcount: '696'
+ht-degree: 9%
 ---
-
 # Adobe [!DNL Journey Optimizer] 개발자 전문가용 인증 여정
 
 {{intro}}
@@ -132,26 +139,26 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 **섹션 1: 관리 및 구성**
 
 * [Experience Platform, 액세스 제어, 샌드박스 안내서](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ko){target="_blank"}
-* [AJO 안내서, 구성, SMS 채널, 여정](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
+* [AJO 안내서, 구성, SMS 채널, 여정](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **섹션 2: Journey Orchestration**
 
-* [AJO 안내서, 여정, 표현식, 추적 및 모니터링](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
+* [AJO 안내서, 여정, 표현식, 추적 및 모니터링](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
 **섹션 3: Offer Decisioning**
 
-* [AJO 안내서, 의사 결정 관리, API 참조](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
+* [AJO 안내서, 의사 결정 관리, API 참조](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
 
 **섹션 4: 콘텐츠 작성**
 
-* [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 콘텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
-* [Journey Optimizer 자습서](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko){target="_blank"}
+* [AJO 안내서, SMS 채널, 개인 정보, 구성, 여정, 표현식, 컨텐츠 관리, 추적 및 모니터링, 푸시 알림 채널](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
+* [Journey Optimizer 튜토리얼](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko){target="_blank"}
 
 **섹션 5: 데이터 모델링**
 
-* [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko){target="_blank"}
-* [Experience Platform, 데이터 세트, Source Connectors 안내서, API 자습서, Platform Identity Service 안내서, 세그먼테이션 UI, UI 자습서](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ko){target="_blank"}
+* [AJO 안내서, 구성, 대상, 프로필 및 ID, 데이터 관리](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR){target="_blank"}
+* [Experience Platform, 데이터 세트, Source 커넥터 안내서, API 자습서, Platform Identity 서비스 안내서, 세그먼테이션 UI, UI 자습서](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
 +++ 
 
@@ -210,6 +217,6 @@ Adobe Journey Optimizer은 Experience Platform에서 지원합니다. 인증 전
 
 ## 질문
 
-인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ko){target="_blank"}을(를) 봅니다.
+인증 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}을(를) 봅니다.
 
 추가 질문? [문의하기](mailto:certif@adobe.com).

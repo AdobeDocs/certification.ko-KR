@@ -1,25 +1,34 @@
 ---
 title: 설계자 기본 인증
-description: ' [!DNL Campaign Classic]에서 인증된 Adobe Architect가 기본으로 되는 방법을 알아봅니다.'
+description: '[!DNL Campaign Classic]에서 인증된 Adobe Architect가 기본으로 되는 방법을 알아봅니다.'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
 badge: label="시험 AD0-E328" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Campaign Classic] Architect 기본에 대한 인증 여정
 
 >[!NOTE]
 >
->**Adobe Digital Experience Certification 프로그램이 새 [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}(으)로 이동했습니다.** 새로운 기능 및 시작 방법에 대해 읽어 보십시오.
+>**Adobe 디지털 환경 인증 프로그램이 새 [Adobe 인증 포털](https://certification.adobe.com/){target="_blank"}!**(으)로 이동했습니다. 아래의 새로운 기능과 시작 방법에 대해 알아보십시오.
 
 ## 새로운 Adobe 인증 포털의 기능은 무엇입니까?
 
